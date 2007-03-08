@@ -1,3 +1,4 @@
 ====== CSS 2.1 Test Suite =======
 
-All about the CSS2.1 test suite.
+[[test:css2.1:issues|Known Bugs]]
+
