@@ -1,3 +1,5 @@
 ====== CSS Working Group Wiki =======
 
 Homepage.
+
+[[/?do=recent|Recent Changes]]
