@@ -7,9 +7,9 @@ specifications (yet).
 
 ===== Resolutions =====
 
-  * [[Image Replacement]]
-  * [[Content Fallbacks]]
-  * [[Image Scaling]]
+  * [[ideas:image-replacement|Image Replacement]]
+  * [[ideas:content-fallbacks|Content Fallbacks]]
+  * [[ideas:image-scaling|Image Scaling]]
 
 ===== Ideas and Issues =====
 
