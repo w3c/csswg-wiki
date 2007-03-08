@@ -2,4 +2,8 @@
 
 Homepage.
 
-[[/?do=recent|Recent Changes]]
+<markdown>
+[Index](/?do=index)
+[Recent Changes](/?do=recent)
+</markdown>
+
