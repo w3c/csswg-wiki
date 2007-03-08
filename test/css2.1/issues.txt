@@ -32,9 +32,11 @@ A bug record is removed once someone else has either verified the fix, or verifi
 
 ==== t1202-counters-17-d ====
 <markdown>
+Test
+: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1202-counters-17-d.htm
+
 Discussion
 : http://lists.w3.org/Archives/Public/www-style/2006Nov/0049.html
-: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1202-counters-17-d.htm
 
 Summary
 
