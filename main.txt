@@ -9,6 +9,7 @@ The CSS Working Group welcomes your feedback on our work! Public discussion of o
 ===== This Wiki =====
 
 <markdown>
+  * [Syntax](/wiki/syntax)
   * [Index](/?do=index)
   * [Recent Changes](/?do=recent)
 </markdown>
