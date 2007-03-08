@@ -6,7 +6,7 @@ This page records known problems in the [[test:css2.1|CSS 2.1 Conformance Test S
 
 Valid status markers:
 
-[markdown]
+<markdown>
 <dfn>NEEDSFIX</dfn>
 : Initial value.
 
@@ -24,14 +24,14 @@ Valid status markers:
 
 <dfn>POORDESC</dfn>
 : Not enough information in the summary or discussion to understand the problem and create a fix. The reporter needs to clarify. The issue may be deleted without a fix if the reporter is unresponsive.
-[/markdown]
+</markdown>
 
 A bug record is removed once someone else has either verified the fix, or verified that the bug is indeed invalid.
 
 ===== Open Bugs =====
 
 ==== t1202-counters-17-d ====
-[markdown]
+<markdown>
 Discussion
 : http://lists.w3.org/Archives/Public/www-style/2006Nov/0049.html
 : http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1202-counters-17-d.htm
@@ -49,4 +49,4 @@ Resolution
 
 Status
 : FIXME
-[/markdown]
+</markdown>
