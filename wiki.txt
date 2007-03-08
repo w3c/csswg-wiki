@@ -2,7 +2,6 @@
 
 This wiki is to help the CSSWG record resolutions and open issues, to share them with public, and to encourage public involvement in the development of CSS and its test suites.
 
-
 ===== Why DokuWiki? =====
 
 This wiki is a [[http://wiki.splitbrain.org/wiki:dokuwiki|DokuWiki]]. DokuWiki was chosen because
@@ -13,14 +12,10 @@ This wiki is a [[http://wiki.splitbrain.org/wiki:dokuwiki|DokuWiki]]. DokuWiki w
   * it has hierarchical structure (with breadcrumbs!)
   * it has clean URLs
   * it has a a simple, uncluttered interface
-
-Additional selling points include
-
   * it has automatic yet unobtrusive <html><abbr title="Table of Contents">ToC</abbr>s</html>
   * it has flexible access control
-  * it has revision control
-  * it has pretty diffs
   * it stores data in human-editable text files
+  * it has revision control
   * it's customizable
   * it's open source
 
