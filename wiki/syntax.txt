@@ -5,7 +5,7 @@
 ===== Markdown =====
 
 [markdown]
-This wiki supports [Markdown Extra](http://www.michelf.com/projects/php-markdown/extra/) sections, which are enclosed by `[markdown]` and <code>&#x5b;/markdown]</code>. Markdown sections can't generate section edit links and don't trigger typographic substitution, but they are much better at handling lists and embedded HTML.
+This wiki supports [Markdown Extra](http://www.michelf.com/projects/php-markdown/extra/) sections, which are enclosed by `[markdown]` and <code>&#x5b;/markdown]</code>. Markdown sections can't generate section edit links, **don't handle wiki links**, and don't trigger typographic substitution, but they are much better at handling lists and embedded HTML.
 [/markdown]
 
 ===== Basic text formatting =====
