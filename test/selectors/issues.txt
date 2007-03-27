@@ -45,6 +45,7 @@ Summary
 Resolution
 
 : Adjust wording in test to use more abstract "activation" rather than clicking.
+  Don't use wording about how the activation ends.
 
 Status
 : VERIFYME
