@@ -1,0 +1,576 @@
+====== Test Assertion List ======
+
+<html>
+<p>This document contains a table of testable assertions extracted from the <cite>
+<a href=" http://www.w3.org/TR/2006/WD-css3-page-20061010">CSS3 Paged Media 
+Module, W3C Last Call Working Draft 10 October 2006</a> </cite>
+specification, and, for each assertion, a list of associated tests. </p>
+
+<p>
+The table below is arranged into four columns:</p>
+<ol>
+<li> the assertion identifier, </li>
+<li> a link to the section of the specification that the assertion was extracted from, </li>
+<li> a list of tests for the assertion, and </li>
+<li> the text of the assertion, excerpted from the specification</li>
+</ol>
+
+
+
+<table >
+<tr><th >ID</th>
+  <th >Section</th>
+  <th >Tests</th>
+  <th >Quote/Description</th></tr>
+<tr>
+		<td> </td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-box-page-rule">3. Page Boxes: the @page Rule</a></td>  
+		<td></td>  
+		<td>  
+		A page box consists of margin, border, padding, and content areas.</td>
+</tr>
+<tr>
+		<td> </td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-box-page-rule">3. Page Boxes: the @page Rule</a></td>  
+		<td></td>  
+		<td>  
+		The edges of the page area on the first page establish the rectangle 
+		that is the initial
+		<a href="http://www.w3.org/TR/CSS21/visudet.html#containing-block-details">
+		containing block</a> of the document.</td>
+</tr>
+<tr>
+		<td> </td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-box-page-rule">3. Page Boxes: the @page Rule</a></td>  
+		<td></td>  
+		<td>  
+		The margin area of a page box is divided into 16 <dfn id="margin">margin 
+		boxes</dfn>.</td>
+</tr>
+<tr>
+		<td> </td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-box-page-rule">3. Page Boxes: the @page Rule</a></td>  
+		<td></td>  
+		<td>  
+		Each margin box has its own margin, border, padding and content areas.</td>
+</tr>
+<tr>
+		<td  > </td>  
+		<td  ><a href="http://www.w3.org/TR/css3-page/#page-box-page-rule">3. Page Boxes: the @page Rule</a></td>  
+		<td  ></td>  
+		<td  >  the <span class="property">'width'</span> and
+		<span class="property">'height'</span> properties do not apply to a page 
+		box.</td>
+</tr>
+<tr>
+		<td> </td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-model">3.1. Page terminology</a></td>  
+		<td></td>  
+		<td>  
+		The width and height of the page box are determined by the size 
+		property in the page context.</td>
+</tr>
+<tr>
+		<td> </td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-model">3.1. Page terminology</a></td>  
+		<td></td>  
+		<td>  
+		The page area acts as a container for all the boxes laid out within a 
+		given page box.</td>
+</tr>
+<tr>
+		<td> </td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-model">3.1. Page terminology</a></td>  
+		<td></td>  
+		<td>  
+		Page layouts for documents using a left-to-right major writing direction 
+		have the earlier of the facing pages on the left.</td>
+</tr>
+<tr><td > </td>  <td ><a href="http://www.w3.org/TR/css3-page/#page-model">3.1. Page terminology</a></td>  <td ></td>  <td >  
+		A first page can be either a left page or a right page but a UA
+		<em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> apply any 
+		rules defined for a first page in preference to those defined on a left 
+		page or a right page.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#page-size-prop">3.2. Page types</a></td>  <td >&nbsp;</td>  <td >If the UA supports the <span class=property>'direction'</span> property from CSS2 or the CSS 3 Text Module it <EM class=RFC2119 title="MUST in RFC 2119&#10;context">MUST</EM> determine [the major writing direction for the document]  using the value of that property on the root element</td></tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>[...] 
+		where one page box is rendered onto one
+		<a href="http://www.w3.org/TR/css3-page/#page-sheet">page sheet</a>, the
+		<a class="property" href="http://www.w3.org/TR/css3-page/#size">
+		<span class="property">'size'</span></a> property also indicates the 
+		size of the destination page sheet.</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>auto</dt>
+		<dd>The page box will be set to the size and orientation of the page 
+		sheet chosen by the UA.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>landscape</dt>
+		<dd>Specifies that the page's content be printed in landscape 
+		orientation. The page box is the same size as the page, and the longer 
+		sides are horizontal.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>portrait</dt>
+		<dd>Specifies that the page's content be printed in portrait 
+		orientation. The page box is the same size as the page, and the shorter 
+		sides are horizontal.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		When possible, output should be rendered on the media size indicated;</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		if [the indicated media size is] not available, a larger size should be 
+		used</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		if [both the indicated media size and a larger size are] not available, 
+		the contents of the page box should be scaled down to fit the smaller 
+		page sheet.</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>&lt;length&gt;</dt>
+		<dd>The page box will be set to the given absolute length.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		If only one length value is specified, it sets both the width and height 
+		of the page box (i.e., the box is a square).</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		The <a href="http://www.w3.org/TR/css3-page/#page-context">page context</a> 
+		has a font associated with it either by an explicit use of the
+		<span class="property">'font-family'</span> and <span class="property">
+		'font-size'</span> properties or from the UA's default style sheet. 
+		Therefore, values in units of <span class="css">'em'</span> and
+		<span class="css">'ex'</span> refer to the page context's font.</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>A5</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of ISO A5 media: 148mm wide and 
+		210 mm high.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>A4</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of IS0 A4 media: 210 mm wide and 
+		297 mm high.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>A3</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of ISO A3 media: 297mm wide and 
+		420mm high.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>B5</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of ISO B3 media: 176mm wide by 
+		250mm high.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>B4</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of ISO B4 media: 250mm wide by 
+		353mm high.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>letter</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of North American letter media: 
+		8.5 inches wide and 11 inches high</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>legal</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of North American legal: 8.5 
+		inches wide by 14 inches high.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		<dt>ledger</dt>
+		<dd>The page box
+		<em class="RFC2119" title="SHOULD in RFC 2119
+       context">SHOULD</em> be set to the size of North American ledger: 11 
+		inches wide by 17 inches high.</dd>
+		</td>
+</tr>
+<tr>
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  
+		<td>&nbsp;</td>  
+		<td>
+		These media size names can be used in conjunction with
+		<span class="property">'landscape'</span> or <span class="property">
+		'portrait'</span> to indicate size and orientation.</td>
+</tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#page-type">3.3.1. 
+		Page size: the size property</a></td>  <td >&nbsp;</td>  <td >User 
+		agents <em class="RFC2119" title="SHOULD in RFC2119
+    context">SHOULD</em> also support Media Size Self-Describing Names as 
+		defined in Section 5 of <a rel="biblioentry" 
+  href="http://www.w3.org/TR/css3-page/#PWGMSN">[PWGMSN]<!--{{!PWGMSN}}--></a>.</td></tr>
+<tr class="fudge" style="background: aqua">
+		<td> &nbsp;</td>  
+		<td><a href="http://www.w3.org/TR/css3-page/#syntax-page-selector">3.4.1. Page selector grammar</a></td>  
+		<td>&nbsp;</td>  
+		<td>    
+		fudge: I stopped here. Someone else made a first pass at this, based on 
+		the 2004 version.&nbsp; So the rest of what's here may or may not still 
+		match the spec, and we may or may not agree with their assertions.&nbsp; 
+		;-)</td>
+</tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#syntax-page-selector">3.4.1. Page selector grammar</a></td>  <td >&nbsp;</td>  <td >    The syntax for a page selector is a specialization of the generic at-rule and   <em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> adhere to the    following (more strict) grammar...</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#syntax-page-selector">3.4.1. Page selector grammar</a></td>  <td >&nbsp;</td>  <td >    
+  A CSS Keyword used as a page name
+  <em class="RFC2119" title="MUST in RFC
+2119 context">MUST</em> be treated as a syntax error</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#left-right-first">3.6. Left, right, and first pages</a></td>  <td >&nbsp;</td>  <td >    
+  If different declarations have been given for left and right pages, the user 
+  agent <em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> honor 
+  these declarations</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    The right edge of the containing 
+  box for the <a href="#top-left-corner-box-def"><span class="css">
+  'top-left-corner'</span></a> and <a href="#bottom-left-corner-box-def">
+  <span class="css">'bottom-left-corner'</span></a> margin boxes
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> line up with 
+  the left border edge of the page box.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    the left edge of the containing 
+  box for margin boxes <a href="#top-right-corner-box-def"><span class="css">
+  'top-right-corner'</span></a> and <a href="#bottom-right-corner-box-def">
+  <span class="css">'bottom-right-corner'</span></a>
+  <em class="RFC2119" title="MUST
+in RFC 2119 context">MUST</em> line up with the right border edge of the page 
+  box.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If the
+  <a href="#top-center-box-def"><span class="css">'top-center'</span></a> margin 
+  box is not empty, that is, it has content, it
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>be horizontally 
+  aligned with the middle of the page box content area, and the
+  <a href="#top-left-box-def"><span class="css">'top-left'</span></a> and
+  <a href="#top-right-box-def"><span class="css">'top-right'</span></a>
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>have the same 
+  width.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If the
+  <a href="#bottom-center-box-def"><span class="css">'bottom-center'</span></a> 
+  margin box is not empty, that is, it has content, it
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>be horizontally 
+  aligned with the middle of the page box content area, and the
+  <a href="#bottom-left-box-def"><span class="css">'bottom-left'</span></a> and
+  <a href="#bottom-right-box-def"><span class="css">'bottom-right'</span></a>
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>have the same 
+  width.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If the
+  <a href="#left-middle-box-def"><span class="css">'left-middle'</span></a> 
+  margin box is not empty, that is, it has content, it
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>be vertically 
+  aligned with the middle of the page box content area, and the
+  <a href="#bottom-left-box-def"><span class="css">'left-top'</span></a> and
+  <a href="#bottom-right-box-def"><span class="css">'left-bottom'</span></a> 
+  margin boxes <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>
+  have the same height</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If the
+  <a href="#right-middle-box-def"><span class="css">'right-middle'</span></a> 
+  margin box is not empty, that is, it has content, it
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>be vertically 
+  aligned with the middle of the page box content area, and the
+  <a href="#bottom-right-box-def"><span class="css">'right-top'</span></a> and
+  <a href="#bottom-right-box-def"><span class="css">'right-bottom'</span></a> 
+  margin boxes <em class="RFC2119" title="MUST in RFC 2119 context">MUST </em>
+  have the same height.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ... When the <a href="#top-center-box-def"><span class="css">'top-center'</span></a> 
+    and <a href="#top-left-box-def"><span class="css">'top-left'</span></a> 
+    margin boxes are not empty and the <a href="#top-right-box-def">
+    <span class="css">'top-right'</span></a> box is empty, then its
+    <span class="css">'width'</span>
+    <em class="RFC2119" title="May in RFC 2119 context">MUST</em> be the same as 
+    the <a href="#top-left-box-def"><span class="css">'top-left'</span></a> 
+    margin box, but its <span class="css">'margin'</span>, <span class="css">
+    'border'</span>, and <span class="css">'padding'</span> properties do not 
+    apply.
+  </td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ... When the <a href="#top-center-box-def"><span class="css">'top-center'</span></a> and 
+  <a href="#top-right-box-def"><span class="css">'top-right'</span></a> margin 
+  boxes are not empty and the 
+  <a href="#top-left-box-def"><span class="css">'top-left'</span></a> box is empty, then its 
+  <span class="css">'width'</span> <em title="May in RFC 2119 context" class="RFC2119">MUST</em> 
+  be the same as the <a href="#top-right-box-def"><span class="css">'top-right'</span></a> margin 
+  box, but its
+  <span class="css">'margin'</span>, <span class="css">'border'</span>, and <span class="css">'padding'</span> 
+  properties do not apply.
+  </td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ...
+  When the <a href="#bottom-center-box-def"><span class="css">'bottom-center'</span></a> and 
+  <a href="#bottom-left-box-def"><span class="css">'bottom-left'</span></a> margin 
+  boxes are not empty and the 
+  <a href="#bottom-right-box-def"><span class="css">'bottom-right'</span></a> box is empty, then its 
+  <span class="css">'width'</span> <em title="May in RFC 2119 context" class="RFC2119">MUST</em> 
+  be the same as the <a href="#bottom-left-box-def"><span class="css">'bottom-left'</span></a> margin 
+  box, but its
+  <span class="css">'margin'</span>, <span class="css">'border'</span>, and <span class="css">'padding'</span> 
+  properties do not apply. </td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ...    When the <a href="#bottom-center-box-def"><span class="css">'bottom-center'</span></a> and 
+  <a href="#bottom-right-box-def"><span class="css">'bottom-right'</span></a> margin 
+  boxes are not empty and the 
+  <a href="#bottom-left-box-def"><span class="css">'bottom-left'</span></a> box is empty, then its 
+  <span class="css">'width'</span> <em title="May in RFC 2119 context" class="RFC2119">MUST</em> 
+  be the same as the <a href="#bottom-right-box-def"><span class="css">'bottom-right'</span></a> margin 
+  box, but its
+  <span class="css">'margin'</span>, <span class="css">'border'</span>, and <span class="css">'padding'</span> 
+  properties do not apply.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ...    When the <a href="#left-middle-box-def"><span class="css">'left-middle'</span></a> and
+  <a href="#left-top-box-def"><span class="css">'left-top'</span></a> 
+  margin boxes are not empty and the 
+  <a href="#left-bottom-box-def"><span class="css">'left-bottom'</span></a> 
+  margin box is empty, then its 
+  <span class="css">'height'</span> <em title="May in RFC 2119 context" class="RFC2119">MUST</em> 
+  be the same as the <a href="#left-top-box-def"><span class="css">'left-top'</span></a> margin 
+  box, but its
+  <span class="css">'margin'</span>, <span class="css">'border'</span>, and <span class="css">'padding'</span> 
+  properties do not apply. </td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ...    When the <a href="#left-middle-box-def"><span class="css">'left-middle'</span></a> and
+  <a href="#left-bottom-box-def"><span class="css">'left-bottom'</span></a> 
+  margin boxes are not empty and the 
+  <a href="#left-top-box-def"><span class="css">'left-top'</span></a> 
+  margin box is empty, then its 
+  <span class="css">'height'</span> <em title="May in RFC 2119 context" class="RFC2119">MUST</em> 
+  be the same as the <a href="#left-bottom-box-def"><span class="css">'left-bottom'</span></a> margin 
+  box, but its
+  <span class="css">'margin'</span>, <span class="css">'border'</span>, and <span class="css">'padding'</span> 
+  properties do not apply.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >    If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ...    When the <a href="#right-middle-box-def"><span class="css">'right-middle'</span></a> and
+  <a href="#right-top-box-def"><span class="css">'right-top'</span></a> 
+  margin boxes are not empty and the 
+  <a href="#right-bottom-box-def"><span class="css">'right-bottom'</span></a> 
+  margin box is empty, then its 
+  <span class="css">'height'</span> <em title="May in RFC 2119 context" class="RFC2119">MUST</em> 
+  be the same as the <a href="#right-top-box-def"><span class="css">'right-top'</span></a> margin 
+  box, but its
+  <span class="css">'margin'</span>, <span class="css">'border'</span>, and <span class="css">'padding'</span> 
+  properties do not apply.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >   If a margin 
+  box is empty, that is, it doesn't have any content, and its <span class="css">
+  'width'</span> or <span class="css">height</span> is set to <span class="css">
+  'auto'</span>, it <em class="RFC2119" title="May in RFC
+2119 context">MUST</em> act as if it were not there, except ...   When the <a href="#right-middle-box-def"><span class="css">'right-middle'</span></a> and
+  <a href="#right-bottom-box-def"><span class="css">'right-bottom'</span></a> 
+  margin boxes are not empty and the 
+  <a href="#right-top-box-def"><span class="css">'right-top'</span></a> 
+  margin box is empty, then its 
+  <span class="css">'height'</span> <em title="May in RFC 2119 context" class="RFC2119">MUST</em> 
+  be the same as the <a href="#right-bottom-box-def"><span class="css">'right-bottom'</span></a> margin 
+  box, but its
+  <span class="css">'margin'</span>, <span class="css">'border'</span>, and <span class="css">'padding'</span> 
+  properties do not apply.</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >   
+  Values of the <span class="property">'width'</span>, <span class="property">
+  'height',</span> <span class="property">'padding'</span>,
+  <span class="property">'margin'</span>, and <span class="property">'border'</span> 
+  properties for these boxes that result in a value larger than the maximum 
+  [width or height for the containing box of the margin box]
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> be ignored from 
+  the outside in ...</td></tr>
+<tr><td > &nbsp;</td>  <td ><a href="http://www.w3.org/TR/css3-page/#margin-dimension">4.2. Maximum Dimension of margin boxes</a></td>  <td >&nbsp;</td>  <td >   
+  If, after ignoring margin, border, and padding, the width (or height) [of a 
+  margin box] is too large, the maximum value [of the margin box's containing 
+  box] <em class="RFC2119" title="MUST in RFC 2119
+context">MUST</em> be used. instead</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#breaks-inside">
+  5.3. Breaks inside elements: 'orphans', 'widows'</a></td>  <td >&nbsp;</td>  <td >   
+  The <span class="property"><a href="#orphans">'orphans'</a></span> property 
+  specifies the minimum number of lines of a paragraph that
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> be left at the 
+  bottom of a page.</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#breaks-inside">
+  5.3. Breaks inside elements: 'orphans', 'widows'</a></td>  <td >&nbsp;</td>  <td >   The
+  <span class="property"><a href="#widows">'widows'</a></span> property 
+  specifies the minimum number of lines of a paragraph that
+  <em class="RFC2119" title="MUST in RFC 2119
+context">MUST</em> be left at the top of a page</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#forced-pg-brk">5.5.Forced page breaks</a></td>  <td >&nbsp;</td>  <td >   A page break
+  <em class="RFC2119" title="MUST in RFC 2119
+context">MUST</em> occur [in the vertical margin between block boxes (or rows in 
+  a table)] if, among the <span class="property"><a href="#page-break-after">
+  'page-break-after'</a></span> and <span class="property">
+  <a href="#page-break-before">'page-break-before'</a></span> properties of all 
+  the elements generating boxes that meet at this margin, there is at least one 
+  with the value <span class="css">'always'</span>, <span class="css">'left'</span>, 
+  or <span class="css">'right'</span>.</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#forced-pg-brk">5.5.Forced page breaks</a></td>  <td >&nbsp;</td>  <td >   A page break
+  <em class="RFC2119" title="MUST in RFC 2119
+context">MUST</em> also occur [in the vertical margin between block boxes (or 
+  rows in a table)] if the last line box above this margin and the first one 
+  below it do not have the same value for <span class="property">
+  <a href="#page">'page'</a></span>.</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#page-policy-sec">
+  6.2. Determining which counter or string-set value to use: the 'page-policy' 
+  property</a></td>  <td >&nbsp;</td>  <td >   if the 
+  counter-reset property is used in the same context, the <span class="property">
+  <a href="#page-policy">'page-policy'</a></span>
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> be used to 
+  determine when a counter or string value is reset.</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#number-of-pages">
+  6.3. Number of pages - 'pages' counter</a></td>  <td >&nbsp;</td>  <td >   A UA
+  <em class="RFC2119" title="MUST in RFC 2119 context">MUST</em> act as if there 
+  was a counter with the name of <span class="property">'pages'</span> and its 
+  initial value was set to the total number of pages</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#number-of-pages">
+  6.3. Number of pages - 'pages' counter</a></td>  <td >&nbsp;</td>  <td >   A 
+  UA that doesn't support <span class="css">'pages'</span>
+  <em class="RFC2119" title="SHALL in RFC 2119
+context">SHALL</em> ignore any <span class="property">'content'</span> property 
+  that uses the <span class="css">'pages'</span> counter.</td></tr>
+<tr><td > &nbsp;</td>  <td >
+  <a href="http://www.w3.org/TR/css3-page/#orienting">8. 
+  Orienting an image on the page</a></td>  <td >&nbsp;</td>  <td >   A positive 
+  value <em class="RFC2119" title="Must in RFC 2119
+context">MUST</em> rotate the image around its center, to the right (in a 
+  clockwise direction), by the given number of degrees, radians or grads. 
+  Negative values <em class="RFC2119" title="Must in RFC 2119
+context">MUST</em>&nbsp; perform the same rotation, but to the left or 
+  counter-clockwise direction.</td></tr>
+</table>
+</html>
