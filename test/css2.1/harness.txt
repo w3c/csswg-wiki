@@ -1,0 +1,3 @@
+====== Test Suite Harness ======
+
+This page records information about setting up the CSS2.1 test suite and known issues with the test harness.
