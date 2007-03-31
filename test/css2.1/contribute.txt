@@ -1,0 +1,3 @@
+====== Contributing to the CSS2.1 Test Suite ======
+
+This page records instructions for contributing to the CSS2.1 test suite.
