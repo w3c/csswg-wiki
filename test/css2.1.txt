@@ -1,4 +1,4 @@
 ====== CSS 2.1 Test Suite =======
 
-[[test:css2.1:issues|Known Bugs]]
-
+* [[test:css2.1:issues|Known Bugs]]
+* [[test:css2.1:harness|Harness]]
