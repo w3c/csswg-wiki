@@ -183,8 +183,10 @@
       besides you.</p>
 </html>
 
+
 ==== Adding New Files ====
 
+<html>
     <p>To add a file to the tree, first <strong><code class="command">cd</code> to its
       parent directory</strong> then type</p>
 
@@ -196,9 +198,12 @@
       with the <code>-kb</code> options.</p>
 
     <pre><kbd>cvs add -kb <var>filename</var></kbd></pre>
+</html>
+
 
 ==== Removing Files ====
 
+<html>
     <p>To remove a file from the tree, first delete your own copy, then, from
       its parent directory, issue the command</p>
 
@@ -209,3 +214,4 @@
 
     <p class="note">CVS will still keep the revision history for the removed
       file.</p>
+</html>
