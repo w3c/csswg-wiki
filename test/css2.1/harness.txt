@@ -8,7 +8,7 @@ NEED TO TEST ON WINDOWS
 
   * make: GNU make is available on most *nix systems as ''make'' or ''gmake''.
   * Perl: Perl is available on Windows through [[http://www.cygwin.com/|Cygwin]] (make sure you check the box to install perl) and through the [[http://www.activestate.com/Products/ActivePerl/|ActivePerl]] distribution. It is usually pre-installed on *nix; install the ''perl'' package if it's not.
-  * Perl's ''XML::Expat'' module: Run ''perl -MCPAN -e "install 'Template'"'' to get it from CPAN.
+  * Perl's ''XML::Expat'' module: Run <code>perl -MCPAN -e "install 'Template'"</code> to get it from CPAN.
 
 Once you have the pre-requisites set up,
 
