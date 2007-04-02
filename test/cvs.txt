@@ -20,7 +20,8 @@
     manually resolved before trying again.</p>
 </html>
 
-===== Using CVS =====
+
+===== Using Command-line CVS =====
 
 ==== Setting ''$CVSROOT'' ====
 
