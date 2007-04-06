@@ -592,6 +592,7 @@ A margin at-rule consists of an ATKEYWORD that identifies the margin box (e.g. '
 
 ===== Dimension of margin boxes =====
 
+
 ==== top row ====
 
 <markdown>
@@ -643,9 +644,7 @@ The used value of the top-right box's left margin is its computed value unless t
     <p>7a. If the computed values of the left box's left and right margins are 'auto and not 'auto', respectively, then the used value of the right margin is its computed value. If the computed values of the right box's left and right margins are not 'auto' and 'auto', respectively, then the used value of the left margin is its computed value. This effectively means that the specified right margin of the left box is ignored if necessary, and ditto for the left margin of the right box.</p>
   </blockquote>
 
-XXX If the above constraints are contradictory ("over-constrained") then
-    the right margin of the top-left box and the left margin of the top-right box
-    are treated as if their computed values were 'auto'.
+XXX If the above constraints are contradictory ("over-constrained") then the right margin of the top-left box and the left margin of the top-right box are treated as if their computed values were 'auto'.
 : <q></q>
 </markdown>
 
