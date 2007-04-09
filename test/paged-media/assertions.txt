@@ -794,3 +794,115 @@ XXX A margin box is instantiated if the computed value of its 'content' property
 The value of the counter at the beginning of page processing must be used by default. (?)
 : <q>The value of the counter at the beginning of page processing  MUST be used by default.</q>
 </markdown>
+
+===== Page Breaks =====
+<markdown>
+The syntax of the 'page-break-before' property is auto | always | avoid | left | right.
+: <q>Value: auto | always | avoid | left | right</q>
+
+The initial value of the 'page-break-before' property is 'auto'.
+: <q>Initial: auto</q>
+
+The 'page-break-before' property applies to block-level elements only.
+: <q>Applies to: block-level elements</q>
+
+The 'page-break-before' property is not inherited.
+: <q>Inherited: no</q>
+
+The 'page-break-before' property applies to paged media only.
+: <q>Media: paged</q>
+
+The 'auto' value of the 'page-break-before' property neither forces nor forbids a page break before the box.
+: <q>auto: Neither force nor forbid a page break before (after, inside) the generated box.</q>
+
+The 'always' value of the 'page-break-before' property forces a paage break before the box.
+: <q>always: Always force a page break before (after) the generated box.</q>
+
+XX The 'left' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a left page.
+: <q>left: Force one or two page breaks before (after) the generated box so that the next page is formatted as a left page.</q>
+
+XX The 'right' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a right page.
+: <q>right: Force one or two page breaks before (after) the generated box so that the next page is formatted as a right page.</q>
+
+The syntax of the 'page-break-after' property is auto | always | avoid | left | right.
+: <q>Value: auto | always | avoid | left | right</q>
+
+The initial value of the 'page-break-after' property is 'auto'.
+: <q>Initial: auto</q>
+
+The 'page-break-after' property applies to block-level elements only.
+: <q>Applies to: block-level elements</q>
+
+The 'page-break-after' property is not inherited.
+: <q>Inherited: no</q>
+
+The 'page-break-after' property applies to paged media only.
+: <q>Media: paged</q>
+
+The 'auto' value of the 'page-break-before' property neither forces nor forbids a page break before the box.
+: <q>auto: Neither force nor forbid a page break before (after, inside) the generated box.</q>
+
+The 'always' value of the 'page-break-before' property forces a paage break before the box.
+: <q>always: Always force a page break before (after) the generated box.</q>
+
+XX The 'left' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a left page.
+: <q>left: Force one or two page breaks before (after) the generated box so that the next page is formatted as a left page.</q>
+
+XX The 'right' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a right page.
+: <q>right: Force one or two page breaks before (after) the generated box so that the next page is formatted as a right page.</q>
+
+The syntax of the 'page-break-inside' property is auto | avoid.
+: <q>Value: auto | avoid</q>
+
+The initial value of the 'page-break-inside' property is 'auto'.
+: <q>Initial: auto</q>
+
+The 'page-break-inside' property applies to block-level elements only.
+: <q>Applies to: block-level elements</q>
+
+The 'page-break-inside' property is inherited.
+: <q>Inherited: yes</q>
+
+The 'page-break-inside' property applies to paged media only.
+: <q>Media: paged</q>
+
+The 'auto' value of the 'page-break-before' property neither forces nor forbids a page break inside the box.
+: <q>auto: Neither force nor forbid a page break before (after, inside) the generated box.</q>
+</markdown>
+
+===== Using named pages: 'page' =====
+<markdown>
+The syntax of the 'page' property is auto | &lt;identifier>.
+: <q>Value: auto | &lt;identifier></q>
+
+The initial value of the 'page' property is 'auto'
+: <q>Initial: auto</q>
+
+The 'page' property only applies to block-level elements
+: <q>Applies to: block-level elements</q>
+
+The 'page' property is inherited.
+: <q>Inherited: yes</q>
+
+If a block box with inline content has a 'page' property that is different from the preceding block box with inline content, then a page break is inserted between them and the boxes after the break are rendered on a page box of the named type.
+: <q>If a block box with inline content has a 'page' property that is different from the preceding block box with inline content, then one or two page breaks are inserted between them, and the boxes after the break are rendered on a page box of the named type.</q>
+</markdown>
+
+===== Breaks inside elements: 'orphans', 'windows' =====
+<markdown>
+The syntax of the 'orphans' property is <integer>.
+: <q>Value: &lt;integer></q>
+
+The initial value of the 'orphans' property is 2.
+: <q>Initial: 2</q>
+
+The 'orphans' property applies to block-level elements only.
+: <q>Applies to: block-level elements</q>
+
+The 'orphans' property is inherited.
+: <q>Inherited: yes</q>
+
+The 'orphans' property applies to visual media.
+: <q>Media: visual</q>
+</markdown>
+
