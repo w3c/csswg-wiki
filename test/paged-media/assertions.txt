@@ -1044,3 +1044,19 @@ The 'cover' value of the 'image-scaling' property scales the contents of the ele
 The 'overflow' property determines how to render parts of the replaced element's content that extend beyond the edges of its box.
 : <q>The 'overflow' property determines how to render parts of the replaced element's content that extend beyond the edges of its box.</q>
 </markdown>
+
+The syntax of the 'image-position' property is [ [  <percentage> |  <length> | left | center | right ] [  <percentage> |  <length> | top | center | bottom ]? ] | [ [ left | center | right ] || [ top | center | bottom ] ] | auto.
+: <q>Value: [ [  <percentage> |  <length> | left | center | right ] [  <percentage> |  <length> | top | center | bottom ]? ] | [ [ left | center | right ] || [ top | center | bottom ] ] | auto</q>
+
+The initial value of the 'image-position' property is 50% 50%.
+: <q>Initial: 50% 50%</q>
+
+The 'image-position' property applies to replaced elements.
+: <q>Applies to: replaced elements</q>
+
+The 'image-position' property is inherited.
+: <q>Inherited: yes</q>
+
+The 'image-position' property applies to visual media.
+: <q>Media: visual</q>
+</markdown>
