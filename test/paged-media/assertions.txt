@@ -363,10 +363,7 @@ XXX The value 'auto' used as a page name must be treated as a syntax error.
 
 ===== Cascading in the page context =====
 <markdown>
-XXX The specificity of an @page rule is computed by concatenating the numbers f-g-h where
-    * if an @page rule has a named page, f=1
-    * if an @page rule has a ':first' pseudo-class, g=1
-    * if an @page rule has a ':left' or ':right' pseudo-class, h1
+XXX The specificity of an @page rule is computed by concatenating the numbers f-g-h where f=1 if an @page rule has a named page; g=1 if an @page rule has a ':first' pseudo-class; and h=1 if an @page rule has a ':left' or ':right' pseudo-class.
 : <blockquote>
     <p>The specificity of @page rules is computed in an analogous manner to the computations defined in the  Selectors module:</p>
     <ul>
