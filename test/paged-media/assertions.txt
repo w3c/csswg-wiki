@@ -904,5 +904,26 @@ The 'orphans' property is inherited.
 
 The 'orphans' property applies to visual media.
 : <q>Media: visual</q>
+
+XX The 'orphans' property specifies the minimum number of line boxes in a block element that must be left at the bottom of a page when a page break occurs inside the block.
+: <q>The 'orphans' property specifies the minimum number of line boxes in a block element that must be left at the bottom of a page.</q>
+
+The syntax of the 'windows' property is <integer>.
+: <q>Value: &lt;integer></q>
+
+The initial value of the 'windows' property is 2.
+: <q>Initial: 2</q>
+
+The 'windows' property applies to block-level elements only.
+: <q>Applies to: block-level elements</q>
+
+The 'windows' property is inherited.
+: <q>Inherited: yes</q>
+
+The 'windows' property applies to visual media.
+: <q>Media: visual</q>
+
+The 'windows' property specifies the minimum number of line boxes of a block that must be left at the top of a page when a page break occurs  inside the block.
+: <q>The 'windows' property specifies the minimum number of line boxes of a block that must be left at the top of a page.</q>
 </markdown>
 
