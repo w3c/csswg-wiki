@@ -1049,3 +1049,5 @@ The 'cover' value of the 'image-scaling' property scales the contents of the ele
 
 The 'overflow' property determines how to render parts of the replaced element's content that extend beyond the edges of its box.
 : <q>The 'overflow' property determines how to render parts of the replaced element's content that extend beyond the edges of its box.</q>
+</markdown>
+
