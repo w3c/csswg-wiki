@@ -292,6 +292,7 @@ XXX Properties declared within the page context (and not within a margin box con
   Tests:
 </markdown>
 
+
 ===== Page Selector Grammar =====
 <markdown>
 An @page rule must conform to the grammar given in the "Page selector grammar" section.
@@ -358,7 +359,7 @@ RIGHTBOTTOM_SYM       ::= "@right-bottom"
 
   Tests:
 
-XXX The value 'auto' used as a page name must be treated as a syntax error.
+XX The value 'auto' used as a page name must be treated as a syntax error.
 : <q>The value 'auto' may not be used as a page name and MUST be treated as a syntax error.</q>
 
   Tests:
