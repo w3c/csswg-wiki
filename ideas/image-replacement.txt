@@ -12,6 +12,7 @@ The CSSWG has resolved to allow the ''content'' property on all elements in CSS3
 
 
 
+
 ===== Interaction with Fonts =====
 
 We recognize, however, that the likely set of preferences for such headings would be:
@@ -37,7 +38,7 @@ The consensus on syntax was:
 
 The ''require-font'' keyword would automatically take the first font in font-family as its implied argument. This is not merely syntactic sugar for the author, but also causes a user's font override, if any, to become the required font: in typical usage, this would disable the image replacement fallback and display the contents in the user's selected font.
 
-''require-font()'' listed by itself without any other content would imply ''contents''.
+The ''require-font'' keyword or function listed by itself without any other associated content value would imply ''contents'' (i.e. the usual content of the element).
 
 ===== Unresolved Details =====
 
@@ -46,6 +47,7 @@ One proposal for ''require-font()'' was to make it the same as ''require-font''.
 It was assumed that ''require-font(generic-name)'' would always be true. However this needs to be specified: figuring out ''require-font(serif)'' on a system with only sans-serif fonts is not obvious.
 
 The spec should perhaps specify that ''require-font()'' is always successful in non-visual media.
+
 
 
 ===== Examples =====
@@ -80,7 +82,6 @@ Another example from Bert, demonstrating the advantage of separating the method 
 <code css>
 h1 span { font-family: biggy }
 h1      { font-family: Times New Roman }
-h1      { content: require-font(biggy), url(replacement.png) }
 h1      { content: require-font(biggy) contents, url(replacement.png) }
 </code>
 
