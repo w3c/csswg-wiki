@@ -11,14 +11,15 @@ however
 The reviewer must check each test submitted for inclusion in the test suite for conformance
 to the test suite guidelines. The reviewer may also check each new test for correctness with
 respect to the specification, but is not required to. For proposed changes to existing tests,
-the reviewer //must// check the changes for correctness. If the test does not pass review,
-the reviewer must tell the submitter what is wrong with the test and what steps should be
-taken to correct any problems. New tests and changes that have been declined by one reviewer
-cannot be approved by someone else until the problems are corrected (or have been shown by
-another reviewer to not be valid problems).
+the reviewer //must// check the changes for correctness.
+
+If the test does not pass review, the reviewer must tell the submitter what is wrong with the
+test and what steps should be taken to correct any problems. New tests and changes that have
+been declined by one reviewer cannot be approved by someone else until the problems are
+corrected (or have been shown by another reviewer to not be valid problems).
 
 Once changes pass review, the reviewer must send notice of approval (which in the case of a
-reviewer with write access can be the same as notice of the checkin) to the
+reviewer with write access can be the same as notice of the checkin) to the 
 public-css-testsuite mailing list. New tests and changes that have been reviewed and approved
 can be checked in by anyone with write access, and that person is not required to perform
 any further review.
