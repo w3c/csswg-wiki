@@ -54,10 +54,12 @@ Status
 : FIXME
 </markdown>
 
+
 ==== t1205-c565-list-pos-00-b ====
 <markdown>
 Test
 : http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1205-c565-list-pos-00-b.htm
+
 Discussion
 : http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jun/0011.html
 
