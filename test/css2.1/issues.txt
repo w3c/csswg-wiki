@@ -30,6 +30,7 @@ A bug record is removed once someone else has either verified the fix, or verifi
 
 ===== Open Bugs =====
 
+
 ==== t1202-counters-17-d ====
 <markdown>
 Test
@@ -51,4 +52,23 @@ Resolution
 
 Status
 : FIXME
+</markdown>
+
+==== t1205-c565-list-pos-00-b ====
+<markdown>
+Test
+: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1205-c565-list-pos-00-b.htm
+Discussion
+: http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jun/0011.html
+
+Summary
+
+: Test assumes positioning of marker box even though CSS2.1 leaves it undefined.
+
+Resolution
+
+: 
+
+Status
+: NEEDSFIX
 </markdown>
