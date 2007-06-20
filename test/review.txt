@@ -6,8 +6,7 @@ test suite guidelines can review additions and changes to the tests in the CSS2.
 however
 
   * A reviewer cannot review his/her own tests and changes.
-  * An employee of a company cannot review tests submitted by that company
-    unless he or she is an Owner or Peer.
+  * An employee of a company cannot review tests submitted by that company unless he or she is an Owner or Peer.
 
 The reviewer must check each test submitted for inclusion in the test suite for conformance
 to the test suite guidelines. The reviewer may also check each new test for correctness with
@@ -31,13 +30,14 @@ in the [[test:css2.1:contribute|contribution guidelines]].
 
 If these requirements change, notice will be sent to public-css-testsuite of the changes.
 
+
 ===== Owners and Peers =====
 
 The test suite Owner is the person most responsible for the test suite. Previously
 that was Ian Hickson (Hixie); currently that is Elika J. Etemad (fantasai). A Peer
 is someone the test suite Owner considers equally capable of evaluating changes to
 the test suite and responsible enough to have write access to the test suite. A
-review from a Peer carries equal weight
+review from a Peer carries equal weight to a review from an Owner.
 
 Currently the following people are Owners or Peers:
 
