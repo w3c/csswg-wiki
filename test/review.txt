@@ -34,6 +34,7 @@ in the [[test:css2.1:contribute|contribution guidelines]].
 If these requirements change, notice will be sent to public-css-testsuite of the changes.
 
 
+
 ===== Owners and Peers =====
 
 The test suite Owner is the person most responsible for the test suite. Previously
@@ -45,7 +46,7 @@ review from a Peer carries equal weight to a review from an Owner.
 Currently the following people are Owners or Peers:
 
   * Anne van Kesteren
-  * fantasai
+  * Elika J. Etemad (fantasai)
   * Ian Hickson (hixie) [INACTIVE]
 
 
