@@ -9,6 +9,7 @@ The CSS2.1 Test Suite still needs a lot of work, and the CSS Working Group can't
 ====== How to Contribute a New Test ======
 
 
+
 ===== Template for New Tests =====
 
 The baseline format for CSS2.1 tests is XHTML 1.1. A set of scripts generate the various formats from this source version.
@@ -21,10 +22,10 @@ Copy and paste the following text into a new file, or save this file, and replac
  <head>
   <title>CSS 2.1 Test Suite: DESCRIPTION OF TEST</title>
   <link rel="author" title="NAME_OF_AUTHOR" href="mailto:EMAIL OR http://CONTACT_PAGE"/>
-  <link rel="help" href="RELEVANT_SPEC_SECTION"/>
+  <link rel="help" href="RELEVANT_SPEC_SECTION"/><![CDATA[
   <style type="text/css">
    CSS FOR TEST
-  </style>
+  ]]></style>
  </head>
  <body>
   CONTENT OF TEST
