@@ -76,10 +76,11 @@ Status
 : NEEDSFIX
 </markdown>
 
+
 ==== Tests Assume Non-Latin Font Availability ====
 <markdown>
 Tests
-: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1205-c565-list-pos-00-b.htm
+: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1202-counter-09-b.htm
 
 Discussion
 : http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html
