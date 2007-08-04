@@ -57,6 +57,7 @@ Status
 
 
 
+
 ==== t1205-c565-list-pos-00-b ====
 <markdown>
 Test
@@ -71,10 +72,10 @@ Summary
 
 Resolution
 
-: 
+: Remove raw-tests/css1tests/css1test565.xml and replace it with tests proposed in http://lists.w3.org/Archives/Public/public-css-testsuite/2007Aug/0007.html
 
 Status
-: NEEDSFIX
+: FIXME
 </markdown>
 
 
