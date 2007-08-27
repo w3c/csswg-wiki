@@ -1,0 +1,3 @@
+====== Constants for CSS ======
+
+Link to prior discussion (blogs, www-style), and list use cases here.
