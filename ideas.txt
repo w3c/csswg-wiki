@@ -14,7 +14,9 @@ specifications (yet).
   * [[ideas:content-fallbacks|Content Fallbacks]]
   * [[ideas:image-scaling|Image Scaling]]
 
+
 ===== Ideas and Issues =====
 
   * [[ideas:hyphenation|Hyphenation]]
   * [[ideas:text-decoration|Text Decoration]]
+  * [[ideas:constants|Macros/Variables/Constants]]
