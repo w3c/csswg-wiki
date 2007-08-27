@@ -5,7 +5,10 @@ and of resolutions we have adopted about the future of CSS,
 particularly those that are not otherwise recorded in our
 specifications (yet).
 
+
 ===== Resolutions =====
+
+(Please do not edit this list unless you are a CSS Working Group member.)
 
   * [[ideas:image-replacement|Image Replacement]]
   * [[ideas:content-fallbacks|Content Fallbacks]]
