@@ -1,0 +1,26 @@
+====== Ideas and Resolutions ======
+
+A record of ideas and issues we have discussed for CSS3
+and of resolutions we have adopted about the future of CSS,
+particularly those that are not otherwise recorded in our
+specifications (yet).
+
+
+
+===== Resolutions =====
+
+This list only includes ideas that have been vetted and approved by the CSS Working Group.
+
+  * [[ideas:image-replacement|Image Replacement]]
+  * [[ideas:content-fallbacks|Content Fallbacks]]
+  * [[ideas:image-scaling|Image Scaling]]
+
+
+
+===== Ideas and Issues =====
+
+This list includes ideas the CSS Working Group believe are in-scope for CSS, but that have not yet been approved by the working group as a whole. Please include real-world use cases and links to prior discussion.
+
+  * [[ideas:hyphenation|Hyphenation]]
+  * [[ideas:text-decoration|Text Decoration]]
+  * [[ideas:constants|Macros/Variables/Constants]]
