@@ -1,6 +1,7 @@
 ====== Constants for CSS ======
 
-Most recent request for Constants in CSS: http://lists.w3.org/Archives/Public/www-style/2007Aug/0167.html
+  * [[http://lists.w3.org/Archives/Public/www-style/2007Aug/0167.html|Most recent request for constants in CSS]], www-style, August 2007
+  * [[http://lists.w3.org/Archives/Public/www-style/2006Oct/0137.html|A proposal for color palettes]], www-style, October 2006
 
 ====== Implementation proposals ======
 
@@ -37,7 +38,7 @@ const insertion point may appear in attribute value production and is marked by 
 }
 </code>
 <note>
-  Daniel Glazman prefer to use const(name) as a marker of constant insertion point.
+Daniel Glazman prefer to use const(name) as a marker of constant insertion point.
 </note>
 
 ==== Undefined constant insertion. ====
@@ -60,6 +61,7 @@ will be transformed to
 values of @const are immutable in runtime - once parsed they cannot be changed.
 If there are multiple declarations of constant with the same name then only first is used.
 
+===== Overriding keywords =====
+Simple, absolute keywords, like those for colors, might be allowed to be overridden by the author, with no other constants or variables allowed. No special syntax (“const(foo)”, “@foo” or the like) would be required for instances of use. There would always be a simple fallback to the meaning of the keyword set out in the specification.
 
-
-
+The problem here is that different properties may take keywords of the same name but with different meaning, e.g. ‘normal’. Overriding therefore needs scoping on either properties or value types. That means declaring them would be more complicated than in other proposals, but using them would be easier and more backward compatible. To make it simpler, overriding could be limited to certain value types, like colors and lengths, which are the most requested by far. People might demand more keywords though.
