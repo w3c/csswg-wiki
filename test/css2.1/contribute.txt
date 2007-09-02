@@ -46,6 +46,13 @@ Copy and paste the following text into a new file, or save this file, and replac
 You can submit a new test by [[http://lists.w3.org/Archives/Public/public-css-testsuite/|sending it to public-css-testsuite@w3.org]]. New tests are subject to the [[test:css2.1:review|review process]].
 
 
+
+====== How to Report a Problem in the Test Suite ======
+
+  - First check the [[test:css2.1:issues|Known Problems list]] to see if your problem has already been reported. If it hasn't, then
+  - Send an email to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] describing the problem
+  - Ideally, also add it to the [[test:css2.1:issues|Known Problems list]] once your post shows up in the [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite mail archives]]
+
 ====== How to Contribute a Fix to an Existing Test ======
 
 To contribute a fix to an existing test, send an email to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] with both
@@ -54,6 +61,11 @@ To contribute a fix to an existing test, send an email to [[http://lists.w3.org/
   * the precise changes necessary to fix the problem (preferably as a diff)
 
 Fixes to existing tests are also subject to the [[test:css2.1:review|review process]].
+
+====== Other Ways to Contribute ======
+
+  * You can subscribe to the [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite mailing list]] and [[test:css2.1:review|review]] test submissions as they come in.
+  * You can go through the issues marked VERIFYME in the [[test:css2.1:issues|Known Problems list]], verify that they are indeed fixed, and remove them from the know bugs list.
 
 ====== What to Do If You Receive No Response ======
 
