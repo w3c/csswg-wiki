@@ -13,11 +13,12 @@ The CSS2.1 Test Suite still needs a lot of work, and the CSS Working Group can't
 
 
 
+
 ===== Template for New Tests =====
 
 The baseline format for CSS2.1 tests is XHTML 1.1. Images must be in PNG format. A set of scripts generate the various formats from this source version.
 
-Copy and paste the following text into a new file, or save this file, and replace the capitalized parts. ''<link>'' elements are used to [[http://www.w3.org/Style/CSS/Test/guidelines.html#links|link to the relevant section of the spec]].
+Copy and paste the following text into a new file, or save this file, and replace the capitalized parts [[test:css2.1:format|as described in the format guidelines]].
 
 <code html>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
