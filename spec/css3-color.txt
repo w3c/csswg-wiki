@@ -8,6 +8,12 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
 
 ==== Issue 1 ====
 
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0083.html http://lists.w3.org/Archives/Public/www-svg/2007Sep/0033.html
-  ;Summary : Should we remove unimplemented features?
-  ;Status : Needs information on whether they're really unimplemented.
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0083.html http://lists.w3.org/Archives/Public/www-svg/2007Sep/0033.html
+  ; Summary : Should we remove unimplemented features?
+  ; Status : Needs information on whether they're really unimplemented.
+
+==== Issue 2 ====
+
+  ; URL : none
+  ; Summary : definition of attr() syntax and semantics should be removed in favor of definition in css3-values
+  ; Status: Needs resolution
