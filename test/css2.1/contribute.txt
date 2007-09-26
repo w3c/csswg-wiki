@@ -53,12 +53,13 @@ You can submit a new test by [[http://lists.w3.org/Archives/Public/public-css-te
   - Send an email to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] describing the problem
   - Ideally, also add it to the [[test:css2.1:issues|Known Problems list]] once your post shows up in the [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite mail archives]]
 
+
 ====== How to Contribute a Fix to an Existing Test ======
 
 To contribute a fix to an existing test, send an email to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] with both
 
   * an explanation of the problem or a reference to a previous message explaining the problem
-  * the precise changes necessary to fix the problem (preferably as a diff)
+  * the precise changes necessary to fix the problem (preferably as a diff either against the [[test:cvs|CVS]] source copy or against the XHTML1.1 version)
 
 Fixes to existing tests are also subject to the [[test:css2.1:review|review process]].
 
