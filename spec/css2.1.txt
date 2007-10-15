@@ -103,9 +103,17 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007JulSep/0177.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2007Sep/0101.html
   ;Status : Open.
 
+
 ==== Issue 13 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Jul/0124.html
   ;Summary : "tag selector" should be "type selector"
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
+
+==== Issue 14 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0087.html
+  ;Summary : margins should be adjoining when min-width == width
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2007Oct/0087.html
+  ;Status : Needs resolution.
