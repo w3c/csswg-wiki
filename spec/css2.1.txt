@@ -78,14 +78,13 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007JulSep/0177.html
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
 
+
 ==== Issue 10 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0069.html
   ;Summary : Undefined handling of images without intrinsic sizes in backgrounds, content, cursor, and list-style-image.
   ;Proposal :
-  ;Status : Open
-
-
+  ;Status : Needs proposal.
 
 ==== Issue 11 ====
 
