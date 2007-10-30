@@ -123,9 +123,17 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007JulSep/0177.html
   ;Status : Needs resolution.
 
 
+
 ==== Issue 15 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0174.html
   ;Summary : Clarify that identifiers can start with A-Z
   ;Proposal : Change [a-z0-9] to [a-zA-Z0-9]
+  ;Status : Needs resolution.
+
+==== Issue 16 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0201.html
+  ;Summary : Specify image pixel mapping to CSS lengths.
+  ;Proposal : Append "For raster images without reliable resolution information, it is recommended that a size of 1 px unit per image source pixel be assumed." to definition of "intrinsic dimensions".
   ;Status : Needs resolution.
