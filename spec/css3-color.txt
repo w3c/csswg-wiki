@@ -13,6 +13,7 @@ We still need to go through mailing lists to search for issues raised.  They hav
 ==== Issue 1 ====
 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0083.html http://lists.w3.org/Archives/Public/www-svg/2007Sep/0033.html
+  ; Raised by : David Baron
   ; Summary : Should we remove unimplemented features?
   ; Status : Needs information on whether they're really unimplemented.  **ACTION dbaron** (2007-10-09): post to www-style (and www-svg?) to propose deadline for removing unimplemented features
 
@@ -20,27 +21,32 @@ We still need to go through mailing lists to search for issues raised.  They hav
 ==== Issue 2 ====
 
   ; URL : none
+  ; Raised by : David Baron
   ; Summary : definition of attr() syntax and semantics should be removed in favor of definition in css3-values
   ; Status : Needs resolution
 
 
 ==== Issue 3 ====
   ; URL : none
+  ; Raised by : David Baron
   ; Summary : example of hsl() colors gets light and dark green backwards
   ; Status : Editorial.  Document needs editing.
 
 ==== Issue 4 ====
   ; URL : none
+  ; Raised by : David Baron
   ; Summary : Handling of S and L values for hsl() and hsla() outside [0%, 100%] is undefined
   ; Status : Needs decision.
 
 
 ==== Issue 5 ====
   ; URL : http://lists.w3.org/Archives/Member/w3c-css-wg/2001JanMar/0265 or https://bugzilla.mozilla.org/show_bug.cgi?id=67448#c15
+  ; Raised by : David Baron
   ; Summary : Better definitions needed for system colors for 3-D
   ; Status : Needs decision
 
 ==== Issue 6 ====
   ; URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0107
+  ; Raised by : David Baron
   ; Summary : Does 'flavor' need to be removed to enter PR due to lack of implementations?
   ; Status : Needs data and decision
