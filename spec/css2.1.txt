@@ -160,7 +160,8 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Proposal : s/but any descendants which actually create a new stacking context/but any positioned descendants and descendants which actually create a new stacking context/
   ;Status : Accepted pending Melinda's ok.
 
-==== Issue 17 ====
+
+==== Issue 18 ====
 
   ;URL : http://www.w3.org/mid/op.tv09c9zdp8frts@hasather.net
   ;Summary : s/tag selector/type selector/ in 5.8.
