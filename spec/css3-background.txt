@@ -67,6 +67,7 @@ http://lists.w3.org/Archives/Public/www-style/2007Aug/0217.html
   ;Resolution : Proposal accepted.
   ;Status : Needs edits
 
+
 ==== Issue 8 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2006May/0017.html
@@ -74,8 +75,7 @@ http://lists.w3.org/Archives/Public/www-style/2006May/0121.html
   ;Summary : Refine ''background'' shorthand syntax
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2006May/0018.html
   ;Resolution : Use the ''/'' before <background-size>, require <background-position> to occur before <background-size>.
-  ;Status : Needs edits
-
+  ;Status : Closed.
 
 ==== Issue 9 ====
 
