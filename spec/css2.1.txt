@@ -14,8 +14,6 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Summary : What should 'width' on columns and column groups really mean?
   ;Status : Needs proposal
 
-
-
 ==== Issue 2 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Jul/0118.html
@@ -30,7 +28,6 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Resolution : Make change.
   ;Status : Closed.
 
-
 ==== Issue 4 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Jul/0097.html
@@ -38,16 +35,12 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Resolution : No change.
   ;Status : Closed.
 
-
 ==== Issue 5 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Jul/0104.html
   ;Summary : Descendant combinator should be represented as ''S+'' in grammar instead of ''S''. (This correction matches grammar in [[http://www.w3.org/TR/css3-selectors/#grammar|(CSS3) Selectors]].)
   ;Resolution : Accepted to use ''S+''.
   ;Status : Closed.
-
-
-
 
 ==== Issue 6 ====
 
@@ -57,10 +50,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007JulSep/0177.html
   ;Testcase : http://lists.w3.org/Archives/Member/w3c-css-wg/2007JulSep/0147.html
   ;Proposal : In [[http://www.w3.org/TR/CSS21/box.html#collapsing-margins|8.3.1]] bullet 6 subbullet 2, change "non-zero top border" to "non-zero bottom border".
   ;Resolution : Accepted proposal pending Hixie's approval.
-  ;Status : Needs resolution.
-
-
-
+  ;Status : =WG= Discuss.
 
 ==== Issue 7 ====
 
@@ -69,7 +59,8 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Constant page area width allowance poorly specified.
   ;Testcase : http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/att-0076/pagemargintest.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2007Aug/0079.html , possibly appending "This adjustment must not create or increase negative page margins unless the target page area is larger than the page box."
-  ;Status : Closed no change.
+  ;Resolution : No change.
+  ;Status : Closed.
 
 ==== Issue 8 ====
 
@@ -84,7 +75,6 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Remove "slightly" from note about different uses of 'vertical-align' property.
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
-
 
 ==== Issue 10 ====
 
@@ -101,9 +91,6 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
 
-
-
-
 ==== Issue 12 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0101.html
@@ -119,18 +106,12 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
 
-
-
-
-
-
 ==== Issue 14 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0087.html
   ;Summary : margins should be adjoining when min-height == height
   ;Proposal : In 8.3.1 in "The bottom margin of an in-flow block-level element with a 'height' of 'auto' and 'min-height' less than the element's used height and 'max-height' greater than the element's used height is adjoining to its last in-flow block-level child's bottom margin...", replace "less than" with "not affecting" and "greater than" with "not affecting".
-  ;Status : Needs resolution.
-
+  ;Status : =WG= Discuss.
 
 ==== Issue 15 ====
 
@@ -140,10 +121,6 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
 
-
-
-
-
 ==== Issue 16 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0201.html
@@ -151,8 +128,6 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Proposal : Append "For raster images without reliable resolution information, a size of 1 px unit per image source pixel must be assumed." to definition of "intrinsic dimensions".
   ;Resolution : Proposal accepted.
   ;Status : =Bert= Edit.
-
-
 
 ==== Issue 17 ====
 
@@ -162,15 +137,12 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Proposal accepted.
   ;Status : =Bert= Edit.
 
-
-
 ==== Issue 18 ====
 
   ;URL : http://www.w3.org/mid/op.tv09c9zdp8frts@hasather.net
   ;Summary : s/tag selector/type selector/ in 5.8.
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
-
 
 ==== Issue 19 ====
 
