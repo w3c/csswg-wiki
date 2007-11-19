@@ -171,8 +171,10 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
 
+
 ==== Issue 19 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Nov/0169.html
   ;Summary : case-sensitivity undefined
-  ;Status : Open.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2007Nov/0219.html
+  ;Status : =WG= Discuss.
