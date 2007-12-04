@@ -1,0 +1,34 @@
+====== Centering Blocks ======
+
+A common request is the ability to center blocks. CSS has some capabilities for this, however they are very limited, especially in the vertical direction.
+
+===== Horizontal Centering =====
+
+Horizontal centering can be accomplished in most cases by using ''margin: 0 auto'': setting both the left and right margins to ''auto'' causes them to be equal. There are some limitations however.
+
+  * Auto margins can't center an element that is larger than its containing block: in that case it aligns to the "start" edge to avoid overflow in that direction (which could cause awkward scrolling conditions).
+  * Centering with margins doesn't inherit, so can't be used to implement <CENTER> functionality.
+  * Centering with 'auto' margins is pretty non-obvious.
+
+==== Use Cases ====
+
+==== Proposals ====
+
+===== Vertical Centering =====
+
+==== Problems ====
+
+Vertical centering currently cannot be done in CSS except for
+
+  * absolutely-positioned elements (using margin: auto)
+  * contents of table cells
+
+The main request is to vertically center the contents of a box, as can be done with ''vertical-align: middle'' on table cells. A secondary request is the ability to vertically-justify content within its containing block.
+
+==== Use Cases ====
+
+==== Proposals ====
+
+=== position: center ===
+
+Ian and Tantek have a [[http://lists.w3.org/Archives/Public/www-style/2004Jan/0218.html|position:center]] proposal that does both horizontal and vertical centering. It uses the background-position method of calculating positions and applies it to the absolute positioning model. It gives a lot of flexibility in placing boxes relative to their containing block, but is a form of absolute positioning and can't be used for in-flow boxes.
