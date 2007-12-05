@@ -1025,7 +1025,7 @@ XX Margin boxes are oriented with respect to the content and are independent of 
 : <blockquote><div>Please note that the margin boxes are oriented with respect to the content and are independent of page orientation</div></blockquote>
 
 <div class="tests">
-Tests:
+Tests: margin-boxes-000.xht, margin-boxes-001.xht, margin-boxes-002.xht
 </div>
 
 <h3>===== At-rules for margin boxes =====</h3>
