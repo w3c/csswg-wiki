@@ -519,7 +519,7 @@ Tests:
 <li class="assertion">
 
 The 'ledger' value of the 'size' property specifies that the page box's width be 11in and its height 17in.
-: <blockquote><div>legal: The page box SHOULD be set to the size of North American media: 11in wide and 17in high.</div></blockquote>
+: <blockquote><div>ledger: The page box SHOULD be set to the size of North American media: 11in wide and 17in high.</div></blockquote>
 
 <div class="tests">
 Tests:
