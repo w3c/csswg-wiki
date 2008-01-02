@@ -1,6 +1,6 @@
 ====== Content Formatting Functions ======
 
-This page lists and describes data-formatting functions for use in the 'content' property.
+This page lists and describes data-formatting functions that are needed for use in the 'content' property.
 
 ===== date formatting =====
 
