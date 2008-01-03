@@ -18,9 +18,14 @@ Related e-mail thread: http://lists.w3.org/Archives/Public/www-style/2007Nov/thr
 
 What to do with the 'resolution' feature? See e-mail thread: http://lists.w3.org/Archives/Public/www-style/2007Jan/thread.html#msg63 Use cases, what if horizontal and vertical resolution differ, et cetera.
 
+
 ===== Issue 3 =====
 
 http://lists.w3.org/Archives/Public/www-style/2007Dec/0038.html
+
+===== Issue 4 =====
+
+http://lists.w3.org/Archives/Public/www-style/2007Dec/0005.html
 
 ====== Media Queries Syntax ======
 
