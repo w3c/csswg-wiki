@@ -239,10 +239,18 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Proposal accepted.
   ;Status : =Bert= Edit.
 
+
 ==== Issue 29 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jan/0300.html
   ;Summary : First paragraph of 10.3.8 confusing
   ;Proposal : Replace with "In this case, Section 10.3.7 applies up through and including the constraint equation, but the rest of section 10.3.7 is replaced by the following rules:"
+  ;Resolution : Assumed editorial.
+  ;Status : =Bert= Edit.
+
+==== Issue 30 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jan/0525.html
+  ;Summary : Hebrew list-style-type used in example, though not defined in 2.1
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
