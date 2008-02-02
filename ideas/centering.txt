@@ -9,14 +9,24 @@ A common request is the ability to center blocks. CSS has some capabilities for 
 
 Horizontal centering can be accomplished in most cases by using ''margin: 0 auto'': setting both the left and right margins to ''auto'' causes them to be equal. There are some limitations however.
 
+  * Centering with 'auto' margins is pretty non-obvious.
   * Centering with margins doesn't inherit, so can't be used to implement <CENTER> functionality.
   * Centering with auto margins can't be combined with side margins.
   * Auto margins can't center an element that is larger than its containing block: in that case it aligns to the "start" edge to avoid overflow in that direction (which could cause awkward scrolling conditions).
-  * Centering with 'auto' margins is pretty non-obvious.
 
+==== Margins and Overflow ====
+One thing about the behavior of the “<CENTER>” tag that does not fit well with CSS principals is that if the content of the centered children are wider than their parents, the left edge will not overflow to the left, even though the right edge does overflow to the right. In some implementations, such as FireFox and Opera, the left edge of the child honors its left margin setting (as it would if it were not centered), but the right margin setting has no real meaning, due to the visual overflow on the right. Even with overflow set to “scroll”, the margin in FireFox and Opera is honored on the left within the scrollbox, but not the right.
 
+Most would agree that the meaning of “overflow” and “margin” on centered objects should be the same on the left edges as they are on the right, in order for centered object to retain their symmetrical placement. 
 
+For margins, this is assuming that margins are to have some meaning for values other than “auto”. But the margins on a centered object are only apparent if the object and margins fit snuggly within its container. So in order to remain centered and show both margins (without overflowing to the left and right equally), there are two options:
 
+  - The centered object would have to be reduced in width enough to fit within its parents padding box. This is not an attractive option if the centered box has a fixed or minimum width greater than the parent.
+  - The parent object grows in width enough to accommodate the centered item, like “shrink to fit” in reverse (“grow to fit’). This second option would be more appropriate as a value to overflow, such as “overflow:contain”. 
+
+So, without shrinking the width of a child box that does not want to be shrunk, there is no reasonable way to show the margins when the centered object is larger than its container, unless the container has an overflow property that allows it, such as (theoretically) “overflow:scroll”, “overflow:auto” or a hypothetical “overflow:contain”.
+
+This leaves one way left to keep the object centered when overflow is set to “visible” (the default) or “hidden”: Centered objects should overflow on the left and right equally. Any centering scheme to be considered will have to decide either to have this feature (so that no matter how a block is overflowed, the content remains centered within its parent), or to more closely replicate legacy behavior of tags like “<CENTER>”.
 
 
 ==== Proposals ====
