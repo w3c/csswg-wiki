@@ -58,7 +58,7 @@ Markus started a [[http://lists.w3.org/Archives/Public/www-style/2007Nov/0067.ht
 
 === block-align property ===
 
-Its been proposed that a property called “block-align” would be useful for centering block level content. Vadim Plessky mentioned it in 2001 ([[http://lists.w3.org/Archives/Public/www-style/2001Oct/0091.html|here]] and [[http://lists.w3.org/Archives/Public/www-style/2001Oct/0145.html|here]]), and more recently David Baron brought it up as a way to separate the block centering behavior of “<CENTER>” (which already exists as “text-align:center”) from its block aligning behavior ([[http://lists.w3.org/Archives/Public/www-style/2008Jan/0441.html|here]]).
+Its been proposed that a property called “block-align” would be useful for centering block level content. Vadim Plessky mentioned it in 2001 ([[http://lists.w3.org/Archives/Public/www-style/2001Oct/0091.html|here]] and [[http://lists.w3.org/Archives/Public/www-style/2001Oct/0145.html|here]]), and more recently David Baron brought it up as a way to separate the line block centering behavior of “<CENTER>” (which already exists as “text-align:center”) from its block aligning behavior ([[http://lists.w3.org/Archives/Public/www-style/2008Jan/0441.html|here]]).
 
 Given that CSS already has a property called “text-align” to horizontally align line boxes, “block-align” would logically be analogous to that, but for block level content. Given that “text-align” is well documented and well understood, having a block level version call “block-align” would lead to easy understanding of what it does in turn. This helps solidify the answers to the similar "alignment" property proposed above.
 
