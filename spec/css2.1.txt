@@ -70,12 +70,13 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Proposal :
   ;Status : Needs proposal.
 
+
 ==== Issue 9 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0087.html
   ;Summary : Remove "slightly" from note about different uses of 'vertical-align' property.
   ;Resolution : Assumed editorial.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 10 ====
 
