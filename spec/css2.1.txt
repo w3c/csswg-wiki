@@ -94,13 +94,14 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Assumed editorial.
   ;Status : Closed.
 
+
 ==== Issue 12 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Sep/0101.html
   ;Summary : 300x150 px defaults too aggressive
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2007Sep/0101.html
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 13 ====
 
