@@ -266,13 +266,13 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Resolution : Assumed editorial.
   ;Status : Closed.
 
+
 ==== Issue 30 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jan/0525.html
   ;Summary : Hebrew list-style-type used in example, though not defined in 2.1
   ;Resolution : Assumed editorial.
-  ;Status : =Bert= Edit.
-
+  ;Status : Closed.
 
 ==== Issue 31 ====
 
