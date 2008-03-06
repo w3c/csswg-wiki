@@ -318,13 +318,14 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Status : =WG= Discuss.
 
 
+
 ==== Issue 36 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Feb/0224.html
   ;Summary : 'direction' for replacing 'auto' for abspos elements
   ;Testcase : https://bugzilla.mozilla.org/attachment.cgi?id=302176
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 37 ====
 
