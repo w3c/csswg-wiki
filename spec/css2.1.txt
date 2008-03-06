@@ -200,12 +200,13 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Mar/0037.html
   ;Status : =WG= Discuss.
 
+
 ==== Issue 23 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Dec/0215.html
   ;Summary : "url(" needs to be {u}{r}{l}"(" in grammar
   ;Resolution : Assumed editorial.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 24 ====
 
