@@ -31,11 +31,12 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Proposed resolution (dbaron) : Editorial - edit as described.
   ; Status : Editorial.  Document needs editing.
 
+
 ==== Issue 4 ====
   ; URL : none
   ; Raised by : David Baron
   ; Summary : Handling of S and L values for hsl() and hsla() outside [0%, 100%] is undefined
-  ; Proposed resolution (dbaron) : clamp to device gamut or to sRGB
+  ; Proposed resolution (dbaron) : clamp to device gamut
   ; Status : Needs decision.
 
 ==== Issue 5 ====
