@@ -28,6 +28,7 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; URL : http://www.w3.org/mid/20040309063205.52668.qmail@web13912.mail.yahoo.com http://www.w3.org/mid/3DB269E1BEC8134084EAA64AD4A1E0CF04C858@stlmail1.corp.amdocs.com
   ; Raised by : Chris Moschini, Alex LeDonne, David Baron
   ; Summary : example of hsl() colors gets light and dark green backwards
+  ; Proposed resolution (dbaron) : Editorial - edit as described.
   ; Status : Editorial.  Document needs editing.
 
 ==== Issue 4 ====
@@ -41,6 +42,7 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; URL : http://lists.w3.org/Archives/Member/w3c-css-wg/2001JanMar/0265 or https://bugzilla.mozilla.org/show_bug.cgi?id=67448#c15
   ; Raised by : David Baron
   ; Summary : Better definitions needed for system colors for 3-D
+  ; Proposed resolution (dbaron) : adopt proposal in URLs above
   ; Status : Needs decision
 
 ==== Issue 6 ====
@@ -48,7 +50,7 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Raised by : David Baron
   ; Summary : Does 'flavor' need to be removed to enter PR due to lack of implementations?
   ; Proposed resolution (dbaron) : drop features
-  ; Status : Needs data and decision
+  ; Status : Needs WG decision
 
 ==== Issue 7 ====
   ; URL : vaguely related to http://www.w3.org/mid/BA69D948.20605%25tantek@cs.stanford.edu
@@ -61,9 +63,7 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Raised by : David Baron
   ; Summary : Status section needs to say that comments sent to www-style should say [css3-color] in the subject.
   ; Proposed resolution (dbaron) : edit as described
-  ; Status : Needs editing.
-
-
+  ; Status : Document edited.
 
 ==== Issue 9 ====
   ; URL : http://www.w3.org/mid/A134E2426B46D711BB4B000347AE6E7C5915FF@xvan02.vcd.hp.com http://www.w3.org/mid/BAD535BA.26F81%25tantek@cs.stanford.edu
@@ -119,6 +119,7 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Opposition: http://www.w3.org/mid/431CAB50.4040007@disruptive-innovations.com
   ; Raised by : Patrick H. Lauke, Matthew Raymond
   ; Summary : System colors should not be deprecated
+  ; Proposed resolution (dbaron) : no change
   ; Status : Needs discussion.
 
 ==== Issue 17 ====
@@ -135,7 +136,6 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Proposed resolution (dbaron) : edit as described (editorial)
   ; Status : needs editing
 
-
 ==== Issue 19 ====
   ; URL : http://www.w3.org/mid/4681D29D.1090808@fastmail.us
   ; Raised by : Patrick Garies
@@ -143,8 +143,6 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Proposed resolution (dbaron) : edit as described (editorial)
   ; Status : needs editing
   ; Tests : t43-svg-keywords-a
-
-
 
 ==== Issue 20 ====
   ; URL : http://www.w3.org/mid/20030131034516.GA29002@gemini.baron
@@ -158,6 +156,7 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; URL : http://www.w3.org/mid/BAE92885.28030%25tantek@cs.stanford.edu http://www.w3.org/mid/20030515184501.GA30313@pool-141-158-45-91.phil.east.verizon.net http://www.w3.org/mid/16069.11954.751430.470156@lanalana.inria.fr http://www.w3.org/mid/BDBFA80D.5060B%25tantek@cs.stanford.edu
   ; Raised by : Tantek Çelik, David Latapie
   ; Summary : Issues with default style sheet for TOC
+  ; Proposed resolution (dbaron) : editorial (if it still exists)
   ; Status : needs testing whether it still exists
 
 ==== Issue 22 ====
