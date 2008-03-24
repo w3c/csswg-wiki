@@ -180,3 +180,6 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Proposed resolution (dbaron) : reject, since it's too late for this version
   ; Status : Needs discussion
 
+==== Issue 24 ====
+  ; Summary : verify that all recent CSS 2.1 changes have been incorporated
+  ; Status : dbaron needs to go through the CSS 2.1 HTML diffs for the latest draft
