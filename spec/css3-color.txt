@@ -52,11 +52,13 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
   ; Proposed resolution (dbaron) : drop features
   ; Status : Needs WG decision
 
+
 ==== Issue 7 ====
   ; URL : vaguely related to http://www.w3.org/mid/BA69D948.20605%25tantek@cs.stanford.edu
   ; Raised by : David Baron
   ; Summary : Mention interaction of colors and user style sheets again?  The previous version of the draft did so, but the CR does not.
-  ; Status : Needs text.
+  ; Proposed resolution (dbaron) : no change (trying to be realistic rather than idealistic)
+  ; Status : Needs decision.
 
 ==== Issue 8 ====
   ; URL : none
