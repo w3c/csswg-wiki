@@ -34,11 +34,12 @@ The following are known problems in the [[http://www.w3.org/TR/2003/CR-css3-colo
 
 
 
+
 ==== Issue 4 ====
   ; URL : none
   ; Raised by : David Baron
   ; Summary : Handling of S and L values for hsl() and hsla() outside [0%, 100%] is undefined
-  ; Proposed resolution (dbaron) : clamp to device gamut by adjusting S and L values (which first?)
+  ; Proposed resolution (dbaron) : clamp to device gamut
   ; Status : Needs decision.
   ; Tests : NEEDS TESTS!  (As do other statements about clamping, except for <alphavalue>.)
 
