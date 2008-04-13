@@ -6,6 +6,7 @@ The CSS2.1 Test Suite still needs a lot of work, and the CSS Working Group can't
   * All tests must also adhere to the [[test:css2.1:format|format guidelines]].
   * The tests are intended to be released under both the [[http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231|W3C Document License]] and the [[http://www.opensource.org/licenses/bsd-license.php|BSD 3-clause license]], so you must give your explicit permission for us to use your contributions under these licenses.
 
+
 ===== How to License Your Contribution =====
 
 Send a message to public-css-testsuite@w3.org stating the following:
@@ -23,7 +24,7 @@ distribute my contributions under the W3C Document License [2],
 as well as a right and license of the same scope to any
 derivative works that are prepared by the W3C or contributors
 working on its behalf and that are based on or incorporating
-all or part of the contribution.
+all or part of my contributions.
 
 [2] http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231
 </file>
