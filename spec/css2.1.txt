@@ -363,10 +363,11 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Status : =WG= Discuss.
 
 
+
 ==== Issue 38 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Mar/0166.html
   ;Summary : CSS2.1 and CSS3 attribute selector definitions incompatible
   ;Proposal : Adopt CSS3 Selectors wording
   ;Resolved : Proposal accepted
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
