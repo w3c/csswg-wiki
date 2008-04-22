@@ -478,7 +478,7 @@ Tests:
 </li>
 <li class="assertion">
 
-XXX The 'B5' value of the 'size' property specifies that the page box's width be 176mm and its height 250mm.
+The 'B5' value of the 'size' property specifies that the page box's width be 176mm and its height 250mm.
 : <blockquote><div>B5: The page box SHOULD be set to the size of ISO B3 media: 176mm wide and 250mm high.</div></blockquote>
 
 <div class="tests">
