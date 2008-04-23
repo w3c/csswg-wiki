@@ -140,6 +140,7 @@ The top-center margin box's margin edges are defined by a variable-width box cen
 
 
 
+
 <div class="tests">
 Tests:
 </div>
@@ -1381,12 +1382,11 @@ The 'always' value of the 'page-break-before' property forces a paage break befo
 </li>
 <li class="assertion">
 
-XX The 'left' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a left page.
+The 'left' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a left page.
 : <blockquote><div>left: Force one or two page breaks before (after) the generated box so that the next page is formatted as a left page.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX The 'right' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a right page.
+The 'right' value of the 'page-break-before' property forces one or two page breaks before the box so that the page after the break is formatted as a right page.
 : <blockquote><div>right: Force one or two page breaks before (after) the generated box so that the next page is formatted as a right page.</div></blockquote>
 </li>
 <li class="assertion">
@@ -1430,13 +1430,11 @@ The 'always' value of the 'page-break-after' property forces a paage break befor
 : <blockquote><div>always: Always force a page break before (after) the generated box.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX The 'left' value of the 'page-break-after' property forces one or two page breaks before the box so that the page after the break is formatted as a left page.
+The 'left' value of the 'page-break-after' property forces one or two page breaks before the box so that the page after the break is formatted as a left page.
 : <blockquote><div>left: Force one or two page breaks before (after) the generated box so that the next page is formatted as a left page.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX The 'right' value of the 'page-break-after' property forces one or two page breaks before the box so that the page after the break is formatted as a right page.
+The 'right' value of the 'page-break-after' property forces one or two page breaks before the box so that the page after the break is formatted as a right page.
 : <blockquote><div>right: Force one or two page breaks before (after) the generated box so that the next page is formatted as a right page.</div></blockquote>
 </li>
 <li class="assertion">
