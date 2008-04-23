@@ -135,6 +135,7 @@ The top-center margin box's margin edges are defined by a variable-width box cen
 
 
 
+
 <div class="tests">
 Tests:
 </div>
@@ -376,7 +377,7 @@ Tests:
 <li class="assertion">
 
 If a preferred output media size is indicated via &lt;length&gt; or &lt;page-size&gt; values for the 'size' property, output must be rendered on the media size indicated if available.
-: <blockquote><div>When possible, output should be rendered on the media size indicated; if not available, a larger size should be used; if not available, the contents of the page box should be scaled down to fit the smaller page sheet.</div></blockquote>
+: <blockquote><div>When possible, output should be rendered on the media size indicated; if not available, the smallest larger size available should be used; if not available, the contents of the page box should be scaled down to fit the smaller page sheet.</div></blockquote>
 
 <div class="tests">
 Tests:
@@ -386,7 +387,7 @@ Tests:
 <li class="assertion">
 
 XXX If a preferred output media size is indicated via &lt;length&gt; or &lt;page-size&gt; values for the 'size' property and the indicated media size is not available, a larger size must be used if available.
-: <blockquote><div>When possible, output should be rendered on the media size indicated; if not available, a larger size should be used; if not available, the contents of the page box should be scaled down to fit the smaller page sheet.</div></blockquote>
+: <blockquote><div>When possible, output should be rendered on the media size indicated; if not available, a larger size should be used; if not available, the contents of the page box should be scaled down to fit the largest smaller page sheet.</div></blockquote>
 
 <div class="tests">
 Tests:
