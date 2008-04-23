@@ -111,7 +111,7 @@ Tests:
 </li>
 
 <li class="assertion">
-XX The top-left-corner margin box's margin edges are defined by a fixed-size box defined by the intersection of the top and left margins of the page box.
+The top-left-corner margin box's margin edges are defined by a fixed-size box defined by the intersection of the top and left margins of the page box.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -121,7 +121,7 @@ Tests:
 </li>
 
 <li class="assertion">
-XX The top-left margin box's margin edges are defined by a variable-width box filling the top page margin between the top-left-corner and top-center margin boxes.
+The top-left margin box's margin edges are defined by a variable-width box filling the top page margin between the top-left-corner and top-center margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -130,8 +130,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The top-center margin box's margin edges are defined by a variable-width box centered horizontally between the page's left and right border edges and filling the top page margin between the top-left and top-right margin boxes.
+The top-center margin box's margin edges are defined by a variable-width box centered horizontally between the page's left and right border edges and filling the top page margin between the top-left and top-right margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -140,8 +139,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The top-right margin box's margin edges are defined bya a variable-width box filling the top page margin between the top-center and top-right-corner margin boxes.
+The top-right margin box's margin edges are defined bya a variable-width box filling the top page margin between the top-center and top-right-corner margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -150,8 +148,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The top-right-corner margin box's margin edges are defined by a a fixed-size box defined by the intersection of the top and right margins of the page box.
+The top-right-corner margin box's margin edges are defined by a a fixed-size box defined by the intersection of the top and right margins of the page box.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -160,8 +157,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The left-top margin box's margin edges are defined by a a variable-height box filling the left page margin between the top-left-corner and left-middle margin
+The left-top margin box's margin edges are defined by a a variable-height box filling the left page margin between the top-left-corner and left-middle margin
 boxes.
 : <blockquote><div></div></blockquote>
 
@@ -171,8 +167,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The left-middle margin box's margin edges are defined by a a variable-height box centered vertically between the page's top and bottom border edges and filling the left page margin between the left-top and left-bottom margin boxes.
+The left-middle margin box's margin edges are defined by a a variable-height box centered vertically between the page's top and bottom border edges and filling the left page margin between the left-top and left-bottom margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -181,8 +176,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The left-bottom margin box's margin edges are defined by a variable-height box filling the left page margin between the left-middle and bottom-left-corner margin boxes.
+The left-bottom margin box's margin edges are defined by a variable-height box filling the left page margin between the left-middle and bottom-left-corner margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -191,8 +185,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The right-top margin box's margin edges are defined by a variable-height box filling the right page margin between the top-right-corner and right-middle margin boxes.
+The right-top margin box's margin edges are defined by a variable-height box filling the right page margin between the top-right-corner and right-middle margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -201,8 +194,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The right-middle margin box's margin edges are defined by a variable-height box centered vertically between the page's top and bottom border edges and filling the right page margin between the right-top and right-bottom margin boxes.
+The right-middle margin box's margin edges are defined by a variable-height box centered vertically between the page's top and bottom border edges and filling the right page margin between the right-top and right-bottom margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -211,8 +203,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The right-bottom margin box's margin edges are defined by a variable-height box filling the right page margin between the right-middle and bottom-right-corner margin boxes.
+The right-bottom margin box's margin edges are defined by a variable-height box filling the right page margin between the right-middle and bottom-right-corner margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -221,8 +212,7 @@ Tests:
 </li>
 
 <li class="assertion">
-
-XX The bottom-left-corner margin box's margin edges are defined by a fixed-size box defined by the intersection of the bottom and left margins of the page box.
+The bottom-left-corner margin box's margin edges are defined by a fixed-size box defined by the intersection of the bottom and left margins of the page box.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -231,8 +221,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The bottom-left margin box's margin edges are defined by a variable-width box filling the bottom page margin between the bottom-left-corner and bottom-center margin boxes.
+The bottom-left margin box's margin edges are defined by a variable-width box filling the bottom page margin between the bottom-left-corner and bottom-center margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -241,8 +230,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The bottom-center margin box's margin edges are defined by a variable-width box centered horizontally between the page's left and right border edges and filling the bottom page margin between the bottom-left and bottom-right margin boxes.
+The bottom-center margin box's margin edges are defined by a variable-width box centered horizontally between the page's left and right border edges and filling the bottom page margin between the bottom-left and bottom-right margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -251,8 +239,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The bottom-right margin box's margin edges are defined by a variable-width box filling the bottom page margin between the bottom-center and bottom-right-corner margin boxes.
+The bottom-right margin box's margin edges are defined by a variable-width box filling the bottom page margin between the bottom-center and bottom-right-corner margin boxes.
 : <blockquote><div></div></blockquote>
 
 <div class="tests">
@@ -261,8 +248,7 @@ Tests:
 
 </li>
 <li class="assertion">
-
-XX The bottom-right-corner margin box's margin edges are defined by a fixed-size box defined by the intersection of the bottom and right margins of the page box.
+The bottom-right-corner margin box's margin edges are defined by a fixed-size box defined by the intersection of the bottom and right margins of the page box.
 : <blockquote><div></div></blockquote>
 <div class="tests">
 Tests:
