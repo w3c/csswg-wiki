@@ -139,6 +139,7 @@ The top-center margin box's margin edges are defined by a variable-width box cen
 
 
 
+
 <div class="tests">
 Tests:
 </div>
@@ -997,7 +998,7 @@ For documents with an inline progression of right to left and a block progressio
 </li>
 <li class="assertion">
 
-XXX Declarations inside a page context defined with the ':first' pseudo-class apply only to the first page of a document.
+Declarations inside a page context defined with the ':first' pseudo-class apply only to the first page of a document.
 : <blockquote><div>Authors MAY  also specify style for the first page of a document with the ':first' pseudo-class:</div></blockquote>
 
 <div class="tests">
@@ -1011,7 +1012,7 @@ page-first-000.xht, page-first-001.xht</div>
 
 </li>
 <li class="assertion">
-XX Margin boxes are oriented with respect to the content and are independent of page orientation.
+Margin boxes are oriented with respect to the content and are independent of page orientation.
 : <blockquote><div>Please note that the margin boxes are oriented with respect to the content and are independent of page orientation</div></blockquote>
 
 <div class="tests">
@@ -1051,18 +1052,17 @@ If the top-center box is not empty or its computed width is not 'auto' then the 
 </li>
 <li class="assertion">
 
-XX If the top-left box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
+If the top-left box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
 : <blockquote><div>3. If a box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border are all 0.</div></blockquote>
 </li>
 
 <li class="assertion">
 
-XX If the top-center box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
+If the top-center box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
 : <blockquote><div>3. If a box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border are all 0.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the top-right box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
+If the top-right box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
 : <blockquote><div>3. If a box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border are all 0.</div></blockquote>
 </li>
 <li class="assertion">
@@ -1129,18 +1129,15 @@ If the bottom-center box is not empty or its computed width is not 'auto' then t
 : <blockquote><div>The used values for bottom-left, bottom-center and bottom-right are established by the same rules.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the bottom-left box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
+If the bottom-left box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
 : <blockquote><div>The used values for bottom-left, bottom-center and bottom-right are established by the same rules.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the bottom-center box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
+If the bottom-center box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
 : <blockquote><div>The used values for bottom-left, bottom-center and bottom-right are established by the same rules.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the bottom-right box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
+If the bottom-right box is empty and its computed width is 'auto', then the used values of its left and right padding and left and right border width are all 0.
 : <blockquote><div>The used values for bottom-left, bottom-center and bottom-right are established by the same rules.</div></blockquote>
 </li>
 <li class="assertion">
@@ -1198,18 +1195,15 @@ If the left-middle box is not empty or its computed height is not 'auto' then th
 : <blockquote><div>The used values for left-top, left-middle and left-bottom boxes are established by the same rules, with "width" replaced by "height", "left" by "top", "right" by "bottom" and "center" by "middle".</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the left-top box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
+If the left-top box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
 : <blockquote><div>The used values for left-top, left-middle and left-bottom boxes are established by the same rules, with "width" replaced by "height", "left" by "top", "right" by "bottom" and "center" by "middle".</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the left-middle box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
+If the left-middle box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
 : <blockquote><div>The used values for left-top, left-middle and left-bottom boxes are established by the same rules, with "width" replaced by "height", "left" by "top", "right" by "bottom" and "center" by "middle".</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the left-bottom box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
+If the left-bottom box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
 : <blockquote><div>The used values for left-top, left-middle and left-bottom boxes are established by the same rules, with "width" replaced by "height", "left" by "top", "right" by "bottom" and "center" by "middle".</div></blockquote>
 </li>
 <li class="assertion">
@@ -1268,18 +1262,15 @@ If the right-middle box is not empty or its computed height is not 'auto' then t
 : <blockquote><div>The used values for right-top, right-middle and right-bottom boxes are established by the same rules as for left-top, left-middle and left-bottom.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the right-top box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
+If the right-top box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
 : <blockquote><div>The used values for right-top, right-middle and right-bottom boxes are established by the same rules as for left-top, left-middle and left-bottom.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the right-middle box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
+If the right-middle box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
 : <blockquote><div>The used values for right-top, right-middle and right-bottom boxes are established by the same rules as for left-top, left-middle and left-bottom.</div></blockquote>
 </li>
 <li class="assertion">
-
-XX If the right-bottom box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
+If the right-bottom box is empty and its computed height is 'auto', then the used values of its top and bottom padding and top and bottom border height are all 0.
 : <blockquote><div>The used values for right-top, right-middle and right-bottom boxes are established by the same rules as for left-top, left-middle and left-bottom.</div></blockquote>
 </li>
 <li class="assertion">
