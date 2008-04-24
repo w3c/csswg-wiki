@@ -11,7 +11,7 @@ specification, and, for each assertion, a list of associated tests. </p>
 
 <ol>
 <li class="assertion">
-XX The content of the document is flowed into the page area of one or more page sheets.
+The content of the document is flowed into one or more page areas within their corresponding page boxes.
 <blockquote><div>The content of the document is flowed into the page area.</div></blockquote>
 <blockquote><div>The content area of a page box is called the page area.</div></blockquote>
 <div class="tests">
@@ -804,6 +804,7 @@ The 'content' property applies to margin boxes.
 
 <div class="tests">
 Tests:
+
 
 </div>
 
