@@ -1,5 +1,7 @@
 ====== Selectors Level 4 ======
 
+Ideas to consider
+
   * [[ideas:current-url-selector|Current URL Selector (with directory levels)]]
   * IDREF combinators: [[http://lists.w3.org/Archives/Public/www-style/2000Jan/0152.html|/attr/]] syntax, [[http://lists.w3.org/Archives/Public/www-style/2005Oct/0173.html|friend(attribute, selector)]] syntax
   * relationship selectors, e.g.:
