@@ -77,7 +77,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Status : Document edited (as part of status section cleanup before processing issues).
 
 ==== Issue 9 ====
-  ; URL : http://www.w3.org/mid/A134E2426B46D711BB4B000347AE6E7C5915FF@xvan02.vcd.hp.com http://www.w3.org/mid/BAD535BA.26F81%25tantek@cs.stanford.edu
+  ; URL : http://www.w3.org/mid/A134E2426B46D711BB4B000347AE6E7C5915FF@xvan02.vcd.hp.com http://lists.w3.org/Archives/Public/www-style/2003Apr/0179.html
   ; Raised by : Jacob Refstrup, David Woolley
   ; Summary : 'opacity' not precisely defined
   ; Status : Spec edited.
