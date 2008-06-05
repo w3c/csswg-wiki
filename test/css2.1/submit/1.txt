@@ -5,3 +5,5 @@ testcase_url    : http://www.example.com/test-topic-000.xht
 title           : Test Title
 status_tag      : submitted
 ----
+
+~~DISCUSSION~~
