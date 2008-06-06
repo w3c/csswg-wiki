@@ -75,7 +75,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Whitespace interferes with anonymous box generation rules.
   ;Testcase : http://lists.w3.org/Archives/Public/www-archive/2008Mar/att-0004/testws.html
   ;Test Results : http://lists.w3.org/Archives/Public/www-style/2008Mar/0029.html
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Mar/0024.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Mar/0024.html http://lists.w3.org/Archives/Public/www-style/2008Apr/0246.html
   ;Status : =WG= Discuss.
 
 ==== Issue 9 ====
