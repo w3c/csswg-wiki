@@ -410,3 +410,33 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Remove or edit containing block notes for top/left/bottom/right props.
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
+
+==== Issue 44 ====
+
+  ;URL : http://www.w3.org/Style/CSS/Tracker/issues/35
+  ;Summary : page-break-inside should not inherit
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Apr/0018.html
+  ;Resolution : Proposal accepted.
+  ;Status : =Bert= Run make and the following to errata page:
+
+<code>
+<!--========================== ISSUE-35a ==========================-->
+
+<h2 id="s.13.3.1"><a
+href="/TR/2007/CR-CSS21-20070719/page.html#page-break-props">
+Section&nbsp;13.3.1 'list-style-position', and 'list-style'
+properties</a></h2>
+
+<p><span class=date>[2008-04-30]</span> The 'page-break-inside'
+property no longer inherits.</p>
+
+<!--========================== ISSUE-35b ==========================-->
+
+<h2 id="s.13.3.3"><a
+href="/TR/2007/CR-CSS21-20070719/page.html#allowed-page-breaks">
+Section&nbsp;13.3.3 Allowed page breaks</a></h2>
+
+<p><span class=date>[2008-04-30]</span> The 'page-break-inside'
+property of all ancestors is checked for page-breaking restrictions,
+not just that of the breakpoint's parent.</p>
+</code>
