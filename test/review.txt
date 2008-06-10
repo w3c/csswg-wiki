@@ -64,7 +64,7 @@ There are three basic qualifications you must satisfy to become a Peer:
 The first two qualifications can be met by submitting good-quality tests for the test suite
 and intelligently critiquing existing tests.
 
-The second qualification is met by someone vouching for you. This could be a
+The third qualification is met by someone vouching for you. This could be a
 test suite Owner or Peer, or it could be someone else trusted by an Owner.
 For example, since fantasai trusts active members of the CSS Working Group,
 an employee of Microsoft can ask his CSS Working Group representative, Markus
