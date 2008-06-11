@@ -1073,7 +1073,7 @@ The used value of the top-right box's left margin is its computed value unless t
 </li>
 <li class="assertion">
 
-XXX If the above constraints are contradictory ("over-constrained") then the right margin of the top-left box and the left margin of the top-right box are treated as if their computed values were 'auto'.
+If the above constraints are contradictory ("over-constrained") then the right margin of the top-left box and the left margin of the top-right box are treated as if their computed values were 'auto'.
 : <blockquote><div></div></blockquote>
 <h3>
 
@@ -1140,7 +1140,7 @@ The used value of the bottom-right box's left margin is its computed value unles
 </li>
 <li class="assertion">
 
-XXX If the above constraints are contradictory ("over-constrained") then the right margin of the bottom-left box and the left margin of the bottom-right box are treated as if their computed values were 'auto'.
+If the above constraints are contradictory ("over-constrained") then the right margin of the bottom-left box and the left margin of the bottom-right box are treated as if their computed values were 'auto'.
 : <blockquote><div>The used values for bottom-left, bottom-center and bottom-right are established by the same rules.</div></blockquote>
 <h3>
 
@@ -1206,7 +1206,7 @@ The used value of the left-bottom box's top margin is its computed value unless 
 </li>
 <li class="assertion">
 
-XXX If the above constraints are contradictory ("over-constrained") then the bottom margin of the left-top box and the top margin of the left-bottom box are treated as if their computed values were 'auto'.
+If the above constraints are contradictory ("over-constrained") then the bottom margin of the left-top box and the top margin of the left-bottom box are treated as if their computed values were 'auto'.
 : <blockquote><div>The used values for left-top, left-middle and left-bottom boxes are established by the same rules, with "width" replaced by "height", "left" by "top", "right" by "bottom" and "center" by "middle".</div></blockquote>
 <h3>
 
@@ -1273,7 +1273,7 @@ The used value of the right-bottom box's top margin is its computed value unless
 </li>
 <li class="assertion">
 
-XXX If the above constraints are contradictory ("over-constrained") then the bottom margin of the right-top box and the top margin of the right-bottom box are treated as if their computed values were 'auto'.
+If the above constraints are contradictory ("over-constrained") then the bottom margin of the right-top box and the top margin of the right-bottom box are treated as if their computed values were 'auto'.
 : <blockquote><div>The used values for right-top, right-middle and right-bottom boxes are established by the same rules as for left-top, left-middle and left-bottom.</div></blockquote>
 <h3>
 
