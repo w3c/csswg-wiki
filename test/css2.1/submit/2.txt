@@ -1,4 +1,4 @@
-CSS3 Test Suite: Paged Media: image-orientation and scaling
+====== CSS3 Test Suite: Paged Media: image-orientation and scaling ======
 
 ---- dataentry ----
 testcase_url    : http://savagecreek.net/CSS/Test/CSS3/Page/new/page-img-orient-001.xht
