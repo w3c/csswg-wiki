@@ -1,0 +1,10 @@
+====== CSS Test: @page page-break-inside (inline elements) ======
+
+---- dataentry ----
+testcase_url    : http://www.revenutiontesting.com/w3c/page-break-inside-002.xht
+authors         : Tom Clancy
+status_tag      : Submitted
+# Do not edit below this line
+----
+
+~~DISCUSSION~~
