@@ -47,6 +47,17 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
   ; Blocked by : CSS2.1 is primarily blocked by the test suite and secondarily by implementations.
   ; Rationale : This is the core specification of CSS. Without it CSS is not defined.
 
+===== CSS Animations =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
 ===== CSS Backgrounds and Borders Level 3 =====
 
   ; Latest Publication : http://www.w3.org/TR/css3-background/ http://dev.w3.org/csswg/css3-background/
@@ -57,6 +68,138 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
   ; Test Suite : The test suite has not been started. It should be a medium-size effort: around 1000 tests.
   ; Blocked by : Nothing currently: steady progress is being made. Resources for a formal test suite may become an issue later on.
   ; Rationale : Most of the CSS3 features designers are most excited about are in this module. It gives them much more graphical control with much less markup hacking.
+
+===== CSS Basic Box Model Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Color Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Extended Box Model Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Flexible Box =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Fonts Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Generated and Replaced Content Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Generated Content for Paged Media =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Grid Positioning =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Lists Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Marquee Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Mobile Profile 2.0 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Multi-column Layout =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
 ===== CSS Namespaces =====
 
@@ -69,311 +212,167 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
   ; Blocked by : Waiting for W3C Legal to finalize the new test suite licensing policy.
   ; Rationale : This spec is useful for using CSS with multi-namespace documents. It is needed by Selectors.
 
-===== Selectors Level 3 =====
+===== CSS Object Model Level 3 =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Mobile Profile 2.0 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Color Level 3 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Variables =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== Media Queries =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Snapshot 2007 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
 ===== CSS Object Model View Module =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
 ===== CSS Paged Media Level 3 =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Fonts Level 3 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Multi-column Layout =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Template Layout =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
 ===== CSS Ruby =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
-===== CSS Animations =====
+===== CSS Snapshot 2007 =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Transitions =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Transformations =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Basic Box Model Level 3 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Values and Units Level 3 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Grid Positioning =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Marquee Level 3 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Generated and Replaced Content Level 3 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
-
-===== CSS Object Model Level 3 =====
-
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
 ===== CSS Tables Level 3 =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== CSS Template Layout =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
 ===== CSS Text Level 3 =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
 ===== CSS Text Layout Level 3 =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
-===== CSS Generated Content for Paged Media =====
+===== CSS Transformations =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
-===== CSS Extended Box Model Level 3 =====
+===== CSS Transitions =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
-===== CSS Lists Level 3 =====
+===== CSS Values and Units Level 3 =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
-===== CSS Flexible Box =====
+===== CSS Variables =====
 
-  ; Latest Publication : 
-  ; Advocate : 
-  ; Description : 
-  ; Status : 
-  ; Implementations : 
-  ; Test Suite : 
-  ; Blocked by : 
-  ; Rationale : 
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
 
+===== Media Queries =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+===== Selectors Level 3 =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
