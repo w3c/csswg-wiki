@@ -1,0 +1,70 @@
+====== CSS Working Group 2008 Charter Table of Specifications ======
+
+This page documents the items the CSSWG intends to work on. Some items will be listed as deliverables for the charter. Others will be merely in scope and can be worked on but not advanced through the Recommendation track unless the charter is amended to include them as a deliverable.
+
+Each module advocate needs to fill out the following information:
+
+<code>
+===== Specification Name =====
+
+  ; Latest Working Draft : pasteURLhere
+  ; Advocate : Your Name Here
+  ; Description : Describe here what it is.
+  ; Status : Explain current status, expected next status, how big of a project it is.
+  ; Implementations : Explain current status and expectations.
+  ; Test Suite : Explain current and expected status, how big of a project it will be.
+  ; Blocked by : Explain anything that is blocking progress.
+  ; Rationale : Explain why we want this, why it is important.
+
+</code>
+
+The CSSWG's [[http://www.w3.org/Style/CSS/current-work|current work page]] is a good starting point. fantasai's [[http://www.w3.org/blog/CSS/2007/11/01/css_recommendation_track|article on specification stages]] might be helpful for describing status. It defines the following stages:
+
+  ; Exploring : In this stage the spec is often incomplete, possibly changing greatly between drafts, and possibly including many features that will be dropped as the module matures.
+  ; Rewriting : Some modules enter this stage, where large parts of the spec are rewritten.
+  ; Refining : At this point the spec is mostly complete and the scope of its functionality is well-defined, but the spec still needs several cycles of publishing, review, and revision to uncover issues and resolve them.
+  ; Stabilizing : At this point the spec is almost stable enough for CR, but still needs some well-defined changes from e.g. last-call comments, or general minor polishing.
+  ; Call for Implementations : At this point the WG believes the specification to be complete and precise enough to be implemented, and by transitioning it into the CR status has issued a call for implementations and test cases. 
+  ; Recommended / Stable : Although the test suite and implementation reports may not be done yet and there may still be a few minor issues left, at this point the WG has enough implementation experience that it considers the spec ready for wide use.
+
+If your spec has a test suite, you can use these [[http://fantasai.inkedblade.net/style/csswg/redesign-2007/Test/|release phase definitions]] to describe its status, reproduced below:
+
+  ; Final : Test suite is complete with no known or suspected bugs. At least two implementations pass, and the specification has reached Recommendation status.
+  ; Release Candidate : Test suite is complete with no known or suspected bugs. At least one implementation passes almost all tests.
+  ; Beta : Test suite has complete coverage of the spec. It may have some bugs but is expected to be mostly reliable. At least one implementation passes a majority of the tests.
+  ; Alpha : Test suite has complete if not thorough coverage of the spec, but is expected to require some revision.
+  ; Pre-Alpha : Test suite is incomplete and/or known to contain bugs at time of publication.
+
+
+===== CSS 2.1 =====
+
+  ; Latest Publication : http://w3.org/TR/CSS21/
+  ; Advocate : CSS Working Group
+  ; Description : CSS2.1 defines CSS Level 2 and forms the basis of the CSS Level 3 specifications.
+  ; Status : CSS2.1 is currently a Candidate Recommendation. We are maintaining [[|errata]], a few of which are substantial but most of which are clarifications. We expect to publish a Last Call next followed shortly by another CR in order to incorporate the errata into the specification.
+  ; Implementations : All features in this specification are implemented by two or more implementations and they are mostly interoperable. However there are still areas of incompatibility as implementations have lots of bugs, and, in some cases, the spec is unclear or has errors.
+  ; Test Suite : The test suite is currently in Pre-Alpha. It is a very large project, and is expected to contain on the order of ten thousand tests.
+  ; Blocked by : CSS2.1 is primarily blocked by the test suite and secondarily by implementations.
+  ; Rationale : This is the core specification of CSS. Without it CSS is not defined.
+
+===== CSS Backgrounds and Borders Level 3 =====
+
+  ; Latest Publication : http://www.w3.org/TR/css3-background/ http://dev.w3.org/csswg/css3-background/
+  ; Advocate : Bert Bos, Elika Etemad
+  ; Description : This draft contains the features of CSS level 3 relating to borders and backgrounds. It extends CSS2 with image borders, multiple backgrounds, rounded corners, and drop shadows.
+  ; Status : This specification is currently a Working Draft. The next expected publication is a Working Draft followed by a Last Call Working Draft. 
+  ; Implementations : There is at least one implementation of most features in the draft, two of many, and more planned.
+  ; Test Suite : The test suite has not been started. It should be a medium-size effort: around 1000 tests.
+  ; Blocked by : Nothing currently: steady progress is being made. Resources for a formal test suite may become an issue later on.
+  ; Rationale : Most of the CSS3 features designers are most excited about are in this module. It gives them much more graphical control with much less markup hacking.
+
+===== CSS Namespaces =====
+
+  ; Latest Publication : http://www.w3.org/TR/css3-namespace/
+  ; Advocate : Elika Etemad, Anne van Kesteren
+  ; Description : CSS Namespaces defines syntax for representing namespaced-names in CSS.
+  ; Status : This spec is currently a Candidate Recommendation. The next publication is expected to be Proposed Recommendation. It's a very short spec.
+  ; Implementations : There have been multiple implementations for many years, and only two known points of non-interoperability: case-sensitivity and empty strings namespaces.
+  ; Test Suite : There is an Alpha-stage test suite being prepared. The test suite is a small project: less than 100 tests.
+  ; Blocked by : Waiting for W3C Legal to finalize the new test suite licensing policy.
+  ; Rationale : This spec is useful for using CSS with multi-namespace documents. It is needed by Selectors.
