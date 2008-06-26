@@ -241,7 +241,7 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
   ; Latest Working Draft : http://www.w3.org/TR/css3-page/ http://dev.w3.org/csswg/css3-page
   ; Advocate : Elika Etemad, Håkon Wium Lie, Melinda Grant
   ; Description : The CSS Paged Media module adds features for better printing, in particular the ability to add page borders and backgrounds, headers and footers, and orphans and widows controls. It also includes some key image styling controls.
-  ; Status : The current status is Last Call Working Draft. The next draft (which should be published fairly soon) provides many clarifications and one new requirement. TBD whether the next step is another Last Call or Candidate Recommendation.
+  ; Status : The current status is Last Call Working Draft. The next draft (which should be published fairly soon) provides many clarifications and one new requirement. The next expected step is another Last Call Working Draft, expected within a month or two.
   ; Implementations : Most features in the module have multiple implementations. However the level of interoperability has not yet been assessed and may be low.
   ; Test Suite : The test suite is a medium-size project. It is expected to contain on the order of 1000 tests. HP has dedicated resources to developing this test suite.
   ; Blocked by : CSS 2.1. As the 2.1 dependency precludes completion any time soon, the module has added additional features and returned to WD. Those features are marked at risk. The module is making steady progress.
