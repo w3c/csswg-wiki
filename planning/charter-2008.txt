@@ -126,12 +126,13 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 
 ===== CSS Generated and Replaced Content Level 3 =====
 
-  ; Latest Working Draft : http://www.w3.org/TR/2007/WD-css3-gcpm-20070504
-  ; Advocate : Håkon Wium Lie
-  ; Description : The WD describes advanced features necessary for printing web content to paper using traditional printing features.
-  ; Status : The current WD needs an update to reflect implementation experience in Prince. The syntax will change slightly in some cases. 
-  ; Implementations : Prince has implemented a significant number of the features described, including: running headers and footers, leaders, cross-references, footnotes, hyphenation, character substitution, image resolution, page floats, crop and cross marks, bookmarks, and CMYK colors.
-  ; Test Suite : FIXME 
+
+  ; Latest Working Draft : FIXME pasteURLhere
+  ; Advocate : FIXME Your Name Here
+  ; Description : FIXME Describe here what it is.
+  ; Status : FIXME Explain current status, expected next status, how big of a project it is.
+  ; Implementations : FIXME Explain current status and expectations.
+  ; Test Suite : FIXME Explain current and expected status, how big of a project it will be.
   ; Blocked by : FIXME Explain anything that is blocking progress.
   ; Rationale : FIXME Explain why we want this, why it is important.
 
