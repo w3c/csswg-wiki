@@ -361,7 +361,7 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 
   ; Latest Working Draft : http://dev.w3.org/csswg/css3-mediaqueries/
   ; Advocate : Anne van Kesteren, Håkon Wium Lie
-  ; Description : FIXME Describe here what it is.
+  ; Description : Media Queries allow style sheets to be targeted to certain devices having certain features
   ; Status : Currently CR draft. Expected to become LCWD soon to fix some issues. Has been relatively stable for over six years so not much work.
   ; Implementations : Implementations in Safari and Opera. Mozilla is working on it.
   ; Test Suite : Various independent test suites already available.
