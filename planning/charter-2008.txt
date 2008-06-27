@@ -359,14 +359,14 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 
 ===== Media Queries =====
 
-  ; Latest Working Draft : FIXME pasteURLhere
-  ; Advocate : FIXME Your Name Here
+  ; Latest Working Draft : http://dev.w3.org/csswg/css3-mediaqueries/
+  ; Advocate : Anne van Kesteren
   ; Description : FIXME Describe here what it is.
-  ; Status : FIXME Explain current status, expected next status, how big of a project it is.
-  ; Implementations : FIXME Explain current status and expectations.
-  ; Test Suite : FIXME Explain current and expected status, how big of a project it will be.
-  ; Blocked by : FIXME Explain anything that is blocking progress.
-  ; Rationale : FIXME Explain why we want this, why it is important.
+  ; Status : Currently CR draft. Expected to become LCWD soon to fix some issues. Has been relatively stable for over six years so not much work.
+  ; Implementations : Implementations in Safari and Opera. Mozilla is working on it.
+  ; Test Suite : Various independent test suites already available.
+  ; Blocked by : Various small issues being raised on the mailing list.
+  ; Rationale : Nearing three implementations. Important to have with the device world we have so you can apply style sheets based on properties of the device. Infrastructure part of CSS so important to stabalize.
 
 ===== Selectors Level 3 =====
 
