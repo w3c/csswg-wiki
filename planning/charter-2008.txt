@@ -49,14 +49,14 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 
 ===== CSS Animations =====
 
-  ; Latest Working Draft : FIXME pasteURLhere
-  ; Advocate : FIXME Your Name Here
-  ; Description : FIXME Describe here what it is.
-  ; Status : FIXME Explain current status, expected next status, how big of a project it is.
-  ; Implementations : FIXME Explain current status and expectations.
-  ; Test Suite : FIXME Explain current and expected status, how big of a project it will be.
-  ; Blocked by : FIXME Explain anything that is blocking progress.
-  ; Rationale : FIXME Explain why we want this, why it is important.
+  ; Latest Working Draft : http://webkit.org/specs/CSSVisualEffects/CSSAnimation.html
+  ; Advocate : David Hyatt, Dean Jackson, David Singer
+  ; Description : Exposes keyframed animation via CSS.
+  ; Status : Not yet published as a WD, although probably could be.
+  ; Implementations : Implemented in Safari on iPhone version 2.
+  ; Test Suite : None yet.
+  ; Blocked by : N/A.
+  ; Rationale : Animation is part of document style, and thus should be in the styling system.
 
 ===== CSS Backgrounds and Borders Level 3 =====
 
@@ -315,25 +315,25 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 
 ===== CSS Transformations =====
 
-  ; Latest Working Draft : FIXME pasteURLhere
-  ; Advocate : FIXME Your Name Here
-  ; Description : FIXME Describe here what it is.
-  ; Status : FIXME Explain current status, expected next status, how big of a project it is.
-  ; Implementations : FIXME Explain current status and expectations.
-  ; Test Suite : FIXME Explain current and expected status, how big of a project it will be.
-  ; Blocked by : FIXME Explain anything that is blocking progress.
-  ; Rationale : FIXME Explain why we want this, why it is important.
+  ; Latest Working Draft : http://webkit.org/specs/CSSVisualEffects/CSSTransforms.html
+  ; Advocate : David Hyatt, Dean Jackson, David Singer
+  ; Description : Allows 2D/3D transforms for content styled with CSS.
+  ; Status : No WD published, although probably ready for first publication.
+  ; Implementations : Implemented in Safari 3.1 and greater, as well as Safari on iPhone 2.0.
+  ; Test Suite : No current test suite.
+  ; Blocked by : N/A.
+  ; Rationale : This functionality is available in SVG but not currently in CSS (without wrapping things in SVG, which has issues). This specification allows elements styled by CSS to be transformed.
 
 ===== CSS Transitions =====
 
-  ; Latest Working Draft : FIXME pasteURLhere
-  ; Advocate : FIXME Your Name Here
-  ; Description : FIXME Describe here what it is.
-  ; Status : FIXME Explain current status, expected next status, how big of a project it is.
-  ; Implementations : FIXME Explain current status and expectations.
-  ; Test Suite : FIXME Explain current and expected status, how big of a project it will be.
-  ; Blocked by : FIXME Explain anything that is blocking progress.
-  ; Rationale : FIXME Explain why we want this, why it is important.
+  ; Latest Working Draft : http://webkit.org/specs/CSSVisualEffects/CSSTransitions.html
+  ; Advocate : David Hyatt, Dean Jackson, David Singer
+  ; Description : Provides an animated effect as property values change.
+  ; Status : No WD published, although probably ready for first publication.
+  ; Implementations : Implemented in Safari 3.1 and greater, as well as Safari on iPhone 2.0.
+  ; Test Suite : No current test suite.
+  ; Blocked by : N/A
+  ; Rationale : With very little cost and graceful degradation, transitions allow a much nicer UI - replicating a lot of effects that currently use script.
 
 ===== CSS Values and Units Level 3 =====
 
