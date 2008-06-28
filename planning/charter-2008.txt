@@ -197,10 +197,10 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
   ; Latest Working Draft : http://www.w3.org/TR/2007/WD-css3-multicol-20070606
   ; Advocate : Håkon Wium Lie
   ; Description : The WD describes how to layout content in multiple columns.
-  ; Status : The WD has been in development since 1999. It now appears stable and seems ready to go to CR.
+  ; Status : The WD has been in development since 1999. The features set of this specification is stable.
   ; Implementations : There are three implementations, namely Gecko, Webkit and Prince. 
   ; Test Suite : Some test pages exist, but more work is necessary.
-  ; Blocked by : The WD should progress to CR with little effort. 
+  ; Blocked by : There are some remainig comments which should be addressed in another WD. After that, LC and CR seems within reach.
   ; Rationale : Multi-column layouts are important in printing and on wide screen. Describing multi-column layouts in CSS will allow HTML markup to be cleaner, which achieving more advanced presentation.
 
 ===== CSS Namespaces =====
