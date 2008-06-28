@@ -116,7 +116,7 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 ===== CSS Fonts Level 3 =====
 
   ; Latest Working Draft : FIXME pasteURLhere
-  ; Advocate : FIXME Your Name Here
+  ; Advocate : Håkon Wium Lie
   ; Description : FIXME Describe here what it is.
   ; Status : FIXME Explain current status, expected next status, how big of a project it is.
   ; Implementations : FIXME Explain current status and expectations.
