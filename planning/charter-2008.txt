@@ -370,11 +370,11 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 
 ===== Selectors Level 3 =====
 
-  ; Latest Working Draft : FIXME pasteURLhere
-  ; Advocate : FIXME Your Name Here
-  ; Description : FIXME Describe here what it is.
-  ; Status : FIXME Explain current status, expected next status, how big of a project it is.
-  ; Implementations : FIXME Explain current status and expectations.
-  ; Test Suite : FIXME Explain current and expected status, how big of a project it will be.
-  ; Blocked by : FIXME Explain anything that is blocking progress.
-  ; Rationale : FIXME Explain why we want this, why it is important.
+  ; Latest Working Draft : http://www.w3.org/TR/css3-selectors/
+  ; Advocate : Daniel Glazman
+  ; Description : This module describes the matching mechanism used in CSS to apply style rules to given elements in a document tree.
+  ; Status : Selectors are back to WD after a 2001 CR. The document should be able to move again along the REC track at fast pace.
+  ; Implementations : Selectors are widely implemented in all modern browsers. Firefox and Opera both have a superb Selectors implementation. IE is a bit behind but not far away. Getting interoperable implems for each feature should not be a problem.
+  ; Test Suite : [[http://www.w3.org/Style/CSS/Test/#css3-selectors|The Test Suite]] was authored with the specification, and continuously improved. One issue though : it's probably too big and tries to cover too many cases (for instance :hover applied to XML inside an HTML4 iframe!!!), slowing down implementation reports.
+  ; Blocked by : We need up-to-date implementation reports.
+  ; Rationale : This spec is mandatory not for the future of CSS but for its present... It's already widely implemented but never reached REC.
