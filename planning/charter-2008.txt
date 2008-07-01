@@ -111,7 +111,7 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
   ; Implementations : It is implemented (with vendor prefixes) in Gecko and WebKit, but it is not known how interoperable the implementations are.
   ; Test Suite : Needs to be written.  Probably a good bit of work (though not nearly as much as CSS 2.1).
   ; Blocked by : N/A
-  ; Rationale : Provide common formatting primitives for user-interface design to Web authors, since many Web pages consist of user interface, and authors often have to use existing features in very hacky ways to do user-interface not-very-well.
+  ; Rationale : Provide common formatting primitives for user-interface design to Web authors, since many Web pages consist of user interface, and authors often have to use existing features in very hacky ways to do user-interface that uses the browser window's area well.
 
 ===== CSS Fonts Level 3 =====
 
