@@ -195,7 +195,7 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 ===== CSS Multi-column Layout =====
 
   ; Latest Working Draft : http://www.w3.org/TR/2007/WD-css3-multicol-20070606
-  ; Advocate : Håkon Wium Lie
+  ; Advocate : Håkon Wium Lie, Saloni Mira Rai [MSFT]
   ; Description : The WD describes how to layout content in multiple columns.
   ; Status : The WD has been in development since 1999. The features set of this specification is stable.
   ; Implementations : There are three implementations, namely Gecko, Webkit and Prince. 
