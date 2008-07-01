@@ -104,14 +104,14 @@ If your spec has a test suite, you can use these [[http://fantasai.inkedblade.ne
 
 ===== CSS Flexible Box =====
 
-  ; Latest Working Draft : FIXME pasteURLhere
-  ; Advocate : FIXME Your Name Here
-  ; Description : FIXME Describe here what it is.
-  ; Status : FIXME Explain current status, expected next status, how big of a project it is.
-  ; Implementations : FIXME Explain current status and expectations.
-  ; Test Suite : FIXME Explain current and expected status, how big of a project it will be.
-  ; Blocked by : FIXME Explain anything that is blocking progress.
-  ; Rationale : FIXME Explain why we want this, why it is important.
+  ; Latest Working Draft : N/A
+  ; Advocate : David Baron, David Hyatt
+  ; Description : Define CSS display types and properties for flexible boxes.
+  ; Status : Draft is available, hopefully to be published as WD shortly.  Definitely needs more detail (i.e., math) and more examples, and maybe some adjustments to feature set.
+  ; Implementations : It is implemented (with vendor prefixes) in Gecko and WebKit, but it is not known how interoperable the implementations are.
+  ; Test Suite : Needs to be written.  Probably a good bit of work (though not nearly as much as CSS 2.1).
+  ; Blocked by : N/A
+  ; Rationale : Provide common formatting primitives for user-interface design to Web authors, since many Web pages consist of user interface, and authors often have to use existing features in very hacky ways to do user-interface not-very-well.
 
 ===== CSS Fonts Level 3 =====
 
