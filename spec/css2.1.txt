@@ -154,10 +154,11 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
 ==== Issue 17 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Nov/0059.html
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008May/0238.html
   ;Summary : Error in stacking context appendix E
   ;Proposal : s/but any descendants which actually create a new stacking context/but any positioned descendants and descendants which actually create a new stacking context/
   ;Resolution : Proposal accepted.
-  ;Status : Closed.
+  ;Status : =Bert= Edit change into 9.5 and 9.9.
 
 
 ==== Issue 18 ====
