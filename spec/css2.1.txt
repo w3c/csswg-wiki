@@ -529,6 +529,7 @@ not just that of the breakpoint's parent.</p>
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Mar/0184.html
   ;Summary : Typo in identifier character range
+  ;Proposal : Change A0 into 80.
   ;Status : Needs testcase.
 
 ==== Issue 58 ====
