@@ -29,7 +29,13 @@ min: 1
 limit: 20
 ----
 
+---- datacloud ----
+field: group_tags
+min: 5
+limit: 500
+----
+
 ---- datatable ----
-cols    : %pageid%, status_tag
-headers : Submission, Status
+cols    : %pageid%, status_tag, group_tags
+headers : Submission, Status, Groups
 ----
