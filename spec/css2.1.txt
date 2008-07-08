@@ -556,10 +556,9 @@ not just that of the breakpoint's parent.</p>
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0264.html
   ;Summary : percentage table row heights should be undefined, not auto
   ;Status : Needs proposed text.
-
 ==== Issue 62 ====
 
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0264.html
-  ;Summary : percentage table row heights should be undefined, not auto
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0245.html
+  ;Summary : Grammar for @media versus general block parsing
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jul/0105.html
   ;Status : =WG= Discuss.
