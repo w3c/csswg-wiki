@@ -2,7 +2,7 @@
 
 This page documents the items the CSSWG intends to work on. The first set of items are deliverables for the 2008 to 2010 charter period and are expected to proceed to Recommendation status. The remaining items are considered in scope and may be worked on as time and resources allow. These items will not advance through the Recommendation track unless the charter is amended to include them as a deliverable.
 
-Each module advocate is responsible for keeping the information on this page current. Instructions on how to maintain this page can be found [[planing/charter-2008-how-to|here]].
+Each module advocate is responsible for keeping the information on this page current. Instructions on how to maintain this page can be found [[planning/charter-2008-how-to|here]].
 
 ===== Deliverables =====
 
