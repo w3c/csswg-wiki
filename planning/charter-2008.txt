@@ -295,6 +295,7 @@ Comments from Bert Bos "I think any form of macros or additional scopes and indi
   ; Test Suite : None yet, requires a few hundred to a thousand tests.
   ; Blocked by : nothing
   ; Rationale : Templates fix the problem that absolute positioning in level 2 can't handle cases where elements of unknown sizes must be aligned to each other. The module furthermore allows designers who work from a "design grid" to transfer that grid almost 1-to-1 into CSS (and vice-versa).
+
 ==== CSS Text Level 3 ====
 
   ; Latest Working Draft : http://www.w3.org/TR/css3-text/ http://dev.w3.org/csswg/css3-text/
