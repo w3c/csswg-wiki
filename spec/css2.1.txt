@@ -520,7 +520,8 @@ not just that of the breakpoint's parent.</p>
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Apr/0460.html
   ;Summary : Should text-decoration propagate through internal table elements?
-  ;Status : Needs testcase.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jul/0450.html
+  ;Status : =WG= Discuss.
 
 ==== Issue 57 ====
 
