@@ -33,7 +33,7 @@ The ''rel="author"'' link is optional.
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head>
-  <title>CSS3 Paged Media Test Suite: DESCRIPTION OF TEST </title>
+  <title>CSS Test: DESCRIPTION OF TEST </title>
   <link rel="author" title="NAME OF AUTHOR" href="mailto:EMAIL OR http://CONTACTPAGE"/>
   <link rel="help" href="RELEVANT_SPEC_SECTION"/>
   <meta name="flags" content="TOKENS" />
