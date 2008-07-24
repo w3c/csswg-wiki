@@ -1,9 +1,9 @@
-====== CSS Test: Page Size - Cascading in the Page Context - Page contexts cascade ======
+====== CSS Test: Page Size - Page at-rules cascade ======
 
 ---- dataentry ----
-testcase_url    : http://www.revenutiontesting.com/w3c/cascading-page-context-001.xht
+testcase_url    : http://www.revenutiontesting.com/w3c/page-cascade-001.xht
 authors         : Tom Clancy
-status_tag      : NeedsWork
+status_tag      : Submitted
 group_tags      : # Can optionally add tags for grouping here
 # Do not edit below this line
 ----
