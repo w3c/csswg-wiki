@@ -1,0 +1,11 @@
+====== CSS Test: page-break-after: auto ======
+
+---- dataentry ----
+testcase_url    : http://www.revenutiontesting.com/w3c/page-break-after-005-b.xht
+authors         : Tom Clancy
+status_tag      : Submitted
+group_tags      : PageBreaks,BreaksAfter
+# Do not edit below this line
+----
+
+~~DISCUSSION~~
