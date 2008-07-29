@@ -597,3 +597,10 @@ to the sentence
 
   ;Proposal : Change COMMENT token (see thread for how)
   ;Status : =WG= discuss
+
+==== Issue 67 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0477.html
+  ;Summary : Margin collapsing not disabled between fixed-height block and last child
+  ;Status : Needs proposal.
+
