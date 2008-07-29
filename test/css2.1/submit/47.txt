@@ -3,8 +3,8 @@
 ---- dataentry ----
 testcase_url    : http://www.revenutiontesting.com/w3c/page-size-010.xht
 authors         : Tom Clancy
-status_tag      : NeedsWork
-group_tags      : # Can optionally add tags for grouping here
+status_tag      : Submitted
+group_tags      : PageSize
 # Do not edit below this line
 ----
 
