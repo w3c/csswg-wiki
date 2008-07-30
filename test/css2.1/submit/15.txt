@@ -1,9 +1,9 @@
 ====== CSS Test: Margin Boxes - Bottom ======
 
 ---- dataentry ----
-testcase_url    : http://www.revenutiontesting.com/w3c/page-mbox-018.xht
+testcase_url    : http://www.revenutiontesting.com/w3c/page-mbox-018-a.xht
 authors         : Tom Clancy
-status_tag      : NeedsWork
+status_tag      : Submitted
 group_tags      : DimensionOfMarginBoxesBottomRow,MarginBoxes
 # Do not edit below this line
 ----
