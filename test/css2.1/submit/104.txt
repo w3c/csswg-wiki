@@ -1,7 +1,7 @@
 ====== CSS Test: Image Fit - Height and width are independent when image-fit is 'contain' and no max-width or max-height is set ======
 
 ---- dataentry ----
-testcase_url    : http://www.revenutiontesting.com/w3c/img-fit-007-a.xht
+testcase_url    : http://www.revenutiontesting.com/w3c/image-fit-007-a.xht
 authors         : Tom Clancy
 status_tag      : NeedsWork
 group_tags      : # Can optionally add tags for grouping here
