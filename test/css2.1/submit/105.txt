@@ -1,9 +1,9 @@
 ====== CSS Test: Image Fit - Laying out image when image-fit is 'contain' and max-width is set ======
 
 ---- dataentry ----
-testcase_url    : http://www.revenutiontesting.com/w3c/img-fit-007-b.xht
+testcase_url    : http://www.revenutiontesting.com/w3c/image-fit-007-b.xht
 authors         : Tom Clancy
-status_tag      : NeedsWork
+status_tag      : Submitted
 group_tags      : # Can optionally add tags for grouping here
 # Do not edit below this line
 ----
