@@ -603,12 +603,12 @@ not just that of the breakpoint's parent.</p>
   ;Summary : Prose and token definition disagree on whether escapes may occur in comments
   ;Proposal : In 4.1.3 prepend
     Except within CSS comments
-
 to the sentence
     Any character (except a hexadecimal digit) can be escaped
     with a backslash to remove its special meaning.
   ;Resolution : Accepted proposal to update prose to match tokenization.
   ;Status : =Bert= Edit.
+
 
 ==== Issue 67 ====
 
