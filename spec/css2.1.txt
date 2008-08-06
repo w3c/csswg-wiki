@@ -595,7 +595,8 @@ not just that of the breakpoint's parent.</p>
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0522.html
   ;Summary : Section 9.2.2 says: "Several values of the 'display' property make an element inline: 'inline', 'inline-table', and 'run-in' (part of the time; see run-in boxes)." Seems to be missing 'inline-block'.
   ;Proposal : Add inline-block
-  ;Status : =WG= discuss
+  ;Resolution : Proposal accepted.
+  ;Status : =Bert= Edit.
 
 ==== Issue 66 ====
 
