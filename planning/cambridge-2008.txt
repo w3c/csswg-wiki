@@ -12,5 +12,10 @@ Proposed topics for topics for the August 2008 CSS Working Group Face-to-Face me
   * CSS3 Fonts Module
   * GCPM
   * CSS3 Text Layout
+  * CSS2.1 Issues
+    * Issue 14 - margins should be adjoining when min-height == height
+    * Issue 42 - Static position should also assume “clear: none”
+    * Issue 53 - Interaction of pre* and justification poorly defined (review implementation behavior)
+    * Issue 60 - Z-index and stacking behavior
   * <insert your topic here>
 
