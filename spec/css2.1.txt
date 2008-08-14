@@ -625,3 +625,9 @@ to the sentence
   ;Testcase : http://lists.w3.org/Archives/Public/www-archive/2008Jul/att-0026/xmllang.xhtml
   ;Status : Needs proposal.
 
+==== Issue 69 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Aug/0126.html
+  ;Summary : fixed background images not defined for paged media
+  ;Status : Needs testcase.
+
