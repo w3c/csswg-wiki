@@ -38,3 +38,8 @@ In both cases the test itself should be referenced as a link, not fed through th
 ==== Data cleanup ====
 
   * (7) Ability to delete all data for a given test (so that when a test is changed we can invalidate the results for that test). This process could be triggered manually on the command line rather than via CGI---that avoids the need for a login system.
+
+===== Other Notes =====
+
+  * Put requirements up front
+  * Add Skip button
