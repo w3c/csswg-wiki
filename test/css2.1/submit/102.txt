@@ -1,4 +1,4 @@
-====== CSS Test: Image Fit - The 'fill' value does not affect the calculation of 'height' and 'width' ======
+====== CSS Test: Image Fit - 'fill', explicit 'height'/'width' ======
 
 ---- dataentry ----
 testcase_url    : http://www.revenutiontesting.com/w3c/image-fit-005.xht
