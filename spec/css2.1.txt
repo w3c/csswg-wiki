@@ -474,6 +474,7 @@ not just that of the breakpoint's parent.</p>
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0151.html
   ;Summary : Clarify computed value of font-weight wrt bolder/lighter
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Aug/0167.html
   ;Status : =WG= Discuss.
 
 ==== Issue 50 ====
