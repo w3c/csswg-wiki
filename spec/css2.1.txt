@@ -130,7 +130,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0087.html
   ;Summary : margins should be adjoining when min-height == height
   ;Testcase : http://lists.w3.org/Archives/Public/www-style/2008Jul/0448.html
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Aug/0154.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Aug/0154.html http://lists.w3.org/Archives/Public/www-style/2008Aug/0164.html
   ;Status : =WG= Discuss.
 
 ==== Issue 15 ====
