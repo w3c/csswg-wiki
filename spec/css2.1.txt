@@ -635,3 +635,9 @@ to the sentence
   ;Summary : fixed background images not defined for paged media
   ;Status : Needs testcase.
 
+==== Issue 70 ====
+
+  ;URL : 
+  ;Summary : Bullet points in 8.3.1 about 'overflow' not 'visible' should mention that block formatting contexts, in general, do not collapse margins with their children.
+  ;Status : Needs proposal.
+
