@@ -460,7 +460,8 @@ not just that of the breakpoint's parent.</p>
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0105.html
   ;Summary : Clarify how media queries qualify style rules
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jun/0106.html
-  ;Status : =WG= Discuss.
+  ;Resolution : Proposal accepted proposal plus adding "The import only takes effect if the target medium matches the media list." to last paragraph in 6.3
+  ;Status : =Bert= Edit.
 
 ==== Issue 47 ====
 
