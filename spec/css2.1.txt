@@ -495,8 +495,7 @@ not just that of the breakpoint's parent.</p>
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0297.html
   ;Summary : Core grammar for @rules conflicts with CSS3 features
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Aug/0168.html
-  ;Status : =WG= Discuss.
+  ;Status : See Issue 61.
 
 ==== Issue 52 ====
 
