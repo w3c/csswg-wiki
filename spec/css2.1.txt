@@ -130,8 +130,14 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0087.html
   ;Summary : margins should be adjoining when min-height == height
   ;Testcase : http://lists.w3.org/Archives/Public/www-style/2008Jul/0448.html
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Aug/0154.html http://lists.w3.org/Archives/Public/www-style/2008Aug/0164.html
-  ;Status : =WG= Discuss.
+  ;Proposal : The bottom margin of an in-flow block-level element is adjoining to its last in-flow block-level child's bottom margin when:
+
+   * the element's specified 'height' is 'auto',
+   * the element's used height is the same as it would have been if the specified values of 'min-height' and 'max-height' were their initial values
+   * the element has no bottom padding or border.
+
+  ;Resolution : Proposal accepted.
+  ;Status : =Bert= Edit.
 
 ==== Issue 15 ====
 
