@@ -4,7 +4,7 @@
 testcase_url    : http://www.revenutiontesting.com/w3c/page-mbox-024.xht
 authors         : Tom Clancy
 status_tag      : Submitted
-group_tags      : 10_TestSort,DimensionOfMarginBoxesBottomRow,MarginBoxes
+group_tags      : A_MarginBoxes_A_A,DimensionOfMarginBoxesBottomRow,MarginBoxes
 # Do not edit below this line
 ----
 
