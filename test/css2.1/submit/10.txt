@@ -4,7 +4,7 @@
 testcase_url    : http://www.revenutiontesting.com/w3c/page-break-after-005-a.xht
 authors         : Tom Clancy
 status_tag      : NeedsWork
-group_tags      : PageBreaks,BreaksAfter
+group_tags      : SectionT_PageBreaks_AssertionK_TestA,PageBreaks,BreaksAfter
 # Do not edit below this line
 ----
 
