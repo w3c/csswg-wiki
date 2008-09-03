@@ -655,4 +655,5 @@ to the sentence
 
   ;URL : 
   ;Summary : @rules in unexpected contexts should parse as @rules.
-  ;Status : =WG= Discuss.
+  ;Resolution :  @rules inside declaration blocks are ignored if between declarations (i.e. at the beginning of a declaration before the property), invalid if within declarations.
+  ;Status : =Bert= Draft proposed text.
