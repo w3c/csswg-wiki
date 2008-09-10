@@ -13,13 +13,13 @@ This is where fantasai dumps her to-do list and tries to make sense of it.
           * Validate CSS unless invalid flag (but don't die in case validator has bug)
           * Validate other format-related stuff?
       * Create index of tests by section, including title and assertions, to check for coverage [need] (may want to split report into one page per section for including assertion [want])
-      * Strip out Eira's completed tests
+      * Set up directories for css3-background, others [need]
+      * Set up ViewVC [need]
+      * Create index of tests by contributor [need]
+      * Strip out Eira's completed tests [need]
       * Check in Gabriele's first set of tests and strip out completed tests
       * Assign Revenution to check in all their tests
       * Give Lachy and bz and Zack SVN access
-      * Set up directories for css3-background, others
-      * Set up ViewVC
-      * Create index of tests by contributor
   * Get half of tests checked in without going through fantasai
       * Give more people dev.w3.org CVS access
           * Train Arron, Eira, Gabriele to check in tests
