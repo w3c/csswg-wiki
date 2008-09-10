@@ -52,7 +52,7 @@ This is where fantasai dumps her to-do list and tries to make sense of it.
                   * Create sample grouping table
       * Explain how to get involved reporting problems with existing reviewed tests
           * [5] Set up feedback system for tests and hook up to harness [want]
-      * [3] Explain how to get involved fixing broken tests
+      * [4] Explain how to get involved fixing broken tests
           * [6] List all old tests and mark ones that need improvement
           * [3] Set up Bugzilla to take bug reports against tests [need]
       * [3] Load all harness and build system issues into Bugzilla
