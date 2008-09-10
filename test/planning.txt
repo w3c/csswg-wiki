@@ -53,6 +53,7 @@ This is where fantasai dumps her to-do list and tries to make sense of it.
           * Set up feedback system for tests and hook up to harness [want]
       * Explain how to get involved fixing broken tests
           * List all old tests and mark ones that need improvement
+          * Set up Bugzilla to take bug reports against tests
       * Load all harness and build system issues into Bugzilla
       * Update wiki with necessary information
       * Move wiki to csswg.org
