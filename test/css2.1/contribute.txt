@@ -9,28 +9,9 @@ The CSS2.1 Test Suite still needs a lot of work, and the CSS Working Group can't
 
 ===== How to License Your Contribution =====
 
-Send a message to public-css-testsuite@w3.org stating the following:
+The test suite is licensed under both the [[http://www.w3.org/Consortium/Legal/2008/04-testsuite-license|W3C Test Suite License]] and the [[http://www.w3.org/Consortium/Legal/2008/03-bsd-license|3-clause BSD License]].
 
-<file>
-I agree to license under the BSD 3-clause license [1] all my
-contributions to the W3C CSS Test Suites.
-
-[1] http://www.opensource.org/licenses/bsd-license.php
-
-I also hereby grant to the W3C, a perpetual, non-exclusive,
-royalty-free, world-wide right and license under my copyrights
-in these contributions to copy, publish, use, modify, and to
-distribute my contributions under the W3C Document License [2],
-as well as a right and license of the same scope to any
-derivative works that are prepared by the W3C or contributors
-working on its behalf and that are based on or incorporating
-all or part of my contributions.
-
-[2] http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231
-</file>
-
-This way we have a record that you gave us permission to distribute
-your contribution under these two licenses.
+To give us permission to distribute your contribution under these two licenses, you need to fill out [[http://www.w3.org/2002/09/wbs/1/testgrants2-200409/|W3C's license grant form]] (unless you or your company is a member of the CSS Working Group, in which case you're covered already).
 
 ===== How to Submit a New Test =====
 
