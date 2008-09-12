@@ -13,6 +13,7 @@ Some basic commands:
   ; /nick gabriele : change your IRC nick to gabriele
   ; /join #css-test : join the #css-test channel
   ; /query fantasai : start a private chat with fantasai
+  ; /me is sleepy : speak in the third person about yourself being sleepy
   ; /away sleep : set your away message to "sleep"
   ; /away : remove your away message
   ; /whois fantasai : see information about user fantasai including idle time and away msg (if any)
