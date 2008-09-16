@@ -10,26 +10,27 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
 
 ==== Issue 1 ====
 
-  ; Summary : css3-color should have a useful index
+  ; Summary : css3-color should have a useful index or it should be removed
   ; Raised by : David Baron
   ; URL : N/A
   ; Resolution : 
-  ; Status : 
+  ; Status : editorial
 
 ==== Issue 2 ====
 
   ; Summary : restructure TOC
   ; Raised by : Christolph Päper
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Mar/0405.html http://lists.w3.org/Archives/Public/www-style/2008Mar/0443.html http://lists.w3.org/Archives/Public/www-style/2008May/0182.html http://lists.w3.org/Archives/Public/www-style/2008Aug/0013.html http://lists.w3.org/Archives/Public/www-style/2008Aug/0019.html
-  ; Resolution : 
-  ; Status : 
+  ; Proposed Resolution 1 : no change, to preserve section number stability
+  ; Proposed Resolution 2 : similar to what is proposed, but moving the gamma correction section (probably modified, per later issue) into the beginning of Color Units, and perhaps putting the units before the values
+  ; Status : needs discussionneeds discussion
 
 ==== Issue 3 ====
 
   ; Summary : rename sections giving color keywords
   ; Raised by : various
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008May/0146.html
-  ; Resolution : 
+  ; Proposed Resolution : Probably rename, given the confusion this has caused
   ; Status : 
 
 ==== Issue 4 ====
@@ -37,7 +38,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Summary : report of browser bugs from test suite
   ; Raised by : Paul Tykodi
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0023.html http://lists.w3.org/Archives/Public/www-style/2008Jun/0029.html
-  ; Resolution : not a spec issue
+  ; Proposed Resolution : not a spec issue
   ; Status : not a spec issue
 
 ==== Issue 5 ====
@@ -54,7 +55,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Raised by : Andrew Fedoniuk
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0139.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0142.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0145.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0166.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0167.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0168.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0170.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0173.html 
   ; Note : same as [[http://lists.w3.org/Archives/Public/www-archive/2008Jun/att-0045/disposition-2.html#issue-20|issue 20 on previous issues list]]
-  ; Resolution : 
+  ; Proposed Resolution : no change
   ; Status : 
 
 ==== Issue 7 ====
@@ -62,7 +63,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Summary : ICC features shouldn't be removed
   ; Raised by : Chris Murphy
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0184.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0189.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0191.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0205.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0208.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0225.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0230.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0241.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0258.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0259.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0278.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0281.html http://lists.w3.org/Archives/Public/www-style/2008Aug/0072.html http://lists.w3.org/Archives/Public/www-style/2008Aug/0269.html http://lists.w3.org/Archives/Public/www-style/2008Aug/0270.html http://lists.w3.org/Archives/Public/www-style/2008Sep/0147.html http://lists.w3.org/Archives/Public/www-style/2008Sep/0148.html
-  ; Resolution : 
+  ; Proposed Resolution : no change
   ; Status : 
 
 ==== Issue 8 ====
@@ -86,7 +87,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Summary : presentation of HTML4 keywords and SVG keywords is inconsistent
   ; Raised by : David Perrell
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0457.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0462.html
-  ; Resolution : 
+  ; Proposed Resolution : change HTML4 table to look like SVG Table
   ; Status : 
 
 ==== Issue 11 ====
@@ -94,7 +95,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Summary : include HSL values in color tables
   ; Raised by : David Perrell
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0457.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0462.html
-  ; Resolution : 
+  ; Proposed Resolution : no change, since they wouldn't be exact matches due to rounding issues, and then there would be ambiguity
   ; Status : 
 
 ==== Issue 12 ====
@@ -102,7 +103,8 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Summary : does HSL get mapped to the sRGB color space
   ; Raised by : David Perrell
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0458.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0461.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0463.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0468.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0472.html
-  ; Resolution : 
+  ; Proposed Resolution 1 : no change (question already answered in spec)
+  ; Proposed Resolution 2 : add a statement with "must" in it to state the equivalence as a conformance requirement
   ; Status : 
 
 ==== Issue 13 ====
@@ -135,7 +137,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Raised by : Krzysztof Maczyński
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0539.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0540.html
   ; Note : same as [[http://lists.w3.org/Archives/Public/www-archive/2008Jun/att-0045/disposition-2.html#issue-17|issue 17 on previous issues list]], due to insufficient editing the previous time around
-  ; Resolution : 
+  ; Proposed Resolution : do the additional edits to match the previous resolution
   ; Status : 
 
 ==== Issue 17 ====
