@@ -1,0 +1,7 @@
+====== Comments on SVG Tiny 1.2 ======
+
+===== 15 September 2008 Last Call =====
+
+  * [[http://lists.w3.org/Archives/Public/www-style/2008Sep/0164.html|Link to CSS2.1 not CSS2]]
+  * [[http://lists.w3.org/Archives/Public/www-style/2008Sep/0167.html|text-align incompatible with CSS]]
+  * [[http://lists.w3.org/Archives/Public/www-style/2008Sep/0168.html|Lack of BiDi 'direction' problematic]]
