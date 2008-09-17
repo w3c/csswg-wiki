@@ -21,3 +21,9 @@ This section outlines possibilities for future specs.
 
   * [[spec:css4-page|CSS Paged Media Level 4]]
   * [[spec:selectors4|Selectors Level 4]]
+
+====== Specification Reviews ======
+
+CSSWG members' comments on related specs not published by our group.
+
+  * [[spec:reviews:svgtiny1.2|SVG Tiny 1.2]]
