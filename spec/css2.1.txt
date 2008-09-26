@@ -664,3 +664,10 @@ to the sentence
   ;Summary : extra columns in fixed tables are rendered
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Sep/0152.html
   ;Status : =WG= Discuss.
+
+==== Issue 73 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Sep/0216.html
+  ;Summary : URL grammar and comments
+  ;Status : == Needs proposal.
+
