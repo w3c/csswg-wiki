@@ -6,3 +6,4 @@ Proposed topics for topics for the October 2008 CSS Working Group Face-to-Face m
   * Margin collapsing
   * http://lists.w3.org/Archives/Public/www-style/2008Sep/0232.html
   * http://lists.w3.org/Archives/Public/www-style/2008Sep/0230.html
+  * http://www.w3.org/Style/CSS/Tracker/issues/63
