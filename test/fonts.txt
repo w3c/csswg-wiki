@@ -1,24 +1,20 @@
-====== Installing Fonts for CSS Testing ======
+====== Fonts for CSS Testing ======
 
-**To install the Ahem font on Windows:**
-<html>
-<head><title="" /></head>
-<body>
-    <ul>
-        <li>Download the font you want to install. The Ahem font can be obtained at <a href="http://dev.w3.org/CSS/fonts/ahem/">http://dev.w3.org/CSS/fonts/ahem/</a>.</li>
-        <li>Open the folder where you downloaded the font file.</li>
-        <li><strong>For Windows XP/Server 2003:</strong>
-            <ul>
-                <li>From the run dialog type '%windir%/fonts' and press <em>enter</em>.</li>
-                <li>From the download folder, where you downloaded the font; drag-and-drop the file to the fonts folder.</li>
-            </ul>
-        </li>
-        <li><strong>For Windows Vista/Server 2008</strong>
-            <ul>
-                <li>From the download folder, where you downloaded the font; right-click the font and select <em>install</em>.</li>
-                <li>Confirm your acceptance to the User Account Control (UAC) pop-up window. Select <em>continue</em></li>
-            </ul>
-        </li>
-    </ul>
-</body>
-</html>
+Many of the tests in the CSS Test Suite rely on the [[http://dev.w3.org/CSS/fonts/ahem/|Ahem font]]. Ahem's glyphs are all rectangles, which makes it easy to test the inline box model. More details are available in the [[http://dev.w3.org/CSS/fonts/ahem/README|Ahem README file]].
+
+The Ahem font is available in several formats for different systems. If we are missing yours, and you can create one, we would welcome your contribution. Send us a message on the [[http://lists.w3.org/Archives/Public/public-css-testsuite|public-css-testsuite mailing list]].
+
+==== Installing Ahem on Windows ====
+
+  - Download the [[http://dev.w3.org/CSS/fonts/ahem/AHEM____.TTF|TrueType version of Ahem]].
+  - Open the folder where you downloaded the font file.
+       * **For Windows XP/Server 2003:**
+            - Open the Fonts folder from the Control Panel, or from the Run dialog type '%windir%/fonts' and press Enter.
+            - Drag-and-drop the downloaded file to the fonts folder.</li>
+       * **For Windows Vista/Server 2008**
+            - Right-click the downloaded font file and select "Install".
+            - Confirm your acceptance to the User Account Control (UAC) pop-up window by selecting "continue".
+
+==== Installing Ahem on Mac OS X ====
+
+  //Someone fill this in please? :)//
