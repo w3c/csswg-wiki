@@ -635,7 +635,8 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0114.html
   ;Summary : Case-sensitivity of '':lang()'' and ''[xml|lang|=]''
   ;Testcase : http://lists.w3.org/Archives/Public/www-archive/2008Jul/att-0026/xmllang.xhtml
-  ;Status : Needs proposal.
+  ;Proposal : Copy wording from http://dev.w3.org/csswg/selectors3/#lang-pseudo
+  ;Status : =WG= Discuss.
 
 ==== Issue 69 ====
 
