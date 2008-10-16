@@ -704,3 +704,11 @@ to the sentence
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Sep/0233.html plus change last sentence to "Parts of the fixed position box that are not visible in the initial containing block will not print."
   ;Resolution : Proposal accepted.
   ;Status : =Bert= Edit.
+
+==== Issue 78 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2007Oct/0150.html
+  ;Summary : :before / :after description implies that :before:first-line is valid
+  ;Proposal : Replace "combined with" with "applied to an element having content generated using" and "including the inserted text" with "including the generated content".
+  ;Resolution : Assumed editorial.
+  ;Status : =Bert= Edit.
