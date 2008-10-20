@@ -163,3 +163,15 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; URL : private email to dbaron, 2008-07-28
   ; Proposed Resolution : editorial, edit to add "Some" before "advantages".
   ; Status : spec edited
+
+==== Issue 20 ====
+
+  ; Summary : need to define deprecated in a way that still requires UAs to support them (and thus need conformance requirements!)
+  ; Raised by : Rich Schwerdtfeger
+  ; URL : minutes of CSS meeting, 2008-10-20, morning session
+
+==== Issue 21 ====
+
+  ; Summary : note pointing to appearance property should link to it
+  ; Raised by : Steve Zilles
+  ; URL : minutes of CSS meeting, 2008-10-20, morning session
