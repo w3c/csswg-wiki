@@ -1,4 +1,4 @@
-====== CSS Test: Page Size - Handling Page Size ======
+====== CSS Test: Page Size - Handling Page Size - No Matching Paper ======
 
 ---- dataentry ----
 testcase_url    : http://www.revenutiontesting.com/w3c/page-size-009.xht
