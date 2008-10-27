@@ -1,4 +1,4 @@
-====== CSS Test: page properties: font properties ======
+====== CSS Test: page properties: @page font properties affect margin boxes ======
 
 ---- dataentry ----
 testcase_url    : http://www.revenutiontesting.com/w3c/page_properties/page-properties-008.xht
