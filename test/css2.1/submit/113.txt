@@ -1,7 +1,7 @@
 ====== CSS Test: page-break-after: auto ======
 
 ---- dataentry ----
-testcase_url    : http://www.revenutiontesting.com/w3c/page-break-after-005-b.xht
+testcase_url    : http://www.revenutiontesting.com/w3c/page-break-after-005.xht
 authors         : Tom Clancy
 status_tag      : Submitted
 group_tags      : Rev2110,PageBreaks,BreaksAfter
