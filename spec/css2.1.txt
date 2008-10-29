@@ -742,3 +742,9 @@ to the sentence
   ;Summary : Case of 'u' in UNICODE-RANGE token
   ;Resolution : Assumed editorial.
   ;Status : =Bert= Edit.
+
+==== Issue 83 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Sep/0197.html
+  ;Summary : Core syntax for UNICODE-RANGE token too lenient
+  ;Status : =Bert= Decide whether to fix in tokenizer or push to css3-fonts.
