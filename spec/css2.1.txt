@@ -749,3 +749,9 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Sep/0197.html
   ;Summary : Core syntax for UNICODE-RANGE token too lenient
   ;Status : =Bert= Decide whether to fix in tokenizer or push to css3-fonts.
+
+==== Issue 84 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Oct/0294.html
+  ;Summary : Should white-space apply to IDEOGRAPHIC SPACE
+  ;Status : =I18NWG= Advise.
