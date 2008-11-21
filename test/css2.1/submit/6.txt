@@ -1,4 +1,4 @@
-====== CSS Test: sizing the page box ======
+====== CSS Test: page properties: width/ height do not affect the page box ======
 
 ---- dataentry ----
 testcase_url    : http://www.revenutiontesting.com/w3c/page_properties/page-properties-026.xht
