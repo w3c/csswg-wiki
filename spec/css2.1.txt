@@ -779,3 +779,8 @@ to the sentence
   ;Summary : Comments allowed at beginning / end of style sheet?
   ;Status : =Bert= Propose wording.
 
+==== Issue 88 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Nov/0483
+  ;Summary : Is anonymous outer table box a block-formatting context?
+  ;Status : =WG= Discuss.
