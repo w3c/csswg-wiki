@@ -1606,13 +1606,13 @@ A page break MUST occur in the vertical margin between block boxes (or rows in a
 </li>
 <li class="assertion">
 
-The syntax of the image-orientation property is auto | intrinsic | &lt;angle>.
+The syntax of the image-orientation property is intrinsic | &lt;angle>.
 : <blockquote><div>Value: auto | intrinsic | &lt;angle&gt;</div></blockquote>
 <div class="tests">Tests: page-img-orient-000.xht, page-img-orient-001.xht</div>
 </li>
 <li class="assertion">
 
-The initial value of the image-orientation property is 'auto'.
+The initial value of the image-orientation property is '0deg'.
 : <blockquote><div>Initial: auto</div></blockquote>
 </li>
 <li class="assertion">
@@ -1644,7 +1644,7 @@ CSS layout processing applies to the image after rotation.
 </li>
 <li class="assertion">
 
-The 'auto' value of 'image-orientation' sets the image to the orientation of the page.
+The '0deg' value of 'image-orientation' sets the image to the orientation of the page.
 : <blockquote><div>auto: The image will be set to the orientation of the page</div></blockquote>
 </li>
 <li class="assertion">
@@ -1654,7 +1654,7 @@ The 'intrinsic' value of 'image-orientation' orients the image according to orie
 </li>
 <li class="assertion">
 
-The 'intrinsic' value of 'image-orientation' orients the image as for 'auto' if no orientation metadata is found within the image source data.
+The 'intrinsic' value of 'image-orientation' orients the image as for '0deg' if no orientation metadata is found within the image source data.
 : <blockquote><div>If no such metadata is found, the image is oriented as for 'auto'.</div></blockquote>
 </li>
 <li class="assertion">
