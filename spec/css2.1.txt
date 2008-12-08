@@ -791,3 +791,10 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jan/0297.html
   ;Summary : Page breaks should be allowed between last line box and content edge.
   ;Status : Needs proposed text.
+
+==== Issue 90 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Dec/0055.html
+  ;Summary : Update vendor prefix table
+  ;Resolution : Assumed editorial.
+  ;Status : =Bert= Edit or not.
