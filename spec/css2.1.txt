@@ -777,7 +777,9 @@ to the sentence
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Nov/0494.html
   ;Summary : Comments allowed at beginning / end of style sheet?
-  ;Status : =Bert= Propose wording.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Nov/0542.html
+  ;Resolution : Proposal accepted (telcon 2008-12-10)
+  ;Status : =Bert= Edit.
 
 ==== Issue 88 ====
 
