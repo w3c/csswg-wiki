@@ -840,4 +840,12 @@ to the sentence
   ;Proposal : Remove sections 13.2.1.1 and 13.2.1.2
   ;Status : =WG= Discuss.
 
+==== Issue 96 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Oct/0260.html
+  ;Summary : Rule D mentions all ancestors but forgets the element itself
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Oct/0260.html
+  ;Resolution : Assumed obvious.
+  ;Status : =Bert= Edit.
+
 
