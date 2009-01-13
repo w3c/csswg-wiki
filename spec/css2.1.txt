@@ -850,4 +850,10 @@ to the sentence
   ;Resolution : Assumed obvious.
   ;Status : =Bert= Edit.
 
+==== Issue 97 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0024.html
+  ;Summary : Add example of negative clearance
+  ;Resolution : Assumed editorial.
+  ;Status : =Bert= Edit.
 
