@@ -866,3 +866,10 @@ to the sentence
   ;Resolution : Proposal accepted.
   ;Status : =Bert= Edit.
 
+==== Issue 99 ====
+
+  ;URL : http://www.w3.org/mid/495A4E7E.10305@gmail.com
+  ;Summary : Appendix G says: 'The two occurrences of "\377"...' but there is only one.
+  ;Proposal : Change this sentence and the next to singular.
+  ;Resolution : Asumed editorial
+  ;Status : =Bert= Edit.
