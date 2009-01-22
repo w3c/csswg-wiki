@@ -431,7 +431,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Need clarification on allowed guesses for static position?
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jun/0177.html
   ;Resolution : Proposal accepted with "this" replaced by "this hypothetical calculation"
-  ;Status : =Bert= Edit.
+  ;Status : =Bert= Edit Errata to include the word "specified".
 
 ==== Issue 46 ====
 
