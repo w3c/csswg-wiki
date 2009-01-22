@@ -55,7 +55,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007JulSep/0177.html
   ;Testcase : http://lists.w3.org/Archives/Public/www-style/2008May/0199.html
   ;Proposal : In [[http://www.w3.org/TR/CSS21/box.html#collapsing-margins|8.3.1]] bullet 6 subbullet 2, change "non-zero top border" to "non-zero bottom border".
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit Changes section.
+  ;Status : Closed.
 
 ==== Issue 7 ====
 
