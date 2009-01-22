@@ -317,7 +317,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Is '@' not followed by a valid identifier parsed as an invalid at-rule or a generic invalid token?
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Aug/0165.html
   ;Resolution : Proposal by dbaron+fantasai accepted.
-  ;Status : =Bert= Edit.
+  ;Status : =Bert= Edit Changes section.
 
 ==== Issue 33 ====
 
