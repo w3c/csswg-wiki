@@ -164,8 +164,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Error in stacking context appendix E
   ;Proposal : s/but any descendants which actually create a new stacking context/but any positioned descendants and descendants which actually create a new stacking context/
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Check and edit changes into 9.5 and 9.9.
-
+  ;Status : Closed.
 
 ==== Issue 18 ====
 
