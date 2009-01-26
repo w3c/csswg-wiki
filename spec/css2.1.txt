@@ -711,7 +711,7 @@ to the sentence
   ;Summary : Treat XHTML body as magic like HTML body
   ;Proposal : http://www.w3.org/Style/css2-updates/issues-4-20061106.html#issue-31
   ;Resolution : Accepted proposed text for body magic from issues-4
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 81 ====
 
