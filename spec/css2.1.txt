@@ -862,3 +862,9 @@ to the sentence
   ;Summary : Background propagation rules imply only ''background-image'' and ''background-color'' are propagated.
   ;Proposal : Use wording from http://dev.w3.org/csswg/css3-background/#special-backgrounds
   ;Status : =WG= Discuss.
+
+==== Issue 101 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0445.html
+  ;Summary : Float rules when interacting with floats outside containing block
+  ;Status : =WG= Discuss.
