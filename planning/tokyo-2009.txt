@@ -1,0 +1,5 @@
+====== Mandelieu F2F October 2008 ======
+
+Proposed topics for topics for the March 2009 CSS Working Group Face-to-Face meeting in Tokyo.
+
+  * margins at page breaks
