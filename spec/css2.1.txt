@@ -875,3 +875,9 @@ to the sentence
   ;Summary : Parsing of @import after unknown rules
   ;Proposal : Only ignore @import if it follows a {non-@}-rule or a known @-rule that it is not allowed to follow.
   ;Status : =WG= Discuss.
+
+==== Issue 103 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0494.html
+  ;Summary : Fix error in calculation of auto values for 'left' and 'right'
+  ;Status : =WG= Discuss.
