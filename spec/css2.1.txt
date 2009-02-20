@@ -839,7 +839,7 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0024.html
   ;Summary : Add example of negative clearance to negative clearance note
   ;Resolution : Assumed editorial.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 98 ====
 
