@@ -792,7 +792,7 @@ to the sentence
   ;Summary : Spec unclear about whether line break opportunities found before or after white space collapsing
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Dec/0075.html
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 92 ====
 
