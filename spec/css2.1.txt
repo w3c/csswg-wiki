@@ -763,7 +763,7 @@ to the sentence
   ;Summary : Comments allowed at beginning / end of style sheet?
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Nov/0542.html
   ;Resolution : Proposal accepted (telcon 2008-12-10)
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 88 ====
 
