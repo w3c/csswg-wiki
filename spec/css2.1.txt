@@ -808,7 +808,7 @@ to the sentence
   ;Summary : Initial containing block definition poorly worded and confusing
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Dec/0007.html
   ;Resolution : Assumed editorial.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 94 ====
 
