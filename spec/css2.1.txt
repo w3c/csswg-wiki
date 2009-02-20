@@ -855,7 +855,7 @@ to the sentence
   ;Summary : Appendix G says: 'The two occurrences of "\377"...' but there is only one.
   ;Proposal : Change this sentence and the next to singular.
   ;Resolution : Assumed editorial
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 100 ====
 
