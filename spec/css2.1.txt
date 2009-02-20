@@ -382,7 +382,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : Canvas background bounds need clarification for paged media
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Apr/0516.html
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit Changes section.
+  ;Status : Closed.
 
 ==== Issue 40 ====
 
