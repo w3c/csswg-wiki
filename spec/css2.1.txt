@@ -832,7 +832,7 @@ to the sentence
   ;Summary : Rule D mentions all ancestors but forgets the element itself
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Oct/0260.html
   ;Resolution : Assumed obvious.
-  ;Status : =Bert= Edit.
+  ;Status : =Bert= Remove extra 's' in chapter edit.
 
 ==== Issue 97 ====
 
