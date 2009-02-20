@@ -823,7 +823,8 @@ to the sentence
   ;Summary : Sections 13.2.1.1 and 13.2.1.2 describe an impossible (in 2.1) case
   ;Proposal : Remove sections 13.2.1.1 and 13.2.1.2
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit.
+  ;Status : =Bert= Remove completely?
+
 
 ==== Issue 96 ====
 
