@@ -687,7 +687,7 @@ to the sentence
   ;Summary : Printing of fixed position boxes in Paged Media
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Sep/0233.html plus change last sentence to "Parts of the fixed position box that are not visible in the initial containing block will not print."
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 78 ====
 
