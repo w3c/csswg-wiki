@@ -847,7 +847,7 @@ to the sentence
   ;Summary : Allow preserving top margin after a forced page break
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Jan/0195.html
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 99 ====
 
