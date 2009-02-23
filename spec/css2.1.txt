@@ -703,7 +703,7 @@ to the sentence
   ;Summary : margin-collapsing with min-height
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Nov/0297.html
   ;Resolution : Proposal accepted (telcon 2008-12-10)
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 80 ====
 
