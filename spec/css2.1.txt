@@ -888,3 +888,9 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0538.html
   ;Summary : Various CSS2.1 Grammar Issues
   ;Status : =Bert= Review and propose resolutions.
+
+==== Issue 104 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0234.html
+  ;Summary : widows and orphans should specify that zero and negative values are not allowed.
+  ;Status : =WG= Discuss.
