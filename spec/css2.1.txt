@@ -894,3 +894,9 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0234.html
   ;Summary : widows and orphans should specify that zero and negative values are not allowed.
   ;Status : =WG= Discuss.
+
+==== Issue 106 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0589.html
+  ;Summary : Parsing Garbage.
+  ;Status : =WG= Discuss.
