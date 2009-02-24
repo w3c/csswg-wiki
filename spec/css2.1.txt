@@ -900,3 +900,9 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0589.html
   ;Summary : Parsing Garbage.
   ;Status : =WG= Discuss.
+
+==== Issue 107 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0378.html
+  ;Summary : Clarify relative positioning calculations and whether they affect computed or used values
+  ;Status : =WG= Discuss.
