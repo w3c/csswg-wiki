@@ -906,3 +906,11 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0378.html
   ;Summary : Clarify relative positioning calculations and whether they affect computed or used values
   ;Status : Open. Needs Testcases.
+
+==== Issue 107 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0133.html
+  ;Summary : counter-increment: none not defined
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Mar/0194.html
+  ;Resolution : Option 1 accepted.
+  ;Status : =Bert= Edit, and post edits to www-style for review.
