@@ -907,10 +907,23 @@ to the sentence
   ;Summary : Clarify relative positioning calculations and whether they affect computed or used values
   ;Status : Open. Needs Testcases.
 
-==== Issue 107 ====
+==== Issue 108 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0133.html
   ;Summary : counter-increment: none not defined
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Mar/0194.html
   ;Resolution : Option 1 accepted.
   ;Status : =Bert= Edit, and post edits to www-style for review.
+
+==== Issue 109 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html
+  ;Summary : anonymous table objects and table rows
+  ;Status : Open
+
+==== Issue 110 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
+  ;Summary : anonymous table objects and white space
+  ;Status : Open
+
