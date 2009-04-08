@@ -934,3 +934,9 @@ to the sentence
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0070.html
   ;Summary : synchronize font-weight: bolder/lighter changes with any accepted for css3-fonts
   ;Status : Open
+
+==== Issue 112 ====
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Apr/0099.html (contains proposal)
+  ;Summary : clarify which element's text-align property applies to cells
+  ;Status : =WG= Discuss
+  
