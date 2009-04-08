@@ -887,7 +887,9 @@ to the sentence
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0538.html
   ;Summary : Various CSS2.1 Grammar Issues
-  ;Status : =Bert= Review and propose resolutions.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Feb/0619.html
+  ;Resolution : Proposal accepted.
+  ;Status : =Bert= Edit.
 
 ==== Issue 105 ====
 
