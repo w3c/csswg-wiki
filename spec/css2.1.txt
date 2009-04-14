@@ -236,9 +236,8 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Testcase : http://fantasai.inkedblade.net/style/tests/ad-hoc/syntax/matching-brackets-000.xht
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008May/0252.html
   ;Proposal 2 : http://lists.w3.org/Archives/Public/www-style/2008Dec/0091.html
-  ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit chapter. =WG= Discuss http://lists.w3.org/Archives/Public/www-style/2008Nov/0509.html and Proposal 2.
-
+  ;Resolution : Duplicate malformed declarations rule for malformed statements (statements rule to come after declarations rule in the spec).
+  ;Status : =Bert= Edit.
 
 ==== Issue 25 ====
 
