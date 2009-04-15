@@ -687,7 +687,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Nov/0039.html http://lists.w3.org/Archives/Public/www-style/2008Nov/0078.html
   ;Summary : Spec conflict wrt handling of backslash followed by newline in ident
   ;Proposal : Change "except a hexadecimal digit" to "except a hexadecimal digit or a newline (\n, \r, or \f)".
-  ;Status : Open. =Bert= Fix all your typos. :( s/or a/, a/; s/of/or/; s/formfeed/form feed/
+  ;Status : Closed.
 
 ==== Issue 86 ====
 
@@ -755,7 +755,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : 'none' creates ambiguity parsing 'list-style' shorthand
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Jan/0255.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Put example and normative prose consecutively, like the proposal says.
+  ;Status : Closed.
 
 ==== Issue 95 ====
 
@@ -838,7 +838,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0234.html
   ;Summary : widows and orphans should specify that zero and negative values are not allowed.
   ;Resolution : widows and orphans can only accept integers >= 1
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 106 ====
 
@@ -864,18 +864,18 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html
   ;Summary : anonymous table objects and table rows
-  ;Status : Open
+  ;Status : Open.
 
 ==== Issue 110 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
   ;Summary : anonymous table objects and white space
-  ;Status : Open
+  ;Status : Open.
 
 ==== Issue 111 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0070.html
   ;Summary : synchronize font-weight: bolder/lighter changes with any accepted for css3-fonts
-  ;Status : Open
+  ;Status : Open.
 
 ==== Issue 112 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Apr/0099.html (contains proposal)
