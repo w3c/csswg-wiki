@@ -843,7 +843,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jul/0589.html
   ;Summary : Parsing Garbage.
-  ;Status : Open. Needs proposal.
+  ;Status : Closed. (Solved by edits for Issue 24.)
 
 ==== Issue 107 ====
 
