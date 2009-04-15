@@ -858,7 +858,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : counter-increment: none not defined
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Mar/0194.html
   ;Resolution : Option 1 accepted.
-  ;Status : =Bert= Edit so that use of 'none' as a counter name is invalid (not just nonconforming), and post edits to www-style for review.
+  ;Status : [[http://lists.w3.org/Archives/Public/www-style/2009Mar/0247.html|Closed.]]
 
 ==== Issue 109 ====
 
