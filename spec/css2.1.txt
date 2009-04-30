@@ -135,10 +135,24 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Status : Open. [[http://lists.w3.org/Archives/Public/www-style/2009Apr/0362.html|Needs testcases]].
 
 ==== Issue 115 ====
+
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0282.html
   ;Summary : zero clearance needs to be distinguished from zero clearance
   ;Partial proposal : http://lists.w3.org/Archives/Public/www-archive/2009Apr/0062.html
   ;Status : Open. Needs full proposal.
+
+==== Issue 116 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issues 1, 2, 3)
+  ;Summary : Editorial issues for chapter 9
+  ;Resolution : Issues 1 and 2 assumed editorial. Issue 3 rejected.
+  ;Status : =Bert= Edit 1 and 2.
+
+==== Issue 117 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 4)
+  ;Summary : Vertical alignment underdefined. Testcases in URL.
+  ;Status : =WG= Discuss.
 
 ===== Old Issues =====
 
