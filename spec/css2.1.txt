@@ -134,6 +134,12 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Apr/0351.html
   ;Status : Open. [[http://lists.w3.org/Archives/Public/www-style/2009Apr/0362.html|Needs testcases]].
 
+==== Issue 115 ====
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0282.html
+  ;Summary : zero clearance needs to be distinguished from zero clearance
+  ;Partial proposal : http://lists.w3.org/Archives/Public/www-archive/2009Apr/0062.html
+  ;Status : Open. Needs full proposal.
+
 ===== Old Issues =====
 
 The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-20070719/|19 July 2007 CSS2.1 Candidate Recommendation]]. The resulting changes and corrections have been incorporated into the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|23 April 2009 CSS2.1 Candidate Recommendation]] and have also been added to the [[http://www.w3.org/Style/css2-updates/CR-CSS21-20070719-errata.html|19 July 2007 CSS2.1 errata list]].
