@@ -29,7 +29,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0227.html
   ;Summary : Interaction of pre* and justification poorly defined.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jul/0532.html
-  ;Status : Open. Needs testcase.
+  ;Status : Open. Needs testcase. =arronei= Make testcase.
 
 ==== Issue 60 ====
 
