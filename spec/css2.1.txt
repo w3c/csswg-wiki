@@ -76,10 +76,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
 
 ==== Issue 75 ====
 
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Sep/0152.html
-  ;Summary : Browsers don't drop extra columns in fixed table layout
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Sep/0152.html and say that width of cells and columns and table are undefined when there are extra cells
-  ;Status : Open. =Saloni= Propose exact text.
+  Duplicate of Issue 73
 
 ==== Issue 86 ====
 
