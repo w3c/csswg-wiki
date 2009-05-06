@@ -149,7 +149,7 @@ Duplicate of Issue 73
 
 ==== Issue 117 ====
 
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 4)
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issues 4 and 10)
   ;Summary : Vertical alignment underdefined. Testcases in URL.
   ;Status : =WG= Discuss.
 
