@@ -101,7 +101,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0378.html
   ;Summary : Clarify relative positioning calculations and whether they affect computed or used values
-  ;Status : Open. Needs Testcases.
+  ;Status : Open. Needs Testcases. =arronei= Make testcases.
 
 ==== Issue 109 ====
 
