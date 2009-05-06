@@ -107,7 +107,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html
   ;Summary : anonymous table objects and table rows
-  ;Status : Open.
+  ;Status : Open. =bzbarsky=
 
 ==== Issue 110 ====
 
