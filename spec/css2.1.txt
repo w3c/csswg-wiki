@@ -138,7 +138,7 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0282.html
   ;Summary : zero clearance needs to be distinguished from zero clearance
   ;Partial proposal : http://lists.w3.org/Archives/Public/www-archive/2009Apr/0062.html
-  ;Status : Open. Needs full proposal.
+  ;Status : Open. Needs full proposal. =fantasai= Make proposal.
 
 ==== Issue 116 ====
 
