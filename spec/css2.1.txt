@@ -263,6 +263,14 @@ Duplicate of Issue 73
   ;Proposal : Mark as at-risk.
   ;Status : Open. =WG= Discuss.
 
+==== Issue 134 ====
+  ;Summary : percentage values of relative offsets
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0172.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Jul/0039.html
+  ;Resolution : Assumed editorial.
+  ;Status : Open. =Bert= Edit.
+
+
 ===== Old Issues =====
 
 The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-20070719/|19 July 2007 CSS2.1 Candidate Recommendation]]. The resulting changes and corrections have been incorporated into the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|23 April 2009 CSS2.1 Candidate Recommendation]] and have also been added to the [[http://www.w3.org/Style/css2-updates/CR-CSS21-20070719-errata.html|19 July 2007 CSS2.1 errata list]].
