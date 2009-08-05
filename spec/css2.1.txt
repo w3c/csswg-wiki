@@ -256,8 +256,9 @@ Duplicate of Issue 73
 ==== Issue 133 ====
   ;Summary : Ambiguity for row-group-heights
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jun/0120.html
-  ;Proposal : Add row groups to exceptions for 'height's Applies-To
-  ;Status : Open. =WG= Discuss.
+  ;Proposal : Say that row-group heights are undefined
+  ;Resolution: Proposal accepted.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 134 ====
   ;Summary : percentage values of relative offsets
