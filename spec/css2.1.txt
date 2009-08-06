@@ -66,7 +66,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : extra columns in fixed tables are rendered
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Sep/0152.html plus say that column and table widths are undefined when extra cells are present in fixed layout
   ;Resolved : Proposal accepted.
-  ;Status : =Bert= Come up with exact wording and edit.
+  ;Status : Closed.
 
 ==== Issue 73 ====
 
