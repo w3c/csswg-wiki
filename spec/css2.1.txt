@@ -1036,8 +1036,9 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : clarify which element's text-align property applies to cells
   ;Status : Closed.
 
-==== Issue 113 ===
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jul/0059.html
-  ;Summary : Add -tc- vendor prefix (for TallComponents) to 4.1.2.2?
-  ;Proposal : Accept.
-  ;Status : Open
+==== Issue 113 ====
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0047.html http://lists.w3.org/Archives/Public/www-style/2009Mar/0066.html
+  ;Summary : add && to list of value syntax operators
+  ;Proposal : copy text from http://dev.w3.org/csswg/css3-background/
+  ;Resolved : Add && to list of value syntax operators, with an example
+  ;Status : Open. =Bert= Edit.
