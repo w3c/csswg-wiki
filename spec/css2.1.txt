@@ -145,7 +145,7 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issues 1, 2, 6)
   ;Summary : Editorial issues for chapter 9 and 10
   ;Resolution : Issues 1, 2, and 6 assumed editorial.
-  ;Status : =Bert= Edit 1, 2, and 6.
+  ;Status : Closed.
 
 ==== Issue 117 ====
 
