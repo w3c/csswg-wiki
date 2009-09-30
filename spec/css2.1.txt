@@ -272,8 +272,20 @@ Duplicate of Issue 73
 ==== Issue 136 ===
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jul/0059.html
   ;Summary : Add -tc- vendor prefix (for TallComponents) to 4.1.2.2?
-  ;Proposal : Accept.
-  ;Status : Open
+  ;Resolution : Assumed editorial.
+  ;Status : =Bert= Decide and edit.
+
+==== Issue 137 ===
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Sep/0247.html
+  ;Summary : Do anonymous blocks become the containing block for floats?
+  ;Proposal : Anonymous blocks are never the containing block for anything but inlines.
+  ;Status : =WG= Discuss.
+
+==== Issue 138 ===
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Sep/0068.html
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Sep/0295.html
+  ;Summary : Does relatively positioning a float's parent also offset the float?
+  ;Status : =WG= Discuss.
 
 ===== Old Issues =====
 
