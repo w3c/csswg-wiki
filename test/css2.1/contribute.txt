@@ -43,6 +43,3 @@ Fixes to existing tests are also subject to the [[test:css2.1:review|review proc
   * You can help fix test submissions in response to review comments.
   * You can go through the issues marked VERIFYME in the [[test:css2.1:issues|Known Problems list]], verify that they are indeed fixed in the [[http://www.w3.org/Style/CSS/Test/CSS2.1/current/|latest version]], and remove them from the known bugs list.
 
-===== What to Do If You Receive No Response =====
-
-If you've waited at least a week and your contribution seems to be going nowhere, please complain to the test suite owner (currently [[http://fantasai.inkedblade.net/contact|fantasai]]). No, really, please do complain if this is the case; I'm probably just having some trouble staying on top of things and need a reminder or three.
