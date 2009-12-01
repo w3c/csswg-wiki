@@ -3,8 +3,6 @@
   * http://test.csswg.org/source/contributors/
   * http://mxr.mozilla.org/mozilla-central/find?string=399941&tree=mozilla-central
   * [[submit]]
-  * http://www.hixie.ch/tests/adhoc/css/
-  * http://www.gtalbot.org/BrowserBugsSection/css21testsuite/
 
 ====== Tests Pending Conversion ======
 
