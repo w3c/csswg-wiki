@@ -4,6 +4,3 @@
   * http://mxr.mozilla.org/mozilla-central/find?string=399941&tree=mozilla-central
   * [[submit]]
 
-====== Tests Pending Conversion ======
-
-  * http://fantasai.inkedblade.net/style/specs/css2.1/tests/min-max-replaced
