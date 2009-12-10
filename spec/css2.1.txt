@@ -229,7 +229,8 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jun/0164.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Jun/0164.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Aug/0104.html
+  ;Status : Open. =WG= Discuss.
 
 ==== Issue 130 ====
   ;Summary : Undefined keywords mentioned in font-family
