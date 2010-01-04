@@ -148,7 +148,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Raised by : Tony Graham
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Sep/0004.html
   ; Proposed Resolution : ?
-  ; Status : 
+  ; Status : most issues edited.  computed value of system colors split out into issue 28, since I think it's wrong.  Case consistency of hex not addressed (not worth it).  "something similar" comment not addressed (not worth it).  Disagree about "lookup table" issue for 4.2.4.  Disagree about system colors section nesting issue (don't want to change section numbers).
 
 ==== Issue 18 ====
 
@@ -213,3 +213,16 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
   ; Summary : add mechanism for migrating to being conformant to the part of the spec that says CSS colors are in sRGB
   ; Raised by : David Baron, Beth Dakin
   ; URL : minutes of F2F meeting, 2009-11-03 (have resolution)
+
+==== Issue 27 ====
+  ; Summary : should depend on CSS 2.1 instead of css3-syntax and css3-values
+  ; Raised by : David Baron
+
+==== Issue 28 ====
+  ; Summary : computed value of system colors should be a color, not the keyword itself
+  ; Raised by : David Baron
+  ; Proposed Resolution : just remove the note saying otherwise
+
+==== Issue 29 ====
+  ; Summary : "predefined" doesn't make sense in context (used twice)
+  ; Raised by : David Baron
