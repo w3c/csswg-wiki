@@ -71,3 +71,4 @@ Here is an example of a reftest manifest.
 == ../test-topic-001.xht test-topic-001-ref.xht
 == ../test-topic-002.xht test-topic-000-ref.xht # note same reference as test 000
 </code>
+</note>
