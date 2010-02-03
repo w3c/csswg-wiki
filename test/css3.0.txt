@@ -148,11 +148,11 @@ The Unit Test plans will be based off of the Editor's draft unless specifically 
 
 ^                    ^      ^
 | Short Name         | XXX |            
-|                    |      |
+|                    |     |
 | Document Name      | [[http://dev.w3.org/csswg/css3-flexbox/]] |
 | Editor's Draft     | XXX |
 | Status             | XXX |
-|                    |      |
+|                    |     |
 | Document Name      | [[http://www.w3.org/TR/css3-flexbox/]] |
 | Working Draft      | XXX |
 | Status             | XXX |
