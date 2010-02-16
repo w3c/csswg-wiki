@@ -13,7 +13,7 @@ Here is an example of a reftest that is also a self-describing test: **[[http://
 
 A reftest has three parts:
 
-  ; test file: The test file. This must follow the [[test:css2.1:format|CSS test format guidelines]].
+  ; test file : The test file. This must follow the [[test:css2.1:format|CSS test format guidelines]].
   ; reference file : This is a different, usually simpler, file that results in the same rendering as the test.
   ; reftest comparison : A line in a reftest "manifest" file that says which two files are to be compared.
 
