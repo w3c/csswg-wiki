@@ -2,4 +2,4 @@
 
 Proposed topics for topics for the June 2009 CSS Working Group Face-to-Face meeting in Sophia-Antipolis (France).
 
-  * First topic here ...
+  * joint w/ SVG - image-fit and image-position issues
