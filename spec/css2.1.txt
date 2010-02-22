@@ -138,7 +138,8 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
   ;Summary : anonymous table objects and white space
-  ;Status : Open. =bzbarsky=
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0213.html
+  ;Status : Open. =WG= Analyze and report feedback.
 
 ==== Issue 111 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0070.html
