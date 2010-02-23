@@ -381,6 +381,12 @@ Duplicate of Issue 73
   ;Summary : pt:px ratios other than based on 96dpi breaks web
   ;Status : Open. =WG= Discuss.
 
+==== Issue 150 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0041.html
+  ;Summary : Change "Every CSS2.1 property" to "Every CSS property" in 4.1.8
+  ;Status : Open. =WG= Discuss.
+
 
 ===== Old Issues =====
 
