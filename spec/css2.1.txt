@@ -277,7 +277,7 @@ Duplicate of Issue 73
   ;Summary : Ambiguity for row-group-heights
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jun/0120.html
   ;Proposal : Say that row-group heights are undefined
-  ;Resolution: Proposal accepted.
+  ;Resolution : Proposal accepted.
   ;Status : Closed.
 
 ==== Issue 134 ====
