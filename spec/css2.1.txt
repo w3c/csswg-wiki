@@ -1180,6 +1180,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Status : Closed.
 
 ==== Issue 113 ====
+
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0047.html http://lists.w3.org/Archives/Public/www-style/2009Mar/0066.html
   ;Summary : add && to list of value syntax operators
   ;Proposal : copy text from http://dev.w3.org/csswg/css3-background/
