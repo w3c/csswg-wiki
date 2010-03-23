@@ -36,7 +36,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-002.xht - IE: Pass, FF: Fail, O: Fail, S: Fail, C: Fail
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-003.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-004.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
-  ;Status : Open =Elika= Create spec text
+  ;Status : Open =Elika= Create spec text: pre/pre-wrap should disable stretching, pre-line should allow justification, and split results for whether ws setting on block disables justification for the entire block, s/actual/used/ for value
 
 ==== Issue 60 ====
 
