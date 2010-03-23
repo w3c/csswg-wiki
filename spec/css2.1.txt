@@ -130,7 +130,8 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html
   ;Summary : anonymous table objects and table rows
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0213.html
-  ;Status : Open. =WG= Analyze and report feedback on proposal.
+  ;Status : Open. =fantasai= Analyze and create final spec changes proposal (i.e. diff)
+
 
 ==== Issue 110 ====
 
