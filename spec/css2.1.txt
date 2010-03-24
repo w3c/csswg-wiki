@@ -440,7 +440,7 @@ Duplicate of Issue 73
   ;Summary : Antecedents in clearance and margin collapsing prose unclear
   ;Status : Open. Needs proposed text.
 
-==== Issue 157 ====
+==== Issue 159 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0015.html
   ;Summary : Clarify definition of adjoining margins
