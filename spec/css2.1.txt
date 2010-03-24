@@ -434,7 +434,7 @@ Duplicate of Issue 73
   ;Explanation : http://lists.w3.org/Archives/Public/www-style/2009Feb/0120.html
   ;Status : Open. Needs proposed text.
 
-==== Issue 157 ====
+==== Issue 158 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Jan/0516.html
   ;Summary : Antecedents in clearance and margin collapsing prose unclear
