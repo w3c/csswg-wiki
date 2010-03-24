@@ -158,7 +158,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0282.html
   ;Summary : zero clearance needs to be distinguished from zero clearance
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0186.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0186.html + http://lists.w3.org/Archives/Public/www-style/2009Aug/0394.html
   ;Status : Open. =WG= Discuss.
 
 ==== Issue 116 ====
