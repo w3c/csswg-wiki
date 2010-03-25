@@ -394,9 +394,10 @@ Duplicate of Issue 73
 
 ==== Issue 152 ====
 
-  ;URL : 
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0175.html
   ;Summary : Don't require quoting of commas in URL tokens
-  ;Status : Open. Needs proposed text.
+  ;Resolution : Update prose to not require quoting of commas in URL tokens
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 153 ====
 
