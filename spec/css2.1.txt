@@ -461,13 +461,13 @@ Duplicate of Issue 73
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Mar/0001.html + Replace sentence with "Note that absolutely positioned descendant elements are not always clipped by the overflow property on their ancestors." ?
   ;Status : Open. =WG= Discuss.
 
-==== Issue 161 ====
+==== Issue 162 ====
 
   ;URL : http://www.w3.org/TR/2010/WD-html-bidi-20100304/#lists
   ;Summary : The side of a list bullet should depend on the directionality of its parent, not the list-item itself.
   ;Status : Open. =WG= Discuss.
 
-==== Issue 162 ====
+==== Issue 163 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0080.html
   ;Demo : http://dump.testsuite.org/2010/width-computed-value.htm
