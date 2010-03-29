@@ -486,7 +486,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0486.html	 
   ;Summary : An example is invalid HTML4.	 
-  ;Proposal : Editorial. Change the DOCTYPE to "-//W3C//DTD HTML 4.01 Transitional//EN"	 
+  ;Proposal : Editorial. Change the DOCTYPE to transitional. 
   ;Status : Open. =WG= Discuss.
 
 
