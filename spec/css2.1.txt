@@ -195,7 +195,7 @@ Duplicate of Issue 73
                * O10.51: Fail - 5testfoo, -5testfoo, 1996
                * S4.0.5: Fail - 5testfoo, testfoo 5-0, 5foo, -5, -5bar, 5_0, -5testfoo, 1996
 
-  ;Status : Open. =WG= Discuss.
+  ;Status : Open. =SVGWG= Discuss and report back.
 
 ==== Issue 115 ====
 
