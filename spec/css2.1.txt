@@ -514,7 +514,8 @@ Duplicate of Issue 73
   ;Demo : http://dump.testsuite.org/2010/width-computed-value.htm
   ;Summary : computed value definition for 'height' and 'width' is wrong
   ;Proposal : remove "; 'auto' if the property does not apply"
-  ;Status : Open. =WG= Discuss.
+  ;Resolved : Proposal accepted.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 164 ====	 
 
