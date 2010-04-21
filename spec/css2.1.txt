@@ -139,10 +139,10 @@ Duplicate of Issue 73
 
 ==== Issue 110 ====
 
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
-  ;Summary : anonymous table objects and white space
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Mar/0551.html
-  ;Status : Open. =WG= Discuss.
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0489.html
+  ;Summary : anonymous table objects and abspos
+  ;Proposal : TBD
+  ;Status : Open. =Tab= Write proposal.
 
 ==== Issue 111 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0070.html
