@@ -46,7 +46,8 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : http://lists.w3.org/Archives/Public/www-style/2008Oct/0263.html
   ;Proposal input : http://lists.w3.org/Archives/Public/www-style/2008Oct/0238.html and http://lists.w3.org/Archives/Public/www-style/2008Oct/0240.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Mar/0417.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Exact text deferred to Sylvain, Bert to check that it is only editorial changes.
+  ;Status : Open. =Sylvain= Create final proposal for Bert to edit.
 
 ==== Issue 61 ====
 
