@@ -472,6 +472,7 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0198.html
   ;Summary : Make font weight mapping rules normative
   ;Notes : See also issue 111
+  :Proposal : Pull bullet 4 (hole-mapping) out of bulleted list and replace "typical mappings" from the sentence below it with "this mapping" to make hole-mapping rules normative.
   ;Status : Open. =WG= Discuss.
 
 ==== Issue 157 ====
