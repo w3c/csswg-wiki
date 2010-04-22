@@ -203,8 +203,9 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0282.html
   ;Summary : zero clearance needs to be distinguished from not having clearance
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0186.html + http://lists.w3.org/Archives/Public/www-style/2009Aug/0394.html = http://fantasai.inkedblade.net/style/specs/css2.1/zero-clearance
-  ;Status : Open. =WG= Discuss.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Apr/0484.html
+  ;Resolution : Proposal accepted.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 116 ====
 
