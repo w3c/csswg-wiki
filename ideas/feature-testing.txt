@@ -49,6 +49,9 @@ If text-shadow is supported, color is set to white and the text-shadow keeps it 
 
 In this example, if a browser supports Template Layout, the later `position` values override the previous values of "absolute" (and the left/top/right values are thus ignored), and the page is laid out according to the Template Layout spec.  If the browser doesn't support Template Layout, though, then the entire @supports block is ignored, and the previous absolute positioning takes effect instead.
 
+===== Consequences: =====
+
+
 This sort of feature testing is as close to ideal as I think we can get something in this space.  The feature that you're testing for is directly annotated, making it obvious what's required.  The tested-for value must actually be used, which limits the ability to UA-detect in dangerous ways (in practice, some values can indeed still be used for this as they have irrelevant or inconsequential effects in the context you're using them in).
 
 The user can, of course, trivially UA-detect by tying !required to a prefixed property.  We really can't prevent this without gutting a substantial amount of power from the proposal (if I can't detect that -webkit-text-shadow is supported, I still can't use it in a way that would fail badly if it's not supported).  However, we can at least be certain that UA-detection based on prefixes will be *correct*.  You'll never see a webkit-based browser claim to support a -moz-* property or value.  Thus the damage is actually relatively limited, and better than the current situation where UA-detection hacks in CSS can accidentally spread to other browsers when they start to support new properties.
