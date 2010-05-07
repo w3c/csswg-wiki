@@ -135,7 +135,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
   ;Summary : anonymous table objects and table rows (and white space)
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Mar/0551.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010May/0071.html
   ;Resolution : Proposal accepted.
   ;Status : Open. =Bert= Edit.
 
