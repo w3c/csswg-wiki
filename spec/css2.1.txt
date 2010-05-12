@@ -233,7 +233,7 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 8)
   ;Summary : Reference to undefined term "block's baseline"
   ;Proposal : Remove "block's"
-  ;Status : Open. =WG= Discuss or propose something better.
+  ;Status : Open. =Bert= Review and recommend a proposal.
 
 ==== Issue 120 ====
 
