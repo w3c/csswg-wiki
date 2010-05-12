@@ -420,7 +420,8 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Jan/0432.html
   ;Summary : Add 'unicode-bidi: embed' to all block-level elements in the sample HTML4 style sheet
-  ;Status : Open. =WG= Discuss.
+  ;Resolved : Proposal accepted.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 149 ====
 
