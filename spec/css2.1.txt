@@ -65,12 +65,12 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal accepted.
   ;Test cases : http://test.csswg.org/svn/contributors/microsoft/incoming/background-attachment-fixed-paged.htm
   ;Status : Open. =Bert= Edit.
-
 ==== Issue 71 ====
 
   ;URL : 
   ;Summary : @rules in unexpected contexts should parse as @rules.
   ;Resolution :  @rules inside declaration blocks are ignored if between declarations (i.e. at the beginning of a declaration before the property), invalid if within declarations.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Apr/0447.html changes a, b (optional), c (optional), and d.
   ;Status : Open. =Bert= Draft proposed text.
 
 ==== Issue 72 ====
