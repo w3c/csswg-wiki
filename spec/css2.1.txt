@@ -491,7 +491,8 @@ Duplicate of Issue 73
   ;Summary : Clarify clearance "greater of" calculation (add Bert's example?)
   ;Example : http://lists.w3.org/Archives/Public/www-style/2009Feb/0108.html
   ;Explanation : http://lists.w3.org/Archives/Public/www-style/2009Feb/0120.html
-  ;Status : Open. Needs proposed text.
+  ;Resolution : Add Bert's example to the spec.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 158 ====
 
