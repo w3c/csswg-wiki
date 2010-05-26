@@ -279,7 +279,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Summary : percentage values of relative offsets
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jun/0056.html
   ;Testcase : http://test.csswg.org/source/contributors/microsoft/incoming/top-with-negative-top-001.htm
-  ;Status : Open. =arronei= Make testcase for test suite.
+  ;Status : Open. =WG= discuss.
 
 ==== Issue 136 ===
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jul/0059.html
