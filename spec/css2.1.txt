@@ -500,7 +500,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Jan/0516.html
   ;Summary : Antecedents in clearance and margin collapsing prose unclear
-  ;Status : Open. Needs proposed text.
+  ;Status : Open. =Tab= Write proposal.
 
 ==== Issue 159 ====
 
