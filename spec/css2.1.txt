@@ -304,7 +304,8 @@ Duplicate of Issue 73
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Jun/0164.html
   ;Resolution : Proposal accepted.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Aug/0104.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Change grammar to avoid backup.
+  ;Status : Open. =Bert= Write proposal.
 
 ==== Issue 130 ====
   ;Summary : Undefined keywords mentioned in font-family
