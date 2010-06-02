@@ -227,7 +227,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 7)
   ;Summary : Inline layout inappropriately defines line-height in terms of glyphs
-  ;Status : Open. Needs proposal.
+  ;Status : Open. =Bert= Write proposal.
 
 ==== Issue 119 ====
 
