@@ -12,9 +12,19 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Raised by : Tantek Çelik
   ; URL : eventually http://www.w3.org/Style/CSS/Test/#css3-ui
   ; Proposed Resolution : create at least one test case per feature, update "Current Issues" section above to add the text "<nowiki>See the [[http://www.w3.org/Style/CSS/Test/#css3-ui|released]] and [[http://dev.w3.org/CSS/css3-ui-test-suite/src/|development]] versions of the test suite for the "Tests" references.</nowiki>"
-  ; Status : editorial
+  ; Status : editorial, pending
+
+
+==== Issue 2 ====
+
+  ; Summary : Change name/title of spec to be consistent with other CSS3 modules
+  ; Raised by : Tantek Çelik
+  ; URL : n/a
+  ; Proposed Resolution : Change name/title of CSS3-ui from "CSS3 Basic User Interface Module" to "CSS Basic User Interface Module Level 3"
+  ; Status : editorial, pending
 
 ...
+
 
 ==== Issue n ====
 
