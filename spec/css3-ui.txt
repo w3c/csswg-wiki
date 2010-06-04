@@ -23,6 +23,14 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Proposed Resolution : Change name/title of CSS3-ui from "CSS3 Basic User Interface Module" to "CSS Basic User Interface Module Level 3"
   ; Status : editorial, pending
 
+==== Issue 3 ====
+
+  ; Summary : ::value needs to specify which properties are allowed on that pseudo-element
+  ; Raised by : Tab Atkins
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0158.html
+  ; Proposed Resolution : specify the same as properties (by listing them explicitly) that apply to ::first-line as applying to ::value: 'font-*', 'color', 'background-*', ‘word-spacing’, ‘letter-spacing’, ‘text-decoration’, ‘vertical-align’, ‘text-transform’, ‘line-height’. 
+  ; Status : proposed 
+
 ...
 
 
