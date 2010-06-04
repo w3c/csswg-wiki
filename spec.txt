@@ -7,6 +7,7 @@ This section documents problems found in the CSS specs and working drafts. Probl
   * [[spec:css3-lists|CSS Lists Module Level 3]]
   * [[spec:css3-selectors|Selectors Level 3]]
   * [[spec:mediaqueries|Media Queries Level 3]]
+  * [[spec:css3-ui|CSS Basic User Interface Module Level 3]]
   * [[spec:css3-color|CSS Color Module Level 3]]
   * [[spec:css-multicol|CSS Multi-Column Layout Module Level 3]]
   * [[http://dev.w3.org/csswg/css3-namespace/issues-2|CSS Namespaces]]
