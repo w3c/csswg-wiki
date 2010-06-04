@@ -4,7 +4,7 @@ The [[http://www.w3.org/TR/css3-ui/|css3-ui specification]] defines user interfa
 
 ===== Current Issues =====
 
-The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 css3-ui Candidate Recommendation Working Draft]].
+The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 css3-ui Candidate Recommendation]].
 
 ==== Issue 1 ====
 
