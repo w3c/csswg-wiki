@@ -33,13 +33,13 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0227.html
   ;Summary : Interaction of pre* and justification poorly defined.
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jul/0532.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0457.html
   ;Test cases :
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-001.xht - IE8: Pass, FF3.6: Pass, O10.5: Pass, S4: Fail, C4: Pass
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-002.xht - IE: Pass, FF: Fail, O: Fail, S: Fail, C: Fail
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-003.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-004.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
-  ;Status : Open =Elika= Create spec text: pre/pre-wrap should disable stretching, pre-line should allow justification, and split results for whether ws setting on block disables justification for the entire block, s/actual/used/ for value
+  ;Status : Open. =WG= Discuss.
 
 ==== Issue 60 ====
 
