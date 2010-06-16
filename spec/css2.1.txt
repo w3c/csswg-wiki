@@ -337,7 +337,7 @@ Duplicate of Issue 73
 ==== Issue 134 ====
   ;Summary : percentage values of relative offsets
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jun/0056.html
-  ;Test case : http://test.csswg.org/source/contributors/microsoft/incoming/top-with-negative-top-001.htm
+  ;Test case : http://test.csswg.org/source/contributors/microsoft/incoming/top-with-negative-top-001.xht
   ;Status : Open. =WG= Discuss
 
 ==== Issue 135 ====
