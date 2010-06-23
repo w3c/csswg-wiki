@@ -136,7 +136,9 @@ Duplicate of Issue 73
   ;Summary : Clarify relative positioning computed values and whether calculations in section 9 affect computed or used values
   ;Test cases : http://test.csswg.org/source/contributors/microsoft/incoming/computed-or-used-001.xht
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0447.html
-  ;Status : Open. =WG= Discuss
+  ;Resolution : Proposal accepted.
+  ;Status : Open. =Bert= Edit.
+
 
 ==== Issue 109 ====
 
