@@ -118,7 +118,7 @@ Duplicate of Issue 73
   ; Proposal 2 : dbaron had an action in this list to "investigate", and in response wrote: http://lists.w3.org/Archives/Public/www-style/2010Mar/0419.html
   ;Status : Open. =Bert= Tweak and edit.
 
-===== Issue 89 ====
+==== Issue 89 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jan/0297.html
   ;Summary : Page breaks should be allowed between last line box and content edge.
