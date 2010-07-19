@@ -101,7 +101,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
 
 Duplicate of Issue 73
 
-=== Issue 84 ====
+==== Issue 84 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Oct/0294.html http://lists.w3.org/Archives/Public/www-international/2008OctDec/0002.html http://lists.w3.org/Archives/Public/www-international/2008OctDec/0007.html
   ;Summary : Should white-space apply to IDEOGRAPHIC SPACE
