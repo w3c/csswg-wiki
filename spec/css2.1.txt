@@ -101,15 +101,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
 
 Duplicate of Issue 73
 
-==== Issue 86 ====
-
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Nov/0298.html
-  ;Summary : Position of list-item marker in presence of floats, text-align
-  ;Proposal : Add "The position of the list-item marker adjacent to floats or when text-align is not its initial value is undefined in CSS2.1."
-  ; Proposal 2 : dbaron had an action in this list to "investigate", and in response wrote: http://lists.w3.org/Archives/Public/www-style/2010Mar/0419.html
-  ;Status : Open. =Bert= Tweak and edit.
-
-==== Issue 84 ====
+=== Issue 84 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Oct/0294.html http://lists.w3.org/Archives/Public/www-international/2008OctDec/0002.html http://lists.w3.org/Archives/Public/www-international/2008OctDec/0007.html
   ;Summary : Should white-space apply to IDEOGRAPHIC SPACE
@@ -118,7 +110,15 @@ Duplicate of Issue 73
   ;Resolution : Proposals accepted.
   ;Status : =Bert= Edit.
 
-==== Issue 89 ====
+==== Issue 86 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Nov/0298.html
+  ;Summary : Position of list-item marker in presence of floats, text-align
+  ;Proposal : Add "The position of the list-item marker adjacent to floats or when text-align is not its initial value is undefined in CSS2.1."
+  ; Proposal 2 : dbaron had an action in this list to "investigate", and in response wrote: http://lists.w3.org/Archives/Public/www-style/2010Mar/0419.html
+  ;Status : Open. =Bert= Tweak and edit.
+
+===== Issue 89 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jan/0297.html
   ;Summary : Page breaks should be allowed between last line box and content edge.
