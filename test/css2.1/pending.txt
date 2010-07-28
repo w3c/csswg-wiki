@@ -1,6 +1,5 @@
 ====== Tests Pending Review ======
 
   * http://test.csswg.org/source/contributors/
-  * http://mxr.mozilla.org/mozilla-central/find?string=399941&tree=mozilla-central
   * [[submit]]
 
