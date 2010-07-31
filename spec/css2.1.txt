@@ -28,6 +28,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : ''height'' on table cell should be a minimum height for the row, not a minimum height for an anonymous box wrapped around the cell's contents
   ;Proposed text : http://lists.w3.org/Archives/Public/www-style/2010Jun/0048.html
   ;Resolution : Proposed text accepted with "see above" and "s/specified/computed/" changes suggested in http://lists.w3.org/Archives/Public/www-style/2010Jun/0049.html
+  ;Testcases : http://test.csswg.org/source/contributors/fantasai/submitted/css2.1/table-valign-00[12].xht
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 53 ====
