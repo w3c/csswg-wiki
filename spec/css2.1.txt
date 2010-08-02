@@ -682,10 +682,18 @@ Duplicate of Issue 73
   ;Status : Open. =WG= Discuss.
 
 ==== Issue 179 ====
+
   ;Summary : Example in anonymous block boxes section is wrong
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0005.html
   ;Resolution : Assumed editorial.
   ;Status : Open. =Bert= Edit.
+
+==== Issue 180 ====
+
+  ;Summary : "block formatting context root" not defined
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0002.html
+  ;Resolution : Assumed editorial.
+  ;Status : Open. =Bert= Make some kind of appropriate edit.
 
 ===== 19 July 2007 CR Issues =====
 
