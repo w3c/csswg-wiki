@@ -690,10 +690,9 @@ Duplicate of Issue 73
 
 ==== Issue 180 ====
 
-  ;Summary : "block formatting context root" not defined
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0002.html
-  ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Make some kind of appropriate edit.
+  ;Summary : "block formatting context root" not defined, concept should be used elsewhere too.
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0002.html http://lists.w3.org/Archives/Public/www-style/2010Aug/0000.html
+  ;Status : Open. Needs complete proposal.
 
 ===== 19 July 2007 CR Issues =====
 
