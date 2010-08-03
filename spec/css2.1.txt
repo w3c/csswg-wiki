@@ -690,9 +690,11 @@ Duplicate of Issue 73
 
 ==== Issue 180 ====
 
-  ;Summary : "block formatting context root" not defined, concept should be used elsewhere too.
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0002.html http://lists.w3.org/Archives/Public/www-style/2010Aug/0000.html
-  ;Status : Open. Needs complete proposal.
+  ;Summary : Clarify application of 10.6.7
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0000.html http://lists.w3.org/Archives/Public/www-style/2010Aug/0002.html 
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0016.html + http://lists.w3.org/Archives/Public/www-style/2010Aug/0017.html + fix section title somehow
+  ;Resolution : Assumed editorial.
+  ;Status : Open. =Bert= Fix title and add edits to Changes + errata.
 
 ==== Issue 181 ====
 
