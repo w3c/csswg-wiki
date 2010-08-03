@@ -722,6 +722,18 @@ Duplicate of Issue 73
   ;Proposal : Add "Pseudo-elements behave just like real elements in CSS except as described below." or somesuch to 5.12
   ;Status : Open. =WG= Discuss.
   
+==== Issue 185 ====
+
+  ;Summary : Browsers don't shorten line boxes for zero-height floats.
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0527.html
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 186 ====
+
+  ;Summary : Make Appendix G grammar non-normative, or at least inferior to Chapter 4 core grammar
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0501.html
+  ;Status : Open. =WG= Discuss.
+
 
 ===== 19 July 2007 CR Issues =====
 
