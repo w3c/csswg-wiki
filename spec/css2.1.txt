@@ -748,7 +748,13 @@ Duplicate of Issue 73
   ;Summary : bidi behavior of inline-blocks and inline-tables
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0391.html
   ;Status : Open. =WG= Discuss.
+  
+==== Issue 188 ====
 
+  ;Summary : Example refers to clipping by "containing block"; should be "padding box of <div>" or similar
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0037.html
+  ;Resolution : Assumed editorial.
+  ;Status : Open. =Bert= Edit.
 
 ===== 19 July 2007 CR Issues =====
 
