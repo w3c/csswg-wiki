@@ -720,9 +720,10 @@ Duplicate of Issue 73
 
   ;Summary : Unclear that pseudo-elements are considered a subclass of elements.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0438.html
-  ;Proposal : Add "Pseudo-elements behave just like real elements in CSS except as described below." or somesuch to 5.12
-  ;Status : Open. =WG= Discuss.
-  
+  ;Proposal : Add "Pseudo-elements behave just like real elements in CSS except as described below and elsewhere (section 12.1)." or somesuch to 5.12
+  ;Resolution : Proposal accepted.
+  ;Status : Open. =Bert= Edit.
+
 ==== Issue 185 ====
 
   ;Summary : Browsers don't shorten line boxes for zero-height floats.
