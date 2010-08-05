@@ -1206,12 +1206,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Status : Closed.
 
 
-==== Issue 56 ====
 
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Apr/0460.html
-  ;Summary : Should text-decoration propagate through internal table elements?
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jul/0450.html
-  ;Status : Open. Needs better proposal.
 
 ==== Issue 57 ====
 
