@@ -431,9 +431,8 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0200.html
   ;Summary : text-decoration and visibility
-  ;Resolved : Irrelevant -- issue is about Quirks mode, spec is already clear.
-  ;Status : Invalid.
-
+  ;Testcases : http://test.csswg.org/suites/css2.1/20100727/html4/chapter-16.html#s16.3.1 text-decoration-visibility-*
+  ;Status : Open. =WG= Discuss.
 
 ==== Issue 145 ====
 
