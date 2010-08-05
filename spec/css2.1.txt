@@ -45,6 +45,13 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal A accepted. Add note that pre-wrap may allow justification in the future.
   ;Status : Open. =Bert= Edit.
 
+==== Issue 56 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2008Apr/0460.html
+  ;Summary : Should text-decoration propagate through internal table elements?
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Jul/0450.html
+  ;Status : Open. Needs better proposal.
+
 ==== Issue 60 ====
 
   ;URL : http://dev.moonhenge.net/css21/spec/z-index/
