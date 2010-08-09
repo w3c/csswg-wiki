@@ -634,7 +634,8 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0455.html
   ;Summary : Specify case of Armenian numbering
-  ;Status : Open. =Bert= Edit.
+  ;Status : Open. =Bert= Edit. =fantasai= Update testcases.
+  
 
 ==== Issue 169 ====
 
