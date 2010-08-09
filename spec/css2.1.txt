@@ -545,6 +545,7 @@ Duplicate of Issue 73
   ;Explanation : http://lists.w3.org/Archives/Public/www-style/2009Feb/0120.html
   ;Resolution : Add Bert's example to the spec.
   ;Status : Open. =Bert= Edit.
+  ;Testcases : margin-collapse-clear-?
 
 ==== Issue 158 ====
 
