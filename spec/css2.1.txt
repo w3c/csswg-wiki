@@ -1142,6 +1142,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Testcase : https://bugzilla.mozilla.org/attachment.cgi?id=302176
   ;Resolution : Proposal accepted.
   ;Status : Closed.
+  ;Testcases : absolute-replaced-width-0[64-77] and check for mozilla testcases =fantasai=
 
 ==== Issue 37 ====
 
