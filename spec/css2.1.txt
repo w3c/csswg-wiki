@@ -81,7 +81,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Summary : fixed background images not defined for paged media
   ;Proposal : Add "In paged media where there is no viewport, a ‘fixed’ background is fixed with respect to the page box and is therefore replicated on every page." (Copied from css3-background)
   ;Resolution : Proposal accepted.
-  ;Test cases : http://test.csswg.org/svn/contributors/microsoft/incoming/background-attachment-fixed-paged.htm
+  ;Test cases : background-attachment-010.xht
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 71 ====
