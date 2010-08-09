@@ -416,6 +416,7 @@ Duplicate of Issue 73
   ;Summary : ex on font-size should depend on parent element
   ;Resolution : Agreed this needs to be fixed to behave just like em.
   ;Status : Open. =Bert= Edit.
+  ;Testcase : http://test.csswg.org/suites/css2.1/20100727/html4/font-size-113.htm
 
 ==== Issue 142 ====
 
