@@ -1563,6 +1563,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Proposal : Use wording from http://dev.w3.org/csswg/css3-background/#special-backgrounds
   ;Proposal : s/those/the background properties/
   ;Status : Closed.
+  ;Testcases : background-root-00?
 
 ==== Issue 102 ====
 
