@@ -748,7 +748,9 @@ Duplicate of Issue 73
 
   ;Summary : Browsers don't shorten line boxes for zero-height floats.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0527.html
-  ;Status : Open. =WG= Discuss.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0178.html
+  ;Resolution : Proposal accepted with modifications as written in the [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0185.html|minutes]]
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 186 ====
 
