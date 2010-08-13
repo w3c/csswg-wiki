@@ -812,7 +812,8 @@ Duplicate of Issue 73
 
   ;Summary : text-indent shouldn't apply to not-first lines of an element
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0246.html
-  ;Status : Open. =fantasai= Write proposal.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0207.html
+  ;Status : Open. =WG= Discuss.
 
 ==== Issue 195 ====
 
