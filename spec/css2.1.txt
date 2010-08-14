@@ -1580,6 +1580,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Proposal : Only ignore @import if it follows a {non-@}-rule or a known @-rule that it is not allowed to follow.
   ;Resolution : Replace "valid statement" with "non-ignored statement" in section 4.1.5
   ;Status : Closed.
+  ;Testcases : at-import-009 at-import-010 at-import-011
 
 ==== Issue 103 ====
 
