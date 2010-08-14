@@ -1475,6 +1475,7 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Nov/0542.html
   ;Resolution : Proposal accepted (telcon 2008-12-10)
   ;Status : Closed.
+  ;Testcase : comments-001.xht
 
 ==== Issue 88 ====
 
