@@ -695,7 +695,10 @@ Duplicate of Issue 73
 
   ;Summary : min-height / max-height on table rows and cells poorly defined
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0049.html http://lists.w3.org/Archives/Public/www-style/2010Jun/0443.html
-  ;Status : Open. Needs proposal.
+  ;Resolution : Make min-height / max-height on table rows, cells, and rowgroups undefined.
+  ;Status : Open. =Bert= Edit.
+  ;Testcases : n/a (undefined)
+  
 
 ==== Issue 171 ====
 
