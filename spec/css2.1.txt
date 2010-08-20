@@ -270,7 +270,7 @@ Duplicate of Issue 73
   ;Summary : Inline layout inappropriately defines line-height in terms of glyphs
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jul/0073.html
   ;Resolution : Bert's proposal accepted with Steve's suggestions
-  ;Status : Open. =Bert= Incorporate [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0051.html|szilles' comments]] into proposal and edit.
+  ;Status : Open. =Bert= Incorporate [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0051.html|szilles' comments]] into proposal (see [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0395.html|result]]) and edit.
 
 ==== Issue 119 ====
 
