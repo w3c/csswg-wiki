@@ -712,7 +712,8 @@ Duplicate of Issue 73
 
   ;Summary : table-caption content overflows
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0404.html
-  ;Status : Open. =fantasai= Write proposal.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0404.html
+  ;Status : Open. =WG= Discuss.
 
 ==== Issue 173 ====
 
