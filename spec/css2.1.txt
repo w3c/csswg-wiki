@@ -818,8 +818,8 @@ Duplicate of Issue 73
 
   ;Summary : Make Appendix G grammar non-normative, or at least inferior to Chapter 4 core grammar
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0501.html
-  ;Status : Open. =WG= Discuss.
-
+  ;Resolution : Accepted to make Appendix G informative.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 187 ====
 
