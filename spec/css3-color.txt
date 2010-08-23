@@ -47,7 +47,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
 
   ; Summary : still confused about interaction of opacity and rgba()
   ; Raised by : Matt Bonner
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0024.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0024.html  http://lists.w3.org/Archives/Public/www-style/2010Aug/0451.html
   ; Proposed Resolution : normative reference to SVG 1.1 simple alpha compositing
   ; Status : spec edited
 
