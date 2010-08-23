@@ -154,7 +154,7 @@ Duplicate of Issue 73
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0445.html
   ;Summary : Float rules when interacting with floats outside containing block
-  ;Status : Open. =dbaron= Write more testcases and come up with a proposal.
+  ;Status : Open. =arronei= Find or write testcases.
 
 ==== Issue 107 ====
 
