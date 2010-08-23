@@ -907,7 +907,7 @@ Duplicate of Issue 73
 ==== Issue 198 ====
 
   ;Summary : Clarify interaction of run-ins and "elements earlier in the source document".
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jan/0376.htm
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jan/0376.html
   ;Proposal : Say that for all layout purposes, the run-in is considered a direct child of the block to which it belongs.
   ;Status : Open. =WG= Discuss.
 
