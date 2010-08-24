@@ -826,8 +826,9 @@ Duplicate of Issue 73
 
   ;Summary : bidi behavior of inline-blocks and inline-tables
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0391.html
-  ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit. =fantasai= give testcases pass/fail conditions
+  ;Resolution : Accepted.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0465.html
+  ;Status : Open. =fantasai= Fix proposal =fantasai= give testcases pass/fail conditions
 
 ==== Issue 188 ====
 
