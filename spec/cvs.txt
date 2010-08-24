@@ -198,3 +198,7 @@ Feel free to add more specific info about other versions of BBEdit.
 
 ==== Aside: Other Editor CVS Support ====
 Other windowing/GUI text editors may have their own ways of enabling CVS support.  Feel free to add documentation for those here in their own sections, named similarly to the previous section on ''Enabling BBEdit CVS Support''.
+
+
+====== See Also ======
+  * [[test/cvs|Guide to CVS]] - some good command overviews, except IGNORE the bits about "$CVSROOT" and "Logging in".
