@@ -538,9 +538,7 @@ cvs version
 
 
 ==== Authenticity Of Host Cant Be Established ====
-(On MacOSX 10.4 at least)
-
-IF you see a message like:
+IF you see a message like (On MacOSX 10.4 at least) :
 
 <code bash>
 The authenticity of host 'dev.w3.org (128.30.52.19)' can't be established.
@@ -564,8 +562,10 @@ Warning: Permanently added 'dev.w3.org' (RSA) to the list of known hosts.
 
 You may be asked:
 <code bash>
-Enter passphrase for key '/Volumes/identity/osxusers/tantek/.ssh/id_dsa': 
+Enter passphrase for key '/Users/USERNAME/.ssh/id_dsa': 
 </code>
+
+where USERNAME is your username alias on your local system.
 
 Enter your pass phrase for your key.
 
@@ -610,8 +610,9 @@ ssh-add ~/.ssh/id_dsa
 and you might see a message like:
 
 <code bash>
-Enter passphrase for /Volumes/identity/osxusers/tantek/.ssh/id_dsa:
+Enter passphrase for /Users/USERNAME/.ssh/id_dsa:
 </code>
+where USERNAME is your username alias on the system.
 
 Enter your pass phrase for your key.
 
@@ -620,7 +621,6 @@ Then you might see a message like this: (at least on Mac OS X)
 <code bash>
 Identity added: /Users/USERNAME/.ssh/id_dsa (/Users/USERNAME/.ssh/id_dsa)
 </code>
-where USERNAME is your username alias on the system.
 
 Now try:
 <code bash>
