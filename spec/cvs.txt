@@ -327,11 +327,11 @@ Type in a commit message for the new directory and file and press return.
 
 then press the 'esc' (escape) key
 
-and type the letters ':' 'w' 'q' (without the quotes or spaces) 
+and type the keys ':' 'w' 'q' (one at a time, without the quotes or spaces) 
 
 and press the enter/return key.
 
-You should see a messages like:
+You should see messages like:
 
 <code bash>
 RCS file: /sources/public/csswg/css3-foo/Overview.src.html,v
@@ -345,7 +345,7 @@ cvs-debian-1.12.13 checkout: Updating csswg/css3-foo
 
 Your code has been checked in with the comments you wrote in the vim edited file.
 
-In order to void vim popping up like that in the future, be sure to to always explicitly specify a commit message with -m like
+In order to avoid vim popping up like that in the future, be sure to to always explicitly specify a commit message with -m like
 
 <code bash>
 cvs commit -m "YOUR COMMIT MESSAGE HERE" css3-foo
