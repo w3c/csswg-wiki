@@ -927,12 +927,19 @@ Duplicate of Issue 73
   ;Status : Open. =Bert= Edit.
   ;Testcases : n/a (editorial)
 
+
 ==== Issue 201 ====
 
   ;Summary : Table model editorial
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0401.html
   ;Status : Open. =WG= Discuss.
 
+==== Issue 202 ====
+
+  ;Summary : Change of [[#issue-87|issue 87]] (comments *outside* tokens instead of *between*) must also be applied to section 4.1.9.
+  ;URI : http://www.w3.org/mid/20100825124330.GE25418@bowman.infotech.monash.edu.au
+  ;Resolution : Assumed editorial
+  ;Status : =Bert= Edit.
 
 ===== 19 July 2007 CR Issues =====
 
