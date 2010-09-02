@@ -184,16 +184,14 @@ Comments from Bert Bos "I think any form of macros or additional scopes and indi
   ; Test Suite : Tests for CSS3-specific features has not been started. It should be a medium-size effort: around 1000 tests.
   ; Blocked by : N/A
   ; Rationale : Font properties are some of the most commonly used CSS properties.  Downloadable fonts would vastly improve typographic capabilities on the web.
-
 ==== CSS Generated and Replaced Content Level 3 ====
 
   ; Latest Working Draft : http://www.w3.org/TR/2003/WD-css3-content-20030514/
-  ; Advocate : Giorgi Chavchanidze, Elika Etemad
+  ; Advocate : Giorgi Chavchanidze, Elika Etemad, Tab Atkins
   ; Description :  Generated and replaced content module makes styling of pages more flexible, by providing mechanisms for adding/replacing content through CSS.
-  ; Status : Working draft
+  ; Status : Working draft.  Several parts of the draft are implemented fairly interoperably, but several others are not implemented nor are planned to be implemented in the near future.  Likely course of action will be chopping the more controversial aspects of the spec out so that what remains describes things that are implemented in at least one browser.
   ; Implementations : Partial. Opera, Prince and Safari support content property on any element, Prince supports also named strings.
   ; Test Suite : No test suite available at the moment. Probably a medium-size effort, on the order of 1000 tests.
-  ; Blocked by : 
   ; Rationale :  Gives CSS more power and flexibility, allows to create rich layouts while keeping markup minimal and semantics-oriented.
 
 ==== CSS Generated Content for Paged Media ====
