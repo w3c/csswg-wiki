@@ -359,7 +359,8 @@ Duplicate of Issue 73
   ;Resolution : Change grammar to avoid backup.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0368.html
   ;Testcase : http://lists.w3.org/Archives/Public/www-style/2010Aug/0417.html
-  ;Status : Open. =WG= verify proposal and testcase.
+  ;Resolution : Bert's proposal accepted.
+  ;Status : Open. =Bert= Edit, but also deal with http://lists.w3.org/Archives/Public/www-style/2010Aug/0577.html
 
 ==== Issue 130 ====
   ;Summary : Undefined keywords mentioned in font-family
