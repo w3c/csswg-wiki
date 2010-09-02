@@ -3,7 +3,7 @@
 This list tracks the issues that were raised against the CSS2.1 spec's
 Last Call Working Draft published in September 2010.
 
-==== Issue 204 ====
+==== Issue 203 ====
 
   ;Summary : Clause about phantom line boxes should say "forced line break" instead of "line feed"
   ;URI : 
