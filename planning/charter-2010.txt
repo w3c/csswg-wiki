@@ -216,16 +216,14 @@ Comments from Bert Bos "I think any form of macros or additional scopes and indi
   ; Test Suite : No test created yet. 1000-1500 cases probably needed. Large
   ; Blocked by : SaloniR will begin work on refining this spec later this year.
   ; Rationale : It enables grid based layout, a common technique for publications, on the web.
-
 ==== CSS Lists Level 3 ====
 
   ; Latest Working Draft : http://www.w3.org/TR/2002/WD-css3-lists-20021107/
-  ; Advocate : Arron Eicholz
+  ; Advocate : Arron Eicholz, Tab Atkins
   ; Description : Describes the position and content of list markers, including the shape of bullets and the numbering schemes (digital, roman, alphabet-based, etc.)
   ; Status : Needs some refining and especially reviews from experts in various typographic traditions
   ; Implementations : None for any of the level 3 features
   ; Test Suite : About a hundred separate styles, with an estimated ten tests per style, requires at least 1000 tests. None exist yet.
-  ; Blocked by : Lack of editor
   ; Rationale : Although bullets and decimal numbers are the most common labels for lists, there exist many others.
 
 ==== CSS Marquee Level 3 ====
