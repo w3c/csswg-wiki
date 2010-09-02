@@ -719,7 +719,8 @@ Duplicate of Issue 73
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0404.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0404.html
   ;Testcase : http://www.gtalbot.org/BrowserBugsSection/css21testsuite/horizontal-layout-table-vs-caption-boxes-1.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Proposal accepted: caption width influences table width as if contained in a table-spanning cell. fantasai to tweak proposal as noted in minutes to be more clear
+  ;Status : Open. =fantasai= Update proposal as noted in minutes.
 
 ==== Issue 173 ====
 
