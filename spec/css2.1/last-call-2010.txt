@@ -1,0 +1,16 @@
+====== Disposition of Comments for CSS2.1 Last Call September 2010 ======
+
+This list tracks the issues that were raised against the CSS2.1 spec's
+Last Call Working Draft published in September 2010.
+
+==== Issue 204 ====
+
+  ;Summary : Clause about phantom line boxes should say "forced line break" instead of "line feed"
+  ;URI : 
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 204 ====
+
+  ;Summary : Link 8.3.1 to clause about phantom line boxes
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Sep/0061.html
+  ;Status : Open. Needs proposal.
