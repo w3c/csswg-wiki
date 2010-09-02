@@ -204,7 +204,7 @@ Comments from Bert Bos "I think any form of macros or additional scopes and indi
 ==== CSS Generated and Replaced Content Level 3 ====
 
   ; Latest Working Draft : http://www.w3.org/TR/2003/WD-css3-content-20030514/
-  ; Advocate : Giorgi Chavchanidze, Elika Etemad, Tab Atkins
+  ; Advocate : Giorgi Chavchanidze, Elika Etemad, Tab Atkins (editor)
   ; Description :  Generated and replaced content module makes styling of pages more flexible, by providing mechanisms for adding/replacing content through CSS.
   ; Status : Working draft.  Several parts of the draft are implemented fairly interoperably, but several others are not implemented nor are planned to be implemented in the near future.  Likely course of action will be chopping the more controversial aspects of the spec out so that what remains describes things that are implemented in at least one browser.
   ; Implementations : Partial. Opera, Prince and Safari support content property on any element, Prince supports also named strings.
