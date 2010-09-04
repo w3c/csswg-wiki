@@ -30,7 +30,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : ''height'' on table cell should be a minimum height for the row, not a minimum height for an anonymous box wrapped around the cell's contents
   ;Proposed text : http://lists.w3.org/Archives/Public/www-style/2010Jun/0048.html
   ;Resolution : Proposed text accepted with "see above" and "s/specified/computed/" changes suggested in http://lists.w3.org/Archives/Public/www-style/2010Jun/0049.html
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : table-valign-001 and table-valign-002
 
 ==== Issue 53 ====
@@ -96,7 +96,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Old Resolution :  @rules inside declaration blocks are ignored if between declarations (i.e. at the beginning of a declaration before the property), invalid if within declarations.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Apr/0447.html changes a, b (optional), c (optional), and d.
   ;Resolution : Bert's proposal accepted
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : at-page-rule-001 and declarations-009
 
 ==== Issue 72 ====
@@ -115,7 +115,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Proposal : No change. Comments are not allowed inside url(). Add a note to clarify.
   ;Resolution : Proposal accepted.
   ;Proposed Note : In Section 4.3.4 add the following paragraph (best place is probably after "Depending on the type of URI...": "Since URIs may contain characters that would otherwise be used as delimiters in CSS, the entire URI value must be treated as a single unit by the tokenizer and normal tokenization behavior does not apply within a URI value. Therefore comments are not allowed within a URI value."
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : uri-016
 
 ==== Issue 75 ====
@@ -129,7 +129,7 @@ Duplicate of Issue 73
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Oct/0356.html
   ;Extended Proposal : http://lists.w3.org/Archives/Public/www-style/2008Nov/0082.html
   ;Resolution : Proposals accepted.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : word-spacing-characters-001 through word-spacing-characters-003
 
 ==== Issue 86 ====
@@ -164,7 +164,7 @@ Duplicate of Issue 73
   ;Test cases : http://test.csswg.org/source/contributors/microsoft/incoming/computed-or-used-001.xht
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0447.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : relpos-calcs-001 through relpos-calcs-007
 
 ==== Issue 109 ====
@@ -238,7 +238,7 @@ Duplicate of Issue 73
                * S4.0.5: Fail - 5testfoo, testfoo 5-0, 5foo, -5, -5bar, 5_0, -5testfoo, 1996
 
   ;Resolution : ident+ syntax (proposal 1) adopted
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : font-family-valid-characters-* font-family-invalid-characters-*
 
 ==== Issue 115 ====
@@ -247,7 +247,7 @@ Duplicate of Issue 73
   ;Summary : zero clearance needs to be distinguished from not having clearance
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Apr/0484.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : clearance-006
 
 ==== Issue 116 ====
@@ -263,7 +263,7 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issues 4 and 10)
   ;Summary : Vertical alignment underdefined. Testcases in URL.
   ;Resolution : State that behavior described in 4a is undefined. For 4b and 4c, drop item 4 from list and add parenthetical to item 3 saying that the strut is taken into consideration. Accept 10a. For 10b, add a note saying that baseline info is found in the font and this may be further explained in CSS3.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 118 ====
 
@@ -279,7 +279,7 @@ Duplicate of Issue 73
   ;Summary : Reference to undefined term "block's baseline"
   ;Proposal : Remove "block's". Complete proposal at http://lists.w3.org/Archives/Public/www-style/2010May/0567.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 120 ====
@@ -342,7 +342,7 @@ Duplicate of Issue 73
   ;Summary : table caption figure caption needs updating
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0173.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 128 ====
   ;Summary : display: run-in needs clarification
@@ -375,7 +375,7 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jun/0137.html
   ;Proposal : Change to mailto:www-style@w3.org?subject=%5bCSS21%5d%20%E2%80%A6summary%20of%20comment%E2%80%A6
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed
   ;Testcases : n/a (editorial)
 
 ==== Issue 132 ====
@@ -451,7 +451,7 @@ Duplicate of Issue 73
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Oct/0294.html
   ;Summary : ex on font-size should depend on parent element
   ;Resolution : Agreed this needs to be fixed to behave just like em.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : font-size-113
 
 ==== Issue 142 ====
@@ -641,7 +641,7 @@ Duplicate of Issue 73
   ;Summary : computed value definition for 'height' and 'width' is wrong
   ;Proposal : remove "; 'auto' if the property does not apply"
   ;Resolved : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : width-inherit-001 and height-inherit-001
 
 ==== Issue 164 ====	 
@@ -650,7 +650,7 @@ Duplicate of Issue 73
   ;Summary : An example is invalid HTML4.
   ;Resolution : Assumed editorial. 
   ;See also : http://lists.w3.org/Archives/Public/www-style/2010Mar/0511.html
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 165 ====	 
@@ -668,7 +668,7 @@ Duplicate of Issue 73
   ;Summary : Clarify different uses of term "value" as "property value" or "component value"
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jul/0225.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 167 ====
@@ -694,7 +694,7 @@ Duplicate of Issue 73
   ;Summary : Normative statement about OOF elements and break opportunities should not be in note
   ;Proposal : Replace sentence "A float should not introduce a line break opportunity." with "Floated and absolutely-positioned elements do not introduce a line breaking opportunity." from the note below below it
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 170 ====
@@ -734,7 +734,7 @@ Duplicate of Issue 73
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0619.html
   ;Testcase : http://dbaron.org/css/test/2010/css21-issue-174
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : ident-020
 
 ==== Issue 175 ====
@@ -748,14 +748,14 @@ Duplicate of Issue 73
   ;Summary : Update reference to 3066 to BCP47
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0288.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 177 ====
   ;Summary : Random editorial issues
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0384.html
   ;Resolution : Assumed editorial. (Note that the last change to 16.6.1 is already [[#issue-169|issue 169.]]
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 178 ====
@@ -807,7 +807,7 @@ Duplicate of Issue 73
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0438.html
   ;Proposal : Add "Pseudo-elements behave just like real elements in CSS with the exceptions described below and _elsewhere_<link to section 12.1>." to 5.12
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 185 ====
@@ -839,7 +839,7 @@ Duplicate of Issue 73
   ;Summary : Example refers to clipping by "containing block"; should be "padding box of <div>" or similar
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0037.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 189 ====
@@ -847,7 +847,7 @@ Duplicate of Issue 73
   ;Summary : Percentages on 'font-size' on root element not linked to definiion
   ;URI : http://lists.w3.org/Archives/Public/www-style/2009Mar/0379.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit as appropriate.
+  ;Status : Closed.
 
 ==== Issue 190 ====
 
@@ -877,7 +877,7 @@ Duplicate of Issue 73
   ;Summary : Add note to 6.2 clarifying that inheritance operates on the element tree and does not get intercepted by anonymous boxes.
   ;URI : None
   ;Resolution : Assumed editorial. Needs tests, though.
-  ;Status : Open. =Bert= Edit. =fantasai= tests
+  ;Status : Closed. =fantasai= tests
 
 ==== Issue 194 ====
 
@@ -928,7 +928,7 @@ Duplicate of Issue 73
   ;Summary : List-item marker box editorial glitches
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0058.html
   ;Resolution : Assumed editorial. (Note that the first part changes two words in the proposed text for [[#issue-120|issue 120.]]
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 
