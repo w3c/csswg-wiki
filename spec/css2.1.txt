@@ -935,7 +935,8 @@ Duplicate of Issue 73
 
   ;Summary : Table model editorial
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0401.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Proposal accepted with term "table wrapper box" for the outer table box.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 203 ====
 
