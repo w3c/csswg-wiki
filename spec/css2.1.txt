@@ -45,7 +45,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-003.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-004.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
   ;Resolution : Proposal A accepted. Add note that pre-wrap may allow justification in the future.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0026.html|Edit.]]
   ;Testcases : text-align-white-space-001 through text-align-white-space-004
 
 ==== Issue 56 ====
@@ -68,7 +68,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Mar/0417.html
   ;Resolution : Exact text deferred to Sylvain, Bert to check that it is only editorial changes.
   ;Final Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0496.html http://lists.w3.org/Archives/Public/www-style/2010Jun/0515.html
-  ;Status : Open. =Bert= Review and edit.
+  ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0026.html|Discuss with Sylvain and edit.]] =Sylvain= Review and comment on edits.
   ;Testcases : n/a (editorial)
 
 ==== Issue 61 ====
@@ -86,7 +86,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Summary : fixed background images not defined for paged media
   ;Proposal : Add "In paged media where there is no viewport, a ‘fixed’ background is fixed with respect to the page box and is therefore replicated on every page." (Copied from css3-background)
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0026.html|Edit.]]
   ;Testcases : background-attachment-010
 
 ==== Issue 71 ====
@@ -138,7 +138,7 @@ Duplicate of Issue 73
   ;Summary : Position of list-item marker in presence of floats, text-align
   ;Proposal : Add "The position of the list-item marker adjacent to floats is undefined in CSS2.1."
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0026.html|Edit.]]
   ;Testcases : n/a (undefined)
 
 ==== Issue 89 ====
