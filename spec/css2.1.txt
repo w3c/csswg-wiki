@@ -867,8 +867,8 @@ Duplicate of Issue 73
 
   ;Summary : Clarifications to float's effect on its shortened line
   ;URI : http://lists.w3.org/Archives/Public/www-style/2009Oct/0027.html
-  ;Proposal : ?
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Accept change for first issue; accept s/further content/content after the float/ and s/it/that content/ for the second issue; third issue is invalid.
+  ;Status : Open. =WG= Discuss http://lists.w3.org/Archives/Public/www-style/2010Sep/0053.html
 
 ==== Issue 193 ====
 
