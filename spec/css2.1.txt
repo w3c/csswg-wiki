@@ -797,6 +797,7 @@ Duplicate of Issue 73
   ;Resolution : Assumed editorial.
   ;Status : Open. =Bert= Edit.
   ;Testcases : n/a (editorial)
+  
 ==== Issue 183 ====
 
   ;Summary : Error handling of malformed media types underdefined.
