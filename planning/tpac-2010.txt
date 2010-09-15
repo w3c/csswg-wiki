@@ -20,6 +20,6 @@
 
 ===== Proposed Topics =====
 
-Fill in proposed agenda topics below:
+Proposed agenda topics:
 
-  * ???
+  * CSS3 Fonts - font feature support
