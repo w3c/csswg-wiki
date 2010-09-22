@@ -411,7 +411,7 @@ Both before you start editing a document, and when you're ready to check in a do
 
 <code bash>
 cd ~/csswg
-cvs up
+cvs up -d
 </code>
 
 IF it seems to stall and not do anything, or eventually gives an error message like:
@@ -436,7 +436,7 @@ export CVS_RSH=ssh
 THEN retry the cvs up line:
 
 <code bash>
-cvs up
+cvs up -d
 </code>
 
 You should see messages like:
@@ -651,6 +651,129 @@ Quit System Preferences.
 Logout of your machine and log back in.
 
 From now on, the ''CVS_RSH'' environment variable is automatically set for all applications whenever you log into your account on your machine. This means it will work both with terminal/shell applications, and nice text editors that have integrated CVS support for example.
+
+===== W3C Member-Only CVS Repository =====
+
+If you've gotten this far, and you happen to also be a W3C Member (or a W3C Invited Expert that's been granted Member Access), you might want to also check-out and help with some W3C Member-only parts of w3.org.
+
+Assuming you've already successfully checked-out and checked-in to W3C's Public CVS repository by following the above steps, here's what you need to use the W3C Member-Only CVS Repository.
+
+First, make sure your staff contact (in whatever W3C working group you're working with/in) has upgraded your CVS account access for member-only areas, in particular, for cvs.w3.org.
+
+Just as you checked out into a new directory from the public repository, you'll do the same here, just with a different command line.
+
+In a Terminal window, be sure to cd to the directory you want to create the new checkout, then modify this command line:
+
+<code bash>cvs -d Tantekelik@cvs.w3.org:/w3ccvs co WWW</code>
+
+with YOUR username instead of “Tantekelik” (used only as a placeholder in these examples)
+
+Note that your W3C username is CASE-SENSITIVE, be sure to enter it precisely. 
+
+Now execute the command line.
+
+You might see a message like:
+
+<code>
+The authenticity of host 'cvs.w3.org (128.30.52.19)' can't be established.
+RSA key fingerprint is fb:30:ab:09:1c:b3:1a:74:93:67:57:fd:69:16:0b:97.
+</code>
+
+That's the right one. If you get a different fingerprint back you're being hacked.
+
+Then when asked:
+
+<code>Are you sure you want to continue connecting (yes/no)?</code>
+
+Answer:
+
+<code bash>yes</code>
+
+Then you'll likely get a warning like:
+
+<code>Warning: Permanently added 'cvs.w3.org' (RSA) to the list of known hosts.
+</code>
+
+IF you get messages like: 
+
+<code>cvs.bin checkout: Updating WWW
+cvs.bin checkout: cannot open directory /w3ccvs/WWW: Permission denied
+cvs.bin checkout: skipping directory WWW
+</code>
+
+Then you don't have access to the top level WWW directory.  You'll have to pick a subdirectory instead, perhaps associated with the working group you're working with, e.g. for the W3C CSS Working Group, use a command like this instead:
+
+<code bash>cvs -d Tantekelik@cvs.w3.org:/w3ccvs co WWW/Style/Group</code>
+
+again with your username instead of "Tantekelik".
+
+You SHOULD see a message like:
+
+<code>cvs.bin checkout: Updating WWW/Style/Group</code>
+
+and then a bunch of messages like:
+
+<code>
+U WWW/Style/Group/970117-usersettings.html
+U WWW/Style/Group/CSS-X-schema.gif
+U WWW/Style/Group/CSS-X-schema.idraw
+U WWW/Style/Group/CSS-X-small.gif
+U WWW/Style/Group/CSS-X.html
+U WWW/Style/Group/CSS-selectors.html
+U WWW/Style/Group/History.html
+</code>
+...
+
+etc.
+
+This might take some time to check out all of WWW/Style/Group, so just let it run for a while.
+
+The total checkout size might be in the range of: ...... or a bit more (depending on how much has been added since these instructions were updated).
+
+If it seems to get "stuck", i.e. you've left it running for a while, and it's stopped on a status line like:
+
+<code>cvs.bin checkout: Updating WWW/Style/Group/2002</code>
+
+You can try ctrl-c to stop the check out - whereby it will probably give you messages like:
+
+<code>^Ccvs [checkout aborted]: received interrupt signal
+cvs [checkout aborted]: received interrupt signal
+</code>
+
+
+Now go the specific directory you checked out:
+
+<code bash>cd WWW/Style/Group</code>
+
+and restart your checkout:
+
+<code bash>cvs up -d</code>
+
+If it still seems to stall in the same place, e.g. on 
+
+<code>cvs.bin checkout: Updating WWW/Style/Group/2002</code>
+
+Just give it a bit longer - there's a 100+ MB .rm file in that directory that may just be taking a while to pull down.
+
+Eventually, you should see a bunch of ''cvs.bin updated: Updating ...'' lines like:
+
+<code>cvs.bin update: Updating .
+cvs.bin update: Updating 2003
+cvs.bin update: Updating 2003/WD-css3-content-20030514
+cvs.bin update: Updating 2003/WD-css3-template-20030514
+cvs.bin update: Updating 2004
+</code>
+...
+
+etc. Just give a little while to finish with something like:
+
+... (I'm still waiting - will update once my checkout has finished :) ...
+
+CONGRATULATIONS!
+
+You now have a checkout of the W3C Member-Only ''WWW/Style/Group'' CVS repository.
+
+Creating new directories, getting updates, and checking in works exactly the same as for the public repository.  All the repository-specific information is contained in the folders of your checkout, so CVS doesn't have to be told which server to get updates from etc.
 
 ====== See Also ======
   * [[test/cvs|Guide to CVS]] - some good command overviews, except IGNORE the bits about "$CVSROOT" and "Logging in".
