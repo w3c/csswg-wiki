@@ -1786,5 +1786,5 @@ http://lists.w3.org/Archives/Member/w3c-css-wg/2007OctDec/0127.html
   ;Summary : add && to list of value syntax operators
   ;Proposal : copy text from http://dev.w3.org/csswg/css3-background/
   ;Resolved : Add && to list of value syntax operators, with an example
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
