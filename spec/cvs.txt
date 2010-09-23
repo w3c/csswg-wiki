@@ -800,7 +800,7 @@ U WWW/Style/CSS/.htaccess
 ...
 etc.
 
-In fact, if all you wanted was stuff inside ''WWW/Style/CSS'', then you can simply check that out instead of checking out ''WWW/Style/Group''.  As of this writing the ''WWW/Style/CSS'' checkout will take about .... (still checking out) MB.
+In fact, if all you wanted was stuff inside ''WWW/Style/CSS'', then you can simply check that out instead of checking out ''WWW/Style/Group''.  As of this writing the ''WWW/Style/CSS'' checkout may take about 1.31GB (yes gigabytes, that's not a typo) for over 250,000 files.
 
 
 Creating new directories, getting updates, and checking in works exactly the same on ''cvs.w3.org'' as for the public repository.  All the repository-specific information is contained in the folders of your checkout, so CVS doesn't have to be told which server to get updates from etc.
