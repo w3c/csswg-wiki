@@ -10,7 +10,9 @@ To record a bug, post to public-css-testsuite@w3.org explaining the problem. The
 
 Put the test in the most severe group that applies.
 
-==== Tests that are Invalid ====
+==== Tests that are Wrong or have Parse Errors ====
+
+==== Tests that have HTML Validation errors ====
 
 ==== Tests that need Usability improvements ====
 
