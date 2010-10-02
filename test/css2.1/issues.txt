@@ -2,100 +2,21 @@
 
 This page records known problems in the [[test:css2.1|CSS 2.1 Conformance Test Suite]]. For problems with the harness, see [[harness]].
 
+To record a bug, post to public-css-testsuite@w3.org explaining the problem. Then link to it from this wiki using the test name as the link text. Like this:
 
-===== Lifecyle of a Bug =====
+<code>
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html|t1202-counter-09-b]]
+</code>
 
-Valid status markers:
+Put the test in the most severe group that applies.
 
-<markdown>
-<dfn>NEEDSFIX</dfn>
-: Initial value.
+==== Tests that are Invalid ====
 
-<dfn>NEEDSINFO</dfn>
-: Needs more information (e.g. from the working group or someone more knowledgeable about the spec) before a fix can be designed.
+==== Tests that need Usability improvements ====
 
-<dfn>FIXME</dfn>
-: A fix is proposed in the Resolution section, but has been not coded/reviewed/checked in.
+==== Tests that need Metadata improvements ====
 
-<dfn>VERIFYME</dfn>
-: A fix has been checked in, someone else needs to verify.
+==== General Issues ====
+http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html
 
-<dfn>INVALID</dfn>
-: There is no bug. Record an explanation in the Resolution section and wait for someone else to verify and remove the bug record.
-
-<dfn>POORDESC</dfn>
-: Not enough information in the summary or discussion to understand the problem and create a fix. The reporter needs to clarify. The issue may be deleted without a fix if the reporter is unresponsive.
-</markdown>
-
-A bug record is removed once someone else has either verified the fix, or verified that the bug is indeed invalid.
-
-===== Open Bugs =====
-
-
-
-==== t1202-counters-17-d ====
-<markdown>
-Test
-: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1202-counters-17-d.htm
-
-Discussion
-: http://lists.w3.org/Archives/Public/www-style/2006Nov/0049.html
-
-Summary
-
-: Test assumes
-      :before, :after { whitespace: pre-line }
-  is not there, even though it's in the sample style sheet.
-
-Resolution
-
-: Repeat `white-space: pre` on `:before`, `:after` in test
-  `t1202-counters-17-d.htm`.
-
-Status
-: VERIFYME
-</markdown>
-
-
-
-
-
-==== t1205-c565-list-pos-00-b ====
-<markdown>
-Test
-: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1205-c565-list-pos-00-b.htm
-
-Discussion
-: http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jun/0011.html
-
-Summary
-
-: Test assumes positioning of marker box even though CSS2.1 leaves it undefined.
-
-Resolution
-
-: Remove raw-tests/css1tests/css1test565.xml and replace it with tests proposed in http://lists.w3.org/Archives/Public/public-css-testsuite/2007Aug/0007.html
-
-Status
-: VERIFYME
-</markdown>
-
-==== Tests Assume Non-Latin Font Availability ====
-<markdown>
-Tests
-: http://www.w3.org/Style/CSS/Test/CSS2.1/current/t1202-counter-09-b.htm
-
-Discussion
-: http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html
-
-Summary
-
-: Some tests are assuming the system has access to glyphs for non-Latin fonts. If this isn't the case, the test could pass without actually testing anything.
-
-Resolution
-
-: Need tests to fail if glyphs are not available.
-
-Status
-: NEEDSFIX
-</markdown>
+Some tests are assuming the system has access to glyphs for non-Latin fonts. If this isn't the case, the test could pass without actually testing anything.
