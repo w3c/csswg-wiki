@@ -13,6 +13,45 @@ Refer to nonexistent fonts:
   font-weight-bolder-001
   font-weight-lighter-001
   font-weight-normal-001
+  
+
+== 19 RC2 testcases with insufficient space to display a bullet list-marker or involving display: list-item ==
+
+I propose to add a 'margin-left: 2em;'  and then to update the expected result accordingly to mention that a bullet list-marker should be rendered on the left of the black square.
+
+E.g.:
+  <style type="text/css">
+  div
+  {
+  display: list-item;
+  height: 1in;
+  **margin-left: 2em;**
+  width: 1in;
+  }
+  </style>
+
+
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/font-family-applies-to-003.htm|font-family-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/font-style-applies-to-003.htm|font-style-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/font-variant-applies-to-003.htm|font-variant-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/font-size-applies-to-003.htm|font-size-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/font-applies-to-003.htm|font-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/text-indent-applies-to-003.htm|text-indent-applies-to-003]] This testcase requires a bit more code
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/text-align-applies-to-003.htm|text-align-applies-to-003]] The testcase makes no mention of a bullet list-marker
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/text-decoration-applies-to-003.htm|text-decoration-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/letter-spacing-applies-to-003.htm|letter-spacing-applies-to-003]] This testcase requires a bit more code
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/word-spacing-applies-to-003.htm|word-spacing-applies-to-003]] This testcase requires a bit more code
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/text-transform-applies-to-003.htm|text-transform-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/white-space-applies-to-003.htm|white-space-applies-to-003]] This testcase requires a bit more code
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/caption-side-applies-to-003.htm|caption-side-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/table-layout-applies-to-003.htm|table-layout-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/border-spacing-applies-to-003.htm|border-spacing-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/empty-cells-applies-to-003.htm|empty-cells-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/border-spacing-applies-to-003.htm|border-spacing-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/border-collapse-applies-to-003.htm|border-collapse-applies-to-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/outline-applies-to-010.htm|outline-applies-to-010]]  The testcase makes no mention of a bullet list-marker
+
+
 ==== Tests that need Usability improvements ====
 
 Ugly, not self-documenting:
