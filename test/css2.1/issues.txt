@@ -7,8 +7,13 @@ To record a bug, post to public-css-testsuite@w3.org explaining the problem. The
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html|t1202-counter-09-b]]
 
 Put the test in the most severe group (earliest below) that applies.
-
 ==== Tests that are Wrong or have Parse Errors ====
+
+Refer to nonexistent fonts:
+  font-weight-bolder-001
+  font-weight-lighter-001
+  font-weight-normal-001
+
 ==== Tests that need Usability improvements ====
 
 Ugly, not self-documenting:
