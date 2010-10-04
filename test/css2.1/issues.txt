@@ -13,6 +13,9 @@ Refer to nonexistent fonts:
   font-weight-bolder-001
   font-weight-lighter-001
   font-weight-normal-001
+
+
+----
   
 
 == 19 RC2 testcases with insufficient space to display a bullet list-marker or involving display: list-item ==
@@ -51,6 +54,7 @@ E.g.:
   - [[http://test.csswg.org/suites/css2.1/20101001/html4/border-collapse-applies-to-003.htm|border-collapse-applies-to-003]]
   - [[http://test.csswg.org/suites/css2.1/20101001/html4/outline-applies-to-010.htm|outline-applies-to-010]]  The testcase makes no mention of a bullet list-marker
 
+----
 
 ==== Tests that need Usability improvements ====
 
