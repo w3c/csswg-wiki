@@ -118,6 +118,11 @@ Ugly, not self-documenting:
 
 ==== Tests that need Metadata improvements ====
 
+=== 1 RC2 testcase with wrong, incorrect meta assert text ===
+
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/position-relative-nested-001.htm
+|position-relative-nested-001]] I explained why the assert text is wrong in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html]]
+
 === Tests possibly missing http flag ===
 
   character-encoding-026
