@@ -115,7 +115,8 @@ Ugly, not self-documenting:
 
 ==== Tests that need Metadata improvements ====
 
-Tests possibly missing http flag:
+=== Tests possibly missing http flag ===
+
   character-encoding-026
   character-encoding-027
   character-encoding-028
@@ -144,6 +145,8 @@ Tests possibly missing http flag:
 Those testcases also miss
 ''<meta http-equiv="Content-Script-Type" content="text/javascript">''
 
+=== 1 RC2 testcase missing the HTMLonly flag === 
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/content-072.htm|content-072]]  ... otherwise, defer should be defer="defer" in that testcase
 
 ==== General Issues ====
 http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html
