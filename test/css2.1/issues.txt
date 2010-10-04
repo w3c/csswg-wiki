@@ -69,10 +69,10 @@ Ugly, not self-documenting:
   background-alpha-004
   background-alpha-005
 
-Should state that red is failure:
+=== Should state that red is failure === 
   active-selector-002
 
-Confusing/hard to judge:
+=== Confusing/hard to judge ===
   background-attachment-004
   background-position-201
   background-root-018
@@ -86,7 +86,12 @@ Confusing/hard to judge:
   margin-collapse-160: should say that the first page is blank and 3 pages are expected (if, indeed, that is the intent).
   text-transform-bicameral-009, text-transform-bicameral-010: should attempt to pick a font that has the glyphs
 
-Need pixel reference lines:
+=== Too technical pass conditions ===
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/inline-table-width-001a.htm|inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
+  - [[http://test.csswg.org/suites/css2.1/20100917/html4/clipping-007.htm|clipping-007]] My neighbour would ask "What's a 100x100 square?"
+  - [[http://test.csswg.org/suites/css2.1/20100917/html4/clipping-012.htm|clipping-012]] My neighbour would ask "What's a 100x100, clip and descendants?" The testcase has **validation markup errors** too.
+
+=== Need pixel reference lines ===
   c527-font-001
   c527-font-002
   c527-font-004
@@ -96,10 +101,10 @@ Need pixel reference lines:
   c527-font-009
   c527-font-10
 
-Should be ref tests:
+=== Should be ref tests ===
   c5526c-display-000
   
-Unfinished:
+=== Unfinished ===
   page-break-margins-000: test contains "[[UNFINISHED]]"
 
 ==== Tests that have HTML Validation errors ====
