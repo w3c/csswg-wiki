@@ -108,6 +108,12 @@ Ugly, not self-documenting:
   page-break-margins-000: test contains "[[UNFINISHED]]"
 
 ==== Tests that have HTML Validation errors ====
+
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/first-letter-punct-before-015.htm|first-letter-punct-before-015]] 82 validation markup errors
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/first-letter-punct-before-019.htm|first-letter-punct-before-019]] 43 validation markup errors
+  - [[http://test.csswg.org/suites/css2.1/20101001/html4/first-letter-punct-before-035.htm|first-letter-punct-before-035]] 167 validation markup errors
+
+
 ==== Tests that need Metadata improvements ====
 
 Tests possibly missing http flag:
