@@ -59,10 +59,14 @@ E.g.:
   - [[http://test.csswg.org/suites/css2.1/20101001/html4/border-collapse-applies-to-003.htm|border-collapse-applies-to-003]]
   - [[http://test.csswg.org/suites/css2.1/20101001/html4/outline-applies-to-010.htm|outline-applies-to-010]]  The testcase makes no mention of a bullet list-marker
 
+=== Tests relying on non-normative behavior ===
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-borders-model-007]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|font-matching-rule-008]] 
 
 === Miscellaneous incorrect tests ===
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Feb/0031.html|table-height-algorithm-026.htm]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-024.htm]] 
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Feb/0031.html|table-height-algorithm-026]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-024]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c414-flt-ln-002]] (also too complicated)
 
 ==== Tests that need Usability improvements ====
 
