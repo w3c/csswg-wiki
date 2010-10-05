@@ -60,6 +60,9 @@ E.g.:
   - [[http://test.csswg.org/suites/css2.1/20101001/html4/outline-applies-to-010.htm|outline-applies-to-010]]  The testcase makes no mention of a bullet list-marker
 
 
+=== Miscellaneous incorrect tests ===
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Feb/0031.html|table-height-algorithm-026.htm]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-024.htm]] 
 
 ==== Tests that need Usability improvements ====
 
