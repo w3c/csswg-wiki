@@ -286,3 +286,12 @@ Where the first part of the text up to and including "sRGB," (without the comma)
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0313.html http://lists.w3.org/Archives/Public/www-style/2010Sep/0330.html http://lists.w3.org/Archives/Public/www-style/2010Sep/0341.html http://lists.w3.org/Archives/Public/www-style/2010Sep/0341.html http://lists.w3.org/Archives/Public/www-style/2010Sep/0462.html (then drifted off topic) http://lists.w3.org/Archives/Public/www-style/2010Sep/0853.html
   ; Proposed Resolution : no change for CSS3, consider for later specification
   ; Status : no change
+  
+  ==== Issue 32 ====
+
+  ; Summary : HSL Tables
+  ; Raised by : Christoph Päper
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0312.html
+  ; Reporter's response to resolution : 
+  ; Proposed Resolution : 
+  ; Status : 
