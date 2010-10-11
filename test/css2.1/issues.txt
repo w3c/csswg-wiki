@@ -64,12 +64,21 @@ E.g.:
 === Tests relying on non-normative behavior ===
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-borders-model-007]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|font-matching-rule-008]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-matching-rule-015]] 
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-matching-rule-015]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0074.html|table-height-algorithm-027]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0075.html|content-158]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0075.html|content-159]]
 
 === Miscellaneous incorrect tests ===
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Feb/0031.html|table-height-algorithm-026]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-024]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c414-flt-ln-002]] (also too complicated)
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-011]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-261]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-358]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|line-height-111]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|border-conflict-style-074]]
 
 === 1 RC2 testcase with incorrect expected result ===
 
