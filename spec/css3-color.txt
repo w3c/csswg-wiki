@@ -269,6 +269,7 @@ See the [[http://www.w3.org/Style/CSS/Test/#css3-color|released]] and [[http://d
 ==== Issue 30 ====
   ; Summary : sRGB reference needs to be updated, check other references too
   ; Raised by : Chris Lilley
+  ; Reporters response to resolution : http://lists.w3.org/Archives/Public/www-style/2010Oct/0070.html
   ; Proposed Resolution : update them. Note: When I (Tantek) last asked Chris Lilley about what should we update the [SRGB] reference to, he said we should use the same reference as the latest SVG.
 
 From http://www.w3.org/TR/SVG/refs.html :
@@ -280,6 +281,7 @@ Where the first part of the text up to and including "sRGB," (without the comma)
 
   ; Status : awaiting Bert to update the shared bibliography for the CSS specs accordingly.
   
+
 ==== Issue 31 ====
   ; Summary : add CIE color specification to CSS3 color
   ; Raised by : Alexis Shaw
