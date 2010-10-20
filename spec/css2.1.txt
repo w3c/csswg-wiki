@@ -937,6 +937,9 @@ Duplicate of Issue 73
   ;Summary : Define when line boxes are present
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010May/0698.html
   ;Status : Open. =WG= Discuss.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Oct/0430.html
+  
+  
 
 ==== Issue 200 ====
 
