@@ -84,20 +84,17 @@ Ugly, not self-documenting:
   text-transform-bicameral-009, text-transform-bicameral-010: should attempt to pick a font that has the glyphs
 
 
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/abspos-003.htm|abspos-003]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|More info]]
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/abspos-004.htm|abspos-004]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|More info]]
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/abspos-overflow-010.htm|abspos-overflow-010]] This **text** should be green, not this //line// should be green
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/abspos-overflow-011.htm|abspos-overflow-011]] This **text** should be green, not this //line// should be green
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/abspos-overflow-012.htm|abspos-overflow-012]] This **text** should be green, not this //line// should be green
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-003.htm|abspos-003]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|More info]]
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-004.htm|abspos-004]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|More info]]
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-overflow-010.htm|abspos-overflow-010]] This **text** should be green, not this //line// should be green
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-overflow-011.htm|abspos-overflow-011]] This **text** should be green, not this //line// should be green
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-overflow-012.htm|abspos-overflow-012]] This **text** should be green, not this //line// should be green
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-035]] 
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-036]] 
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c44-ln-box-003]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|min-height-080]] 
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|max-height-080]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|background-130]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|caption-side-001]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|caption-side-002]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|caption-side-003]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-025]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|outline-003]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|empty-cells-applies-to-001]]
@@ -105,14 +102,14 @@ Ugly, not self-documenting:
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-border-model-005]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]
 
-=== 7 RC2 testcases with too technical pass conditions ===
-  - [[http://test.csswg.org/suites/css2.1/20101001/html4/inline-table-width-001a.htm|inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
-  - [[http://test.csswg.org/suites/css2.1/20100917/html4/clipping-002.htm|clipping-002]] My neighbour would ask "What's a 100x100 square?"
-  - [[http://test.csswg.org/suites/css2.1/20100917/html4/clipping-007.htm|clipping-007]] My neighbour would ask "What's a 100x100 square?"
-  - [[http://test.csswg.org/suites/css2.1/20100917/html4/clipping-012.htm|clipping-012]] My neighbour would ask "What's a 100x100, clip and descendants?" The testcase has **validation markup errors** too.
-  - [[http://test.csswg.org/suites/css2.1/20101001/html4/abspos-001.htm|abspos-001]] My neighbour would ask "What's a block 2em?"
-  - [[http://test.csswg.org/suites/css2.1/20101001/html4/table-percent-width-001.htm|table-percent-width-001]] My neighbour would ask "What's a 100px by 100px green square?"
-  - [[http://test.csswg.org/suites/css2.1/20101001/html4/blocks-011.htm|blocks-011]] My neighbour would ask "What's a DIV?"
+=== 7 RC3 testcases with too technical pass conditions ===
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/inline-table-width-001a.htm|inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-002.htm|clipping-002]] My neighbour would ask "What's a 100x100 square?"
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-007.htm|clipping-007]] My neighbour would ask "What's a 100x100 square?"
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-012.htm|clipping-012]] My neighbour would ask "What's a 100x100, clip and descendants?" The testcase has **validation markup errors** too.
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-001.htm|abspos-001]] My neighbour would ask "What's a block 2em?"
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/table-percent-width-001.htm|table-percent-width-001]] My neighbour would ask "What's a 100px by 100px green square?"
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-011.htm|blocks-011]] My neighbour would ask "What's a DIV?"
 
 === Need pixel reference lines ===
   c527-font-001
@@ -127,8 +124,6 @@ Ugly, not self-documenting:
 === Should be ref tests ===
   c5526c-display-000
   
-=== Unfinished ===
-  page-break-margins-000: test contains "[[UNFINISHED]]"
 
 ==== Tests that have HTML Validation errors ====
 
