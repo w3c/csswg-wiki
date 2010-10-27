@@ -14,21 +14,21 @@ Refer to nonexistent fonts:
   font-weight-lighter-001
   font-weight-normal-001
 
-=== 4 Incorrect RC2 testcases ===
+=== 4 Incorrect RC3 testcases ===
 
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/absolute-non-replaced-width-008.htm|absolute-non-replaced-width-008]]
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/absolute-non-replaced-width-009.htm|absolute-non-replaced-width-009]]
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-width-008.htm|absolute-non-replaced-width-008]]
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-width-009.htm|absolute-non-replaced-width-009]]
   
 What's wrong in those 2 absolute-non-replaced-width-00* testcases above has been explained in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0183.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0183.html]]
 
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/display-applies-to-002.htm|display-applies-to-002]] I explained in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0161.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0161.html]] and in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html]] what needs to be corrected. I have proposed [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-applies-to-002.htm|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-applies-to-002.htm]] as a replacement.
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/display-applies-to-002.htm|display-applies-to-002]] I explained in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0161.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0161.html]] and in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html]] what needs to be corrected. I have proposed [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-applies-to-002.htm|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-applies-to-002.htm]] as a replacement.
 
-  * [[http://test.csswg.org/suites/css2.1/20101001/html4/right-offset-002.htm|right-offset-002]] I explained in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0072.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0072.html]] why such testcase does not test what it was aiming at testing and what is wrong with such testcase.
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/right-offset-002.htm|right-offset-002]] I explained in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0072.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0072.html]] why such testcase does not test what it was aiming at testing and what is wrong with such testcase.
 
 === 2 RC3 testcases with insufficient space to display a bullet list-marker or involving display: list-item ===
 
-  - [[http://test.csswg.org/suites/css2.1/20101001/html4/bidi-override-003.htm|bidi-override-003]]  The testcase makes no mention of a bullet list-marker; the testcase should state that a bullet list-marker should be visible
-  - [[http://test.csswg.org/suites/css2.1/20101001/html4/bidi-override-004.htm|bidi-override-004]]  Sufficient available margin space on the right edge should be provided for the bullet list-marker to avoid having unneedlessly to scroll horizontally. See [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0093.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0093.html]] . I recommend 
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-override-003.htm|bidi-override-003]]  The testcase makes no mention of a bullet list-marker; the testcase should state that a bullet list-marker should be visible
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-override-004.htm|bidi-override-004]]  Sufficient available margin space on the right edge should be provided for the bullet list-marker to avoid having unneedlessly to scroll horizontally. See [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0093.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0093.html]] . I recommend 
 ''.override {
       direction: rtl;
       ** margin-right: 2em; **
@@ -53,9 +53,9 @@ What's wrong in those 2 absolute-non-replaced-width-00* testcases above has been
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|border-conflict-style-074]]
 
-=== 1 RC2 testcase with incorrect expected result ===
+=== 1 RC3 testcase with incorrect expected result ===
 
-  -[[http://test.csswg.org/suites/css2.1/20101001/html4/abspos-023.htm|abspos-023]] Reasons: Chrome 6 and Konqueror 4.5.1 render the red square and that's not a proof of testcase failure. More reading on this: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html]]
+  -[[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-023.htm|abspos-023]] Reasons: Chrome 6 and Konqueror 4.5.1 render the red square and that's not a proof of testcase failure. More reading on this: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html]]
 
 ==== Tests that need Usability improvements ====
 
