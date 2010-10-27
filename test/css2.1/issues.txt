@@ -55,7 +55,7 @@ What's wrong in those 2 absolute-non-replaced-width-00* testcases above has been
 
 === 1 RC3 testcase with incorrect expected result ===
 
-  -[[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-023.htm|abspos-023]] Reasons: Chrome 6 and Konqueror 4.5.1 render the red square and that's not a proof of testcase failure. More reading on this: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html]]
+  -[[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-023.htm|abspos-023]] Reasons: Chrome 7, Safari 5.0.2 and Konqueror 4.5.2 render the red square and that's not a proof of testcase failure. More reading on this: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html]]
 
 ==== Tests that need Usability improvements ====
 
