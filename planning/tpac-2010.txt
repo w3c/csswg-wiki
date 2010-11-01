@@ -16,9 +16,9 @@
 
   * CSS3 Multicol: implementation update; spanning element behavior
   * Multicol and scrolling
+  * Flexbox (from Tab)
   * CSS3 GCPM: hyphenate-last-line-avoid; @page :nth() 
   * Accessibility
-  * Flexbox (from Tab)
 
 ==== Tuesday AM ====
 
