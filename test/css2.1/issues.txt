@@ -97,9 +97,10 @@ Ugly, not self-documenting:
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-border-model-005]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]
 
-=== 9 RC3 testcases with too technical pass conditions ===
+=== 10 RC3 testcases with too technical pass conditions ===
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/inline-table-width-001a.htm|inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-002.htm|clipping-002]] My neighbour would ask "What's a 100x100 square?"
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-006.htm|clipping-006]] Much too technical: "make sure overflow is done using a containing block model, and that a fixed positioned element inside another fixed positioned element is not considered overflow." Simple replacement would be: "Test passes if there is a green square and no red."
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-007.htm|clipping-007]] My neighbour would ask "What's a 100x100 square?"
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-012.htm|clipping-012]] My neighbour would ask "What's a 100x100, clip and descendants?" The testcase has **validation markup errors** too.
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-001.htm|abspos-001]] My neighbour would ask "What's a block 2em?"
