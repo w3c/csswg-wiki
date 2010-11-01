@@ -16,10 +16,10 @@ Proposed agenda topics:
   * CSS3 Speech
   * CSS2.1 Test suite after REC
   * BIDI
-  * Accessibility
 
 ==== Monday PM ====
 
+  * Accessibility
   * CSS3 Multicol: implementation update; spanning element behavior
   * Multicol and scrolling
   * CSS3 GCPM: hyphenate-last-line-avoid; @page :nth() 
