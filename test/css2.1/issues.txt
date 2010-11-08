@@ -136,12 +136,12 @@ Ugly, not self-documenting:
 
 ==== Tests that have HTML Validation errors ====
 
-=== 3 RC3 testcases that have  HTML Validation errors ===
+=== 4 RC3 testcases that have  HTML Validation errors ===
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-015.htm|first-letter-punct-before-015]] 82 validation markup errors
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-019.htm|first-letter-punct-before-019]] 43 validation markup errors
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-035.htm|first-letter-punct-before-035]] 167 validation markup errors
-
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-001.htm|first-line-001]] 2 validation markup errors. Just wrapping the text in a <p> should be ok.
 
 ==== Tests that need Metadata improvements ====
 
