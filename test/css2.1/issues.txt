@@ -70,15 +70,15 @@ Ugly, not self-documenting:
   background-attachment-004
   background-position-201
   background-root-018
-  <del>border-001: solid or hollow box?</del> - Fixed for RC4
   c525-font-wt-000: does not state whether "This sentence should be very light" should be visibly lighter than normal
-<del>  fixed-table-layout-006: "all the blue lines" is confusing. They are all shades of blue.</del> - fixed for RC4
   inline-block-003: behavior on window resize needs to be clarified:
   floats-126 et al: ditto
   inlines-004-inlines-006: unclear what "aligned" means. Say "on a grid"?
   margin-collapse-160: should say that the first page is blank and 3 pages are expected (if, indeed, that is the intent).
   text-transform-bicameral-009, text-transform-bicameral-010: should attempt to pick a font that has the glyphs
 
+  * <del>border-001: solid or hollow box?</del> - Fixed for RC4
+  * <del>fixed-table-layout-006: "all the blue lines" is confusing. They are all shades of blue.</del> - fixed for RC4
 
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-003.htm|abspos-003]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? Consistency of vocabulary matters here. More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-004.htm|abspos-004]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? Consistency of vocabulary matters here. More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html]]
@@ -99,8 +99,8 @@ Ugly, not self-documenting:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|outline-003]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|empty-cells-applies-to-001]]</del> - fixed for RC4
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-background-edge-and-border-model-002]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-border-model-005]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-border-model-005]]</del> - Fixed/removed for RC4
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]</del> - fixed for RC4
 
 === 10 RC3 testcases with too technical pass conditions ===
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/inline-table-width-001a.htm|inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
