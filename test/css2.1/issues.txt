@@ -43,11 +43,11 @@ Refer to nonexistent fonts:
 === Miscellaneous incorrect tests ===
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-024]]</del> - fixed/removed for RC4
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c414-flt-ln-002]] (also too complicated)
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-011]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-261]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-358]]
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-011]]</del> - fixed/removed for RC4
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-261]]</del> - fixed/removed for RC4
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-358]]</del> - fixed/removed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|line-height-111]]</del> - fixed for RC4
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|border-conflict-style-074]]</del> - fixed for RC4
 
 === 1 RC3 testcase with incorrect expected result ===
