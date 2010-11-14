@@ -56,6 +56,11 @@ Refer to nonexistent fonts:
 
   -[[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-023.htm|abspos-023]] Reasons: Chrome 7, Safari 5.0.2 and Konqueror 4.5.2 render the red square and that's not a proof of testcase failure. More reading on this: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html]]
 
+=== 3 RC3 testcases with incorrect pass condition / dependence on font metrics ===
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-003.htm|overflow-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-004.htm|overflow-004]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-005.htm|overflow-005]] ; More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html]]
+
 ==== Tests that need Usability improvements ====
 
 Ugly, not self-documenting:
