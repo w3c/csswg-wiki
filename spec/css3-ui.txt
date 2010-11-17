@@ -32,49 +32,49 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : proposed 
 
 ==== Issue 4 ====
-  ; Summary: computed value of 'pointer-events' vs initial value vs SVG vs CSS3-UI conflict. A quick test shows that IE9 and Opera return 'visiblePainted', while webkit and firefox return 'auto'.
+  ; Summary : computed value of 'pointer-events' vs initial value vs SVG vs CSS3-UI conflict. A quick test shows that IE9 and Opera return 'visiblePainted', while webkit and firefox return 'auto'.
   ; Raised by: Erik Dahlstrom
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0818.html
   ; Proposed Resolution: informative SVG UA style sheet to explicitly set an SVG-specific value.
   ; Status : proposed
 
 ==== Issue 5 ====
-  ; Summary: In SVG 1.1 the 'pointer-events' property only applies to 'graphics elements', but in css3-ui it applies to all elements. Why? 
+  ; Summary : In SVG 1.1 the 'pointer-events' property only applies to 'graphics elements', but in css3-ui it applies to all elements. Why? 
   ; Raised by: Erik Dahlstrom
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0818.html
   ; Proposed Resolution: New FAQ. Any element can be given dimensions with CSS and thus can potentially receive events.
   ; Status : proposed
 
 ==== Issue 6 ====
-  ; Summary: Normatively reference SVG 1.1 for 'fill' and 'stroke' property definitions.
+  ; Summary : Normatively reference SVG 1.1 for 'fill' and 'stroke' property definitions.
   ; Raised by: Erik Dahlstrom
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0818.html
   ; Proposed Resolution: inline links to SVG 1.1 property definitions
   ; Status : proposed - awaiting URLs
 
 ==== Issue 7 ====
-  ; Summary:  The note about how 'fill' and 'stroke' don't affect the result for 'all' is missing (compare with the SVG 1.1 pointer-events definition. http://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty
+  ; Summary :  The note about how 'fill' and 'stroke' don't affect the result for 'all' is missing (compare with the SVG 1.1 pointer-events definition. http://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty
   ; Raised by: Erik Dahlstrom
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0818.html
   ; Proposed Resolution: state how 'all' is applied in svg separately from how it's applied otherwise. The same also applies to all the other pointer-event values, where svg is mentioned in parenthesis.
   ; Status : proposed
   
 ==== Issue 8 ====
-  ; Summary: pointer-events definition lacks many of the details from the SVG 1.1 specification http://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty, e.g how 'clip-path' and 'mask' affects pointer-events, how text elements are handled etc.
+  ; Summary : pointer-events definition lacks many of the details from the SVG 1.1 specification http://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty, e.g how 'clip-path' and 'mask' affects pointer-events, how text elements are handled etc.
   ; Raised by: Erik Dahlstrom
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0818.html
   ; Proposed resolution: incorporate such details as necessary, as part of the goal here is not to not normatively depend on SVG 1.1 for the property definition itself.  This is similar to how CSS3 color incorporates and defines the full set of color keywords instead of normatively depending on SVG.
   ; Status : proposed
   
 ==== Issue 9 ====
-  ; Summary: How opacity (and other forms of alpha, e.g rgba, fill-opacity, stroke-opacity etc) affects 'pointer-events' is undefined.  
+  ; Summary : How opacity (and other forms of alpha, e.g rgba, fill-opacity, stroke-opacity etc) affects 'pointer-events' is undefined.  
   ; Raised by: Erik Dahlstrom
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0818.html
   ; Proposed resolution: incorporate such details as necessary
   ; Status : proposed
   
 ==== Issue 10 ====
-  ; Summary: How 'clip-path', 'mask' and 'filter' affect 'pointer-events' is undefined.  
+  ; Summary : How 'clip-path', 'mask' and 'filter' affect 'pointer-events' is undefined.  
   ; Raised by: Erik Dahlstrom
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0818.html
   ; Proposed resolution: incorporate such details as necessary
