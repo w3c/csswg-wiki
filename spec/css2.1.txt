@@ -981,7 +981,8 @@ Duplicate of Issue 73
 
   ;Summary : Percentage intrinsic widths untestable
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Nov/0077.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Remove all mention of percentage intrinsic widths from CSS2.1
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue C ====
 
