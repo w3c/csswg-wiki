@@ -81,6 +81,14 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : proposed
 
 
+=== Issue 11+ ===
+  ; Summary : multiple issues from Kevin Ar18 2010-11-17
+  ; Raised by : Kevin Ar18
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0257.html
+  ; Proposed Resolution : itemize and split into multiple atomic issues here
+  ; Status : collected.
+  
+
 ...
 
 
