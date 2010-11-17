@@ -987,8 +987,16 @@ Duplicate of Issue 73
 ==== Issue C ====
 
   ;Summary : Clarify that Line Separator LS and other (non-collapsed) forced-break Unicode chars break the line
+  ;URI : http://krijnhoetmer.nl/irc-logs/css/20101111
   ;Resolution : Make line breaking behavior of forced-break Unicode chars undefined in CSS2.1 so that CSS3 can define it.
   ;Status : Open. Needs proposed text.
+
+==== Issue D ====
+
+  ;Summary : Clip does not respond to 'direction' in most implementations
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Nov/0174.html
+  ;Resolution : Make 'clip' not respond to 'direction' in the spec.
+  ;Status : Open. =Bert= Edit.
 
 ==== Continued... ====
 
