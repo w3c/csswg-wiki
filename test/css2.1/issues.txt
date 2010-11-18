@@ -15,6 +15,7 @@ Refer to nonexistent fonts:
   font-weight-normal-001
 
 === 7 Incorrect RC3 testcases ===
+
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-width-008.htm|absolute-non-replaced-width-008]]</del> - fixed for RC4
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-width-009.htm|absolute-non-replaced-width-009]] What's wrong in those 2 absolute-non-replaced-width-00* testcases above has been explained in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0183.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0183.html]]</del> - fixed for RC4
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/display-applies-to-002.htm|display-applies-to-002]] I explained in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0161.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0161.html]] and in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html]] what needs to be corrected. I have proposed [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-applies-to-002.htm|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-applies-to-002.htm]] as a replacement.</del> - fixed for RC4
@@ -36,6 +37,7 @@ Refer to nonexistent fonts:
 ''
 
 === Tests relying on non-normative behavior ===
+
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|font-matching-rule-008]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-matching-rule-015]]</del> - fixed/removed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0074.html|table-height-algorithm-027]]</del> - fixed for RC4
@@ -43,6 +45,7 @@ Refer to nonexistent fonts:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0075.html|content-159]]</del> - fixed for RC4
 
 === Miscellaneous incorrect tests ===
+
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-024]]</del> - fixed/removed for RC4
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c414-flt-ln-002]] (also too complicated)
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-011]]</del> - fixed/removed for RC4
@@ -57,6 +60,7 @@ Refer to nonexistent fonts:
   -[[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-023.htm|abspos-023]] Reasons: Chrome 7, Safari 5.0.2 and Konqueror 4.5.2 render the red square and that's not a proof of testcase failure. More reading on this: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0017.html]]
 
 === 3 RC3 testcases with incorrect pass condition / dependence on font metrics ===
+
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-003.htm|overflow-003]]
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-004.htm|overflow-004]]
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-005.htm|overflow-005]] ; More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html]]
@@ -66,7 +70,7 @@ Refer to nonexistent fonts:
 
 ''How a replaced element's content is rendered is not defined by this
 specification. Rendered content may also be alternate text for an
-element (e.g., the value of the XHTML "alt" attribute)'' coming from[[http://www.w3.org/TR/CSS21/conform.html#defs|CSS2.1 section 3.1]]
+element (e.g., the value of the XHTML "alt" attribute)'' coming from [[http://www.w3.org/TR/CSS21/conform.html#defs|CSS2.1 section 3.1]]
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-alt-001.htm|bidi-alt-001]] Reasons: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0049.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0049.html]]
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/inlines-009.htm|inlines-009]] Reasons: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0052.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0052.html]]
