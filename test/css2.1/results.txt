@@ -4,7 +4,7 @@ The CSS2.1 Test Suite results are tracked by the submission of formal implementa
 
 This page is to track analysis of those results.
 
-The current results are based on Microsoft's results on Windows and not the CSS Testing harness.
+//The current results are based on Microsoft's results on Windows and not the CSS Testing harness.//
 
 ===== Tests with Zero Passes =====
 
