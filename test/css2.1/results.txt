@@ -33,9 +33,9 @@ This page is to track analysis of those results.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-009.htm|z-index-abspos-009]]
 
 **Microsoft**
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-replaced-width-016.htm|absolute-replaced-width-016]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-replaced-width-017.htm|absolute-replaced-width-017]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-replaced-width-018.htm|absolute-replaced-width-018]]
+  * <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-replaced-width-016.htm|absolute-replaced-width-016]]</del> - Determined invalid, removed for RC4
+  * <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-replaced-width-017.htm|absolute-replaced-width-017]]</del> - Determined invalid, removed for RC4
+  * <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-replaced-width-018.htm|absolute-replaced-width-018]]</del> - Determined invalid, removed for RC4
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/margin-collapse-clear-005.htm|margin-collapse-clear-005]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/margin-collapse-clear-011.htm|margin-collapse-clear-011]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-applies-to-010.htm|overflow-applies-to-010]]
