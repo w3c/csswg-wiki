@@ -104,8 +104,6 @@ This page is to track analysis of those results.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-floats-002.htm|first-line-floats-002]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-inherit-002.htm|first-line-inherit-002]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-inherit-003.htm|first-line-inherit-003]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-rule7-outside-left-001.htm|floats-rule7-outside-left-001]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-rule7-outside-right-001.htm|floats-rule7-outside-right-001]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-bfc-006.htm|floats-wrap-bfc-006]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-top-below-bfc-001r.htm|floats-wrap-top-below-bfc-001r]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-top-below-bfc-002l.htm|floats-wrap-top-below-bfc-002l]]
@@ -128,10 +126,4 @@ This page is to track analysis of those results.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-alt-001.htm|bidi-alt-001]]
 
 **Richard Ishida**
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/direction-unicode-bidi-013.htm|direction-unicode-bidi-013]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/direction-unicode-bidi-014.htm|direction-unicode-bidi-014]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/direction-unicode-bidi-016.htm|direction-unicode-bidi-016]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/direction-unicode-bidi-017.htm|direction-unicode-bidi-017]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/direction-unicode-bidi-022.htm|direction-unicode-bidi-022]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/direction-unicode-bidi-026.htm|direction-unicode-bidi-026]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-008.htm|text-transform-bicameral-008]]
