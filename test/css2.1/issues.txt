@@ -165,6 +165,20 @@ Ugly, not self-documenting:
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/left-091.htm|left-091]]</del> - Fixed for RC4
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/left-092.htm|left-092]]</del> - Fixed for RC4
 
+=== 12 RC3 test cases without pass conditions ===
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-020.htm|blocks-020]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-021.htm|blocks-021]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-022.htm|blocks-022]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/text-indent-011.htm|text-indent-011]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/white-space-pre-001.htm|white-space-pre-001]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/white-space-pre-002.htm|white-space-pre-002]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-001.htm|z-index-abspos-001]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-002.htm|z-index-abspos-002]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-003.htm|z-index-abspos-003]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-004.htm|z-index-abspos-004]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-005.htm|z-index-abspos-005]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-007.htm|z-index-abspos-007]]
+
 ==== Tests that have HTML Validation errors ====
 
 === 4 RC3 testcases that have  HTML Validation errors ===
