@@ -27,7 +27,6 @@ This page is to track analysis of those results.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/background-intrinsic-008.htm|background-intrinsic-008]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-breaking-002.htm|bidi-breaking-002]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/first-page-selectors-003.htm|first-page-selectors-003]]
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/first-page-selectors-004.htm|first-page-selectors-004]]
 
 **Hewlett-Packard Company**
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/allowed-page-breaks-001a.htm|allowed-page-breaks-001a]]
