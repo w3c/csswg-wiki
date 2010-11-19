@@ -280,7 +280,7 @@ Those testcases also miss
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-bfc-006c.htm|floats-wrap-bfc-006c]] relies on CSS2 caption-side: right
 
 == 2 RC3 testcase with wrong meta flag ==
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-floats-003.htm|first-line-floats-003]] should **not** have the dom flag
+  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-floats-003.htm|first-line-floats-003]] should **not** have the dom flag</del> - fixed for RC4
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/table-height-algorithm-032.htm|table-height-algorithm-032]] ''<meta name="flags" content="internal">'' "internal" is not a valid flag.</del> - Fixed for RC4
 
 == 1 RC3 test with missing title ==
