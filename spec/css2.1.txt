@@ -998,6 +998,10 @@ Duplicate of Issue 73
   ;Resolution : Make 'clip' not respond to 'direction' in the spec.
   ;Status : Open. =Bert= Edit.
 
+==== Other Issues ====
+
+http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0013.html
+
 ==== Continued... ====
 
 The issues list continues as the [[spec:css2.1:last-call-2010|Last Call Issues List 2010]]
