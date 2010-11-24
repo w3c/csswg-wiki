@@ -65,7 +65,6 @@ This page is to track analysis of those results.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-004.htm|text-transform-bicameral-004]] - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0270.html|invalid]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-021.htm|text-transform-bicameral-021]] - Chromium on Linux passes -dbaron.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-022.htm|text-transform-bicameral-022]] - Chromium on Linux passes -dbaron.
-
 ===== Tests with Only One Pass =====
 
 **Elika J. Etemad**
@@ -124,4 +123,4 @@ This page is to track analysis of those results.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-alt-001.htm|bidi-alt-001]] - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0050.html|invalid]]
 
 **Richard Ishida**
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-008.htm|text-transform-bicameral-008]] - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0235.html|invalid]] (and how could anyone pass?)
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-008.htm|text-transform-bicameral-008]] - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0235.html|invalid]] - need to remove some of the final form characters in the test
