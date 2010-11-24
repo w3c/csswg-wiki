@@ -122,7 +122,7 @@ This page is to track analysis of those results.
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/table-backgrounds-bs-rowgroup-001.htm|table-backgrounds-bs-rowgroup-001]]
 
 **Opera Software ASA**
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-alt-001.htm|bidi-alt-001]]
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-alt-001.htm|bidi-alt-001]] - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0050.html|invalid]]
 
 **Richard Ishida**
-  * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-008.htm|text-transform-bicameral-008]]
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/text-transform-bicameral-008.htm|text-transform-bicameral-008]] - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0235.html|invalid]] (and how could anyone pass?)
