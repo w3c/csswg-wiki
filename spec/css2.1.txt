@@ -998,6 +998,13 @@ Duplicate of Issue 73
   ;Resolution : Make 'clip' not respond to 'direction' in the spec.
   ;Status : Open. =Bert= Edit.
 
+==== Issue E ====
+
+  ;Summary : Run-ins should not run in across text 
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Oct/0141.html
+  ;Resolution : 
+  ;Status : Open. =WG= Discuss.
+
 ==== Other Issues ====
 
 http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0013.html
