@@ -118,7 +118,6 @@ Ugly, not self-documenting:
 
   * <del>border-001: solid or hollow box?</del> - Fixed for RC4
   * <del>fixed-table-layout-006: "all the blue lines" is confusing. They are all shades of blue.</del> - fixed for RC4
-
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-003.htm|abspos-003]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? Consistency of vocabulary matters here. More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html]]
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-004.htm|abspos-004]] Top of viewport and bottom of viewport must mean precisely and consistently the same from 1 testcase to another. Is yellow top-border-box touching top of viewport? Is blue bottom-border-box touching bottom of viewport? Consistency of vocabulary matters here. More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0113.html]]
   * <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-overflow-010.htm|abspos-overflow-010]] This **text** should be green, not this //line// should be green</del> — fixed for RC4
@@ -140,7 +139,8 @@ Ugly, not self-documenting:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-background-edge-and-border-model-002]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-border-model-005]]</del> - Fixed/removed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]</del> - fixed for RC4
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0060.html|list-style-position-017]] 
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0060.html|list-style-position-017]]
+  * 30 [[http://test.csswg.org/suites/css2.1/20101027/html4/at-charset-001.htm|at-charset-*]] testcases. There are 2 (non-distinctive, non-identifiable) "Filler text" while the pass condition refer to "Filler text" in the singular form. This issue affects all 30 testcases in the range at-charset-001 to at-charset-030. This issue was reported in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0193.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0193.html]] and in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0122.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0122.html]].
 
 === 13 RC3 testcases with too technical pass conditions ===
 
