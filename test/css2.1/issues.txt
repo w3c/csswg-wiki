@@ -49,6 +49,8 @@ Refer to nonexistent fonts:
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counters-010]]
   * Multiple [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0040.html|counter-increment-* and counter-reset-*]] tests
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-weight-003]] 
+  * [[http://test.csswg.org/suites/css2.1/20101027/html4/table-height-algorithm-005.htm|table-height-algorithm-005]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0367.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0367.html]] The same conclusion may also apply to [[http://test.csswg.org/suites/css2.1/20101027/html4/table-height-algorithm-006.htm|table-height-algorithm-006]]
+
 
 === Miscellaneous incorrect tests ===
 
