@@ -9,5 +9,5 @@ The CSS Style Attributes spec is a CR!
   * email Hixie to update reference to CSS Style Attributes draft in [[http://www.whatwg.org/specs/web-apps/current-work/multipage/references.html#references|HTML5 References]] (Tantek)
 
 ===== Tasks to PR =====
-* test cases/suite - gather, create, publish
-* implementation reports
+  * test cases/suite - gather, create, publish
+  * implementation reports
