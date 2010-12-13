@@ -147,31 +147,13 @@ Ugly, not self-documenting:
 === Should be ref tests ===
   c5526c-display-000
   
-=== 4 RC3 testcases creating unneedlessly and unexpectedly an horizontal scrollbar ===
+=== 0 RC4 testcase creating unneedlessly and unexpectedly an horizontal scrollbar ===
 
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/left-067.htm|left-067]]</del> - Fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/left-079.htm|left-079]]</del> - Fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/left-091.htm|left-091]]</del> - Fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/left-092.htm|left-092]]</del> - Fixed for RC4
 
-=== 12 RC3 test cases without pass conditions ===
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-020.htm|blocks-020]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-021.htm|blocks-021]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-022.htm|blocks-022]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/text-indent-011.htm|text-indent-011]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/white-space-pre-001.htm|white-space-pre-001]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/white-space-pre-002.htm|white-space-pre-002]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-001.htm|z-index-abspos-001]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-002.htm|z-index-abspos-002]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-003.htm|z-index-abspos-003]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-004.htm|z-index-abspos-004]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-005.htm|z-index-abspos-005]]</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/z-index-abspos-007.htm|z-index-abspos-007]]</del> - fixed for RC4
+=== 0 RC4 testcase without pass conditions ===
 
-=== Testcases that rely on unnecessary assumptions ===
 
-  - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0361.html|table-height-algorithm-027]] uses smaller-than-normal font size
-
+=== 0 RC4 testcase that rely on unnecessary assumptions ===
 
 ==== Tests that have HTML Validation errors ====
 
