@@ -21,7 +21,6 @@ Refer to nonexistent fonts:
 === Tests relying on non-normative behavior ===
 
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|font-matching-rule-008]]</del> - fixed for RC4
-  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-matching-rule-015]]</del> - fixed/removed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0074.html|table-height-algorithm-027]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0075.html|content-158]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0075.html|content-159]]</del> - fixed for RC4
@@ -31,16 +30,10 @@ Refer to nonexistent fonts:
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counters-010]]
   * Multiple [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0040.html|counter-increment-* and counter-reset-*]] tests
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-weight-003]] 
-  * <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/table-height-algorithm-005.htm|table-height-algorithm-005]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0367.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0367.html]] The same conclusion may also apply to [[http://test.csswg.org/suites/css2.1/20101027/html4/table-height-algorithm-006.htm|table-height-algorithm-006]]</del> - removed in RC4
-
 
 === Miscellaneous incorrect tests ===
 
-  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-visual-layout-024]]</del> - fixed/removed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c414-flt-ln-002]] (also too complicated)</del> - fixed in RC4
-  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-011]]</del> - fixed/removed for RC4
-  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-261]]</del> - fixed/removed for RC4
-  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|first-letter-punctuation-358]]</del> - fixed/removed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|line-height-111]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|border-conflict-style-074]]</del> - fixed for RC4
