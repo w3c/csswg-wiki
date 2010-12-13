@@ -200,15 +200,16 @@ Ugly, not self-documenting:
 
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/border-spacing-012.htm|border-spacing-012]] "Lengths [of border-spacing] may not be negative." coming from [[http://www.w3.org/TR/CSS21/tables.html#separated-borders|17.6.1 border-spacing]] Although no CSS validation error is reported, I think this should be parsed as a validation error; therefore invalid flag should be added.
 
-=== 2 RC3 testcases missing the interact flag ===
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/background-root-014.htm|background-root-014]] since resizing the viewport is part of the test pass/fail condition
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/background-root-017.htm|background-root-017]] since resizing the viewport is part of the test pass/fail condition
+=== 2 RC4 testcases missing the interact flag ===
 
-=== 3 RC3 testcases with some coding issues === 
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/background-root-014.htm|background-root-014]] since resizing the viewport is part of the test pass/fail condition
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/background-root-017.htm|background-root-017]] since resizing the viewport is part of the test pass/fail condition
 
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-paged-001.htm|abspos-paged-001]] style block should explicitly declare ''media="print"'' [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0063.html|More info]] 
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-paged-002.htm|abspos-paged-002]] style block should explicitly declare ''media="print"'' [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0063.html|More info]]
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/inlines-003.htm|inlines-003]] has no pass criteria. The link "the X grid" is broken. [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0130.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0130.html]]</del> - fixed in RC4
+=== 2 RC4 testcases with some coding issues === 
+
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/abspos-paged-001.htm|abspos-paged-001]] style block should explicitly declare ''media="print"'' [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0063.html|More info]] 
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/abspos-paged-002.htm|abspos-paged-002]] style block should explicitly declare ''media="print"'' [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0063.html|More info]]
+
 
 == 24 RC3 testcases using, relying on CSS3 grammar or CSS3 properties ==
 
@@ -237,9 +238,8 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-bfc-006b.htm|floats-wrap-bfc-006b]] relies on CSS2 caption-side: left
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-bfc-006c.htm|floats-wrap-bfc-006c]] relies on CSS2 caption-side: right
 
-== 2 RC3 testcase with wrong meta flag ==
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-floats-003.htm|first-line-floats-003]] should **not** have the dom flag</del> - fixed for RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/table-height-algorithm-032.htm|table-height-algorithm-032]] ''<meta name="flags" content="internal">'' "internal" is not a valid flag.</del> - Fixed for RC4
+== 0 RC4 testcase with wrong meta flag ==
+
 
 == 1 RC3 test with missing title ==
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/page-selectors-001.htm|page-selectors-001]]
