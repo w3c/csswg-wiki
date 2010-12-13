@@ -107,18 +107,15 @@ Ugly, not self-documenting:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]</del> - fixed for RC4
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0060.html|list-style-position-017]]
 
-=== 18 RC3 testcases with too technical pass conditions ===
+=== 15 RC3 testcases with too technical pass conditions ===
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/inline-table-width-001a.htm|inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-002.htm|clipping-002]] My neighbour would ask "What's a 100x100 square?"
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-006.htm|clipping-006]] Much too technical: "make sure overflow is done using a containing block model, and that a fixed positioned element inside another fixed positioned element is not considered overflow." Simple replacement would be: "Test passes if there is a green square and no red."
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-007.htm|clipping-007]] My neighbour would ask "What's a 100x100 square?"
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-012.htm|clipping-012]] My neighbour would ask "What's a 100x100, clip and descendants?" The testcase has **validation markup errors** too.
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/abspos-001.htm|abspos-001]] My neighbour would ask "What's a block 2em?"</del> - Fixed in RC4
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/table-percent-width-001.htm|table-percent-width-001]] My neighbour would ask "What's a 100px by 100px green square?"
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-011.htm|blocks-011]]</del> - Fixed in RC4 , [[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-012.htm|blocks-012]] , [[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-014.htm|blocks-014]] , [[http://test.csswg.org/suites/css2.1/20101027/html4/blocks-015.htm|blocks-015]] My neighbour would ask "What's a DIV?"
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/units-001.htm|units-001]] My neighbour would ask "What's a 200px by 200px? How do I set up a device with 96 CSS pixels per inch?"</del> - Fixed in RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/units-004.htm|units-004]] My neighbour would ask "What's a 200px by 200px? How do I set up a device with 96 CSS pixels per inch?"</del> - Fixed in RC4
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/background-alpha-001.htm|background-alpha-001]] My neighbour would ask "What's a 'multi-bit alpha channel'?" Pass conditions are not so clear and text is too technical.
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/background-alpha-002.htm|background-alpha-002]] My neighbour would ask "What's a 'multi-bit alpha channel'?" Pass conditions are not so clear and text is too technical.
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/background-alpha-003.htm|background-alpha-003]] My neighbour would ask "What's a square div? How tall/big is/should be the 'size of two tiles'?" Pass conditions are not clear or easy for normal people and text is too technical.
