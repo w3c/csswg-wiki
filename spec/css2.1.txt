@@ -1019,6 +1019,19 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Status : Closed. See CSS Styling attributes spec
   ;Testcases : http://test.csswg.org/source/contributors/fantasai/submitted/css-style-attr/
 
+==== Issue 26 ====
+
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2007Dec/0252.html
+  ;Summary : Does vertical-align affect cell contents or cell's content box?
+  ;Testcase : http://dbaron.org/css/test/2007/height-of-cell-box
+  ;Testcase : http://www.brunildo.org/test/td_height1.html
+  ;Proposal : Proposal in http://lists.w3.org/Archives/Public/www-style/2007Dec/0252.html and http://lists.w3.org/Archives/Public/www-style/2007Dec/0253.html but needs resolution on open question in the latter proposal; see http://lists.w3.org/Archives/Public/www-style/2008Jan/0004.html and http://lists.w3.org/Archives/Public/www-style/2010Mar/0418.html
+  ;Resolution : ''height'' on table cell should be a minimum height for the row, not a minimum height for an anonymous box wrapped around the cell's contents
+  ;Proposed text : http://lists.w3.org/Archives/Public/www-style/2010Jun/0048.html
+  ;Resolution : Proposed text accepted with "see above" and "s/specified/computed/" changes suggested in http://lists.w3.org/Archives/Public/www-style/2010Jun/0049.html
+  ;Status : Closed.
+  ;Testcases : table-valign-001 and table-valign-002
+
 ===== 19 July 2007 CR Issues =====
 
 The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-20070719/|19 July 2007 CSS2.1 Candidate Recommendation]]. The resulting changes and corrections have been incorporated into the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|23 April 2009 CSS2.1 Candidate Recommendation]] and have also been added to the [[http://www.w3.org/Style/css2-updates/CR-CSS21-20070719-errata.html|19 July 2007 CSS2.1 errata list]].
