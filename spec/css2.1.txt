@@ -13,7 +13,6 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
 TODO: Audit issues list and make sure each issue has tests in the test suite. Then institute policy that issues cannot be marked as closed until there is a test checked in for that issue.
 
 ==== Issue 53 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0227.html
   ;Summary : Interaction of pre* and justification poorly defined.
   ;Proposal A : http://lists.w3.org/Archives/Public/www-style/2010Jun/0457.html
@@ -28,7 +27,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : text-align-white-space-001 through text-align-white-space-004
 
 ==== Issue 56 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Apr/0460.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Aug/0155.html
   ;Summary : Should text-decoration propagate through internal table elements?
@@ -38,7 +36,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : text-decoration-propagation-006 [could also use one for display: table]
 
 ==== Issue 60 ====
-
   ;URL : http://dev.moonhenge.net/css21/spec/z-index/
   ;See also : http://lists.w3.org/Archives/Public/www-style/2006Oct/0017.html
   ;Summary : Z-index and stacking behavior prose needs revision (See also Issue 60a)
@@ -51,7 +48,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 69 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Aug/0126.html
   ;Summary : fixed background images not defined for paged media
   ;Proposal : Add "In paged media where there is no viewport, a ‘fixed’ background is fixed with respect to the page box and is therefore replicated on every page." (Copied from css3-background)
@@ -60,7 +56,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : background-attachment-010
 
 ==== Issue 86 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Nov/0298.html
   ;Summary : Position of list-item marker in presence of floats, text-align
   ;Proposal : Add "The position of the list-item marker adjacent to floats is undefined in CSS2.1."
@@ -69,7 +64,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (undefined)
 
 ==== Issue 109 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
   ;Summary : anonymous table objects and table rows (and white space)
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010May/0071.html
@@ -77,7 +71,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 110 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0489.html
   ;Summary : anonymous table objects and abspos
   ;Proposal A (abspos ignored) : http://lists.w3.org/Archives/Public/www-style/2010Jul/0372.html
@@ -96,7 +89,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0168.html|Edit.]] =jdaggett= update testcases
 
 ==== Issue 118 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 7)
   ;Summary : Inline layout inappropriately defines line-height in terms of glyphs
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jul/0073.html
@@ -104,7 +96,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Incorporate [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0051.html|szilles' comments]] into proposal (see [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0395.html|result]]) and edit.
 
 ==== Issue 120 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 8)
   ;Summary : Spec talks about blocks but leaves out table-caption etc.
   ;Proposal : Define table-caption etc. to format their contents exactly like blocks, and remove all explicit lists (and just talk about blocks) elsewhere so we don't keep getting out-of-sync. http://lists.w3.org/Archives/Public/www-style/2010Aug/0399.html
@@ -114,7 +105,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 121 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 9)
   ;Summary : Rewrite paragraph about lines being exactly 'line-height' to be accurate and precise
   ;Resolution : Assumed editorial.
@@ -166,14 +156,12 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : block-in-inline-relpos-001 and block-in-inline-relpos-002
 
 ==== Issue 139 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Oct/0206.html
   ;Summary : The url token allows a backslash both as the first character in an {escape} and on its own. It should never be on its own.
   ;Proposal : Change to ''([!#$%&*-\[\]-~]|{nonascii}|{escape})*'' (see the e-mail)
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 140 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Oct/0262.html
   ;Summary : Error in core grammar wrt garbage input inside brackets
   ;Resolution : Accept in principle to change the grammar for 140 and note that we won't use the additional capabilities (exact  wording tbd).
@@ -181,7 +169,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 142 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Sep/0126.html #4
   ;Summary : clarify terms like "ancestor box", whether referring to formatting structure or document tree. Spec contains only 3 instances of ancestor box. They are all in section 10.1.
   ;Resolution : Agreed this is ambiguous.
@@ -191,7 +178,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Update proposal to correctly handle http://lists.w3.org/Archives/Public/www-style/2010Aug/0443.html (follow-up 2).
 
 ==== Issue 143 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0022.html
   ;Summary : unclear whether default attributes can be matched
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Nov/0047.html
@@ -200,7 +186,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : default-attribute-selector-001 through default-attribute-selector-008
 
 ==== Issue 144 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0200.html
   ;Summary : text-decoration and visibility
   ;Testcases : http://test.csswg.org/suites/css2.1/20100727/html4/chapter-16.html#s16.3.1 text-decoration-visibility-*
@@ -208,7 +193,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 145 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0300.html
   ;Summary : wrt BIDI forced line breaks should act like LS not CR/LF
   ;Resolution : No change. Forced breaks are paragraph separators. Need clarification to text that LS's bidi behavior is not overridden.
@@ -218,7 +202,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : bidi-breaking-001 and bidi-breaking-002
 
 ==== Issue 146 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Dec/0052.html
   ;Summary : marker boxes should not be optional
   ;Resolution : Proposal accepted.
@@ -226,7 +209,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 147 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0324.html
   ;Summary : scaling of width of replaced elements ambiguous
   ;Resolved : Remove sentence pointed out in http://lists.w3.org/Archives/Public/www-style/2009Dec/0322.html
@@ -234,7 +216,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 148 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Jan/0432.html
   ;Summary : Add 'unicode-bidi: embed' to all block-level elements in the sample HTML4 style sheet
   ;Resolved : Proposal accepted.
@@ -242,7 +223,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (informative)
 
 ==== Issue 149 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Jan/0058.html
   ;Summary : pt:px ratios other than based on 96dpi breaks web
   ;Proposal : Fix 96px per inch. Whether inches fixed to reality or pixels fixed to screen res / viewing distance / something else may vary by UA. (Print would match real inches, screens tend to align with viewing distance and/or screen res.)
@@ -253,7 +233,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcase : Delete c61-phys-len-000.xht ; 96dpi assumption is made in many testcases doesn't need its own at this point.
 
 ==== Issue 150 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0041.html
   ;Summary : Change "Every CSS2.1 property" to "Every CSS property" in 4.1.8
   ;Resolution : Assumed editorial.
@@ -261,7 +240,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 151 ====
-
   ;URL : http://www.w3.org/2010/03/11-fx-irc#T20-47-31
   ;Summary : Make non-presentational hints section workable for SVG
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0487.html [note: 6.4.4 example would also need an update]
@@ -270,7 +248,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 152 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0175.html
   ;Summary : Don't require quoting of commas in URL tokens
   ;Resolution : Update prose to not require quoting of commas in URL tokens
@@ -278,7 +255,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : uri-014
 
 ==== Issue 153 ====
-
   ;URL : http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0030.html
   ;Summary : Clarify which box of a replaced element is vertical-aligned
   ;Testcase : http://www.w3.org/Style/CSS/Test/CSS2.1/20100127/html4/c44-ln-box-002.htm
@@ -290,16 +266,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit.
   ;Testcases : vertical-align-boxes-001
 
-==== Issue 154 ====
-
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0079.html
-  ;Summary : Add diagrams and examples for line-height and vertical-align terms
-  ;Images : http://test.csswg.org/source/contributors/microsoft/incoming/half-leading.png
-  : http://test.csswg.org/source/contributors/microsoft/incoming/emboxes.png
-  ;Status : Closed (images not necessary with new text)
-
 ==== Issue 155 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jun/0285.html
   ;Summary : Encoding errors in bibliography
   ;Resolution : Assumed editorial.
@@ -307,14 +274,12 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 159 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0015.html http://lists.w3.org/Archives/Public/www-style/2010Aug/0183.html
   ;Summary : Clarify definition of adjoining margins
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Sep/0684.html
   ;Status : Open. =WG= Discuss.
 
 ==== Issue 160 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0637.html
   ;Summary : Specify whether first page is :left or :right?
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0493.html
@@ -323,7 +288,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : first-page-selectors-001 through first-page-selectors-004
 
 ==== Issue 161 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0308.html
   ;Summary : Sentence about clipping descendants is confusing, remove or clarify?
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Mar/0001.html + Replace sentence with "Note that absolutely positioned descendant elements are not always clipped by the overflow property on their ancestors." ?
@@ -332,7 +296,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 167 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0150.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0210.html
   ;Summary : Backslash escapes poorly defined
@@ -343,22 +306,12 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0168.html|Edit.]]
 
 ==== Issue 168 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0455.html
   ;Summary : Specify case of Armenian numbering
   ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0168.html|Edit.]]
   ;Testcases : list-style-type-armenian-001 and list-style-type-armenian-002
 
-==== Issue 169 ====
-
-  ;Summary : Normative statement about OOF elements and break opportunities should not be in note
-  ;Proposal : Replace sentence "A float should not introduce a line break opportunity." with "Floated and absolutely-positioned elements do not introduce a line breaking opportunity." from the note below below it
-  ;Resolution : Assumed editorial.
-  ;Status : Closed.
-  ;Testcases : n/a (editorial)
-
 ==== Issue 170 ====
-
   ;Summary : min-height / max-height on table rows and cells poorly defined
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0049.html http://lists.w3.org/Archives/Public/www-style/2010Jun/0443.html
   ;Resolution : Make min-height / max-height on table rows, cells, and rowgroups undefined.
@@ -367,7 +320,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   
 
 ==== Issue 171 ====
-
   ;Summary : box ancestry of list-style-position: inside marker undefined
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0494.html
   ;Notes : See CSS3 Lists
@@ -375,7 +327,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : list-style-position-inside-002
 
 ==== Issue 172 ====
-
   ;Summary : table-caption content overflows
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0404.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Sep/0186.html
@@ -384,20 +335,11 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcase : http://www.gtalbot.org/BrowserBugsSection/css21testsuite/horizontal-layout-table-vs-caption-boxes-1.html
 
 ==== Issue 173 ====
-
   ;Summary : handling of carriage returns underdefined
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010May/0158.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Sep/0440.html
   ;Resolution : Proposal accepted with Option B.
   ;Status : Open. =Bert= Edit.
-
-==== Issue 174 ====
-  ;Summary : prose and grammar disagree about identifiers starting with --
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0619.html
-  ;Testcase : http://dbaron.org/css/test/2010/css21-issue-174
-  ;Resolution : Proposal accepted.
-  ;Status : Closed.
-  ;Testcases : ident-020
 
 ==== Issue 175 ====
   ;Summary : Clarify that case-insensitive means ASCII case-insensitive per 4.1.3
@@ -406,28 +348,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit.
   ;Testcases : case-sensitive-001 through case-sensitive-004
 
-==== Issue 176 ====
-  ;Summary : Update reference to 3066 to BCP47
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0288.html
-  ;Resolution : Assumed editorial.
-  ;Status : Closed.
-  ;Testcases : n/a (editorial)
-
-==== Issue 177 ====
-  ;Summary : Random editorial issues
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0384.html
-  ;Resolution : Assumed editorial. (Note that the last change to 16.6.1 is already [[#issue-169|issue 169.]]
-  ;Status : Closed.
-  ;Testcases : n/a (editorial)
-
-==== Issue 178 ====
-  ;Summary : 8.3.1 margin-collapsing rules don't match reality
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0525.html
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0528.html
-  ;Status : Closed. INVALID
-
 ==== Issue 179 ====
-
   ;Summary : Example in anonymous block boxes section is wrong
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0005.html
   ;Resolution : Assumed editorial. (Already fixed by [[#issue-164|issue 164.]])
@@ -435,7 +356,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 180 ====
-
   ;Summary : Clarify application of 10.6.7
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0000.html http://lists.w3.org/Archives/Public/www-style/2010Aug/0002.html 
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0016.html + http://lists.w3.org/Archives/Public/www-style/2010Aug/0017.html + fix section title somehow
@@ -444,13 +364,11 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
 
 ==== Issue 181 ====
-
   ;Summary : use of 'height' in 10.8 causes confusion over content height and line-height wrt inline elements
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0010.html
   ;Status : Open. Needs complete proposal. Post-LC OK.
 
 ==== Issue 182 ====
-
   ;Summary : Term "row group" not defined.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0515.html
   ;Resolution : Assumed editorial.
@@ -458,23 +376,12 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : n/a (editorial)
   
 ==== Issue 183 ====
-
   ;Summary : Error handling of malformed media types underdefined.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0025.html
   ;Resolution : Change "@media and @import rules with unknown media types are treated as if the unknown media types are not present." to "@media and @import rules with unknown media types (that are nonetheless valid identifiers) are treated as if the unknown media types are not present. If an @media rule contains a malformed media type (not an identifier) then the statement is invalid." and add "Note: Media Queries supercedes this error handling."
   ;Status : Open. =Bert= Edit.
 
-==== Issue 184 ====
-
-  ;Summary : Unclear that pseudo-elements are considered a subclass of elements.
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0438.html
-  ;Proposal : Add "Pseudo-elements behave just like real elements in CSS with the exceptions described below and _elsewhere_<link to section 12.1>." to 5.12
-  ;Resolution : Proposal accepted.
-  ;Status : Closed.
-  ;Testcases : n/a (editorial)
-
 ==== Issue 185 ====
-
   ;Summary : Browsers don't shorten line boxes for zero-height floats.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0527.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0178.html
@@ -483,37 +390,19 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : float-006
 
 ==== Issue 186 ====
-
   ;Summary : Make Appendix G grammar non-normative, or at least inferior to Chapter 4 core grammar
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0501.html
   ;Resolution : Accepted to make Appendix G informative.
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 187 ====
-
   ;Summary : bidi behavior of inline-blocks and inline-tables
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0391.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Sep/0188.html
   ;Resolution : Accepted.
   ;Status : Open. =Bert= Edit. =fantasai= give testcases pass/fail conditions
 
-==== Issue 188 ====
-
-  ;Summary : Example refers to clipping by "containing block"; should be "padding box of <div>" or similar
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0037.html
-  ;Resolution : Assumed editorial.
-  ;Status : Closed.
-  ;Testcases : n/a (editorial)
-
-==== Issue 189 ====
-
-  ;Summary : Percentages on 'font-size' on root element not linked to definiion
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2009Mar/0379.html
-  ;Resolution : Assumed editorial.
-  ;Status : Closed.
-
 ==== Issue 190 ====
-
   ;Summary : 'auto' values in rect() tied to computed instead of used values
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Mar/0053.html http://lists.w3.org/Archives/Public/www-style/2010Mar/0053.html
   ;Proposal : (in email) 'auto' values inside rect() should compute to 'auto', not to computed length; and s/computed/used/ in the 2nd <shape> paragraph
@@ -522,7 +411,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : clip-inherit-001
 
 ==== Issue 191 ====
-
   ;Summary : define stacking level of marker box
   ;URI : http://lists.w3.org/Archives/Public/www-style/2009Dec/0093.html
   ;Resolution : Make undefined; proposal accepted.
@@ -530,21 +418,18 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit. 
 
 ==== Issue 192 ====
-
   ;Summary : Clarifications to float's effect on its shortened line
   ;URI : http://lists.w3.org/Archives/Public/www-style/2009Oct/0027.html
   ;Resolution : Accept change for first issue; accept s/further content/content after the float/ and s/it/that content/ for the second issue; third issue is invalid.
   ;Status : Open. =Tab= Summarize http://lists.w3.org/Archives/Public/www-style/2010Sep/0053.html
 
 ==== Issue 193 ====
-
   ;Summary : Add note to 6.2 clarifying that inheritance operates on the element tree and does not get intercepted by anonymous boxes.
   ;URI : None
   ;Resolution : Assumed editorial. Needs tests, though.
   ;Status : Closed. =fantasai= tests
 
 ==== Issue 194 ====
-
   ;Summary : text-indent shouldn't apply to not-first lines of an element
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0246.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0207.html
@@ -553,7 +438,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Testcases : text-indent-014
 
 ==== Issue 195 ====
-
   ;Summary : Clarify that splitting an inline box with a block always creates both halves
   ;URI : http://lists.w3.org/Archives/Public/www-style/2009Feb/0638.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0462.html
@@ -561,7 +445,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit. =fantasai= testcases
 
 ==== Issue 196 ====
-
   ;Summary : Grammar and prose disagree on whether identifiers can include NBSP
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Feb/0156.html
   ;Notes : Opera, and Konqueror allow nbsp in identifiers; Firefox does not
@@ -570,7 +453,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 197 ====
-
   ;Summary : Clarify application of 'clear' to run-ins.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jan/0404.html
   ;Proposed Wording : http://lists.w3.org/Archives/Public/www-style/2010Sep/0682.html
@@ -580,76 +462,48 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Status : Open. =arronei= Post test results.
 
 ==== Issue 198 ====
-
   ;Summary : Clarify interaction of run-ins and "elements earlier in the source document".
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jan/0376.html
   ;Proposal : Say that for all layout purposes, the run-in is considered a direct child of the block to which it belongs.
   ;Status : Open. =Steve= Write updated proposal based on http://lists.w3.org/Archives/Public/www-style/2010Aug/0448.html
 
 ==== Issue 199 ====
-
   ;Summary : Define when line boxes are present
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010May/0698.html
   ;Status : Open. =WG= Discuss.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Oct/0707.html
-  
-  
-
-==== Issue 200 ====
-
-  ;Summary : List-item marker box editorial glitches
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0058.html
-  ;Resolution : Assumed editorial. (Note that the first part changes two words in the proposed text for [[#issue-120|issue 120.]]
-  ;Status : Closed.
-  ;Testcases : n/a (editorial)
-
 
 ==== Issue 201 ====
-
   ;Summary : Table model editorial
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0401.html
   ;Resolution : Proposal accepted with term "table wrapper box" for the outer table box.
   ;Status : Open. =Bert= Edit.
 
-==== Issue 203 ====
-
-  ;Summary : Hypothetical border calculation should match actual border calculation
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0261.html
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0460.html
-  ;Resolution : Proposal accepted.
-  ;Status : Closed.
-
-
 ==== Issue A ====
-
   ;Summary : inline tables accidentally left out of applies-to list for 'overflow'
   ;URI : http://www.w3.org/mid/20101016195038.GA17927@pickering.dbaron.org
   ;Resolution : Add inline-table.
   ;Status : Open. =Bert= Edit.
 
 ==== Issue B ====
-
   ;Summary : Percentage intrinsic widths untestable
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Nov/0077.html
   ;Resolution : Remove all mention of percentage intrinsic widths from CSS2.1
   ;Status : Open. =Bert= Edit.
 
 ==== Issue C ====
-
   ;Summary : Clarify that Line Separator LS and other (non-collapsed) forced-break Unicode chars break the line
   ;URI : http://krijnhoetmer.nl/irc-logs/css/20101111
   ;Resolution : Make line breaking behavior of forced-break Unicode chars undefined in CSS2.1 so that CSS3 can define it.
   ;Status : Open. Needs proposed text.
 
 ==== Issue D ====
-
   ;Summary : Clip does not respond to 'direction' in most implementations
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Nov/0174.html
   ;Resolution : Make 'clip' not respond to 'direction' in the spec.
   ;Status : Open. =Bert= Edit.
 
 ==== Issue E ====
-
   ;Summary : Run-ins should not run in across text 
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Oct/0141.html
   ;Resolution : 
@@ -668,7 +522,6 @@ The issues list continues as the [[spec:css2.1:last-call-2010|Last Call Issues L
 The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-20090908/|08 September 2009 CSS2.1 Candidate Recommendation]]. The resulting changes and corrections have been incorporated into the [[http://www.w3.org/TR/2009/CR-CSS2-20101207/|07 December 2010 CSS2.1 Candidate Recommendation]].
 
 ==== Issue 25 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Dec/0167.html http://lists.w3.org/Archives/Public/www-style/2008Jul/0575.html
   ;Summary : Define what effect } has in style attribute syntax.
   ;Resolution : A mismatched close brace in a style attribute is treated as an invalid token. It does not terminate the style attribute's style data.
@@ -676,7 +529,6 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Testcases : http://test.csswg.org/source/contributors/fantasai/submitted/css-style-attr/
 
 ==== Issue 26 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2007Dec/0252.html
   ;Summary : Does vertical-align affect cell contents or cell's content box?
   ;Testcase : http://dbaron.org/css/test/2007/height-of-cell-box
@@ -689,7 +541,6 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Testcases : table-valign-001 and table-valign-002
 
 ==== Issue 61 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0264.html http://lists.w3.org/Archives/Public/www-style/2008Sep/0118.html
   ;Summary : percentage table row heights should be undefined, not auto
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Jun/0116.html
@@ -698,7 +549,6 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Testcases : n/a (undefined)
 
 ==== Issue 71 ====
-
   ;URL : 
   ;Summary : @rules in unexpected contexts should parse as @rules.
   ;Old Resolution :  @rules inside declaration blocks are ignored if between declarations (i.e. at the beginning of a declaration before the property), invalid if within declarations.
@@ -708,7 +558,6 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Testcases : at-page-rule-001 and declarations-009
 
 ==== Issue 72 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Sep/0152.html
   ;Summary : extra columns in fixed tables are rendered
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Sep/0152.html plus say that column and table widths are undefined when extra cells are present in fixed layout
@@ -717,7 +566,6 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Testcases : n/a (undefined)
 
 ==== Issue 73 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Sep/0216.html
   ;Summary : URL grammar and comments
   ;Proposal : No change. Comments are not allowed inside url(). Add a note to clarify.
@@ -727,11 +575,9 @@ The following are known problems in the [[http://www.w3.org/TR/2007/CR-CSS21-200
   ;Testcases : uri-016
 
 ==== Issue 75 ====
-
 Duplicate of Issue 73
 
 ==== Issue 84 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Oct/0294.html http://lists.w3.org/Archives/Public/www-international/2008OctDec/0002.html http://lists.w3.org/Archives/Public/www-international/2008OctDec/0007.html
   ;Summary : Should white-space apply to IDEOGRAPHIC SPACE
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2008Oct/0356.html
@@ -741,7 +587,6 @@ Duplicate of Issue 73
   ;Testcases : word-spacing-characters-001 through word-spacing-characters-003
 
 ==== Issue 89 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jan/0297.html
   ;Summary : Page breaks should be allowed between last line box and content edge.
   ;Proposal : Copy text from http://dev.w3.org/csswg/css3-page/#allowed-pg-brk
@@ -750,7 +595,6 @@ Duplicate of Issue 73
   ;Testcases : allowed-page-breaks-005 through allowed-page-breaks-007b
 
 ==== Issue 101 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Jan/0445.html
   ;Summary : Float rules when interacting with floats outside containing block
   ;Test case : http://test.csswg.org/source/contributors/microsoft/incoming/float-overflow-001.htm
@@ -759,7 +603,6 @@ Duplicate of Issue 73
   ;Status : Closed.
 
 ==== Issue 107 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0378.html
   ;Summary : Clarify relative positioning computed values and whether calculations in section 9 affect computed or used values
   ;Test cases : http://test.csswg.org/source/contributors/microsoft/incoming/computed-or-used-001.xht
@@ -816,7 +659,6 @@ Duplicate of Issue 73
   ;Testcases : font-family-valid-characters-* font-family-invalid-characters-*
 
 ==== Issue 115 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0282.html
   ;Summary : zero clearance needs to be distinguished from not having clearance
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Apr/0484.html
@@ -825,7 +667,6 @@ Duplicate of Issue 73
   ;Testcases : clearance-006
 
 ==== Issue 116 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issues 1, 2, 6)
   ;Summary : Editorial issues for chapter 9 and 10
   ;Resolution : Issues 1, 2, and 6 assumed editorial.
@@ -833,14 +674,12 @@ Duplicate of Issue 73
   ;Testcases : n/a (editorial)
 
 ==== Issue 117 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issues 4 and 10)
   ;Summary : Vertical alignment underdefined. Testcases in URL.
   ;Resolution : State that behavior described in 4a is undefined. For 4b and 4c, drop item 4 from list and add parenthetical to item 3 saying that the strut is taken into consideration. Accept 10a. For 10b, add a note saying that baseline info is found in the font and this may be further explained in CSS3.
   ;Status : Closed.
 
 ==== Issue 119 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 8)
   ;Summary : Reference to undefined term "block's baseline"
   ;Proposal : Remove "block's". Complete proposal at http://lists.w3.org/Archives/Public/www-style/2010May/0567.html
@@ -849,7 +688,6 @@ Duplicate of Issue 73
   ;Testcases : n/a (editorial)
 
 ==== Issue 123 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0030.html
   ;Summary : Don't ignore end of block when parsing @rule.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0054.html
@@ -858,7 +696,6 @@ Duplicate of Issue 73
   ;Testcases : at-rule-013
 
 ==== Issue 124 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0030.html
   ;Summary : Grammar errors
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0054.html
@@ -938,15 +775,20 @@ Duplicate of Issue 73
   ;Testcases : n/a (editorial)
 
 ==== Issue 141 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Oct/0294.html
   ;Summary : ex on font-size should depend on parent element
   ;Resolution : Agreed this needs to be fixed to behave just like em.
   ;Status : Closed.
   ;Testcases : font-size-113
 
-==== Issue 156 ====
+==== Issue 154 ====
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0079.html
+  ;Summary : Add diagrams and examples for line-height and vertical-align terms
+  ;Images : http://test.csswg.org/source/contributors/microsoft/incoming/half-leading.png
+  : http://test.csswg.org/source/contributors/microsoft/incoming/emboxes.png
+  ;Status : Closed (images not necessary with new text)
 
+==== Issue 156 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009May/0198.html
   ;Summary : Make font weight mapping rules normative
   ;Notes : See also issue 111
@@ -954,7 +796,6 @@ Duplicate of Issue 73
   ;Status : Closed. =jdaggett= find or write testcases
 
 ==== Issue 157 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Feb/0086.html
   ;Summary : Clarify clearance "greater of" calculation (add Bert's example?)
   ;Example : http://lists.w3.org/Archives/Public/www-style/2009Feb/0108.html
@@ -964,7 +805,6 @@ Duplicate of Issue 73
   ;Testcases : margin-collapse-clear-?
 
 ==== Issue 158 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Jan/0516.html
   ;Summary : Antecedents in clearance and margin collapsing prose unclear
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0458.html
@@ -972,7 +812,6 @@ Duplicate of Issue 73
   ;Status : Closed.
 
 ==== Issue 162 ====
-
   ;URL : http://www.w3.org/TR/2010/WD-html-bidi-20100304/#lists
   ;Summary : The side of a list bullet should depend on the directionality of its parent, not the list-item itself.
   ;Resolved : No change to CSS2.1. Will accept a note showing alternate way to achieve this effect. Possibly address in CSS3.
@@ -980,7 +819,6 @@ Duplicate of Issue 73
   ;Testcase : list-bidi-000
 
 ==== Issue 163 ====
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Feb/0080.html
   ;Demo : http://dump.testsuite.org/2010/width-computed-value.htm
   ;Summary : computed value definition for 'height' and 'width' is wrong
@@ -990,7 +828,6 @@ Duplicate of Issue 73
   ;Testcases : width-inherit-001 and height-inherit-001
 
 ==== Issue 164 ====	 
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0486.html	 
   ;Summary : An example is invalid HTML4.
   ;Resolution : Assumed editorial. 
@@ -999,7 +836,6 @@ Duplicate of Issue 73
   ;Testcases : n/a (editorial)
 
 ==== Issue 165 ====	 
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0539.html http://lists.w3.org/Archives/Public/www-style/2010Mar/0544.html
   ;Summary : Determine whether overflowing floats are sensitive to bidi
   ;Testcase : http://www.hixie.ch/tests/adhoc/css/box/float/047-demo.html
@@ -1008,13 +844,82 @@ Duplicate of Issue 73
   ;Testcases : floats-147
 
 ==== Issue 166 ====	 
-
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Apr/0274.html
   ;Summary : Clarify different uses of term "value" as "property value" or "component value"
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jul/0225.html
   ;Resolution : Proposal accepted.
   ;Status : Closed.
   ;Testcases : n/a (editorial)
+
+==== Issue 169 ====
+  ;Summary : Normative statement about OOF elements and break opportunities should not be in note
+  ;Proposal : Replace sentence "A float should not introduce a line break opportunity." with "Floated and absolutely-positioned elements do not introduce a line breaking opportunity." from the note below below it
+  ;Resolution : Assumed editorial.
+  ;Status : Closed.
+  ;Testcases : n/a (editorial)
+
+==== Issue 174 ====
+  ;Summary : prose and grammar disagree about identifiers starting with --
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0619.html
+  ;Testcase : http://dbaron.org/css/test/2010/css21-issue-174
+  ;Resolution : Proposal accepted.
+  ;Status : Closed.
+  ;Testcases : ident-020
+
+==== Issue 176 ====
+  ;Summary : Update reference to 3066 to BCP47
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0288.html
+  ;Resolution : Assumed editorial.
+  ;Status : Closed.
+  ;Testcases : n/a (editorial)
+
+==== Issue 177 ====
+  ;Summary : Random editorial issues
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0384.html
+  ;Resolution : Assumed editorial. (Note that the last change to 16.6.1 is already [[#issue-169|issue 169.]]
+  ;Status : Closed.
+  ;Testcases : n/a (editorial)
+
+==== Issue 178 ====
+  ;Summary : 8.3.1 margin-collapsing rules don't match reality
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0525.html
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0528.html
+  ;Status : Closed. INVALID
+
+==== Issue 184 ====
+  ;Summary : Unclear that pseudo-elements are considered a subclass of elements.
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0438.html
+  ;Proposal : Add "Pseudo-elements behave just like real elements in CSS with the exceptions described below and _elsewhere_<link to section 12.1>." to 5.12
+  ;Resolution : Proposal accepted.
+  ;Status : Closed.
+  ;Testcases : n/a (editorial)
+
+==== Issue 188 ====
+  ;Summary : Example refers to clipping by "containing block"; should be "padding box of <div>" or similar
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0037.html
+  ;Resolution : Assumed editorial.
+  ;Status : Closed.
+  ;Testcases : n/a (editorial)
+
+==== Issue 189 ====
+  ;Summary : Percentages on 'font-size' on root element not linked to definiion
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2009Mar/0379.html
+  ;Resolution : Assumed editorial.
+  ;Status : Closed.
+
+==== Issue 200 ====
+  ;Summary : List-item marker box editorial glitches
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0058.html
+  ;Resolution : Assumed editorial. (Note that the first part changes two words in the proposed text for [[#issue-120|issue 120.]]
+  ;Status : Closed.
+  ;Testcases : n/a (editorial)
+
+==== Issue 203 ====
+  ;Summary : Hypothetical border calculation should match actual border calculation
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0261.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0460.html
+  ;Resolution : Proposal accepted.
+  ;Status : Closed.
 
 ===== 19 July 2007 CR Issues =====
 
