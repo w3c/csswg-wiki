@@ -24,14 +24,13 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal A accepted. Add note that pre-wrap may allow justification in the future.
   ;Status : Edited, need review
   ;Testcases : text-align-white-space-001 through text-align-white-space-004
-
 ==== Issue 56 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Apr/0460.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Aug/0155.html
   ;Summary : Should text-decoration propagate through internal table elements?
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0334.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Edited, need review
   ;Testcases : text-decoration-propagation-006 [could also use one for display: table]
 
 ==== Issue 60 ====
