@@ -32,7 +32,6 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal accepted.
   ;Status : Edited, need review
   ;Testcases : text-decoration-propagation-006 [could also use one for display: table]
-
 ==== Issue 60 ====
   ;URL : http://dev.moonhenge.net/css21/spec/z-index/
   ;See also : http://lists.w3.org/Archives/Public/www-style/2006Oct/0017.html
@@ -42,6 +41,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Mar/0417.html
   ;Resolution : Exact text deferred to Sylvain, Bert to check that it is only editorial changes.
   ;Final Proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0496.html http://lists.w3.org/Archives/Public/www-style/2010Jun/0515.html
+  ;Bert's review : http://lists.w3.org/Archives/Public/www-style/2010Jul/0056.html
   ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0168.html|Discuss with Sylvain and edit.]] =Sylvain= Review and comment on edits.
   ;Testcases : n/a (editorial)
 
