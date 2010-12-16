@@ -11,6 +11,7 @@ Last updated 2010-12-15 -- arronei
 The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|23 April 2009 CSS2.1 Candidate Recommendation]]. Once resolved, any resulting changes or corrections will be added to the [[http://www.w3.org/Style/css2-updates/CR-CSS2-20090423-errata.html|errata list]].
 
 TODO: Audit issues list and make sure each issue has tests in the test suite. Then institute policy that issues cannot be marked as closed until there is a test checked in for that issue.
+
 ==== Issue 53 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Jun/0227.html
   ;Summary : Interaction of pre* and justification poorly defined.
@@ -24,6 +25,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal A accepted. Add note that pre-wrap may allow justification in the future.
   ;Status : Edited, need review
   ;Testcases : text-align-white-space-001 through text-align-white-space-004
+
 ==== Issue 56 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Apr/0460.html
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Aug/0155.html
@@ -32,6 +34,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal accepted.
   ;Status : Edited, need review
   ;Testcases : text-decoration-propagation-006 [could also use one for display: table]
+
 ==== Issue 60 ====
   ;URL : http://dev.moonhenge.net/css21/spec/z-index/
   ;See also : http://lists.w3.org/Archives/Public/www-style/2006Oct/0017.html
@@ -44,6 +47,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Bert's review : http://lists.w3.org/Archives/Public/www-style/2010Jul/0056.html
   ;Status : Open. =Bert= [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0168.html|Discuss with Sylvain and edit.]] =Sylvain= Review and comment on edits.
   ;Testcases : n/a (editorial)
+
 ==== Issue 69 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Aug/0126.html
   ;Summary : fixed background images not defined for paged media
@@ -51,6 +55,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal accepted.
   ;Status : Edited, needs review [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0026.html|Edit.]]
   ;Testcases : background-attachment-010
+
 ==== Issue 86 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2008Nov/0298.html
   ;Summary : Position of list-item marker in presence of floats, text-align
@@ -58,6 +63,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   ;Resolution : Proposal accepted.
   ;Status : Edited, needs review [[http://lists.w3.org/Archives/Member/w3c-css-wg/2010JulSep/0026.html|Edit.]]
   ;Testcases : n/a (undefined)
+
 
 ==== Issue 109 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
