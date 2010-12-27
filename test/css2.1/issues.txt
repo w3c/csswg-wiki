@@ -38,7 +38,7 @@ Refer to nonexistent fonts:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|border-conflict-style-074]]</del> - fixed for RC4
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0139.html|c5504-mrgn-l-002]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0141.html|c566-list-stl-000]]
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0141.html|c566-list-stl-000]]</del> - removed for RC5
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct//0263.html|font-family-rule-002]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0265.html|font-matching-rule-010]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0265.html|font-matching-rule-013]]
