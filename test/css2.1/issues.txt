@@ -25,11 +25,11 @@ Refer to nonexistent fonts:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0075.html|content-158]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0075.html|content-159]]</del> - fixed for RC4
   * Various [min-|max-|]height-applies-to- tests **[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0060.html|listed here]]** : height, max-height, min-height supposed to be undefined for table row groups; max-height and min-height should not apply to table-row elements and table-cell elements
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0371.html|column-visibility-003]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counter-010]]
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counters-010]]
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0371.html|column-visibility-003]]</del> - Fixed for RC4
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counter-010]]</del> - Fixed for RC4
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counters-010]]</del> - Fixed for RC4
   * Multiple [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0040.html|counter-increment-* and counter-reset-*]] tests
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-weight-003]] 
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-weight-003]] - Fixed for RC4?
 
 === Miscellaneous incorrect tests ===
 
@@ -64,7 +64,7 @@ quote coming from [[http://www.w3.org/TR/CSS21/conform.html#defs|CSS2.1 section 
 
 === 3 RC3 testcases not actually testing what they are supposed to test or that are too easy to pass ===
 
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/containing-block-017.htm|containing-block-017]] Reasons why: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Novhttp://wiki.csswg.org/lib/images/wrap.gif/0087.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0087.html]]
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/containing-block-017.htm|containing-block-017]] Reasons why: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Novhttp://wiki.csswg.org/lib/images/wrap.gif/0087.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0087.html]] - Fixed for RC4?
   - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0310.html|html-precedence-003]]
   - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0309.html|border-conflict-*]] (use red/green in addition to style/width)
 
