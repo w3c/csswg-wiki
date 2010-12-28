@@ -1,4 +1,4 @@
-====== Record of Known Bugs ======
+======= Record of Known Bugs =======
 
 This page records known problems in the [[test:css2.1|CSS 2.1 Conformance Test Suite]]. For problems with the harness, see [[harness]].
 
@@ -7,18 +7,18 @@ To record a bug, post to public-css-testsuite@w3.org explaining the problem. The
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html|t1202-counter-09-b]]
 
 Put the test in the most severe group (earliest below) that applies.
-==== Tests that are Wrong or have Parse Errors ====
+===== Tests that are Wrong or have Parse Errors =====
 
 Refer to nonexistent fonts:
   - <del>font-weight-bolder-001</del> - fixed for RC4
   - <del>font-weight-lighter-001</del> - fixed for RC4
   - <del>font-weight-normal-001</del> - fixed for RC4
 
-=== 1 Incorrect RC4 testcase ===
+==== 1 Incorrect RC4 testcase ====
 
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/active-selector-002.htm|active-selector-002]] Reasons why: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0149.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0149.html]]
 
-=== Tests relying on non-normative behavior ===
+==== Tests relying on non-normative behavior ====
 
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|font-matching-rule-008]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0074.html|table-height-algorithm-027]]</del> - fixed for RC4
@@ -31,7 +31,7 @@ Refer to nonexistent fonts:
   * Multiple [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0040.html|counter-increment-* and counter-reset-*]] tests
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-weight-003]] - Fixed for RC4?
 
-=== Miscellaneous incorrect tests ===
+==== Miscellaneous incorrect tests ====
 
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c414-flt-ln-002]] (also too complicated)</del> - fixed in RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|line-height-111]]</del> - fixed for RC4
@@ -45,31 +45,31 @@ Refer to nonexistent fonts:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0119.html|background-intrinsic-004]]</del> - Fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0120.html|background-intrinsic-005]]</del> - Fixed for RC4
 
-=== 3 RC3 testcases with incorrect pass condition / dependence on font metrics ===
+==== 3 RC3 testcases with incorrect pass condition / dependence on font metrics ====
 
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-003.htm|overflow-003]]</del> - fixed in RC4
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-004.htm|overflow-004]]</del> - fixed in RC4
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-005.htm|overflow-005]] ; More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html]]</del> - fixed in RC4
 
 
-=== 1 RC4 testcase styling the alt attribute text ===
+==== 1 RC4 testcase styling the alt attribute text ====
 
 ''How a replaced element's content is rendered is not defined by this
 specification. Rendered content may also be alternate text for an
 element (e.g., the value of the XHTML "alt" attribute)''
- 
+
 quote coming from [[http://www.w3.org/TR/CSS21/conform.html#defs|CSS2.1 section 3.1]]
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/bidi-alt-001.htm|bidi-alt-001]] Reasons: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0049.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0049.html]] [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0162.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0162.html]]
 
-=== 3 RC3 testcases not actually testing what they are supposed to test or that are too easy to pass ===
+==== 3 RC3 testcases not actually testing what they are supposed to test or that are too easy to pass ====
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/containing-block-017.htm|containing-block-017]] Reasons why: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Novhttp://wiki.csswg.org/lib/images/wrap.gif/0087.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0087.html]] - Fixed for RC4?
   - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0310.html|html-precedence-003]]
   - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0309.html|border-conflict-*]] (use red/green in addition to style/width)
 
 
-==== Tests that need Usability improvements ====
+===== Tests that need Usability improvements =====
 
 Ugly, not self-documenting:
   background-alpha-001
@@ -78,10 +78,10 @@ Ugly, not self-documenting:
   background-alpha-004
   background-alpha-005
 
-=== Should state that red is failure === 
+==== Should state that red is failure ====
   active-selector-002
 
-=== Confusing/hard to judge ===
+==== Confusing/hard to judge ====
   background-attachment-004
   background-position-201
   background-root-018
@@ -94,8 +94,8 @@ Ugly, not self-documenting:
 
   * <del>fixed-table-layout-006: "all the blue lines" is confusing. They are all shades of blue.</del> - fixed for RC4
   * [[http://test.csswg.org/suites/css2.1/20101027/html4/c533-bgimage-000.htm|c533-bgimage-000]] and [[http://test.csswg.org/suites/css2.1/20101027/html4/c533-bgimage-001.htm|c533-bgimage-001]] have the same pass condition but with clearly conflicting rendering. A normal person, after checking both testcases, would **not** know what "This line should be green." means exactly or refers to exactly.
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-035]] 
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-036]] 
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-035]]
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-036]]
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c44-ln-box-003]]
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|min-height-080]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|max-height-080]]</del> - fixed for RC4
@@ -107,7 +107,7 @@ Ugly, not self-documenting:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]</del> - fixed for RC4
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0060.html|list-style-position-017]]
 
-=== 15 RC3 testcases with too technical pass conditions ===
+==== 15 RC3 testcases with too technical pass conditions ====
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/inline-table-width-001a.htm|inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/clipping-002.htm|clipping-002]] My neighbour would ask "What's a 100x100 square?"
@@ -125,7 +125,7 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/background-root-016.htm|background-root-016]] "BODY box" and "HTML box" should be replaced. Suggestion: "HTML box" replaced with "large rectangle with a blue border" and "BODY box" replaced with "filled green rectangle with a bright green border"; "that **is** is EXACTLY" should be replaced with "that **it** is EXACTLY"; there is many tweakings to do in that test.
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/background-root-017.htm|background-root-017]] Technical words have been put inside parenthesis but the text is still technical. Suggestion: "The HTML box SHOULD NOT SIZE TO FIT THE VIEWPORT!" replaced with "The box with the blue border SHOULD NOT GROW taller or smaller when resizing the window viewport" or something similar. That testcase should require the interact flag.
 
-=== 10 RC3 Font related testcases which need pixel reference lines or need to be reworked or redesigned ===
+==== 10 RC3 Font related testcases which need pixel reference lines or need to be reworked or redesigned ====
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/c527-font-000.htm|c527-font-000]] : "There should be a small gap between each line." **Reason**: how small is "a small gap"? How can a normal tester (your mother, your bus driver, your neighbour) realistically establish that this gap here is small while that gap over there is not small? How exactly can this test fail?
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/c527-font-002.htm|c527-font-002]] : "9px gap between lines" **Reason**: how can a normal tester (your mother, your bus driver, your neighbour) realistically establish that this gap here is 9px while that gap over there is not 9px? The testcase does not provide a ruler, some kind of green overlapping red mechanism, etc. Where is the start line and the end line?
@@ -141,29 +141,29 @@ Ugly, not self-documenting:
  More explanations on why these c527-font-* testcases need to be reworked or redesigned to be easier for normal tester-persons to evaluate: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0043.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0043.html]] , [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0000.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Aug/0000.html]] , [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0061.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0061.html]]
 
 
-=== Should be ref tests ===
+==== Should be ref tests ====
   c5526c-display-000
-  
-=== 0 RC4 testcase creating unneedlessly and unexpectedly an horizontal scrollbar ===
+
+==== 0 RC4 testcase creating unneedlessly and unexpectedly an horizontal scrollbar ====
 
 
-=== 0 RC4 testcase without pass conditions ===
+==== 0 RC4 testcase without pass conditions ====
 
 
-=== 0 RC4 testcase that rely on unnecessary assumptions ===
+==== 0 RC4 testcase that rely on unnecessary assumptions ====
 
-==== Tests that have HTML Validation errors ====
+===== Tests that have HTML Validation errors =====
 
-=== 4 RC3 testcases that have  HTML Validation errors ===
+==== 4 RC3 testcases that have  HTML Validation errors ====
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-015.htm|first-letter-punct-before-015]] 82 validation markup errors
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-019.htm|first-letter-punct-before-019]] 43 validation markup errors
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-035.htm|first-letter-punct-before-035]] 167 validation markup errors
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-001.htm|first-line-001]] 2 validation markup errors. Just wrapping the text in a <p> should be ok.
 
-==== Tests that need Metadata improvements ====
+===== Tests that need Metadata improvements =====
 
-=== 13 RC3 testcases with wrong, incorrect meta assert text ===
+==== 13 RC3 testcases with wrong, incorrect meta assert text ====
 
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/position-relative-nested-001.htm
 |position-relative-nested-001]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html]]
@@ -180,7 +180,7 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-height-003.htm|absolute-non-replaced-height-003]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html]]
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-max-height-003.htm|absolute-non-replaced-max-height-003]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html]]
 
-=== Tests possibly missing http flag ===
+==== Tests possibly missing http flag ====
 
   - <del>character-encoding-026</del> - fixed for RC4
   - <del>character-encoding-027</del> - fixed for RC4
@@ -188,27 +188,27 @@ Ugly, not self-documenting:
   - <del>lang-selector-005</del> - fixed for RC4
 
 
-=== 1 RC4 testcase missing the ahem flag ===
+==== 1 RC4 testcase missing the ahem flag ====
 
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/blocks-020.htm|blocks-020]]
 
 
-=== 1 RC4 testcase missing the invalid flag ===
+==== 1 RC4 testcase missing the invalid flag ====
 
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/border-spacing-012.htm|border-spacing-012]] "Lengths [of border-spacing] may not be negative." coming from [[http://www.w3.org/TR/CSS21/tables.html#separated-borders|17.6.1 border-spacing]] Although no CSS validation error is reported, I think this should be parsed as a validation error; therefore invalid flag should be added.
 
-=== 2 RC4 testcases missing the interact flag ===
+==== 2 RC4 testcases missing the interact flag ====
 
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/background-root-014.htm|background-root-014]] since resizing the viewport is part of the test pass/fail condition
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/background-root-017.htm|background-root-017]] since resizing the viewport is part of the test pass/fail condition
 
-=== 2 RC4 testcases with some coding issues === 
+==== 2 RC4 testcases with some coding issues ====
 
-  - [[http://test.csswg.org/suites/css2.1/20101210/html4/abspos-paged-001.htm|abspos-paged-001]] style block should explicitly declare ''media="print"'' [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0063.html|More info]] 
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/abspos-paged-001.htm|abspos-paged-001]] style block should explicitly declare ''media="print"'' [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0063.html|More info]]
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/abspos-paged-002.htm|abspos-paged-002]] style block should explicitly declare ''media="print"'' [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0063.html|More info]]
 
 
-== 24 RC3 testcases using, relying on CSS3 grammar or CSS3 properties ==
+=== 24 RC3 testcases using, relying on CSS3 grammar or CSS3 properties ===
 
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/before-after-display-types-001.htm|before-after-display-types-001]] uses double-colon grammar</del> - fixed for RC4
   - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/before-after-dynamic-attr-001.htm|before-after-dynamic-attr-001]] uses double-colon grammar</del> - fixed for RC4
@@ -235,22 +235,22 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-bfc-006b.htm|floats-wrap-bfc-006b]] relies on CSS2 caption-side: left
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/floats-wrap-bfc-006c.htm|floats-wrap-bfc-006c]] relies on CSS2 caption-side: right
 
-== 0 RC4 testcase with wrong meta flag ==
+=== 0 RC4 testcase with wrong meta flag ===
 
 
-== 1 RC3 test with missing title ==
+=== 1 RC3 test with missing title ===
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/page-selectors-001.htm|page-selectors-001]]
 
-== 2 RC3 testcases which could render a missing image icon as acceptable handling of url(missing-image.png) ==
+=== 2 RC3 testcases which could render a missing image icon as acceptable handling of url(missing-image.png) ===
 
-CSS 2.1 spec says: 
+CSS 2.1 spec says:
 "User agents may vary in how they handle invalid URIs or URIs that
 designate unavailable or inapplicable resources."
- 
+
 coming from [[http://www.w3.org/TR/CSS21/syndata.html#value-def-uri|CSS 2.1, section 4.3.4 URLs and URIs
 ]]
 
-and 
+and
 
 "The value is a URI that designates an external resource (such as an
 image). If the user agent cannot display the resource it must either
@@ -261,10 +261,10 @@ coming from [[http://www.w3.org/TR/CSS21/generate.html#content|CSS 2.1, section 
 
 So, **a missing image icon is an acceptable, reasonable indication that the resource cannot be displayed**.
 
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/before-after-table-whitespace-001.htm|before-after-table-whitespace-001]] 
+  - [[http://test.csswg.org/suites/css2.1/20101027/html4/before-after-table-whitespace-001.htm|before-after-table-whitespace-001]]
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/before-after-images-001.htm|before-after-images-001]]
 
-==== General Issues ====
+===== General Issues =====
   * http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html
   * Some tests are assuming the system has access to glyphs for non-Latin fonts. If this isn't the case, the test could pass without actually testing anything.
   * testinfo.data doesn't cope properly with multiple references nor with negative references.
