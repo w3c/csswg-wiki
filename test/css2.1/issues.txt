@@ -158,7 +158,7 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-015.htm|first-letter-punct-before-015]] 82 validation markup errors
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-019.htm|first-letter-punct-before-019]] 43 validation markup errors
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-letter-punct-before-035.htm|first-letter-punct-before-035]] 167 validation markup errors
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-001.htm|first-line-001]] 2 validation markup errors. Just wrapping the text in a <p> should be ok.
+  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/first-line-001.htm|first-line-001]] 2 validation markup errors. Just wrapping the text in a <p> should be ok.</del> - Fixed for RC5
 
 ===== Tests that need Metadata improvements =====
 
