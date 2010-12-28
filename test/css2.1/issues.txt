@@ -189,7 +189,7 @@ Ugly, not self-documenting:
 
 ==== 1 RC4 testcase missing the ahem flag ====
 
-  - [[http://test.csswg.org/suites/css2.1/20101210/html4/blocks-020.htm|blocks-020]]
+  - <del>[[http://test.csswg.org/suites/css2.1/20101210/html4/blocks-020.htm|blocks-020]]</del> - Fixed for RC5
 
 
 ==== 1 RC4 testcase missing the invalid flag ====
