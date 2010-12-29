@@ -194,7 +194,7 @@ Ugly, not self-documenting:
 
 ==== 1 RC4 testcase missing the invalid flag ====
 
-  - [[http://test.csswg.org/suites/css2.1/20101210/html4/border-spacing-012.htm|border-spacing-012]] "Lengths [of border-spacing] may not be negative." coming from [[http://www.w3.org/TR/CSS21/tables.html#separated-borders|17.6.1 border-spacing]] Although no CSS validation error is reported, I think this should be parsed as a validation error; therefore invalid flag should be added.
+  - <del>[[http://test.csswg.org/suites/css2.1/20101210/html4/border-spacing-012.htm|border-spacing-012]] "Lengths [of border-spacing] may not be negative." coming from [[http://www.w3.org/TR/CSS21/tables.html#separated-borders|17.6.1 border-spacing]] Although no CSS validation error is reported, I think this should be parsed as a validation error; therefore invalid flag should be added.</del> - Fixed in RC5
 
 ==== 2 RC4 testcases missing the interact flag ====
 
