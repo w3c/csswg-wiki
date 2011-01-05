@@ -2,6 +2,8 @@
 
 The CSS2.1 Test Suite results are tracked by the submission of formal implementation reports and from the data in the test suite harness. [add links]
 
+See notes on [[http://wiki.csswg.org/test/css2.1/results|previous list]].
+
 This page tracks tests that have failures blocking CR exit.
 
   * abspos-non-replaced-width-margin-000
