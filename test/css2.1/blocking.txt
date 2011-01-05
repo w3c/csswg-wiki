@@ -20,7 +20,7 @@ This page tracks tests that have failures blocking CR exit.
   * floats-wrap-top-below-bfc-002r
   * floats-wrap-top-below-bfc-003l
   * floats-wrap-top-below-bfc-003r
-  * margin-collapse-108
+  * <del>margin-collapse-108</del> - test updated for RC5
   * margin-collapse-164
   * margin-collapse-clear-005
   * margin-collapse-clear-011
