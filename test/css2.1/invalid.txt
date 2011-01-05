@@ -55,9 +55,9 @@ This page tracks tests that have been reported as invalid.
   * <del>counter-reset-056 - " "</del> - updated for RC5
   * font-family-rule-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0263.html
   * font-family-rule-009 - " "
-  * font-matching-rule-010 
-  * font-matching-rule-013
-  * font-style-rule-001
+  * <del>font-matching-rule-010</del> - updated for RC5
+  * <del>font-matching-rule-013</del> - updated for RC5
+  * <del>font-style-rule-001</del> - updated for RC5
   * <del>forced-page-breaks-000</del> - updated for RC5
   * <del>forced-page-breaks-001</del> - updated for RC5
   * <del>forced-page-breaks-002</del> - moved to css3-page
