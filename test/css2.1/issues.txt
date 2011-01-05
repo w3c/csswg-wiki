@@ -28,7 +28,7 @@ Refer to nonexistent fonts:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0371.html|column-visibility-003]]</del> - Fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counter-010]]</del> - Fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0382.html|content-counters-010]]</del> - Fixed for RC4
-  * Multiple [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0040.html|counter-increment-* and counter-reset-*]] tests
+  * <del>Multiple [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0040.html|counter-increment-* and counter-reset-*]] tests</del> - Fixed for RC5
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0017.html|font-weight-003]]</del> - Fixed for RC4
 
 ==== Miscellaneous incorrect tests ====
