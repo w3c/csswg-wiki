@@ -24,7 +24,7 @@ This page tracks tests that have failures blocking CR exit.
   * margin-collapse-164
   * margin-collapse-clear-005
   * margin-collapse-clear-011
-  * numbers-units-020
+  * <del>numbers-units-020</del> - Removed as invalid for RC5
   * orphans-004b
   * page-break-after-009
   * page-break-before-009
