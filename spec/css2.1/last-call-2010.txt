@@ -61,3 +61,8 @@ Last updated 3 September 2010
   ;Summary : Clarify that table wrapper boxes are containing blocks, even though table boxes are not in 9.2.1
   ;Status : Open. =WG= Discuss.
 
+==== Issue 213 ====
+
+  ;Summary : clarify that forced page breaks on the root element change whether :first is :left or :right
+  ;Resolution : Make it undefined in CSS2.1 whether forced break before first page creates a :first page or a blank page.
+  ;Status : Open. =Bert= Edit.
