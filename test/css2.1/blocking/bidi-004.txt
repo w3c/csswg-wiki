@@ -6,9 +6,7 @@
 
 ==== Relevant links ====
 
-  * http://www.w3.org/TR/CSS21/box.html#bidi-box-model
-  * http://www.w3.org/TR/CSS21/visuren.html#direction
-  * http://www.w3.org/TR/CSS21/text.html#white-space-model
+  * http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0096.html
 
 ==== Discussion ====
 
