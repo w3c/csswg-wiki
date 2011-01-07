@@ -1,4 +1,4 @@
-====== Margin-collapse issue ======
+====== z-index of root ======
 
 ==== Test cases ====
 
