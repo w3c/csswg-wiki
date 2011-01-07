@@ -11,8 +11,8 @@ This page tracks tests that have failures blocking CR exit.
   * active-selector-002
   * <del>allowed-page-breaks-001a</del> - test updated for RC5
   * allowed-page-breaks-002
-  * [[test:css2.1:background-intrinsic|background-intrinsic-004]]
-  * [[test:css2.1:background-intrinsic|background-intrinsic-005]]
+  * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-004]]
+  * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-005]]
   * bidi-004
   * first-page-selectors-003
   * first-page-selectors-004
