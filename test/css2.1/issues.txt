@@ -230,7 +230,7 @@ Ugly, not self-documenting:
 === 1 RC3 test with missing title ===
   - [[http://test.csswg.org/suites/css2.1/20101027/html4/page-selectors-001.htm|page-selectors-001]]
 
-=== 2 RC3 testcases which could render a missing image icon as acceptable handling of url(missing-image.png) ===
+=== 2 RC4 testcases which could render a missing image icon as acceptable handling of url(missing-image.png) ===
 
 CSS 2.1 spec says:
 "User agents may vary in how they handle invalid URIs or URIs that
@@ -250,8 +250,8 @@ coming from [[http://www.w3.org/TR/CSS21/generate.html#content|CSS 2.1, section 
 
 So, **a missing image icon is an acceptable, reasonable indication that the resource cannot be displayed**.
 
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/before-after-table-whitespace-001.htm|before-after-table-whitespace-001]]
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/before-after-images-001.htm|before-after-images-001]]
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/before-after-table-whitespace-001.htm|before-after-table-whitespace-001]]
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/before-after-images-001.htm|before-after-images-001]]
 
 ===== General Issues =====
   * http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html
