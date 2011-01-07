@@ -14,8 +14,8 @@ This page tracks tests that have failures blocking CR exit.
   * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-004]]
   * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-005]]
   * [[test:css2.1:blocking:bidi-004|bidi-004]]
-  * <del>first-page-selectors-003</de> - test updated for RC5
-  * <del>first-page-selectors-004</de> - test updated for RC5
+  * <del>first-page-selectors-003</del> - test updated for RC5
+  * <del>first-page-selectors-004</del> - test updated for RC5
   * floats-wrap-top-below-bfc-001l
   * floats-wrap-top-below-bfc-001r
   * floats-wrap-top-below-bfc-002l
