@@ -3,7 +3,7 @@
 ==== Test cases ====
 
   * [[http://test.csswg.org/suites/css2.1/latest/html4/background-intrinsic-004.htm|background-intrinsic-004]] - fantasai
-  * [[http://test.csswg.org/suites/css2.1/latest/html4/background-intrinsic-004.htm|background-intrinsic-004]] - fantasai
+  * [[http://test.csswg.org/suites/css2.1/latest/html4/background-intrinsic-005.htm|background-intrinsic-005]] - fantasai
 
 Requires support for SVG backgrounds.
 
