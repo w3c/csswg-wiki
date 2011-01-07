@@ -45,11 +45,9 @@ Refer to nonexistent fonts:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0119.html|background-intrinsic-004]]</del> - Fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0120.html|background-intrinsic-005]]</del> - Fixed for RC4
 
-==== 3 RC3 testcases with incorrect pass condition / dependence on font metrics ====
+==== 0 RC4 testcase with incorrect pass condition / dependence on font metrics ====
 
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-003.htm|overflow-003]]</del> - fixed in RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-004.htm|overflow-004]]</del> - fixed in RC4
-  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/overflow-005.htm|overflow-005]] ; More info: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0272.html]]</del> - fixed in RC4
+
 
 
 ==== 0 RC4 testcase styling the alt attribute text ====
