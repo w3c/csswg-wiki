@@ -167,8 +167,8 @@ Ugly, not self-documenting:
   - <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0055.html|absolute-non-replaced-width-007]]</del> - fixed for RC4
   - <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0055.html|absolute-non-replaced-width-008]]</del> - fixed for RC4
   - <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0055.html|absolute-non-replaced-width-009]]</del> - fixed for RC4
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-height-003.htm|absolute-non-replaced-height-003]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html]]
-  - [[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-max-height-003.htm|absolute-non-replaced-max-height-003]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html]]
+  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-height-003.htm|absolute-non-replaced-height-003]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html]]</del> - Fixed for RC5
+  - <del>[[http://test.csswg.org/suites/css2.1/20101027/html4/absolute-non-replaced-max-height-003.htm|absolute-non-replaced-max-height-003]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0115.html]]</del> - Fixed for RC5
 
 ==== Tests possibly missing http flag ====
 
