@@ -49,9 +49,6 @@ Refer to nonexistent fonts:
 
 ==== 0 RC4 testcase with incorrect pass condition / dependence on font metrics ====
 
-
-
-
 ==== 0 RC4 testcase styling the alt attribute text ====
 
 ==== 3 RC3 testcases not actually testing what they are supposed to test or that are too easy to pass ====
@@ -69,8 +66,6 @@ Ugly, not self-documenting:
   background-alpha-003
   background-alpha-004
   background-alpha-005
-
-
 
 ==== Confusing/hard to judge ====
 
@@ -189,6 +184,9 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/background-root-017.htm|background-root-017]] since resizing the viewport is part of the test pass/fail condition
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/floats-108.htm|floats-108]] since resizing the viewport is part of the test pass/fail condition
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/floats-109.htm|floats-109]] since resizing the viewport is part of the test pass/fail condition
+
+==== 1 RC4 testcase missing the dom flag ====
+  - [[http://test.csswg.org/suites/css2.1/20101210/html4/letter-spacing-102.htm|letter-spacing-102]]
 
 ==== 2 RC4 testcases with some coding issues ====
 
