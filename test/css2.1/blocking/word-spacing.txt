@@ -13,6 +13,8 @@ Fails in:
 
 ==== Relevant links ====
 
+  * http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0027.html
+
 ==== Discussion ====
 
-Failures seem to be caused by UA bugs.
+
