@@ -6,8 +6,6 @@
 
 ==== Relevant links ====
 
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0053.html]]
-
 ==== Discussion ====
 
 Opera and Konqueror construct the correct box tree, but paint the borders incorrectly. In both cases the border rendering is obviously wrong.
