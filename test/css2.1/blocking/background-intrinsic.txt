@@ -12,7 +12,8 @@ Requires support for SVG backgrounds. Runs but fails in:
 ==== Relevant links ====
 
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0053.html]]
-
 ==== Discussion ====
 
 Test fails because implementations don't resize the image before applying background-position.
+
+[Simon] I've looked into fixing this in WebKit <https://bugs.webkit.org/show_bug.cgi?id=47156>; it's do-able but not trivial.
