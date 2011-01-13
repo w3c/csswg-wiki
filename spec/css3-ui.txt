@@ -86,16 +86,24 @@ For latest edits/resolutions, see the editors draft:
   ; Status : proposed
 
 
-=== Issue 11+ ===
+=== Issue 11 ===
   ; Summary : multiple issues from Kevin Ar18 2010-11-17
   ; Raised by : Kevin Ar18
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0257.html
-  ; Proposed Resolution : itemize and split into multiple atomic issues here
+  ; Proposed Resolution : itemize and split into multiple sub-issues here. some may be merely details on Issue 5.
   ; Status : collected.
   
 
+=== Issue 12 ===
+  ; Summary: what are effects of 'pointer-events' with regards to keyboard navigation?
+  ; Raised by : Doug Schepers
+  ; URL : http://lists.w3.org/Archives/Public/public-fx/2010OctDec/0106.html
+  ; URL : http://dev.w3.org/csswg/css3-ui/#pointer-events
+  ; Proposed resolution : informative note in the definition of the  'pointer-events' property would help steer authors to think about how they are using this (such as a suggestion that if pointer-events are turned off, authors should also consider making the element not 
+focusable, as well).
+  ; Status: collected.
+  
 ...
-
 
 ==== Issue n ====
   ; Summary : 
