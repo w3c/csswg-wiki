@@ -100,14 +100,14 @@ For latest edits/resolutions, see the editors draft:
   ; URL : http://dev.w3.org/csswg/css3-ui/#pointer-events
   ; Proposed resolution : informative note in the definition of the 'pointer-events' property would help steer authors to think about how they are using this (such as a suggestion that if pointer-events are turned off, authors should also consider making the element not 
 focusable, as well).
-  ; Status: resolved, informative note added to editor's draft. awaiting public draft.
+  ; Status : resolved, informative note added to editor's draft. awaiting public draft.
   
 ==== Issue 13 ====
   ; Summary: should CSS3 UI (or some future version) incorporate a 'focusable' property (like in SVG)
   ; Raised by : Tantek Çelik
   ; URL : http://www.w3.org/TR/SVGTiny12/interact.html#focusable-attr
   ; Proposed resolution : postpone til CSS4-UI.
-  ; Status: collected.
+  ; Status : collected.
 
 ...
 
