@@ -1,13 +1,15 @@
 ====== css3-ui issues list ======
 
-The [[http://www.w3.org/TR/css3-ui/|css3-ui specification]] defines user interface related selectors, properties and values.
+The [[http://www.w3.org/TR/css3-ui/|CSS Basic User Interface Module Level 3]] (CSS3-UI, latest public TR version) defines user interface related selectors, properties and values.
 
 ===== Current Issues =====
 
-The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 css3-ui Candidate Recommendation]].
+The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 CSS3-UI Candidate Recommendation]].
+
+For latest edits/resolutions, see the editors draft:
+  * http://dev.w3.org/csswg/css3-ui/
 
 ==== Issue 1 ====
-
   ; Summary : css3-ui should have a test suite
   ; Raised by : Tantek Çelik
   ; URL : eventually http://www.w3.org/Style/CSS/Test/#css3-ui
