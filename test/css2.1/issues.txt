@@ -236,6 +236,12 @@ So, **a missing image icon is an acceptable, reasonable indication that the reso
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/before-after-table-whitespace-001.htm|before-after-table-whitespace-001]]
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/before-after-images-001.htm|before-after-images-001]]
 
+==== RC5 test cases with font rounding issues ====
+  - [[http://test.csswg.org/suites/css2.1/20110111/html4/orphans-001.htm|orphans-001]]
+  - orphans-00*
+  - widows-00*
+  - Also any "paged" test cases
+
 ===== General Issues =====
   * http://lists.w3.org/Archives/Public/public-css-testsuite/2007Jul/0011.html
   * Some tests are assuming the system has access to glyphs for non-Latin fonts. If this isn't the case, the test could pass without actually testing anything.
