@@ -4,9 +4,6 @@ The CSS2.1 Test Suite results are tracked by the submission of formal implementa
 
 This page tracks tests that have been reported as invalid.
 
-  * <del>allowed-page-breaks-001c</del> - updated for RC5
-  * <del>allowed-page-breaks-003</del> - updated for RC5
-  * <del>allowed-page-breaks-004</del> - updated for RC5
   * bidi-005 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0097.html
   * bidi-006 - " "
   * bidi-007 - " "
@@ -21,46 +18,7 @@ This page tracks tests that have been reported as invalid.
   * border-right-width-047 - " "
   * border-top-width-036 - " "
   * border-top-width-047 - " "
-  * c5504-mrgn-l-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0016.html
-  * <del>counter-increment-013 - integer range issue, to be fixed</del>
-  * <del>counter-increment-015 - " "</del> - updated for RC5
-  * <del>counter-increment-016 - " "</del> - updated for RC5
-  * <del>counter-increment-017 - " "</del> - updated for RC5
-  * <del>counter-increment-023 - " "</del> - updated for RC5
-  * <del>counter-increment-024 - " "</del> - updated for RC5
-  * <del>counter-increment-025 - " "</del> - updated for RC5
-  * <del>counter-increment-026 - " "</del> - updated for RC5
-  * <del>counter-increment-028 - " "</del> - updated for RC5
-  * <del>counter-increment-029 - " "</del> - updated for RC5
-  * <del>counter-increment-030 - " "</del> - updated for RC5
-  * <del>counter-increment-036 - " "</del> - updated for RC5
-  * <del>counter-increment-037 - " "</del> - updated for RC5
-  * <del>counter-increment-038 - " "</del> - updated for RC5
-  * <del>counter-increment-039 - " "</del> - updated for RC5
-  * <del>counter-increment-041 - " "</del> - updated for RC5
-  * <del>counter-increment-042 - " "</del> - updated for RC5
-  * <del>counter-increment-043 - " "</del> - updated for RC5
-  * <del>counter-increment-049 - " "</del> - updated for RC5
-  * <del>counter-increment-050 - " "</del> - updated for RC5
-  * <del>counter-increment-051 - " "</del> - updated for RC5
-  * <del>counter-increment-052 - " "</del> - updated for RC5
-  * <del>counter-increment-056 - " "</del> - updated for RC5
-  * <del>counter-reset-013 - " "</del> - updated for RC5
-  * <del>counter-reset-015 - " "</del> - updated for RC5
-  * <del>counter-reset-026 - " "</del> - updated for RC5
-  * <del>counter-reset-028 - " "</del> - updated for RC5
-  * <del>counter-reset-039 - " "</del> - updated for RC5
-  * <del>counter-reset-041 - " "</del> - updated for RC5
-  * <del>counter-reset-052 - " "</del> - updated for RC5
-  * <del>counter-reset-056 - " "</del> - updated for RC5
   * <del>font-family-rule-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0263.html</del> - updated for RC5
-  * <del>font-family-rule-009 - " "</del> - updated for RC5
-  * <del>font-matching-rule-010</del> - updated for RC5
-  * <del>font-matching-rule-013</del> - updated for RC5
-  * <del>font-style-rule-001</del> - updated for RC5
-  * <del>forced-page-breaks-000</del> - updated for RC5
-  * <del>forced-page-breaks-001</del> - updated for RC5
-  * <del>forced-page-breaks-002</del> - moved to css3-page
   * padding-bottom-047 - seems similar to border-* cases? (http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html)
   * padding-bottom-050 - " "
   * padding-bottom-051 - " "
