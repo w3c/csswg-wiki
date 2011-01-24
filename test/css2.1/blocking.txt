@@ -6,39 +6,39 @@ See notes on [[http://wiki.csswg.org/test/css2.1/results|previous list]].
 
 This page tracks tests that have failures blocking CR exit.
 
-  * abspos-non-replaced-width-margin-000
-  * abspos-replaced-width-margin-000
-  * <del>active-selector-002</del> - test updated for RC5
-  * <del>allowed-page-breaks-001a</del> - test updated for RC5
-  * <del>allowed-page-breaks-002</del> - test updated for RC5
-  * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-004]]
-  * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-005]]
-  * [[test:css2.1:blocking:bidi-004|bidi-004]]
-  * <del>first-page-selectors-003</del> - test updated for RC5
-  * <del>first-page-selectors-004</del> - test updated for RC5
-  * floats-wrap-top-below-bfc-001l
-  * floats-wrap-top-below-bfc-001r
-  * floats-wrap-top-below-bfc-002l
-  * floats-wrap-top-below-bfc-002r
-  * floats-wrap-top-below-bfc-003l
-  * floats-wrap-top-below-bfc-003r
-  * <del>margin-collapse-108</del> - test updated for RC5
-  * [[test:css2.1:blocking:margin-collapse|margin-collapse-164]]
-  * [[test:css2.1:blocking:margin-collapse|margin-collapse-clear-005]]
-  * [[test:css2.1:blocking:margin-collapse|margin-collapse-clear-011]]
-  * <del>numbers-units-020</del> - Removed as invalid for RC5
-  * orphans-004b
-  * page-break-after-009
-  * page-break-before-009
-  * page-break-before-010
-  * page-break-inside-006
-  * page-break-margins-004
-  * page-container-009
-  * page-props-103
-  * page-selectors-002
-  * <del>replaced-intrinsic-ratio-001</del> - passes in Opera and Firefox??
-  * [[test:css2.1:blocking:run-in-breaking-002|run-in-breaking-002]]
-  * run-in-contains-table-caption-001
-  * widows-004b
-  * <del>[[test:css2.1:blocking:word-spacing|word-spacing-characters-001]]</del> - test updated for RC5
-  * [[test:css2.1:blocking:z-index-abspos-009|z-index-abspos-009]]
+  * allowed-page-breaks-001a - Passed by Trident
+  * allowed-page-breaks-001b - Passed by Trident
+  * allowed-page-breaks-001c - No Passes
+  * allowed-page-breaks-002 - No Passes
+  * at-rule-013 - Passed by Trident
+  * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-004]] - No Passes
+  * [[test:css2.1:blocking:background-intrinsic|background-intrinsic-005]] - No Passes
+  * before-after-table-parts-001 - Passed by Gecko
+  * [[test:css2.1:blocking:bidi-004|bidi-004]] - No Passes
+  * containing-block-032 - Passed by Trident
+  * first-line-pseudo-016 - Passed by Gecko
+  * first-line-selector-015 - Passed by Trident
+  * first-page-selectors-002 - Passed by WebKit
+  * floats-wrap-top-below-bfc-001l - Passed by WebToPDF
+  * floats-wrap-top-below-bfc-001r - Passed by WebToPDF
+  * font-family-rule-011 - Passed by Trident
+  * forced-page-breaks-000 - Passed by Prince
+  * [[test:css2.1:blocking:margin-collapse|margin-collapse-clear-005]] - Passed by WebToPDF
+  * [[test:css2.1:blocking:margin-collapse|margin-collapse-clear-011]] - Passed by WebToPDF
+  * orphans-004b - Passed by Gecko
+  * page-break-after-009 - No Passes
+  * page-break-before-009 - No Passes
+  * page-break-before-010 - No Passes
+  * page-container-009 - Passed by Prince
+  * page-props-103 - Passed by Prince
+  * quotes-035 - Passed by Gecko
+  * replaced-intrinsic-ratio-001 - No Passes
+  * run-in-abspos-between-002 - Passed by Trident
+  * [[test:css2.1:blocking:run-in-breaking-002|run-in-breaking-002]] - No Passes
+  * run-in-contains-inline-003 - Passed by Trident
+  * run-in-contains-table-caption-001 - No Passes
+  * run-in-contains-table-cell-001 - Passed by Trident
+  * run-in-contains-table-row-001 - Passed by Trident
+  * run-in-contains-table-row-group-001 - Passed by Trident
+  * uri-016 - Passed by Trident
+  * widows-004b - Passed by Trident
