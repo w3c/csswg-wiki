@@ -9,3 +9,5 @@
 ==== Discussion ====
 
 Opera and Konqueror construct the correct box tree, but paint the borders incorrectly. In both cases the border rendering is obviously wrong.
+
+Recommend this be covered under other run-in tests and the spec is marked undefined. [[test:css2.1:blocking:run-in]]
