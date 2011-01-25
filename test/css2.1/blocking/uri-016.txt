@@ -3,7 +3,7 @@
 ==== Test cases ====
   * [[http://test.csswg.org/suites/css2.1/20110111/html4/uri-016.htm|uri-016]] - tantek
 
-Requires support for treating open comment syntax inside url() as literal not comment. Works in:
+Requires support for treating open comment syntax inside url() as literal not comment, including in places where url() is not expected. Works in:
   * IE9 Beta build 7930
 Will be fixed in:
   * ... 
