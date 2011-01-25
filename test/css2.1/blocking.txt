@@ -32,7 +32,7 @@ This page tracks tests that have failures blocking CR exit.
   * page-container-009 - Passed by Prince
   * page-props-103 - Passed by Prince
   * quotes-035 - Passed by Gecko  (David)
-  * replaced-intrinsic-ratio-001 - No Passes (David, Simon)
+  * [[test:css2.1:blocking:replaced-intrinsic-ratio-001|replaced-intrinsic-ratio-001]] - No Passes (David, Simon)
   * run-in-abspos-between-002 - Passed by Trident (Arron)
   * [[test:css2.1:blocking:run-in-breaking-002|run-in-breaking-002]] - No Passes  (Arron)
   * run-in-contains-inline-003 - Passed by Trident (Arron)
