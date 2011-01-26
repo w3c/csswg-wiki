@@ -13,8 +13,8 @@ This page tracks tests that do not have sufficient data to exit CR, these tests 
   * <del>absolute-replaced-height-034</del> - Passed by Gecko, IE9, Opera 11
   * <del>bidi-breaking-002</del> - original test Passed by WebKit; split into bidi-breaking-002 with multiple passes and bidi-breaking-003 that is a "may" test (not passed by Chromium for dbaron, though!)
   * <del>block-replaced-height-006</del> - Passed by Gecko, IE9
-  * <del>containing-block-017</del> - Passed by WebKit, IE9
-  * <del>containing-block-018</del> - Passed by WebKit, IE9
+  * <del>containing-block-017</del> - Passed by WebKit, IE9 - Arron to clarify pass condition text
+  * <del>containing-block-018</del> - Passed by WebKit, IE9 - Arron to clarify pass condition text
   * content-computed-value-001 - Passed by Trident; probably easy to fix in Gecko; test should probably be redesigned anyway and isn't testing what was intended (fantasai will rewrite)
   * cursor-024 - Passed by Gecko; should probably change the test to a MAY
   * dynamic-top-change-005 - Passed by Gecko
