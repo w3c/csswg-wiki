@@ -66,3 +66,21 @@ Last updated 3 September 2010
   ;Summary : clarify that forced page breaks on the root element change whether :first is :left or :right
   ;Resolution : Make it undefined in CSS2.1 whether forced break before first page creates a :first page or a blank page.
   ;Status : Open. =Bert= Edit.
+
+==== Issue 214 ====
+
+  ;Summary : Make it undefined whether white space stripping happens before or after bidi reordering
+  ;URI : http://wiki.csswg.org/test/css2.1/blocking/bidi-004#discussion
+  ;Status : Open. =fantasai= Propose edits. Split test, and check for passes.
+
+==== Issue 215 ====
+
+  ; Summary : Make it undefined what containing block is formed by a relpos inline that splits across multiple lines
+  ; URI : containing-block-032
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 216 ====
+
+  ; Summary : Drop vertical-align from list of properties supported on ::first-line
+  ; URI : first-line-pseudo-016
+  ;Status : Open. =WG= Discuss.
