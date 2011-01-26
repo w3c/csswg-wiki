@@ -24,7 +24,7 @@ This page tracks tests that have been reported as invalid.
   * <del>font-family-rule-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0263.html</del> - updated for RC5
   * <del>forced-page-breaks-000</del> - These are OK, they contain CSS3 semantics, but it's not being tested.
   * <del>forced-page-breaks-001</del> - These are OK, they contain CSS3 semantics, but it's not being tested.
-  * list-style-position-004
+  * <del>list-style-position-004</del> - Correct the pass condition and the flag to say MAY
   * <del>padding-bottom-047</del> - seems similar to border-* cases? (http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html)
   * <del>padding-bottom-050</del> - Arron has a fix for the test.
   * <del>padding-bottom-051</del> - Arron has a fix for the test.
@@ -42,12 +42,12 @@ This page tracks tests that have been reported as invalid.
   * <del>page-break-before-005</del> - CSS3 semantics, but do not impact the test result. OK to leave.
   * <del>page-break-before-020</del> - Test is OK.
   * <del>page-breaks-101</del> - assert needs to be updated by Elika.
-  * page-container-004
-  * page-grammar-001
-  * page-grammar-002
-  * rtl-linebreak - should add a negative reference without a border (because the invalidity is that the reference doesn't detect the WebKit failure) - dbaron to do
+  * <del>page-container-004</del> - Test already changed to may. OK.
+  * <del>page-grammar-001</del> - Let's fix the assertion text a bit to make them less confusing.
+  * <del>page-grammar-002</del> - Let's fix the assertion text a bit to make them less confusing. Title is incorrect (testing both before and after). Elika to do.
+  * <del>rtl-linebreak</del> - should add a negative reference without a border (because the invalidity is that the reference doesn't detect the WebKit failure) - dbaron to do
   * text-decoration-087
-  * z-index-020 - outlines can validly be drawn on 2 (maybe 3?) different layers, and this test requires them to be drawn onto one particular layer
+  * <del>z-index-020</del> - outlines can validly be drawn on 2 (maybe 3?) different layers, and this test requires them to be drawn onto one particular layer
 
 
 
