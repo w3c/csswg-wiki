@@ -5,11 +5,11 @@ The CSS2.1 Test Suite results are tracked by the submission of formal implementa
 This page tracks tests that have been reported as invalid.
 
   * <del>background-bg-pos-205</del> - It's up to the UA whether to scroll the <p /> tag at the bottom. change the test to p{ margin:2em;margin-top:0; }.
-  * bidi-005 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0097.html
-  * bidi-006 - " "
-  * bidi-007 - " "
-  * bidi-008 - " "
-  * bidi-010 - " "
+  * <del>bidi-005</del> - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0097.html
+  * <del>bidi-006</del> - make spec undefined.
+  * <del>bidi-007</del> - make spec undefined.
+  * <del>bidi-008</del> - make spec undefined.
+  * <del>bidi-010</del> - make spec undefined.
   * block-in-inline-relpos-002 - waiting for proposal from dbaron
   * <del>border-bottom-width-036 - rounding issues: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html</del> 
   *<del> border-bottom-width-047 - " "</del> - Arron has a fix for the test.
