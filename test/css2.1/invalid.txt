@@ -12,7 +12,7 @@ This page tracks tests that have been reported as invalid.
   * <del>bidi-010</del> - make spec undefined.
   * <del>block-in-inline-relpos-002</del> - waiting for proposal from dbaron
   * <del>border-bottom-width-036 - rounding issues: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html</del> 
-  *<del> border-bottom-width-047 - " "</del> - Arron has a fix for the test.
+  * <del>border-bottom-width-047</del> - Arron has a fix for the test.
   * <del>border-left-width-036</del> - Arron has a fix for the test.
   * <del>border-left-width-047</del> - Arron has a fix for the test.
   * <del>border-right-width-036</del> - Arron has a fix for the test.
@@ -22,8 +22,8 @@ This page tracks tests that have been reported as invalid.
   * <del>floats-wrap-bfc-006b</del> - Move test to CSS3
   * <del>floats-wrap-bfc-006c</del> - move test to CSS3
   * <del>font-family-rule-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0263.html</del> - updated for RC5
-  * forced-page-breaks-000
-  * forced-page-breaks-001
+  * <del>forced-page-breaks-000</del> - contain CSS3 semantics - we have these tests already, OK to remove.
+  * <del>forced-page-breaks-001</del> - contain CSS3 semantics - we have these tests already, OK to remove
   * list-style-position-004
   * <del>padding-bottom-047</del> - seems similar to border-* cases? (http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html)
   * <del>padding-bottom-050</del> - Arron has a fix for the test.
