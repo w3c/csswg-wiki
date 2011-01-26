@@ -34,5 +34,5 @@ This page tracks tests that have been reported as invalid.
   * page-break-after-010
   * page-break-before-003
   * page-break-before-005
-  * rtl-linebreak
+  * rtl-linebreak - should add a negative reference without a border (because the invalidity is that the reference doesn't detect the WebKit failure) - dbaron to do
   * z-index-020 - outlines can validly be drawn on 2 (maybe 3?) different layers, and this test requires them to be drawn onto one particular layer
