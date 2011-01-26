@@ -13,7 +13,7 @@ This page tracks tests that have failures blocking CR exit.
   * <del>[[test:css2.1:blocking:at-rule-013|at-rule-013]]</del> - Keep. Passed by Trident, Expecting implementation from Gecko (patch available, ETA FF 4.1) -Tantek
   * <del>[[test:css2.1:blocking:background-intrinsic|background-intrinsic-004]]</del> - No Passes (expecting impls from WebKit - soon and Gecko soon after FF4)
   * <del>[[test:css2.1:blocking:background-intrinsic|background-intrinsic-005]]</del> - No Passes (expecting impls from WebKit - soon and Gecko soon after FF4)
-  * before-after-table-parts-001 - Passed by Gecko [[https://bugs.webkit.org/show_bug.cgi?id=53114|Webkit bug]] At risk.
+  * <del>before-after-table-parts-001</del> - Passed by Gecko and IE9 [[https://bugs.webkit.org/show_bug.cgi?id=53114|Webkit bug]] At risk
   * <del>[[test:css2.1:blocking:bidi-004|bidi-004]]</del> - No Passes (Arron, David, fantasai). Leave undefined for 2.1; needs text.
   * <del>containing-block-032 - Passed by Trident (IE7 only, not IE9) (David) [[https://bugs.webkit.org/show_bug.cgi?id=53106|Webkit bug]] [[https://bugzilla.mozilla.org/show_bug.cgi?id=489100|Gecko bug]];</del> we should try to make this undefined since it seems we're unlikely to get a fix in the near future. Fantasai to propose text.
   * <del>first-line-pseudo-016 - Passed by Gecko (David)</del> - Changed to MAY; Remove valign from the list
@@ -25,7 +25,7 @@ This page tracks tests that have failures blocking CR exit.
   * <del>forced-page-breaks-000</del> - Passed by Prince. This is a CSS3 property.
   * <del>[[test:css2.1:blocking:margin-collapse|margin-collapse-clear-005]] - Passed by WebToPDF (Aaron, David)</del> - We have two passes
   * <del>[[test:css2.1:blocking:margin-collapse|margin-collapse-clear-011]] - Passed by WebToPDF (Aaron, David)</del> - We have two passes
-  * orphans-004a (Arron, John) - Trident Passes.
+  * <del>orphans-004a</del> - Everyone fails.
   * <del>orphans-004b - Passed by Gecko (fantasai)</del> - We have two passes.
   * <del>[[test:css2.1:blocking:page-break|page-break-after-009]] - No Passes (Arron, John)</del> - Elika to edit to two 50% divs
   * <del>[[test:css2.1:blocking:page-break|page-break-before-009]] - No Passes (Arron, John)</del> - Elika to edit to two 50% divs
