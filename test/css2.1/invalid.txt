@@ -10,8 +10,8 @@ This page tracks tests that have been reported as invalid.
   * bidi-008 - " "
   * bidi-010 - " "
   * block-in-inline-relpos-002 - waiting for proposal from dbaron
-  * border-bottom-width-036 - rounding issues: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html
-  * border-bottom-width-047 - " "
+  * <del>border-bottom-width-036 - rounding issues: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html</del> 
+  *<del> border-bottom-width-047 - " "</del> - Arron has a fix for the test.
   * <del>border-left-width-036</del> - Arron has a fix for the test.
   * <del>border-left-width-047</del> - Arron has a fix for the test.
   * <del>border-right-width-036</del> - Arron has a fix for the test.
@@ -36,3 +36,7 @@ This page tracks tests that have been reported as invalid.
   * page-break-before-005
   * rtl-linebreak - should add a negative reference without a border (because the invalidity is that the reference doesn't detect the WebKit failure) - dbaron to do
   * z-index-020 - outlines can validly be drawn on 2 (maybe 3?) different layers, and this test requires them to be drawn onto one particular layer
+  * background-bg-pos-205
+  * <del>floats-wrap-bfc-006b</del> - Move test to CSS3
+  * <del>floats-wrap-bfc-006c</del> - move test to CSS3
+  * 
