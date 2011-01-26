@@ -22,8 +22,8 @@ This page tracks tests that have been reported as invalid.
   * <del>floats-wrap-bfc-006b</del> - Move test to CSS3
   * <del>floats-wrap-bfc-006c</del> - move test to CSS3
   * <del>font-family-rule-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0263.html</del> - updated for RC5
-  * <del>forced-page-breaks-000</del> - contain CSS3 semantics. Once that is removed, these are dup tests.
-  * <del>forced-page-breaks-001</del> - contain CSS3 semantics. Once that is removed, these are dup tests.
+  * <del>forced-page-breaks-000</del> - These are OK, they contain CSS3 semantics, but it's not being tested.
+  * <del>forced-page-breaks-001</del> - These are OK, they contain CSS3 semantics, but it's not being tested.
   * list-style-position-004
   * <del>padding-bottom-047</del> - seems similar to border-* cases? (http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html)
   * <del>padding-bottom-050</del> - Arron has a fix for the test.
@@ -37,7 +37,7 @@ This page tracks tests that have been reported as invalid.
   * <del>padding-top-047</del> - Arron has a fix for the test.
   * <del>padding-top-050</del> - Arron has a fix for the test.
   * <del>padding-top-051</del> - Arron has a fix for the test.
-  * page-break-after-010
+  * <del>page-break-after-010</del> - Elika to re-write
   * page-break-before-003
   * page-break-before-005
   * page-break-before-020
