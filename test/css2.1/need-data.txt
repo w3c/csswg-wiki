@@ -22,6 +22,6 @@ This page tracks tests that do not have sufficient data to exit CR, these tests 
   * <del>inline-block-replaced-height-006</del> - Passed by Gecko, IE9, Opera 11
   * <del>inline-replaced-height-006</del> - Passed by Gecko, IE9, Opera 11
   * margin-collapse-164 - Passed by WebToPDF
-  * run-in-fixedpos-between-002 - Passed by Trident
-  * run-in-float-between-002 - Passed by Trident
+  * <del>run-in-fixedpos-between-002</del> - Passed by Trident. Run-ins are proposed to be moved to CSS3
+  * <del>run-in-float-between-002</del> - Passed by Trident. Run-ins are proposed to be moved to CSS3
   * table-anonymous-objects-188 - Passed by Gecko
