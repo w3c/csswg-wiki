@@ -11,14 +11,6 @@ This page tracks tests that have been reported as invalid.
   * <del>bidi-008</del> - make spec undefined.
   * <del>bidi-010</del> - make spec undefined.
   * <del>block-in-inline-relpos-002</del> - waiting for proposal from dbaron
-  * <del>border-bottom-width-036 - rounding issues: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html</del> 
-  * <del>border-bottom-width-047</del> - Arron has a fix for the test.
-  * <del>border-left-width-036</del> - Arron has a fix for the test.
-  * <del>border-left-width-047</del> - Arron has a fix for the test.
-  * <del>border-right-width-036</del> - Arron has a fix for the test.
-  * <del>border-right-width-047</del> - Arron has a fix for the test.
-  * <del>border-top-width-036</del> - Arron has a fix for the test.
-  * <del>border-top-width-047</del> - Arron has a fix for the test.
   * <del>floats-wrap-bfc-006b</del> - Move test to CSS3
   * <del>floats-wrap-bfc-006c</del> - move test to CSS3
   * <del>font-family-rule-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0263.html</del> - updated for RC5
@@ -49,6 +41,15 @@ This page tracks tests that have been reported as invalid.
   * <del>text-decoration-087</del> - test needs to be corrected and split into 2 as well as reworded to clarify the test (needs to change because inline should NOT be underlined). Webkit and FF need to fix their implementations. Opera has an additional bug they will need to address as well. 
   * <del>z-index-020</del> - outlines can validly be drawn on 2 (maybe 3?) different layers, and this test requires them to be drawn onto one particular layer
 
-
+==== Updated but need review ====
+Once the cases are reviewed please remove the cases from the list below
+  * border-bottom-width-036 - rounding issues: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html
+  * border-bottom-width-047
+  * border-left-width-036
+  * border-left-width-047
+  * border-right-width-036
+  * border-right-width-047
+  * border-top-width-036
+  * border-top-width-047
 
 
