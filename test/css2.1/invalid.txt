@@ -17,18 +17,6 @@ This page tracks tests that have been reported as invalid.
   * <del>forced-page-breaks-000</del> - These are OK, they contain CSS3 semantics, but it's not being tested.
   * <del>forced-page-breaks-001</del> - These are OK, they contain CSS3 semantics, but it's not being tested.
   * <del>list-style-position-004</del> - Correct the pass condition and the flag to say MAY
-  * <del>padding-bottom-047</del> - seems similar to border-* cases? (http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html)
-  * <del>padding-bottom-050</del> - Arron has a fix for the test.
-  * <del>padding-bottom-051</del> - Arron has a fix for the test.
-  * <del>padding-left-047</del> - Arron has a fix for the test.
-  * <del>padding-left-050</del> - Arron has a fix for the test.
-  * <del>padding-left-051</del> - Arron has a fix for the test.
-  * <del>padding-right-047</del> - Arron has a fix for the test.
-  * <del>padding-right-050</del> - Arron has a fix for the test.
-  * <del>padding-right-051</del> - Arron has a fix for the test.
-  * <del>padding-top-047</del> - Arron has a fix for the test.
-  * <del>padding-top-050</del> - Arron has a fix for the test.
-  * <del>padding-top-051</del> - Arron has a fix for the test.
   * <del>page-break-after-010</del> - Elika to re-write
   * <del>page-break-before-003</del> - CSS3 semantics, but do not impact the test result. OK to leave.
   * <del>page-break-before-005</del> - CSS3 semantics, but do not impact the test result. OK to leave.
@@ -51,5 +39,24 @@ Once the cases are reviewed please remove the cases from the list below
   * border-right-width-047
   * border-top-width-036
   * border-top-width-047
+  * padding-bottom-047 - seems similar to border-* cases? (http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0123.html)
+  * padding-bottom-036
+  * padding-left-036
+  * padding-left-047
+  * padding-right-036
+  * padding-right-047
+  * padding-top-036
+  * padding-top-047
+
+==== No edits necessary ====
+I did not update these cases because there are no pixel rounding issues in the cases. 25.4mm is equal to 96px.
+  * padding-bottom-050
+  * padding-bottom-051
+  * padding-left-050
+  * padding-left-051
+  * padding-right-050
+  * padding-right-051
+  * padding-top-050
+  * padding-top-051
 
 
