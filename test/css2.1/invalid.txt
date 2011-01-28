@@ -20,7 +20,7 @@ This page tracks tests that have been reported as invalid.
   * <del>page-break-after-010</del> - Elika to re-write
   * <del>page-break-before-003</del> - CSS3 semantics, but do not impact the test result. OK to leave.
   * <del>page-break-before-005</del> - CSS3 semantics, but do not impact the test result. OK to leave.
-  * <del>page-break-before-020</del> - Test is OK.
+  * <del>page-break-before-020</del> - Change to MAY. "User agents must apply these properties to __block-level elements in normal flow__ of the root element. __User agent may also apply these properties to other elements__..."
   * <del>page-breaks-101</del> - assert needs to be updated by Elika.
   * <del>page-container-004</del> - Test already changed to may. OK.
   * <del>page-grammar-001</del> - Let's fix the assertion text a bit to make them less confusing.
