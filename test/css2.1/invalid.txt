@@ -2,7 +2,7 @@
 
 The CSS2.1 Test Suite results are tracked by the submission of formal implementation reports and from the data in the test suite harness. [add links]
 
-This page tracks tests that have been reported as invalid.
+This page tracks tests that have been reported as invalid. These tests have all been fixed, and need verification.
 
   * <del>background-bg-pos-205</del> - It's up to the UA whether to scroll the <p /> tag at the bottom. change the test to p{ margin:2em;margin-top:0; }.
   * <del>bidi-005</del> - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Dec/0097.html
@@ -16,7 +16,7 @@ This page tracks tests that have been reported as invalid.
   * <del>font-family-rule-002 - email thread: http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0263.html</del> - updated for RC5
   * <del>forced-page-breaks-000</del> - CSS3 semantics, but do not impact the test result. OK to leave.
   * <del>forced-page-breaks-001</del> - CSS3 semantics, but do not impact the test result. OK to leave.
-  * <del>list-style-position-004</del> - Correct the pass condition and the flag to say MAY
+  * <del>list-style-position-004</del> - Corrected the pass condition and the flag to say MAY
   * <del>page-break-after-010</del> - CSS3 semantics, but do not impact the test result. OK to leave.
   * <del>page-break-before-003</del> - CSS3 semantics, but do not impact the test result. OK to leave.
   * <del>page-break-before-005</del> - CSS3 semantics, but do not impact the test result. OK to leave.
@@ -25,9 +25,9 @@ This page tracks tests that have been reported as invalid.
   * <del>page-container-004</del> - Test already changed to may. OK.
   * <del>page-grammar-001</del> - Updated to be less confusing.
   * <del>page-grammar-002</del> - Updated to be less confusing.
-  * <del>rtl-linebreak</del> - should add a negative reference without a border (because the invalidity is that the reference doesn't detect the WebKit failure) - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0101.html|done by dbaron]]
-  * <del>text-decoration-087</del> - Test corrected and split int 087 and 089. Webkit and FF need to fix their implementations. Opera has an additional bug they will need to address as well. 
-  * <del>z-index-020</del> - outlines can validly be drawn on 2 (maybe 3?) different layers, and this test requires them to be drawn onto one particular layer
+  * <del>rtl-linebreak</del> - add a negative reference without a border (because the invalidity is that the reference doesn't detect the WebKit failure) - [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0101.html|done by dbaron]]
+  * <del>text-decoration-087</del> - Test corrected and split into 087 and 089. Webkit and FF need to fix their implementations. Opera has an additional bug they will need to address as well. 
+  * <del>z-index-020</del> - outlines can validly be drawn on 2 (maybe 3?) different layers, and this test requires them to be drawn onto one particular layer. Updated.
 
 ==== Updated but need review ====
 Once the cases are reviewed please remove the cases from the list below
