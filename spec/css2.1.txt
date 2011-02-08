@@ -24,7 +24,7 @@ TODO: Audit issues list and make sure each issue has tests in the test suite. Th
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-003.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
   * http://test.csswg.org/source/contributors/microsoft/submitted/Chapter_16/text-align-white-space-004.xht - IE: Pass, FF: Pass, O: Pass, S: Pass, C: Pass
   ;Resolution : Proposal A accepted. Add note that pre-wrap may allow justification in the future.
-  ;Status : Edited, need review
+  ;Status : Closed.
   ;Testcases : text-align-white-space-001 through text-align-white-space-004
 
 ==== Issue 56 ====
