@@ -49,7 +49,8 @@ Last mailing list sweep 2010-08-05 – fantasai
   ;Summary : Clarify interaction of run-ins and "elements earlier in the source document".
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jan/0376.html
   ;Proposal : Say that for all layout purposes, the run-in is considered a direct child of the block to which it belongs.
-  ;Status : Open. =Steve= Write updated proposal based on http://lists.w3.org/Archives/Public/www-style/2010Aug/0448.html
+  ;Resolution : Move run-in to CSS3 Box.
+  ;Status : Closed.
 
 ==== Issue 199 ====
   ;Summary : Define when line boxes are present
