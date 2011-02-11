@@ -188,7 +188,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : spec should not define "sans-serif" to mean something different from what it means to font designers
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009May/0081.html
   ;Resolution : dbaron's proposal accepted
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 128 ====
