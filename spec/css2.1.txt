@@ -139,7 +139,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : anonymous table objects and table rows (and white space)
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010May/0071.html
   ;Resolution : Proposal accepted.
-  ;Status : Edited, needs review
+  ;Status : Closed.
 
 ==== Issue 110 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0489.html
