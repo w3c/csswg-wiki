@@ -131,9 +131,8 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : Position of list-item marker in presence of floats, text-align
   ;Proposal : Add "The position of the list-item marker adjacent to floats is undefined in CSS2.1."
   ;Resolution : Proposal accepted.
-  ;Status : Edited, needs review
+  ;Status : Closed.
   ;Testcases : n/a (undefined)
-
 
 ==== Issue 109 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0060.html http://lists.w3.org/Archives/Public/www-style/2009Mar/0077.html
