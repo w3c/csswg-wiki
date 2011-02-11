@@ -291,7 +291,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Proposed text : http://fantasai.inkedblade.net/style/specs/css2.1/px-unit
   ;Proposed text : http://fantasai.inkedblade.net/style/specs/css2.1/pt-unit
   ;Resolution : px-unit proposal accepted.
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcase : Delete c61-phys-len-000.xht ; 96dpi assumption is made in many testcases doesn't need its own at this point.
 
 ==== Issue 150 ====
