@@ -244,7 +244,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : unclear whether default attributes can be matched
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2009Nov/0047.html
   ;Resolution : Proposal accepted.
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcases : default-attribute-selector-001 through default-attribute-selector-008
 
 ==== Issue 144 ====
