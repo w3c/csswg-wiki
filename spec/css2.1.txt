@@ -252,7 +252,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : text-decoration and visibility
   ;Testcases : http://test.csswg.org/suites/css2.1/20100727/html4/chapter-16.html#s16.3.1 text-decoration-visibility-*
   ;Resolved : Leave undefined for CSS2.1. (Add note to clarify, TBD in CSS3.)
-  ;Status : Edited, needs review.
+  ;Status : Closed.
 
 ==== Issue 145 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0300.html
