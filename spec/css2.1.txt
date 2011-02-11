@@ -123,7 +123,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : fixed background images not defined for paged media
   ;Proposal : Add "In paged media where there is no viewport, a ‘fixed’ background is fixed with respect to the page box and is therefore replicated on every page." (Copied from css3-background)
   ;Resolution : Proposal accepted.
-  ;Status : Edited, needs review
+  ;Status : Closed.
   ;Testcases : background-attachment-010
 
 ==== Issue 86 ====
