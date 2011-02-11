@@ -274,7 +274,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0324.html
   ;Summary : scaling of width of replaced elements ambiguous
   ;Resolved : Remove sentence pointed out in http://lists.w3.org/Archives/Public/www-style/2009Dec/0322.html
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
 
 ==== Issue 148 ====
