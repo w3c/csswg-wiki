@@ -58,6 +58,86 @@ Last mailing list sweep 2010-08-05 – fantasai
   ;Status : Open. =Tab= Email bz and dbaron for review.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Oct/0707.html
 
+==== Issue 204 ====
+
+  ;Summary : Link 8.3.1 to clause about phantom line boxes
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Sep/0061.html
+  ;Status : Open. Needs proposal.
+
+==== Issue 205 ====
+
+  ;Summary : Clause about phantom line boxes should say "forced line break" instead of "line feed"
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Sep/0074.html
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 206 ====
+
+  ;Summary : Comments on HASH grammar
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0597.html
+  ;Resolution : Assumed either no change or editorial.
+  ;Status : Open. =Bert= Respond as appropriate.
+
+==== Issue 207 ====
+
+  ;Summary : Clearance is discontinuous
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0569.html
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 208 ====
+
+  ;Summary : Horizontal scrollbars confuse width/height/etc calculations
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0544.html
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 209 ====
+
+  ;Summary : Does the root element establish a new block formatting context?
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0539.html
+  ;Proposal : The root element participates in a block formatting context established by the initial containing block.
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 210 ====
+
+  ;Summary : 4.1.9 implies comments are not allowed at start or end of style sheet
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0510.html
+  ;Resolution : Assumed editorial.
+  ;Status : Open. =Bert= Edit.
+
+==== Issue 211 ====
+
+  ;Summary : Transitivity error in margin collapsing
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Sep/0439.html
+  ;Status : Open. =WG= Discuss.
+  
+==== Issue 212 ====
+
+  ;Summary : Clarify that table wrapper boxes are containing blocks, even though table boxes are not in 9.2.1
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 213 ====
+
+  ;Summary : clarify that forced page breaks on the root element change whether :first is :left or :right
+  ;Resolution : Make it undefined in CSS2.1 whether forced break before first page creates a :first page or a blank page.
+  ;Status : Open. =Bert= Edit.
+
+==== Issue 214 ====
+
+  ;Summary : Make it undefined whether white space stripping happens before or after bidi reordering
+  ;URI : http://wiki.csswg.org/test/css2.1/blocking/bidi-004#discussion
+  ;Status : Open. =fantasai= Propose edits. Split test, and check for passes.
+
+==== Issue 215 ====
+
+  ; Summary : Make it undefined what containing block is formed by a relpos inline that splits across multiple lines
+  ; URI : containing-block-032
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 216 ====
+
+  ; Summary : Drop vertical-align from list of properties supported on ::first-line
+  ; URI : first-line-pseudo-016
+  ;Status : Open. =WG= Discuss.
+
 ==== Issue B ====
   ;Summary : Percentage intrinsic widths untestable
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Nov/0077.html
