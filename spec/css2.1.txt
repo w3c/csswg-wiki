@@ -509,9 +509,10 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : Term "row group" not defined.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0515.html
   ;Resolution : Assumed editorial.
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcases : n/a (editorial)
   
+
 ==== Issue 183 ====
   ;Summary : Error handling of malformed media types underdefined.
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0025.html
