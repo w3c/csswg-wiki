@@ -465,7 +465,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : box ancestry of list-style-position: inside marker undefined
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jun/0494.html
   ;Notes : See CSS3 Lists
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcases : list-style-position-inside-002
 
 ==== Issue 172 ====
