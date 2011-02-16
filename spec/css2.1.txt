@@ -487,7 +487,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : Clarify that case-insensitive means ASCII case-insensitive per 4.1.3
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0283.html
   ;Resolution : Assumed editorial.
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcases : case-sensitive-001 through case-sensitive-004
 
 ==== Issue 179 ====
