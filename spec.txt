@@ -5,7 +5,7 @@ This section documents problems found in the CSS specs and working drafts. Probl
 Awaiting 2.1 to go PR (so these can go REC)
   * [[spec:css3-selectors|Selectors Level 3]] (might need minor revision per :active vs "activate" discussion)
   * [[spec:css3-color|CSS Color Module Level 3]]
-===== CR or LCWD =====
+===== CR =====
 Awaiting implementations, test suites, or actively being revised per implementation experience.
   * [[spec:css2.1|CSS Level 2 Revision 1]]
   * [[spec:css3-ui|CSS Basic User Interface Module Level 3]] (another LCWD expected)
@@ -14,6 +14,7 @@ Awaiting implementations, test suites, or actively being revised per implementat
   * [[spec:mediaqueries|Media Queries Level 3]]
   * [[spec:css-style-attr|CSS Style Attributes]]
   * [[spec:css3-background|CSS Backgrounds and Borders Module Level 3]]
+
 ===== WD =====
 These are being actively developed. Sometimes used to be CRs that need major revision.
   * [[spec:css3-flexbox|CSS Flexbox Module]]
