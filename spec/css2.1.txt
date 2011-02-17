@@ -545,7 +545,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Mar/0053.html http://lists.w3.org/Archives/Public/www-style/2010Mar/0053.html
   ;Proposal : (in email) 'auto' values inside rect() should compute to 'auto', not to computed length; and s/computed/used/ in the 2nd <shape> paragraph
   ;Resolution : Proposal accepted.
-  ;Status : Edited, needs review.
+  ;Status : Closed.
   ;Testcases : clip-inherit-001
 
 ==== Issue 191 ====
