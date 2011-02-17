@@ -574,7 +574,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;URI : http://lists.w3.org/Archives/Public/www-style/2009Feb/0638.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0462.html
   ;Resolution : Proposal accepted with "even if either side is empty" appended.
-  ;Status : Edited, needs review. =fantasai= testcases
+  ;Status : Closed. =fantasai= testcases
 
 ==== Issue 196 ====
   ;Summary : Grammar and prose disagree on whether identifiers can include NBSP
