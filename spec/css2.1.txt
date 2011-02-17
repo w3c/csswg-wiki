@@ -531,7 +531,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : Make Appendix G grammar non-normative, or at least inferior to Chapter 4 core grammar
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0501.html
   ;Resolution : Accepted to make Appendix G informative.
-  ;Status : Edited, needs review.
+  ;Status : Closed.
 
 ==== Issue 187 ====
   ;Summary : bidi behavior of inline-blocks and inline-tables
