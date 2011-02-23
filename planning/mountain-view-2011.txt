@@ -7,6 +7,7 @@ Topics for the March 2011 CSS Working Group Face-to-Face meeting in Mountain Vie
   * [css3-fonts] font-specific feature definition
   * [css3-fonts] WOFF and same origin restriction
   * [css3-fonts] revisions to the font matching algorithm
+  * Charter extension (current charter expires 3/31)
 
 ====== Notes ======
 
