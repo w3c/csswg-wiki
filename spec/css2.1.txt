@@ -191,6 +191,11 @@ Last mailing list sweep 2010-08-05 – fantasai
   ;URI : http://lists.w3.org/Archives/Public/www-style/2009Oct/0027.html
   ;Status : Open. =Bert= Comment? Proposal?
 
+==== Issue 224 ====
+  ;Summary : List style intrinsic sizing rules inconsistent with other image uses
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2011Feb/0674.html
+  ;Status : Open. =WG= Discuss.
+
 ===== 8 September 2009 CR Issues =====
 
 The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|8 September 2009 CSS2.1 Candidate Recommendation]]. Any resulting changes or corrections have been added to the [[http://www.w3.org/Style/css2-updates/CR-CSS2-20090908-errata.html|errata list]] and incorporated into the [[7 December 2010 Last Call Working Draft|http://www.w3.org/TR/2010/WD-CSS2-20101207/]].
