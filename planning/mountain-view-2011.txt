@@ -12,6 +12,7 @@ Topics for the March 2011 CSS Working Group Face-to-Face meeting in Mountain Vie
   * [css3-fonts] revisions to the font matching algorithm
   * Charter extension (current charter expires 3/31)
   * Adobe's CSS Regions Proposal (tues)
+  * CSS3 Line Grid
 
 ====== Notes ======
 
