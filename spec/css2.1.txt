@@ -182,9 +182,10 @@ Last mailing list sweep 2010-08-05 – fantasai
 ==== Issue 222 ====
 
   ;Summary : "non-positioned block boxes" in 9.5 excludes relpos'd elements
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2009Oct/0027.html
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2009Oct/0027.html #1
   ;Proposal : Replace with "in-flow"
-  ;Status : Open. =WG= Discuss.
+  ;Resolved : Proposal accepted.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 223 ====
   ;Summary : Some confusing wording in 9.5 Floats about content on lines
