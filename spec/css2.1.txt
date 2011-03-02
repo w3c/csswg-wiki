@@ -126,7 +126,8 @@ Last mailing list sweep 2010-08-05 – fantasai
 ==== Issue 212 ====
 
   ;Summary : Clarify that table wrapper boxes are containing blocks, even though table boxes are not in 9.2.1
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Clarified by edits for other issues.
+  ;Status : Closed.
 
 ==== Issue 213 ====
 
