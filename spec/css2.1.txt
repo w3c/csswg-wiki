@@ -210,6 +210,13 @@ Misfiled. See Issue 192.
 ==== Issue 227 ====
   ;Summary : Diagram caption out of date
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Aug/0446.html
+  ;Resolution : Assumed editorial.
+  ;Status : Open. =Bert= Edit.
+
+==== Issue 228 ====
+  ;Summary : Add non-normative note pointing at min/max sections from auto width/height sections.
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2010Aug/0483.html
+  ;Resolution : Assumed editorial.
   ;Status : Open. =Bert= Edit.
 
 ===== 8 September 2009 CR Issues =====
