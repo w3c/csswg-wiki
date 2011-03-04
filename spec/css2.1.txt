@@ -344,8 +344,8 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Mar/0004.html (Issue 9)
   ;Summary : Rewrite paragraph about lines being exactly 'line-height' to be accurate and precise
   ;Resolution : Assumed editorial.
-  ;Proposal : ?
-  ;Status : Open. =Bert= Clarify that the block container needs to have the same font throughout as well as the same 'line-height'.
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0411.html
+  ;Status : Open. =Bert= Clarify that the block container needs to have the same font throughout as well as the same 'line-height', see http://lists.w3.org/Archives/Public/www-style/2010Sep/0224.html
   ;Testcases : n/a (editorial)
 
 ==== Issue 122 ====
