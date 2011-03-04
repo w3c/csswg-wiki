@@ -72,6 +72,14 @@ Last mailing list sweep 2010-08-31 – fantasai
   ;Status : Open. =Tab= Email bz and dbaron for review.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Oct/0707.html
 
+==== Issue 203 ====
+  ;Summary : Hypothetical border calculation should match actual border calculation
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0261.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0460.html
+  ;Resolution : Proposal accepted.
+  ;Objection : http://lists.w3.org/Archives/Public/www-style/2010Sep/0665.html
+  ;Status : Open. =WG= Discuss.
+
 ==== Issue 204 ====
 
   ;Summary : Link 8.3.1 to clause about phantom line boxes
@@ -1083,13 +1091,6 @@ Duplicate of Issue 73
   ;Resolution : Assumed editorial. (Note that the first part changes two words in the proposed text for [[#issue-120|issue 120.]]
   ;Status : Closed.
   ;Testcases : n/a (editorial)
-
-==== Issue 203 ====
-  ;Summary : Hypothetical border calculation should match actual border calculation
-  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0261.html
-  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0460.html
-  ;Resolution : Proposal accepted.
-  ;Status : Closed.
 
 ===== 19 July 2007 CR Issues =====
 
