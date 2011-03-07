@@ -346,7 +346,8 @@ Misfiled. See Issue 192.
 ==== Issue 244 ====
   ;Summary : Rendering tree vs. element tree in z-order algo
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0069.html + http://lists.w3.org/Archives/Public/www-style/2010Nov/0047.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : No change to spec, but we agree it is the rendering tree.
+  ;Status : Closed.
 
 ==== Issue 245 ====
   ;Summary : Clarifications to z-index chapter
