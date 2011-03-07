@@ -160,7 +160,7 @@ Last mailing list sweep 2010-10-31 – fantasai
   ; Summary : Make it undefined what containing block is formed by a relpos inline that splits across multiple lines
   ; URI : containing-block-032
   ; Resolution : Make undefined.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Open. =Bert= Deal with splits on the same line due to bidi. (See F2F minutes)
 
 ==== Issue 216 ====
 
