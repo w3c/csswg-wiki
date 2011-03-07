@@ -351,7 +351,8 @@ Misfiled. See Issue 192.
 ==== Issue 245 ====
   ;Summary : Clarifications to z-index chapter
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0083.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : No changes. See Issue 60. Deferred to CSS3.
+  ;Status : Closed.
 
 ==== Issue 246 ====
   ;Summary : Improve clip examples
