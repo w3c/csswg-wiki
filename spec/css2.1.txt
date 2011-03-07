@@ -417,6 +417,18 @@ Misfiled. See Issue 192.
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0072.html issue 2
   ;Status : Open. =WG= Discuss.
 
+==== Issue 257 ====
+  ;Summary : Don't say that boxes have properties
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0073.html issues 1-3
+  ;Proposal : No change. (issue 4 folded into issue 243)
+  ;Status : Open. =WG= Discuss.
+
+==== Issue 258 ====
+  ;Summary : Bad wording in url() comment notes
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0074.html
+  ;Resolution : Assumed editorial.
+  ;Status : Open. =Bert= Edit.
+
 http://lists.w3.org/Archives/Public/www-style/2010Dec/0312.html
 http://lists.w3.org/Archives/Public/www-style/2010Dec/0419.html
 
