@@ -344,7 +344,7 @@ Misfiled. See Issue 192.
   ;Summary : Improve clip examples
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0187.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit or dismiss as appropriate.
+  ;Status : Open. =Bert= Edit or dismiss (and reply) as appropriate.
 
 ===== 8 September 2009 CR Issues =====
 
