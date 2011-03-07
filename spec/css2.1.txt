@@ -215,7 +215,7 @@ Misfiled. See Issue 192.
 ==== Issue 226 ====
   ;Summary : White space processing clarifications
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Aug/0421.html
-  ;Status : Open. Needs proposal.
+  ;Status : Open. =fantasai= Write proposed text.
 
 ==== Issue 227 ====
   ;Summary : Diagram caption out of date
