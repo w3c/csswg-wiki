@@ -364,7 +364,7 @@ Misfiled. See Issue 192.
 ==== Issue 247 ====
   ;Summary : Containing block of abspos inside block-in-inline split unclear & inconsistent
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0444.html
-  ;Resolution : Make undefined via issue 215
+  ;Resolution : Make undefined via issue 215. (See [[http://www.w3.org/Style/CSS/Tracker/issues/176 | ISSUE-176]] for CSS3 Box.
   ;Status : Open. =dbaron= Verify after Bert edits 215.
 
 ==== Issue 248 ====
