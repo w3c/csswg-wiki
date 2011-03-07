@@ -204,7 +204,7 @@ Misfiled. See Issue 192.
 ==== Issue 224 ====
   ;Summary : List style intrinsic sizing rules inconsistent with other image uses
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Feb/0364.html
-  ;Proposal: http://lists.w3.org/Archives/Public/www-style/2011Mar/0158.html
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Mar/0158.html
   ;Status : Open. =WG= Discuss.
 
 ==== Issue 225 ====
