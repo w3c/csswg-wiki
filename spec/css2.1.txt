@@ -317,6 +317,13 @@ Misfiled. See Issue 192.
   ;Proposal : Remove "for 'position:static', 'auto'. Otherwise:" from Computed Value line of top/left/bottom/right
   ;Status : Open. =WG= Discuss.
 
+==== Issue 242 ====
+  ;Summary : Exact behavior of inline split around block not defined.
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0047.html
+  ;Proposal : Replace "are broken around the block-level box, dividing the inline box into two pieces (even if either side is empty)" with "are broken around the block-level box (and any consecutive block-level siblings), splitting the inline box into two boxes, one
+each side of the block-level box" or somesuch that also addresses any white space interaction. Also address z-index issues.
+  ;Status : Open. =WG= Discuss.
+
 ===== 8 September 2009 CR Issues =====
 
 The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|8 September 2009 CSS2.1 Candidate Recommendation]]. Any resulting changes or corrections have been added to the [[http://www.w3.org/Style/css2-updates/CR-CSS2-20090908-errata.html|errata list]] and incorporated into the [[7 December 2010 Last Call Working Draft|http://www.w3.org/TR/2010/WD-CSS2-20101207/]].
