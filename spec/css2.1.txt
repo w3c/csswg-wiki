@@ -399,7 +399,8 @@ Misfiled. See Issue 192.
 ==== Issue 253 ====
   ;Summary : Clarify end-of-line as end-of-line character (vs. end-of-file)
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0091.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Define reaching end-of-line more clearly in "Unexpected end of string" in 4.2.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 254 ====
   ;Summary : Clarify "next block" when parsing invalid at-keywords
