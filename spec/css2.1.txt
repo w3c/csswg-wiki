@@ -395,6 +395,10 @@ Misfiled. See Issue 192.
   ;Proposal : No change. Improve explanations in CSS3.
   ;Status : Open. =WG= Discuss.
 
+==== Issue 253 ====
+  ;Summary : Clarify end-of-line as end-of-line character (vs. end-of-file)
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0091.html
+  ;Status : Open. =WG= Discuss.
 
 
 http://lists.w3.org/Archives/Public/www-style/2010Dec/0312.html
