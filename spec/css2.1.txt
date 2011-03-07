@@ -282,7 +282,8 @@ Misfiled. See Issue 192.
   ;Testcase : http://software.hixie.ch/utilities/js/live-dom-viewer/?%3C!DOCTYPE%20html%3E%0A%3Cdiv%20style%3D%22text-decoration%3A%20line-through%22%3E%0Aline-through%0A%3Cdiv%20style%3D%22display%3A%20table%22%3ECSS%20Table%3C%2Fdiv%3E%0Aline-through%0A%3Ctable%3E%3Ctr%3E%3Ctd%3EHTML%20Table%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%0Aline-through%0A%3C%2Fdiv%3E%0A
   ;Proposal A : Allow text-decoration to propagate to tables, use CSS3 to block propagation to <table> if necessary.
   ;Proposal B : display: table blocks text-decoration propagation
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Make propagation to display: table descendants undef.
+  ;Status : Open. =Bert= Edit.
 
 ==== Issue 237 ====
   ;Summary : Border conflict resolution unclear due to equivalence wording of outset/inset and groove/ridge
