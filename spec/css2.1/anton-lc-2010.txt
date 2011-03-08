@@ -50,7 +50,9 @@ Wrt "s/are adjoining/collapse/", since we are talking about a possibility, the c
   assuming that that proposal is accepted.
   
   Status: unfiled
-  
+
+Proposal was accepted and has now been edited into the spec.
+
   
   
   Elements, boxes, properties
