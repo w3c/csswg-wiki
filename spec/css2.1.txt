@@ -521,6 +521,11 @@ Misfiled. See Issue 192.
   ;Resolution : Assumed editorial.
   ;Status : Open. =Bert= Edit.
 
+==== Issue 272 ====
+  ;Summary : Adopt CSS3 exit criteria for CSS2.1
+  ;Resolution : Adopt CSS3 exit criteria for CSS2.1 minus 30-day waiting period
+  ;Status : Open. =Bert= Edit.
+
 http://lists.w3.org/Archives/Public/www-style/2010Dec/0312.html
 http://lists.w3.org/Archives/Public/www-style/2010Dec/0419.html
 
