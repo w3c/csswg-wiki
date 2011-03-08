@@ -521,8 +521,9 @@ Bert said there actually isn't, so he should maybe reply and explain?
   away with the need to reference 10.6.
   
   Status: rejected but reason unclear. Forms part of Issue 181?
-  
-  
+
+Could be considered for errata, but not necessary here. No change for 2.1. May consider for errata, but should replace with a note pointing at 10.8.
+
   IF7) http://lists.w3.org/Archives/Public/www-style/2010Aug/0010.html 
   (Issue 17)
   
@@ -530,7 +531,8 @@ Bert said there actually isn't, so he should maybe reply and explain?
   the purposes of calculating line height
   
   status: acknowledged with proposal. Forms part of Issue 181?
-  
+
+Issue 181
   
   IF8) http://lists.w3.org/Archives/Public/www-style/2010Aug/0010.html 
   (Issue 18)
@@ -538,7 +540,8 @@ Bert said there actually isn't, so he should maybe reply and explain?
   Add a note to 10.8.1 about the possibility of negative leading
   
   Status: acknowledged but unfiled
-  
+
+No change for 2.1, may consider errata.
   
   IF9) http://lists.w3.org/Archives/Public/www-style/2010Aug/0010.html 
   (Issue 19)
@@ -548,9 +551,9 @@ Bert said there actually isn't, so he should maybe reply and explain?
   glyphs, font or line-height) but only on its own glyphs and font.
   
   Status: acknowledged but unfiled
-  
-  
-  
+
+No change at this point, but definitely take for errata.
+
   Overflow
   ===================================================================
   
@@ -564,9 +567,9 @@ Bert said there actually isn't, so he should maybe reply and explain?
   [Closely-related: Issue 161 (http://wiki.csswg.org/spec/css2.1#issue-161)]
   
   Status: unfiled
-  
-  
-  
+
+Consider fixing for errata, by updating 161 text to include relpos.
+
   White-space processing model
   ===================================================================
   
@@ -576,9 +579,9 @@ Bert said there actually isn't, so he should maybe reply and explain?
   Editorial issues.
   
   Status: unfiled
-  
-  
-  
+
+Filed as 226
+
   Miscellaneous
   ===================================================================
   
@@ -589,5 +592,5 @@ Bert said there actually isn't, so he should maybe reply and explain?
   bidirectional context)
   
   Status: unfiled
-  
-  
+
+Change "the" to "its" and "of" to "in" -> errata ok
