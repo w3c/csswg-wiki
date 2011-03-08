@@ -480,12 +480,12 @@ Misfiled. See Issue 192.
   ;Proposal :
 
   * Accept proposals 1 & 2 with "block container element" instead of "block container"
-  * unsure about 3
+  * accept 3
   * accept 4
   * accept 5 with s/which/that/
   * accept 7 (but beware second set of edits applies to second quoted sentence, not first)
 
-  ;Resolution : Assumed editorial.
+  ;Resolution : Accept issue 6 edits, push rest to errata.
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 267 ====
