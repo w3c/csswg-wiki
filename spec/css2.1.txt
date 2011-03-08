@@ -499,7 +499,8 @@ Misfiled. See Issue 192.
   ;Summary : Perceived error in text-indent example of first formatted line
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0085.html issue 1
   ;Proposal : No change. Text is correct -- in the case given, the first line should not be affected by text-indent.
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : No change.
+  ;Status : Closed.
 
 ==== Issue 269 ====
   ;Summary : Justification should be wrt line box, not block container.
