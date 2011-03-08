@@ -161,9 +161,9 @@ Could remove the quotes, but other than that it doesn't seem we need a change. (
   
   Status: unfiled, but I assume the WG prefer to leave this undefined for 
   CSS21
-  
-  
-  
+
+Could specify by changing "must not overlap any floats" to "must not overlap the margin box of any floats" in http://www.w3.org/TR/CSS21/visuren.html#bfc-next-to-float
+
   Positioning
   ===================================================================
   
@@ -174,16 +174,17 @@ Could remove the quotes, but other than that it doesn't seem we need a change. (
   property is 'auto'.
   
   Status: unfiled
-  
-  
+
+Nice to have for readability consistency, but since it's not wrong or even imprecise, no change.
+
   P2) http://lists.w3.org/Archives/Public/www-style/2010Apr/0529.html
   
   Editorial issues in 10.3–10.7
   
   Status: unfiled
-  
-  
-  
+
+Notes added to 10.3 and 10.6 wrt being tentative. Defer addition of "computed" to errata.
+
   Floats
   ===================================================================
   
@@ -202,31 +203,35 @@ Could remove the quotes, but other than that it doesn't seem we need a change. (
   reflowed at all (Issues 2 and 3)
   
   Status: Filed as Issue 192, but I am disputing the resolution
-  
-  
+
+See dbaron's (upcoming) response for issue 192.
+
   FL2) http://lists.w3.org/Archives/Public/www-style/2009Oct/0058.html
   
   9.5 wording is wrong for RTL text next to floats.  (Issue raised by 
   Øyvind Stenhaug)
   
   Status: unfiled
-  
-  
+
+Defer to Bert and dbaron
+
   FL3) http://lists.w3.org/Archives/Public/www-style/2010Mar/0366.html
   
   Various ambiguities concerning how to flow line boxes "next to" floats 
   in different containing blocks
   
   Status: unfiled
-  
-  
+
+I don't understand this issue. Isn't the available space negative (i.e. not enough to fit any content) in the case given?
+
   FL4) http://lists.w3.org/Archives/Public/www-style/2010Sep/0130.html
   
   Editorial issue: modification needed to new wording about "next to" floats
   
   Status: unfiled
-  
-  
+
+In what way to shortened line boxes not behave the same as normal line boxes? (If they are not different, then the edit is not necessary.)
+
   FL5) http://lists.w3.org/Archives/Public/www-style/2010Sep/0131.html 
   (Issue 1)
         http://lists.w3.org/Archives/Public/www-style/2010Sep/0148.html 
@@ -237,8 +242,9 @@ Could remove the quotes, but other than that it doesn't seem we need a change. (
   No shortening of line boxes next to later floats
   
   Status: unfiled
-  
-  
+
+This is an error in the spec. http://software.hixie.ch/utilities/js/live-dom-viewer/?%3C!DOCTYPE%20html%3E%0A%3Cdiv%20style%3D%22border%3A%20solid%20magenta%22%3E%0A%20%20%3Cdiv%20style%3D%27float%3A%20left%3B%20border%3A%20solid%20green%3B%20%27%3EA%3C%2Fdiv%3E%20aaaa%0A%3C%2Fdiv%3E%0A%3Cdiv%20style%3D%22border%3A%20solid%20blue%3B%20margin%3A%20-2em%22%3E%0A%20%20%3Civ%20style%3D%22float%3A%20left%3B%20border%3A%20solid%20yellow%3B%20%22%3EB%3C%2Fdiv%3E%20bbbbbbb%0A%3C%2Fdiv%3E
+
   FL6) http://lists.w3.org/Archives/Public/www-style/2010Sep/0131.html 
   (Issue 2)
         http://lists.w3.org/Archives/Public/www-style/2010Sep/0150.html 
@@ -247,8 +253,9 @@ Could remove the quotes, but other than that it doesn't seem we need a change. (
   A left float can be to the right of a right float in certain situations
   
   Status: unfiled
-  
-  
+
+Not a feature of the spec exactly, but certainly a logical consequence of the model. Not a problem. (If Bert and dbaron agree this is a problem, then it's not a problem.)
+
   Clearance
   ===================================================================
   
@@ -259,8 +266,9 @@ Could remove the quotes, but other than that it doesn't seem we need a change. (
   margin-top of an element is incorrect
   
   Status: unfiled
-  
-  
+
+
+
   CL2) http://lists.w3.org/Archives/Public/www-style/2010Sep/0665.html 
   (first half)
         http://lists.w3.org/Archives/Public/www-style/2010Aug/0374.html
