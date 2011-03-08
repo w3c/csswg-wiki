@@ -230,7 +230,7 @@ Misfiled. See Issue 192.
             * bottommost edge of the bottom most collapsed margin edge, when it does not collapse with the parent
             * bottommost child box's bottom border edge, when it's bottom margin does collapse with the parent
 
-  ;Status : Open. Needs proposal. =Arron= Write proposal.
+  ;Status : Open. =WG= Discuss
 
 ==== Issue 226 ====
   ;Summary : White space processing clarifications
