@@ -109,7 +109,7 @@ Last mailing list sweep 2010-12-31 – fantasai
   ;Summary : Clearance is discontinuous
   ;URI (set 1) : http://lists.w3.org/Archives/Public/www-style/2010Aug/0569.html
   ;Related msgs : http://lists.w3.org/Archives/Public/www-style/2010Aug/0261.html http://lists.w3.org/Archives/Public/www-style/2010Aug/0262.html
-  ;Resolution: Merge with margin-collapse-clear issue, see
+  ;Resolution: Seems to be same as Issue 203
   ;Status : Closed.
 
 ==== Issue 208 ====
