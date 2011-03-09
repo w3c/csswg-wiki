@@ -350,7 +350,7 @@ If the element has children, its height is the distance from its top content edg
   ;Summary : Exact behavior of inline split around block not defined.
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0047.html (z-index issues folded into issue 244)
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Mar/0159.html (starting point; white space interaction could maybe be handled by phantom line boxes clause)
-  ;Status : Open. =dbaron= Propose text.
+  ;Status : Open. =fantasai= Propose text.
 
 ==== Issue 243 ====
   ;Summary : Tables confused about which box is principal box
