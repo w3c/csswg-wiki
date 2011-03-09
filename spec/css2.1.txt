@@ -589,6 +589,7 @@ http://lists.w3.org/Archives/Public/www-style/2010Sep/0150.html
 (Issue 2)
  http://lists.w3.org/Archives/Public/www-style/2010Sep/0150.html 
 (second third)
+  ;Note : Not a feature of the spec exactly, but certainly a logical consequence of the model. Not a problem. (If Bert and dbaron agree this is a problem, then it's not a problem.) 
   ;Status : =WG= Discuss
 
 ===== 8 September 2009 CR Issues =====
