@@ -583,6 +583,14 @@ http://lists.w3.org/Archives/Public/www-style/2010Sep/0150.html
   ;Note : in what way to shortened line boxes not behave the same as normal line boxes? (If they are not different, then the edit is not necessary.) 
   ;Status : =WG= Discuss
 
+==== Issue 280 ====
+  ;Summary : left float can be to the right of a right float
+  ;URL : http://lists.w3.org/Archives/Public/www-style/2010Sep/0131.html 
+(Issue 2)
+ http://lists.w3.org/Archives/Public/www-style/2010Sep/0150.html 
+(second third)
+  ;Status : =WG= Discuss
+
 ===== 8 September 2009 CR Issues =====
 
 The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|8 September 2009 CSS2.1 Candidate Recommendation]]. Any resulting changes or corrections have been added to the [[http://www.w3.org/Style/css2-updates/CR-CSS2-20090908-errata.html|errata list]] and incorporated into the [[7 December 2010 Last Call Working Draft|http://www.w3.org/TR/2010/WD-CSS2-20101207/]].
