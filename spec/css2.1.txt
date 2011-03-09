@@ -125,7 +125,7 @@ Last mailing list sweep 2011-01-07 – arronei
 
   ;Summary : Horizontal scrollbars confuse width/height/etc calculations
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0544.html
-  ;Status : Open. =WG= Discuss.
+  ;Status : Open. =errata= Deferred to Errata
 
 ==== Issue 209 ====
 
