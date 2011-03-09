@@ -535,7 +535,7 @@ If the element has children, its height is the distance from its top content edg
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0087.html issue 1
   ;Proposal : insert "e.g." between colon and "'list-item' elements".
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Open. =errata= Deferred to Errata
 
 ==== Issue 272 ====
   ;Summary : Adopt CSS3 exit criteria for CSS2.1
