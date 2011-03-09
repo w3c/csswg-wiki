@@ -238,7 +238,8 @@ If the element has children, its height is the distance from its top content edg
 ==== Issue 226 ====
   ;Summary : White space processing clarifications
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Aug/0421.html
-  ;Status : Open. =fantasai= Write proposed text.
+  ;Resolution : No change.
+  ;Status : Closed.
 
 ==== Issue 227 ====
   ;Summary : Diagram caption out of date
