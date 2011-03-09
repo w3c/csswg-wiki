@@ -244,7 +244,7 @@ If the element has children, its height is the distance from its top content edg
 ==== Issue 227 ====
   ;Summary : Diagram caption out of date
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Aug/0446.html
-  ;Resolution : Assumed editorial.
+  ;Resolution : Fix error.
   ;Status : Open. =Bert= Edit.
 
 ==== Issue 228 ====
