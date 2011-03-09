@@ -392,8 +392,8 @@ If the element has children, its height is the distance from its top content edg
 ==== Issue 249 ====
   ;Summary : Add explanatory sentences to clarify clearance calculation.
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Dec/0120.html
-  ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Resolution : Accept, but defer to next revision.
+  ;Status : Closed. =editorial clarification=
 
 ==== Issue 250 ====
   ;Summary : @page grammar missing
