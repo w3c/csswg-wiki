@@ -251,8 +251,8 @@ If the element has children, its height is the distance from its top content edg
 ==== Issue 228 ====
   ;Summary : Add non-normative note pointing at min/max sections from auto width/height sections.
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Aug/0483.html
-  ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Resolution : Accepted editorial.
+  ;Status : Open. =fantasai= cross-check
 
 
 
