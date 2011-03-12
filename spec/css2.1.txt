@@ -627,6 +627,22 @@ http://lists.w3.org/Archives/Public/www-style/2009May/0191.html
   ;Resolution : Proposal accepted
   ;Status : Open. =Bert= Edit.
 
+==== Issue 282 ====
+  ;Summary : No passes for background-intrinsic-004 and background-intrinsic-005
+  ;Resolution : The background position of background images with an intrinsic ratio and no intrinsic size is undefined in CSS2.1, see CSS3 Backgrounds and Borders.
+  ;Status : Open. =Bert= Edit.
+
+==== Issue 283 ====
+  ;Summary : No passes for replaced-intrinsic-ratio-001
+  ;Resolution : Undefine sizing of replaced elements with intrinsic ratio but no size.
+  ;Status : Open. =Bert= Edit.
+
+==== Issue 284 ====
+  ;Summary : CSS2.1 exit criteria differ from CSS3
+  ;Resolution : Update CSS 2.1 exit criteria to the current (CSS3 standard) exit criteria, minus the 30-day implementation requirement.
+  ;Status : Open. =Bert= Edit.
+
+
 ===== 8 September 2009 CR Issues =====
 
 The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-20090423/|8 September 2009 CSS2.1 Candidate Recommendation]]. Any resulting changes or corrections have been added to the [[http://www.w3.org/Style/css2-updates/CR-CSS2-20090908-errata.html|errata list]] and incorporated into the [[7 December 2010 Last Call Working Draft|http://www.w3.org/TR/2010/WD-CSS2-20101207/]].
