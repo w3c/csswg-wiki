@@ -16,7 +16,8 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Proposal : [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0436.html|first version,]] [[http://lists.w3.org/Archives/Public/www-style/2010Oct/0042.html|second version, with support for run-in]]
   ;Follow-up 1 : There is probably an [[http://lists.w3.org/Archives/Public/www-style/2010Oct/0044.html|error]] in the resolution of [[#issue-120|issue 120]]. If so, the proposal needs changing.
   ;Follow-up 2 : [[http://lists.w3.org/Archives/Public/www-style/2010Aug/0443.html|Boris Zbarsky asks]] that the containing block of an element inside a table, in the absence of a table element, be created from the height of the row and the width of the column, even if one or both of those are implied rather than actual elements. If we accept that change, the proposal needs changing.
-  ;Status : Open. =Bert= Update proposal to correctly handle http://lists.w3.org/Archives/Public/www-style/2010Aug/0443.html (follow-up 2).
+  ;Resolution : Push to errata.
+  ;Status : Open. =errata=
 
 ==== Issue 153 ====
   ;URL : http://lists.w3.org/Archives/Public/public-css-testsuite/2010Jan/0030.html
