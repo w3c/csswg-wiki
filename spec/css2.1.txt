@@ -113,7 +113,8 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Summary : Comments on HASH grammar
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0597.html
   ;Resolution : Assumed either no change or editorial.
-  ;Status : Open. =Bert= Respond as appropriate.
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Mar/0491.html
+  ;Status : Closed.
 
 ==== Issue 207 ====
 
