@@ -352,7 +352,7 @@ If the element has children, its height is the distance from its top content edg
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0035.html
   ;Proposal : Remove "for 'position:static', 'auto'. Otherwise:" from Computed Value line of top/left/bottom/right
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Open. Closed.
 
 ==== Issue 242 ====
   ;Summary : Exact behavior of inline split around block not defined.
