@@ -325,7 +325,7 @@ If the element has children, its height is the distance from its top content edg
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Oct/0560.html
   ;Proposal : s/same as/drawn the same as/
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit as appropriate.
+  ;Status : Closed.
 
 ==== Issue 238 ====
   ;Summary : Clarify interpretation of system font keywords
