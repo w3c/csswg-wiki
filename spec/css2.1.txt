@@ -145,7 +145,7 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Summary : 4.1.9 implies comments are not allowed at start or end of style sheet
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0510.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 211 ====
 
