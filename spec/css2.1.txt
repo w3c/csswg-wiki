@@ -384,7 +384,7 @@ If the element has children, its height is the distance from its top content edg
   ;Summary : Improve clip examples
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0187.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit or dismiss (and reply) as appropriate.
+  ;Status : Closed.
 
 ==== Issue 247 ====
   ;Summary : Containing block of abspos inside block-in-inline split unclear & inconsistent
