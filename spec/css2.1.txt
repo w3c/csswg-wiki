@@ -83,7 +83,7 @@ Last mailing list sweep 2011-01-07 – arronei
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010May/0698.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Oct/0707.html
   ;Resolution : Accept Tab's proposal with "auto" replaced by "static"
-  ;Objection : Text no longer deals with such content between sibling blocks.
+  ;Objection : Text no longer deals with such content between sibling blocks. Also fails to mention margin collapsing transparency.
   ;Status : Open. =WG= Discuss.
 
 ==== Issue 203 ====
