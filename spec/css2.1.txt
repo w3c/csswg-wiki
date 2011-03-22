@@ -212,7 +212,7 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Summary : Remove gamma-correction section
   ;URI : 
   ;Resolution : Remove gamma-correction section
-  ;Status : Open. =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 222 ====
 
