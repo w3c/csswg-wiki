@@ -520,7 +520,7 @@ If the element has children, its height is the distance from its top content edg
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0086.html
   ;Proposal : s/the relative positioning also/any resulting translation also/
   ;Resolution : Proposal accepted.
-  ;Status : =Bert= Edit.
+  ;Status : Closed.
 
 ==== Issue 268 ====
   ;Summary : Perceived error in text-indent example of first formatted line
