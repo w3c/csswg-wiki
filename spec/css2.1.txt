@@ -85,7 +85,8 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Resolution : Accept Tab's proposal with "auto" replaced by "static"
   ;Objection : Text no longer deals with such content between sibling blocks. Also fails to mention margin collapsing transparency.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Mar/0530.html
-  ;Status : Open. =WG= Discuss.
+  ;Resolution : Accept updated proposal.
+  ;Status : Closed.
 
 ==== Issue 203 ====
   ;Summary : Hypothetical border calculation should match actual border calculation
