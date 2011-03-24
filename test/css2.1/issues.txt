@@ -143,12 +143,10 @@ Ugly, not self-documenting:
 
 ===== Tests that need Metadata improvements =====
 
-==== 3 testcases with wrong, incorrect meta assert text ====
+==== 1 testcase with wrong, incorrect meta assert text ====
 
   - [[http://test.csswg.org/suites/css2.1/20101210/html4/position-relative-nested-001.htm
 |position-relative-nested-001]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0020.html]]
-  - <del>[[http://test.csswg.org/suites/css2.1/20101210/html4/absolute-non-replaced-width-010.htm|absolute-non-replaced-width-010]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0028.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0028.html]]</del> - fixed for RC5
-  - <del>[[http://test.csswg.org/suites/css2.1/20101210/html4/absolute-non-replaced-width-013.htm|absolute-non-replaced-width-013]] Reasons why given in [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0028.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0028.html]]</del> - fixed for RC5
 
 ==== Tests possibly missing http flag ====
 
