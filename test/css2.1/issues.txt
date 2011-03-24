@@ -70,16 +70,16 @@ Ugly, not self-documenting:
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-035]]</del> - Fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|quotes-036]]</del> - Fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c44-ln-box-003]]</del> - Fixed for RC4
-  * [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-080.htm|max-height-080]] RC6: the testcase, as coded and as built, can not fail. height and max-height even have the same value
-  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|background-130]] - still not fixed in RC6: "on top of" should be replaced with "above"; "stripe" seems preferable to "short box"
+  * [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-080.htm|[RC6] max-height-080]] the testcase, as coded and as built, can not fail. height and max-height even have the same value
+  * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|[RC6] background-130]] - still not fixed in RC6: "on top of" should be replaced with "above"; "stripe" seems preferable to "short box"
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|outline-003]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|empty-cells-applies-to-001]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|table-background-edge-and-border-model-002]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|separated-border-model-005]]</del> - Fixed/removed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|text-align-applies-to-001]]</del> - fixed for RC4
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0060.html|list-style-position-017]]
-  * <del>[[http://test.csswg.org/suites/css2.1/20101210/html4/floats-108.htm|[RC4] floats-108]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0029.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0029.html]]</del> - Fixed for RC6
-  * <del>[[http://test.csswg.org/suites/css2.1/20101210/html4/floats-109.htm|[RC4] floats-109]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0029.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0029.html]]</del> - Fixed for RC6
+  * [[http://test.csswg.org/suites/css2.1/20101210/html4/floats-110.htm|[RC6] floats-110]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0029.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0029.html]]
+
 
 
 ==== 15 RC3 testcases with too technical pass conditions ====
