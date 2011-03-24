@@ -9,10 +9,6 @@ To record a bug, post to public-css-testsuite@w3.org explaining the problem. The
 Put the test in the most severe group (earliest below) that applies.
 ===== Tests that are Wrong or have Parse Errors =====
 
-Refer to nonexistent fonts:
-  - <del>font-weight-bolder-001</del> - fixed for RC4
-  - <del>font-weight-lighter-001</del> - fixed for RC4
-  - <del>font-weight-normal-001</del> - fixed for RC4
 
 ==== 2 Incorrect RC4 testcases ====
 
