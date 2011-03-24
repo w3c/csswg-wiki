@@ -158,9 +158,8 @@ Ugly, not self-documenting:
   - <del>lang-selector-005</del> - fixed for RC4
 
 
-==== 1 RC4 testcase missing the ahem flag ====
+==== 0 RC6 testcase missing the ahem flag ====
 
-  - <del>[[http://test.csswg.org/suites/css2.1/20101210/html4/blocks-020.htm|blocks-020]]</del> - Fixed for RC5
 
 
 ==== 2 RC6 testcases missing the invalid flag ====
