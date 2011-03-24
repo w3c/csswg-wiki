@@ -116,7 +116,7 @@ Ugly, not self-documenting:
 ==== 0 RC6 testcase without pass conditions ====
 
 
-==== 0 RC4 testcase that rely on unnecessary assumptions ====
+==== 0 RC6 testcase that rely on unnecessary assumptions ====
 
 ===== Tests that have HTML or CSS Validation errors =====
 
