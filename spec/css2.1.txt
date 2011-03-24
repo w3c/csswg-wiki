@@ -955,7 +955,8 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Status : Closed. =fantasai= Write testcase.
   ;Testcases
   * http://www.gtalbot.org/BrowserBugsSection/css21testsuite/horizontal-layout-table-vs-caption-boxes-1.html
-   * CSS Test: Width of anonymous table box versus caption box in the automatic table layout: anonymous-table-box-width-001 : http://www.gtalbot.org/BrowserBugsSection/css21testsuite/anonymous-table-box-width-001.html
+  * Width of anonymous table box versus caption box in the automatic table layout: anonymous-table-box-width-001 : http://www.gtalbot.org/BrowserBugsSection/css21testsuite/anonymous-table-box-width-001.html
+
 
 ==== Issue 173 ====
   ;Summary : handling of carriage returns underdefined
