@@ -149,9 +149,9 @@ Ugly, not self-documenting:
   - <del>lang-selector-005</del> - fixed for RC4
 
 
-==== 0 RC6 testcase missing the ahem flag ====
+==== 1 RC6 testcase missing the ahem flag ====
 
-
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/vertical-align-121.htm|[RC6] vertical-align-121]] The ''<p class="ahemprereq">'' should also be removed.
 
 ==== 2 RC6 testcases missing the invalid flag ====
 
