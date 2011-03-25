@@ -463,7 +463,7 @@ If the element has children, its height is the distance from its top content edg
   ;Summary : Assigning of values via inheritance unclear
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0075.html issue 1
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Mar/0507.html
-  ;Status : Edited. =Fantasai= Review the edit.
+  ;Status : Closed.
 
 ==== Issue 260 ====
   ;Summary : Note about anonymous box inheritance redundant
