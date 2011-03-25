@@ -27,8 +27,8 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Proposal : "In the following definitions, for replaced, inline-block, and inline-table elements, the box used for alignment is the margin box. For inline non-replaced elements, the box used for alignment is undefined."
   ;Second proposal : http://lists.w3.org/Archives/Public/www-style/2010Jun/0570.html
   ;Resolution : Second proposal accepted.
-  ;Follow-up 1 : The term "the box whose height is 'line-height'" isn't actually defined anywhere and indeed can't be. (The intended boxes are typically of that height, but it depends on whether they contain glyphs in fallback fonts.) We need to define the box we need somewhere, or characterize it better. See [[http://lists.w3.org/Archives/Public/www-style/2010Oct/0045.html|thread.]]
-  ;Status : =Bert= Edit. See also sylvain's comment in the March f2f minutes
+  ;Follow-up 1 : The term "the box whose height is 'line-height'" isn't actually defined anywhere and indeed can't be. (The intended boxes are typically of that height, but it depends on whether they contain glyphs in fallback fonts.) We need to define the box we need somewhere, or characterize it better. See [[http://lists.w3.org/Archives/Public/www-style/2010Oct/0045.html|thread.]]  See also sylvain's comment in the March f2f minutes
+  ;Status : Edited. =Fantasai= Review the edit.
   ;Testcases : vertical-align-boxes-001
 
 ==== Issue 159 ====
@@ -45,13 +45,15 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Proposal : Replace "The resulting boxes would be an anonymous block box around the P" with "The resulting boxes would be a block box representing the P"
   ;Resolution : Proposal accepted
   ;Objection : This is incorrect, see http://lists.w3.org/Archives/Public/www-style/2011Mar/0310.html
-  ;Status : Open. =Bert= Re-correct.
+  ;Status : Edited. =Fantasai= Review the edit
   ;Testcases : n/a (editorial)
 
 ==== Issue 181 ====
   ;Summary : use of 'height' in 10.8 causes confusion over content height and line-height wrt inline elements
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0010.html
-  ;Status : Open. =Bert= Edit to handle conflict noted in http://lists.w3.org/Archives/Public/www-style/2011Mar/0139.html (e.g. say "based on line-height"?)
+  ;Followup : conflict noted in http://lists.w3.org/Archives/Public/www-style/2011Mar/0139.html (e.g. say "based on line-height"?)
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Mar/0587.html
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 192 ====
   ;Summary : Clarifications to float's effect on its shortened line
@@ -69,7 +71,8 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Proposal B : Clear does not apply to inline run-ins.
   ;Proposal C : Clear does not apply to elements with display: run-in. (safest)
   ;Resolution : Move run-in to CSS3 Box.
-  ;Status : =Bert= Remove from definition of 'display'. http://lists.w3.org/Archives/Member/w3c-css-wg/2011JanMar/0363.html
+  ;Elika's advice: Remove from definition of 'display'. http://lists.w3.org/Archives/Member/w3c-css-wg/2011JanMar/0363.html
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 198 ====
   ;Summary : Clarify interaction of run-ins and "elements earlier in the source document".
@@ -183,7 +186,7 @@ Last mailing list sweep 2011-01-07 – arronei
   ; Summary : Make it undefined what containing block is formed by a relpos inline that splits across multiple lines
   ; URI : containing-block-032
   ; Resolution : Make undefined.
-  ;Status : Open. =Bert= Deal with splits on the same line due to bidi. (See F2F minutes)
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 216 ====
 
@@ -204,7 +207,7 @@ Last mailing list sweep 2011-01-07 – arronei
   ;Resolution : Make line breaking behavior of forced-break Unicode chars undefined in CSS2.1 so that CSS3 can define it.
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Feb/0669.html
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Re-edit. (Missed second occurrence of second replacement.)
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 220 ====
   ;Summary : Clip does not respond to 'direction' in most implementations
@@ -345,7 +348,7 @@ If the element has children, its height is the distance from its top content edg
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Oct/0817.html
   ;Proposal : Make undefined
   ;Resolution : Proposal accepted to make effect of min/max-width/height undefined on table elements to which they apply.
-  ;Status : Open. =Bert= Make undefined for tables and inline tables.
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 241 ====
   ;Summary : position: static doesn't prevent computation of top/left/bottom/right
@@ -460,7 +463,7 @@ If the element has children, its height is the distance from its top content edg
   ;Summary : Assigning of values via inheritance unclear
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0075.html issue 1
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Mar/0507.html
-  ;Status : Open. =Bert= Edit.
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 260 ====
   ;Summary : Note about anonymous box inheritance redundant
@@ -551,7 +554,7 @@ If the element has children, its height is the distance from its top content edg
 ==== Issue 272 ====
   ;Summary : Adopt CSS3 exit criteria for CSS2.1
   ;Resolution : Adopt CSS3 exit criteria for CSS2.1 minus 30-day waiting period
-  ;Status : Open. =Bert= Edit.
+  ;Status : Edited. =Fantasai= Review the edit.
 
 http://lists.w3.org/Archives/Public/www-style/2010Dec/0312.html
 http://lists.w3.org/Archives/Public/www-style/2010Dec/0419.html
@@ -619,7 +622,7 @@ http://lists.w3.org/Archives/Public/www-style/2010Sep/0150.html
 (second third)
   ;Proposal : Change "to the right of it" to "next to it"
   ;Resolution : Proposal accepted.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 281 ====
   ;Summary : 'line-height' is a property (and its values are 'quantities') not a 
@@ -639,7 +642,7 @@ http://lists.w3.org/Archives/Public/www-style/2009May/0191.html
 ==== Issue 283 ====
   ;Summary : No passes for replaced-intrinsic-ratio-001
   ;Resolution : Undefine sizing of replaced elements with intrinsic ratio but no size.
-  ;Status : Open. =Bert= Re-edit.
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 284 ====
   ;Summary : CSS2.1 exit criteria differ from CSS3
@@ -656,14 +659,14 @@ http://lists.w3.org/Archives/Public/www-style/2009May/0191.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Mar/0511.html
   ;Verified : http://lists.w3.org/Archives/Public/www-style/2011Mar/0513.html
   ;Proposed Text : http://lists.w3.org/Archives/Public/www-style/2011Mar/0531.html
-  ;Status : Open. =Bert= Edit.
+  ;Status : Edited. =Fantasai= Review the edit.
 
 ==== Issue 286 ====
 
   ;Summary : Clearance example confusing and self-contradictory
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Mar/0569.html
   ;Resolution : Assumed editorial.
-  ;Status : Open. =Bert= Edit.
+  ;Status : Not changed. =Fantasai= Review.
 
 ===== 8 September 2009 CR Issues =====
 
@@ -758,8 +761,8 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Summary : Spec talks about blocks but leaves out table-caption etc.
   ;Proposal : Define table-caption etc. to format their contents exactly like blocks, and remove all explicit lists (and just talk about blocks) elsewhere so we don't keep getting out-of-sync. http://lists.w3.org/Archives/Public/www-style/2010Aug/0399.html
   ;Resolution : Proposal accepted.
-  ;Follow-up 1 : There is probably an [[http://lists.w3.org/Archives/Public/www-style/2010Oct/0044.html|error]] in the replacement text for bullet 2 in 10.2. Note that this replacement text anyway needs to change again, because of [[#issue-142|issue 142.]]
-  ;Status : =Bert= Fix [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JanMar/0145.html|missed edits]]
+  ;Follow-up 1 : There is probably an [[http://lists.w3.org/Archives/Public/www-style/2010Oct/0044.html|error]] in the replacement text for bullet 2 in 10.2. Note that this replacement text anyway needs to change again, because of [[#issue-142|issue 142.]]
+  ;Status : Edited. =Fantasai= Review the edit, especially the [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JanMar/0145.html|missed edits]]
   ;Testcases : n/a (editorial)
 
 ==== Issue 121 ====
@@ -794,7 +797,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Aug/0368.html
   ;Testcase : http://lists.w3.org/Archives/Public/www-style/2010Aug/0417.html
   ;Resolution : Bert's proposal accepted. (and look at http://lists.w3.org/Archives/Public/www-style/2010Aug/0577.html)
-  ;Status : Open. =Bert= Check http://lists.w3.org/Archives/Member/w3c-css-wg/2011JanMar/0146.html
+  ;Status : Edited, except for [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JanMar/0258.html|{U}{R}{L} issue]] =Fantasai= Review the [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JanMar/0258.html|other fixed edits]].
 
 ==== Issue 137 ===
   ;URL : http://lists.w3.org/Archives/Public/www-style/2009Sep/0247.html
@@ -900,7 +903,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0175.html
   ;Summary : Don't require quoting of commas in URL tokens
   ;Resolution : Update prose to not require quoting of commas in URL tokens
-  ;Status : =Bert= Make sure comma has been included in Ch4 and Appendix G grammars
+  ;Status : Closed.
   ;Testcases : uri-014
   
 ==== Issue 155 ====
@@ -1022,7 +1025,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;URI : http://lists.w3.org/Archives/Public/www-style/2010Jul/0391.html
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2010Sep/0188.html
   ;Resolution : Accepted.
-  ;Status : Open. =Bert= Complete edit (missing append). =fantasai= give testcases pass/fail conditions
+  ;Status : Edited. =fantasai= give testcases pass/fail conditions
 
 ==== Issue 190 ====
   ;Summary : 'auto' values in rect() tied to computed instead of used values
@@ -1066,7 +1069,7 @@ The following are known problems in the [[http://www.w3.org/TR/2009/CR-CSS2-2009
   ;Notes : Opera, and Konqueror allow nbsp in identifiers; Firefox does not
   ;Testcase : data:text/xml;base64,PGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPg0KPGhlYWQ%2BDQo8c3R5bGU%2BDQogICYjeDcwOyB7IGNvbG9yOiBncmVlbjsgfQ0KICAudGVzdCB7IGNvbG9yOiByZWQ7IH0NCiAgLnRlc3QmI3hBMDtzZW50ZW5jZSB7IHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOyB9DQo8L3N0eWxlPg0KPC9oZWFkPg0KPGJvZHk%2BDQo8cCBjbGFzcz0idGVzdCYjeEEwO3NlbnRlbmNlIj5UaGlzIHNlbnRlbmNlIG11c3QgYmUgZ3JlZW4uIElzIGl0IHVuZGVybGluZWQ%2FPC9wPg0KPC9ib2R5Pg0KPC9odG1sPg%3D%3D
   ;Resolution : Identifiers can contain nbsp. Update spec to include nbsp and exclude control characters adjacent to it.
-  ;Status : Open. =Bert= Missing grammar edit to exclude control characters adjacent to nbsp.
+  ;Status : Edited. =Fantasai= Check that grammar excludes control characters adjacent to nbsp.
 
 ==== Issue 201 ====
   ;Summary : Table model editorial
