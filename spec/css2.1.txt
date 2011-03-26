@@ -667,7 +667,7 @@ http://lists.w3.org/Archives/Public/www-style/2009May/0191.html
   ;Summary : Clearance example confusing and self-contradictory
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Mar/0569.html
   ;Resolution : Assumed editorial.
-  ;Status : Not changed. =Fantasai= Review.
+  ;Status : Not changed. =errata=
 
 ===== 8 September 2009 CR Issues =====
 
