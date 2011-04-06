@@ -131,9 +131,7 @@ until either <del>it</del> <ins>some content</ins> fits or there are no more flo
 ==== Issue 207 ====
 
   ;Summary : Clearance is discontinuous
-  ;URI (set 1) : http://lists.w3.org/Archives/Public/www-style/2010Aug/0569.html
-  ;Related msgs : http://lists.w3.org/Archives/Public/www-style/2010Aug/0261.html http://lists.w3.org/Archives/Public/www-style/2010Aug/0262.html
-  ;Resolution: Issue explained in last paragraph deferred to errata, so no change; rest seems to be issue 203.
+  ;URI : http://lists.w3.org/Archives/Public/www-style/2010Aug/0569.html
   ;Status : Closed. =errata=
 
 ==== Issue 208 ====
