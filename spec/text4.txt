@@ -12,7 +12,7 @@ Ideas to consider for future CSS Text specs
 
   [ class-before class-after [ none | default [ [ [ min max ] | '/' alternate ] priority? ]? ] ]+
 
-  @text-spacing-rule name {
+  @text-spacing-rule rule-name [ font-name [ ',' font-name ]* ] {
     line-head opening 0%;
     closing line-end 50%/0%;
     ideograph alphabet 25% 12.5% 50% 2;
