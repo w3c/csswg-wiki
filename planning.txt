@@ -11,6 +11,8 @@ This is the CSS Working Group's planning space.
 Suggested updates:
   * CSS3 Paged Media should be listed as in-scope -- fantasai 2011-04-19
   * CSS Grid Layout should be added as medium priority -- fantasai 2011-04-19
+    * +1 Vincent Hardy 2011-04-25
+    * CSS Grid Layout: http://www.w3.org/TR/css3-grid-layout/
   * CSSOM should be low priority -- fantasai 2011-04-19
   * JLREQ should be under Maintenance -- fantasai 2011-04-19
   * CSS3 Speech is Medium Priority (has an editor, being worked on, likely to move to Last Call within the year.) -- fantasai 2011-04-19
@@ -18,6 +20,8 @@ Suggested updates:
     * based on items cut from CSS3-UI + https://wiki.mozilla.org/Tantek-Mozilla-projects#CSS4_UI
   * CSS3 Fullscren should be included as medium priority with myself as advocate/editor -- Tantek 2011-04-21
     * based on https://wiki.mozilla.org/Gecko:FullScreenAPI
+  * CSS Regions should be added http://dev.w3.org/csswg/css3-regions/Overview.src.html -- Vincent Hardy 2011-04-25
+    * Who is the advocate for this? -- Tantek 2011-04-25
 
 ===== Upcoming Meetings =====
 
