@@ -22,6 +22,8 @@ Suggested updates:
   * CSS Regions should be added as medium or high priority -- Vincent Hardy 2011-04-25
     * based on http://dev.w3.org/csswg/css3-regions/Overview.src.html
     * advocate/editor: Vincent Hardy, Adobe
+  * CSS Line Grid should be added as medium priority with myself as advocate/editor -- Koji Ishii 2011-04-26
+    * based on [[http://www.w3.org/TR/2001/WD-css3-text-20010517/#document-grid|CSS3 module: text WD 20010517]]
 
 ===== Upcoming Meetings =====
 
