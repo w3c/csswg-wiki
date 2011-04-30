@@ -2,6 +2,10 @@
 
 This is the CSS Working Group's planning space.
 
+===== Weekly Telecons =====
+
+[[planning:agenda|Agenda Scratchspace]]
+
 ===== Charter =====
   * [[planning:charter-2008]]
 ==== Charter 2011 ====
