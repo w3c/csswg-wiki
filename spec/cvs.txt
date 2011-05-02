@@ -97,7 +97,7 @@ Here is another reference for setting up CVS to use SSH (though in practice I ha
   * https://developer.mozilla.org/en/Using_SSH_to_connect_to_CVS#Setting_up_CVS_to_use_SSH
 
 ===== Step 2 - How To Do Secure Checkouts  =====
-How to do secure checkouts that all you to check in.
+How to do secure checkouts that allow you to check in.
 
   * go http://dev.w3.org/cvsweb/
   * copy the line that starts with:
