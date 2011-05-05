@@ -10,8 +10,6 @@ The CSSWG co-chairs will select from this list and other sources to create the a
   :  response from i18n re normalization?
   ;Charter
   :  Status/review/approval?
-  ;CSS3 Speech
-  :  Drop phonemes? 
   ;CSSWG Website
   :  Status?
   ;[[http://lists.w3.org/Archives/Member/w3c-css-wg/2011AprJun/0245.html|New Width Values]] min-content, max-content, etc.
@@ -20,12 +18,6 @@ The CSSWG co-chairs will select from this list and other sources to create the a
   :  More concrete auto-sizing algorithm is needed for css3-writing-modes
   ;Spec Annotation System
   :  ?
-  ;CSS3 Images
-  :  publish WD?
-  ;CSS3 Lists
-  :  publish WD?
-  ;CSS Logo
-  :  Daniel Weck has a [[http://daniel.weck.free.fr/CSS-Logo/|proposal]]
   ;Tokyo FTF
   :  call for agenda items
   ;Limiting CJK longhand styles to 10k
