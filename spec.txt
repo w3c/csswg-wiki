@@ -18,11 +18,13 @@ Awaiting implementations, test suites, or actively being revised per implementat
 ===== WD =====
 These are being actively developed. Sometimes used to be CRs that need major revision.
   * [[spec:css3-flexbox|CSS Flexbox Module]]
+  * [[spec:css3-images|CSS Images Level 3]]
   * [[spec:css3-lists|CSS Lists Module Level 3]]
   * [[spec:css-ruby|CSS3 Ruby Module]] (out of date CR, back to WD for major revisions)
   * [[spec:css3-text|CSS Text Module Level 3]]
   * [[spec:css3-text-layout|CSS Text Layout Module Level 3]]
   * [[spec:css3-values|CSS Values and Units Module Level 3]]
+
 ===== brainstorming =====
 This section outlines active possibilities for future specs or notes
   * [[spec:vendor-prefixes|CSS vendor prefixes]] (collecting thoughts about policy/guidance on usage, dropping etc.)
