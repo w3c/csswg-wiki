@@ -190,7 +190,7 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/margin-collapse-137.htm|[RC6] margin-collapse-137]]
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/margin-collapse-138.htm|[RC6] margin-collapse-138]]
 
-==== 7 RC6 testcases missing the invalid flag ====
+==== 15 RC6 testcases missing the invalid flag ====
 
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/c526-font-sz-003.htm|[RC6] c526-font-sz-003]] font-size: -0.5in; will be parsed and reported as an illegal value.
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/font-size-rule-001.htm|[RC6] font-size-rule-001]]
@@ -199,6 +199,14 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/ident-020.htm|[RC6] ident-020]]
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/import-000.htm|[RC6] import-000]]
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/import-001.htm|[RC6] import-001]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-001.htm|[RC6] max-height-001]]: because "Negative values for 'min-height' and 'max-height' are illegal."
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-012.htm|[RC6] max-height-012]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-023.htm|[RC6] max-height-023]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-034.htm|[RC6] max-height-034]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-045.htm|[RC6] max-height-045]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-056.htm|[RC6] max-height-056]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-067.htm|[RC6] max-height-067]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-078.htm|[RC6] max-height-078]]
 
 ==== 3 RC6 testcases missing the interact flag ====
 
