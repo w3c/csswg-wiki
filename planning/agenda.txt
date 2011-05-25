@@ -9,10 +9,6 @@ The CSSWG co-chairs will select from this list and other sources to create the a
 
   ;CSS Exclusions and CSS3 Floats merging
   : editorship and module naming?
-  ;CSSWG Blog
-  :  What will it take to switch to WordPress?
-  ;Kyoto FTF
-  :  call for agenda items
 
 === Follow-ups ===
 
@@ -20,15 +16,13 @@ The CSSWG co-chairs will select from this list and other sources to create the a
   :  Status/review/approval?
   ;Namespaces
   :  response from i18n re normalization?
-  ;CSSWG Website
-  :  Status?
 
 === Publication / Review Requests ===
 
-  ;CSS3 Writing Modes
-  :  [[http://lists.w3.org/Archives/Public/www-style/2011May/0533.html|Publish LCWD?]]
+  ;DOM3 Events LC#2 (to be discussed conf call 22-jun)
+  : [[http://www.w3.org/mid/4DDD32FA.3020704@disruptive-innovations.com|fwd message from chairs@w3;org]] 
   ;CSS Regions
-  :  Publish WD?
+  :  Publish WD? (waiting for Adobe's mail saying edits are done)
   ;CSS Exclusions
   :  Publish WD?
   ;CSS3 Images
