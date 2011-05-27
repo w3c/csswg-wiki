@@ -224,6 +224,21 @@ Ugly, not self-documenting:
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-067.htm|[RC6] max-height-067]]
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-078.htm|[RC6] max-height-078]]
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-001.htm|[RC6] max-width-001]]: because "Negative values for 'min-width' and 'max-width' are illegal."
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-012.htm|[RC6] max-width-012]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-023.htm|[RC6] max-width-023]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-034.htm|[RC6] max-width-034]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-045.htm|[RC6] max-width-045]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-056.htm|[RC6] max-width-056]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-067.htm|[RC6] max-width-067]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/max-width-078.htm|[RC6] max-width-078]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-001.htm|[RC6] min-height-001]]: because "Negative values for 'min-height' and 'max-height' are illegal."
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-012.htm|[RC6] min-height-012]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-023.htm|[RC6] min-height-023]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-034.htm|[RC6] min-height-034]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-045.htm|[RC6] min-height-045]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-056.htm|[RC6] min-height-056]] 
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-067.htm|[RC6] min-height-067]]
+  - [[http://test.csswg.org/suites/css2.1/20110323/html4/min-height-078.htm|[RC6] min-height-078]]
 
 ==== 3 RC6 testcases missing the interact flag ====
 
