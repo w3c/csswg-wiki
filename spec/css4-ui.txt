@@ -40,7 +40,7 @@ Brand new features fo CSS4-UI. We'll follow the same prioritization as above.
 Features that were dropped from CSS3-UI (e.g. the 2004 CR) are eligible to be considered for CSS4-UI, but they will need a strong justification as having been ignored by implementations for 6+ years means there was likely something wrong with them and they need major revising. In addition, features dropped from other CSS3 specs or trimmed when bringing over to CSS3-UI are also considered here.
 
 ==== text-overflow two values ====
-Originally text-overflow permitted an optional second value [[http://www.w3.org/TR/2003/CR-css3-text-20030514/#text-overflow-ellipsis|defined in CSS3 Text CR 2003-05-14]] "	&lt;ellipsis&gt;{1,2} "
+Originally text-overflow permitted an optional second value [[http://www.w3.org/TR/2003/CR-css3-text-20030514/#text-overflow-ellipsis|defined in CSS3 Text CR 2003-05-14]] "	<ellipsis>{1,2} "
 
 Real-world use-cases:
   * none.
@@ -51,7 +51,7 @@ Theoretical use-cases:
 Hypothetical reasoning:
   * Since the spec calls for overflow markers on both sides, it seems reasonable to give the author control over each side separately.
     * Given that the clipping is visual rather than logical, it makes sense that the two-value form should also be visual left/right rather than logical start/end. - Mats
-    * Note that the previous CSS3-Text CR defined two values as: "If two &lt;ellipsis&gt; values area provided, they determine the overflow visual hint at the end and the overflow visual hint after the element box respectively."
+    * Note that the previous CSS3-Text CR defined two values as: "If two <ellipsis> values area provided, they determine the overflow visual hint at the end and the overflow visual hint after the element box respectively."
 
 ==== text-overflow string ====
 text-overflow: <string>. consider incorporating dropped <string> value. 
@@ -65,7 +65,7 @@ Theoretical use-cases:
   * multilingual
   * author might wish to use "(...)" for instance in citations
   * vertical ellipsis in maths
-  * a line that has nothing but images on it. Having two markers also motivates having a &lt;string&gt; value to be able to specify different symbols on each side.
+  * a line that has nothing but images on it. Having two markers also motivates having a <string> value to be able to specify different symbols on each side.
 
 Possible spec markup:
 
