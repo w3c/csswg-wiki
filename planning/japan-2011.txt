@@ -26,7 +26,7 @@ Topics for the [[http://www.w3.org/Style/Group/2011/Kyoto_f2f.htm|June 2011 CSS 
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^
 | Tab Atkins | Google | ?? | ?? | ?? | ?? |
 | David Baron | Mozilla | 29 May 15:15 | 5 June 17:10 | Aranvert Hotel Kyoto | UA 885 / UA 886 |
-| Bert Bos | W3C | 31 May 08:00 | 5 Jun 09:50 | Kyoto Tokyu Hotel | LH 740 / LH 741 |
+| Bert Bos | W3C | 31 May 15:00 | 5 Jun 09:50 | Kyoto Tokyu Hotel | NH 172 / LH 741 |
 | John Daggett | Mozilla | 31 May 18:00 | 4 June 19:00 | Kazariya | train |
 | Elika Etemad | Invited Expert | 31 May 19:30 | train TBD | Heianbo / APA Eki-Horikawadori | ?? |
 | Sylvain Galineau | Microsoft | 31 May 16:00 | 5 June 17:35 | Hotel Granvia Kyoto | DL 183 / DL 182 |
