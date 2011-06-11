@@ -15,9 +15,7 @@ This page started from the initial [[http://www.w3.org/TR/2011/WD-css3-regions-2
 
 [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0336.html|Kyoto F2F June 2011, Saturday, Vincent's notes]]
 
-  * use flow-into and flow-from properties and explain the interaction with
-the css3 contents module definition of the content property. The flow-into
-and flow-from properties should be <string>
+  * use flow-into and flow-from properties and explain the interaction with the css3 contents module definition of the content property. The flow-into and flow-from properties should be <string>
   * content selection should not be mentioned in the spec.
   * confirmed that the event propagation model should not be modified.
   * make the section on DOM events model informative.
