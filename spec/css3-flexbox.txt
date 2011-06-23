@@ -2,14 +2,14 @@
 
 ===== Issues =====
 
-===== Issue 1 ====
+==== Issue 1 ====
 
 ===== Basic Usecases =====
 
 
 This section is for documenting several flexbox usecases, and their solutions.
 
-===== 1. toolbar, where items (images + labels) are evenly spaced =====
+==== 1. toolbar, where items (images + labels) are evenly spaced ====
 
 
 	<toolbar>
@@ -35,7 +35,7 @@ This section is for documenting several flexbox usecases, and their solutions.
 	</style>
 
 
-===== 2. toolbar, where items are split into groups, and groups are evenly spaced =====
+==== 2. toolbar, where items are split into groups, and groups are evenly spaced ====
 
 
 	<toolbar>
@@ -101,7 +101,7 @@ Or:
 
 
 
-===== 3. Vertical and horizontal toolbars =====
+==== 3. Vertical and horizontal toolbars ====
 
 
 Same as before, except change 'flex-direction' appropriately, and adjust which 
