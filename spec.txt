@@ -16,13 +16,13 @@ Awaiting implementations, test suites, or actively being revised per implementat
   * [[spec:mediaqueries|Media Queries Level 3]]
   * [[spec:css-style-attr|CSS Style Attributes]]
   * [[spec:css3-background|CSS Backgrounds and Borders Module Level 3]]
-  * [[spec:css3-regions|CSS Regions Module]]
 
 ===== WD =====
 These are being actively developed. Sometimes used to be CRs that need major revision.
   * [[spec:css3-flexbox|CSS Flexbox Module]]
   * [[spec:css3-images|CSS Images Level 3]]
   * [[spec:css3-lists|CSS Lists Module Level 3]]
+  * [[spec:css3-regions|CSS Regions Module]]
   * [[spec:css-ruby|CSS3 Ruby Module]] (out of date CR, back to WD for major revisions)
   * [[spec:css3-text|CSS Text Module Level 3]]
   * [[spec:css3-text-layout|CSS Text Layout Module Level 3]]
