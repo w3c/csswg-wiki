@@ -76,7 +76,7 @@ Put the test in the most severe group (earliest below) that applies.
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/font-systemfont-rule-003.htm|[RC6] font-systemfont-rule-003]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0038.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0038.html]]
   -  [[http://test.csswg.org/suites/css2.1/20110323/html4/font-systemfont-rule-004.htm|[RC6] font-systemfont-rule-004]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0032.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0032.html]]
   -  [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html]]: **over 60 [max|min]-[height|width] testcases can not fail**.
-  -  [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html]]: about 30 testcases have an **one-single-pixel-between-pass-and-fail-condition** which is not suitable for a test suite and human testers.
+  -  [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html]]: about 30 [max|min]-[height|width] testcases have an **one-single-pixel-between-pass-and-fail-condition** which is not suitable for a test suite and human testers.
 
 ==== 9 invalid RC6 testcases because they rely on rounding issues ====
 
