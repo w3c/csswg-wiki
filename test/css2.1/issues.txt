@@ -53,7 +53,7 @@ Put the test in the most severe group (earliest below) that applies.
 ==== Miscellaneous incorrect tests ====
 
   * [[http://test.csswg.org/suites/css2.1/20110323/html4/c414-flt-ln-000.htm|[RC6] c414-flt-ln-000]] , [[http://test.csswg.org/suites/css2.1/20110323/html4/c414-flt-ln-001.htm|[RC6] c414-flt-ln-001]] and [[http://test.csswg.org/suites/css2.1/20110323/html4/c414-flt-ln-003.htm|[RC6] c414-flt-ln-003]] should have their borders removed. **Reason why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0020.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0020.html]]
-  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]</del> - fixed for RC4. **Has this been fixed?** GT
+  * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Oct/0079.html|content-160]]</del> - fixed for RC4.
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0119.html|background-intrinsic-004]]</del> - Fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Nov/0120.html|background-intrinsic-005]]</del> - Fixed for RC4
   * [[http://test.csswg.org/suites/css2.1/20110323/html4/c71-fwd-parsing-004.htm|[RC6] c71-fwd-parsing-004]] 1- ''p.twentyfour'' is not used anywhere in the test; 2- "This line should be bright green" when it is its background color; 3- there is nothing invalid about that testcase but testcase has <meta name="flags" content="invalid">; 4- there is the orphaned and unexpected ''color: red'' (see line 11) in the middle of the style block
@@ -74,6 +74,9 @@ Put the test in the most severe group (earliest below) that applies.
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/containing-block-017.htm|containing-block-017]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jan/0063.html]] What do do? title and text assert should be adjusted to pinpoint section 10.1, bullet 4, sub-bullet 1 and not sub-bullet 2 (since ancestor is an inline box, not a block).
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/font-systemfont-rule-003.htm|[RC6] font-systemfont-rule-003]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0038.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0038.html]]
   -  [[http://test.csswg.org/suites/css2.1/20110323/html4/font-systemfont-rule-004.htm|[RC6] font-systemfont-rule-004]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0032.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Mar/0032.html]]
+  -  [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-080.htm|[RC6] max-height-080]] the testcase, as coded and as built, can not fail. height and max-height even have the same value.
+  -  [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html]]: **over 60 [max|min]-[height|width] testcases can not fail**.
+  -  [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html]]: about 30 testcases have an **one-single-pixel-between-pass-and-fail-condition** which is not suitable for a test suite and human testers.
 
 ==== 9 invalid RC6 testcases because they rely on rounding issues ====
 
@@ -108,7 +111,6 @@ Ugly, not self-documenting:
   * <del>text-transform-bicameral-009, text-transform-bicameral-010: should attempt to pick a font that has the glyphs</del> - Uses the browser's default, which should be falling back to whatever it can find.
   * <del>fixed-table-layout-006: "all the blue lines" is confusing. They are all shades of blue.</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|c44-ln-box-003]]</del> - Fixed for RC4
-  * [[http://test.csswg.org/suites/css2.1/20110323/html4/max-height-080.htm|[RC6] max-height-080]] the testcase, as coded and as built, can not fail. height and max-height even have the same value
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|[RC6] background-130]] - still not fixed in RC6: "on top of" should be replaced with "above"; "stripe" seems preferable to "short box"
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|outline-003]]</del> - fixed for RC4
   * <del>[[http://lists.w3.org/Archives/Public/public-css-testsuite/2010Sep/0020.html|empty-cells-applies-to-001]]</del> - fixed for RC4
