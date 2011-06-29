@@ -35,8 +35,6 @@ Suggested updates:
 
 ===== Past Meetings =====
 
-  * [[planning:japan-2011]] ([[planning:japan-2011-venues|venues]])
-  * [[planning:tokyo-workshop-2011]]
   * [[planning:cambridge-2008]]
   * [[planning:mandelieu-2008]]
   * [[planning:tokyo-2009]]
@@ -46,4 +44,6 @@ Suggested updates:
   * [[planning:oslo-2010]]
   * [[planning:tpac-2010]]
   * [[planning:mountain-view-2011]]
+  * [[planning:tokyo-workshop-2011]]
+  * [[planning:japan-2011]] ([[planning:japan-2011-venues|venues]])
  
