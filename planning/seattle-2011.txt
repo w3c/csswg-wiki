@@ -1,4 +1,4 @@
-====== Seattle F2F July 2011 ======
+ ====== Seattle F2F July 2011 ======
 
 Topics for the [[http://www.w3.org/Style/Group/2011/Seattle.html|July 2011 CSS Working Group Face-to-Face]] meeting in Seattle, WA.
 
@@ -9,15 +9,17 @@ Venue: TBD
 Host dinner: ???
 
 
-==== Proposed Agenda Topics ====
+===== Proposed Agenda Topics ====
 
-  * ???
+  * CSSOM
+  * CSS3 Text
 
 
-====== Participants ======
+===== Participants =====
 
 
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^
-| Peter Linss | HP | ??? | ??? | ??? | ??? |
-| Tantek Çelik | self | ??? | ??? | ??? | ??? 
+| Tantek Çelik | self | ??? | ??? | ??? | ??? |
+| Elika Etemad | self | ??? | ??? | ??? | ??? |
 | Molly Holzschlag | self | ??? | ??? | ??? | ??? |
+| Peter Linss | HP | ??? | ??? | ??? | ??? |
