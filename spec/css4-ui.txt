@@ -54,20 +54,31 @@ Theoretical use-cases:
   * vertical ellipsis in maths (need a reference to this style of ellipsing in math)
   * a line that has nothing but images on it. Having two markers also motivates having a <string> value to be able to specify different symbols on each side.
 
-CSSWG resolution:
-  http://lists.w3.org/Archives/Public/www-style/2011Jun/0329.html
+CSSWG resolution: http://lists.w3.org/Archives/Public/www-style/2011Jun/0329.html - in particular:
+  * syntax: "RESOLVED: Add the two-value syntax to text-overflow in css3-ui, marked at-risk"
+  * semantic: "two strings (left and right) in addition to one string (both)."
+  * unprefixed: "[FF is] implementing it unprefixed, because everyone else already has."
 
 Possible spec markup:
 
 <code>
-<td>clip | ellipsis | 
+<td>( clip | ellipsis | 
    <a class="noxref" href="http://www.w3.org/TR/CSS21/syndata.html#value-def-string">
-     <span class="value-inst-string">&lt;string&gt;</span></a>
+     <span class="value-inst-string">&lt;string&gt;</span> ){1,2}</a>
 </td>
 ...
       <dt><dfn title="text-overflow:&lt;string&gt;">
            <var>&lt;string&gt;</var></dfn></dt>
-        <dd>Render the given string to represent clipped text. The string is treated as an independent paragraph for bidi purposes.</dd>
+        <dd>
+        Render the given string to represent clipped text. 
+        The string is treated as an independent paragraph for bidi purposes.
+        </dd>
+...
+<p>
+[At risk]. If there is one value, use it for both the left and right line edges. 
+If there are two values, use the first value for the right edge, 
+and the second value for the left edge.
+</p>
 </code>
 
 ==== text-overflow string plus ====
