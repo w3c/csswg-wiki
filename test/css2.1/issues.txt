@@ -292,9 +292,13 @@ Ugly, not self-documenting:
   - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/padding-top-045.htm|[RC6] padding-top-045]]
   - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/padding-top-056.htm|[RC6] padding-top-056]]
   - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/padding-top-089.htm|[RC6] padding-top-089]]
-
-
-
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/width-001.htm|[RC6] width-001]]
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/width-012.htm|[RC6] width-012]]
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/width-023.htm|[RC6] width-023]]
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/width-034.htm|[RC6] width-034]]  
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/width-045.htm|[RC6] width-045]]
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/width-045.htm|[RC6] width-056]]
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/width-045.htm|[RC6] width-089]]
 
 ==== 1 RC6 testcase missing the interact flag ====
 
