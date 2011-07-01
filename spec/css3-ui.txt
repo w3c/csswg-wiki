@@ -186,6 +186,15 @@ focusable, as well).
   ; Proposed Resolution : No one has implemented text-overflow for anything other than inline progress. Therefore we should explicitly clarify this deatil. Insert "in its inline progression direction and " into "when text overflows its block container element that has ‘overflow’ other than ‘visible’" just after "element". 
   ; Status : Resolved. Need to edit editor's draft accordingly.
 
+==== Issue 21 ====
+  ; Summary : text-overflow definition must include <string> value and 2 values option, but with both explicitly at-risk.
+  ; Raised by : CSS WG
+  ; URL : http://dev.w3.org/csswg/css3-ui/#text-overflow0
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jun/0329.html
+  ; URL : http://wiki.csswg.org/spec/css4-ui#text-overflow-string
+  ; Proposed Resolution : Update text-overflow definition to include <string> value and {1,2} values option as described in http://wiki.csswg.org/spec/css4-ui#text-overflow-string
+  ; Status : Resolved. Need to edit editor's draft accordingly.
+
 ...
 
 ==== Issue n ====
