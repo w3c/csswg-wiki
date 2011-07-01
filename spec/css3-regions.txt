@@ -20,9 +20,9 @@ This page started from the initial [[http://www.w3.org/TR/2011/WD-css3-regions-2
   * ✔ content selection should not be mentioned in the spec. It is a UI issue.
   * ✔ confirmed that the event propagation model should not be modified.
   * ✔ make the section on DOM events model informative.
-  * CSS OM View:
-    * confirmed the current proposal (NamedFlow + Element interface extension)
-    * agreed to add event on changes to regionOverflow and flowRanges
+  * ✔ CSS OM View:
+    * ✔ confirmed the current proposal (NamedFlow + Element interface extension)
+    * ✔ agreed to add event on changes to regionOverflow and flowRanges
 ===== Action Items ====
 
 [[http://www.w3.org/Style/CSS/Tracker/actions/330|ACTION 330]]
