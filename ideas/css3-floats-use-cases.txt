@@ -414,10 +414,7 @@ Multiple disjoint shapes that compose an exclusion
 ==== Resources: ====
 
 Image to determine the disjoint shapes by alpha channel transparency.
-!exclusions_disjoint_shapes_mask.png!
-
-
-
+{{:ideas:css3-floats-use-cases:exclusions_disjoint_shapes_mask.png?200|}}
 
 ==== CSS Exclusions ====
 
