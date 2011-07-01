@@ -130,7 +130,7 @@ One exclusion over two columns of content.
 ===== UC 2: overlapping exclusions =====
 Multiple overlapping exclusions that affect each other and the content around them.
 
-!exclusions_overlapping.jpg!
+{{:ideas:css3-floats-use-cases:exclusions_overlapping.jpg?200|}}
 
 ==== CSS Exclusions ====
 <code html>
