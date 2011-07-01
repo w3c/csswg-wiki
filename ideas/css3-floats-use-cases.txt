@@ -6,7 +6,7 @@ This page contains use cases for exclusions and comparative examples of markup u
 
   * CSS Exclusions: [http://dev.w3.org/csswg/css3-exclusions/]
   * CSS3 Floats: [http://www.interoperabilitybridges.com/css3-floats/]
-  * Daniel Glazman: [https://zerowing.corp.adobe.com/display/webkit/Daniel+Glazman%27s+Proposal]
+  * Daniel Glazman: [http://lists.w3.org/Archives/Public/www-style/2011Jun/0457.html]
 
 ===== UC 1: simple exclusion =====
 
