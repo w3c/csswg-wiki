@@ -79,7 +79,7 @@ Put the test in the most severe group (earliest below) that applies.
   - [MSFT] [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html]]: **over 60 [RC6] [max|min]-[height|width] testcases can not fail**.
   - [MSFT] [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0007.html]]: about 30 [RC6] [max|min]-[height|width] testcases have an **one-single-pixel-between-pass-and-fail-condition** which is not suitable for a test suite and human testers.
 
-==== 9 invalid RC6 testcases because they rely on rounding issues ====
+==== 11 invalid RC6 testcases because they rely on rounding issues ====
 
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/c526-font-sz-002.htm|[RC6] c526-font-sz-002]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Feb/0034.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Feb/0034.html]]
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/c541-word-sp-000.htm|[RC6] c541-word-sp-000]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Feb/0035.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Feb/0035.html]]
@@ -90,6 +90,8 @@ Put the test in the most severe group (earliest below) that applies.
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/units-001.htm|[RC6] units-001]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0005.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0005.html]]
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/units-004.htm|[RC6] units-004]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0005.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0005.html]]
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/units-005.htm|[RC6] units-005]] **Reasons why**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0005.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jun/0005.html]]
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/word-spacing-043.htm|[RC6] word-spacing-043]] **More info**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jul/0003.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jul/0003.html]]
+  - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/word-spacing-044.htm|[RC6] word-spacing-044]] **More info**: [[http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jul/0003.html|http://lists.w3.org/Archives/Public/public-css-testsuite/2011Jul/0003.html]]
 ===== Tests that need Usability improvements =====
 
 Ugly, not self-documenting:
