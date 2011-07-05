@@ -65,6 +65,7 @@ One exclusion over two columns of content.
 	#article{
 		column-count: 2;
 		column-gap: 1em;
+		flow-wrap: wrap;
 	}
 	
 	/* with SVG shape */
