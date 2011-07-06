@@ -26,9 +26,9 @@ Host dinner: ???
 | Peter Linss | HP | ??? | ??? | ??? | ??? |
 | Anne van Kesteren | Opera | 23-07 18:53 | 29-07 15:00 | ??? | KL 4746 |
 | Alan Stearns | Adobe | n/a | n/a | Home | Cycling in |
-| FLorian Rivoal | Opera | 23-07 19:59 | 27-07 11:12 | ??? | coming: UA 998, leaving: UA 942|
+| Florian Rivoal | Opera | 23-07 19:59 | 27-07 11:12 | ??? | coming: UA 998, leaving: UA 942|
 | Daniel Glazman | Disruptive Innovations | 22-07 11:50 | 27-07 13:50 | ??? | coming: AF 306, leaving AF 309|
-
+| Arron Eicholz | Microsoft | n/a | n/a | Home | Driving in |
 ===== Share Rides from to SEA =====
 
 2011-07-23:
