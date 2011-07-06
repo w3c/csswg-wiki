@@ -19,7 +19,7 @@ Host dinner: ???
 
 
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^
-| Tantek Çelik | self | ??? | ??? | ??? | ??? |
+| Tantek Çelik | self | 2011-07-23 19:30 SEA | train to Portland for OSCON | ??? | arriving: VA 746 |
 | Elika Etemad | self | ??? | ??? | ??? | ??? |
 | Molly Holzschlag | self | ??? | ??? | ??? | ??? |
 | Peter Linss | HP | ??? | ??? | ??? | ??? |
@@ -27,3 +27,10 @@ Host dinner: ???
 | Alan Stearns | Adobe | n/a | n/a | Home | Cycling in |
 | FLorian Rivoal | Opera | 23-07 19:59 | 27-07 11:12 | ??? | coming: UA 998, leaving: UA 942|
 | Daniel Glazman | Disruptive Innovations | 22-07 11:50 | 27-07 13:50 | ??? | coming: AF 306, leaving AF 309|
+
+===== Share Rides from to SEA =====
+
+2011-07-23:
+  * Anne (18:53), Tantek (19:30), Florian (19:59) arrive around the same time - shall we share a cab from the airport to Seattle? -t
+
+
