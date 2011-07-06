@@ -13,6 +13,7 @@ Host dinner: ???
 
   * CSSOM
   * CSS3 Text
+  * first two face-to-face meetings of 2012
 
 
 ===== Participants =====
