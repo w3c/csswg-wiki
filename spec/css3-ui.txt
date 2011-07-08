@@ -136,6 +136,7 @@ focusable, as well).
   ; URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0189.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0224.html
   ; Proposed resolution : rewrite example accordingly.
+  ; Status : **OPEN.** Collected.
 
 ==== Issue 15 ====
   ; Summary : add second 'list-menu' example that shows multiselect behavior and use same content as 'checkbox-group'
