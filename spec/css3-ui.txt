@@ -164,7 +164,7 @@ focusable, as well).
   ; URL : http://lists.w3.org/Archives/Public/www-style/2008Dec/0109.html
   ; URL : http://www.w3.org/TR/2008/CR-css3-marquee-20081205/#marquee-style
   ; Proposed Resolution : ???. Since CSS3 Marquee is already in CR and text-overflow is the "new" feature, it is up to text-overflow to define the interaction.
-  ; Status : Collected.
+  ; Status : **OPEN.** Collected.
 
 ==== Issue 19 ====
   ; Summary : CSS3-UI should define 'overflow-x' and 'overflow-y' properties
