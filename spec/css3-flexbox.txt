@@ -19,10 +19,10 @@ This module had major changes between 2009 spec and current state. The following
 ^     2009 draft   ^^   Current draft  ^^ Equivalence ^ Mapping(*) ^ Notes ^
 ^ Property ^ Values ^ Property ^ Values ^ ::: ^ ::: ^ ::: ^
 | display | box \\ inline-box | display | flexbox \\ inline-flexbox | Exact | display:box -> display:flexbox \\ display:inline-box -> display:inline-flexbox | 
-| box-align | start \\ end \\ center \\ baseline \\ stretch | flex-align | auto \\ baseline | Close | //Horizontal:// \\ box-align:start -> margin-bottom:auto \\ box-align:end -> margin-top:auto \\ box-align:center -> margin:auto 0 \\ box-align:baseline -> flex-align:baseline \\ box-align:stretch -> margin:0; height:auto \\ \\ //Vertical: same with left/right margins// | |
+| box-align | start \\ end \\ center \\ baseline \\ stretch | flex-align | auto \\ baseline | Close | //Horizontal:// \\ box-align:start -> margin-bottom:auto \\ box-align:end -> margin-top:auto \\ box-align:center -> margin:auto 0 \\ box-align:baseline -> flex-align:baseline \\ box-align:stretch -> margin:0;height:auto \\ \\ //Vertical: same with left/right margins// | |
 | box-direction | normal \\ reverse | flex-direction | lr \\ rl \\ tb \\ bt \\ inline \\ inline-reverse \\ block \\ block-reverse | Close | (horizontal, normal) -> lr (<nowiki>**</nowiki>) \\ (horizontal, reverse) -> rl (<nowiki>**</nowiki>) \\ (vertical, normal) -> tb (<nowiki>**</nowiki>) \\ (vertical, reverse) -> bt (<nowiki>**</nowiki>) \\ (inline-axis, normal) -> inline \\ (inline-axis, reverse) -> inline-reverse \\ (block-axis, normal) -> block \\ (block-axis, reverse) -> block-reverse  | |
 | box-orient | horizontal \\ vertical \\ inline-axis \\ block-axis \\ inherit | ::: | ::: | ::: | ::: | ::: |
-| box-flex | <number> | width \\ height \\ margin \\ padding | flex() function \\ 'fr' unit  | Extended | //TODO// | |
+| box-flex | <number> | width \\ height \\ margin \\ padding | flex() function \\ 'fr' unit  | Extended | width:1em;box-flex:2.0 -> width:flex(1em 2.0) (<nowiki>***</nowiki>) | |
 | box-flex-group | <integer> | //deprecated// | | N/A	 | | never implemented, agreed to be expensive and unnecessary |
 | box-lines | single \\ multiple | //missing// | | None | | http://lists.w3.org/Archives/Public/www-style/2010May/thread.html#msg172 |
 | box-ordinal-group | <integer> | flex-order | <integer> | Exact | //TODO// | |	
@@ -30,7 +30,9 @@ This module had major changes between 2009 spec and current state. The following
 
 //(*) Mapping shown for horizontal LTR flow. //
 
-//(<nowiki>**</nowiki>) "box-direction:normal|reverse" picks up direction from writing mode, along given axis. There is no explicit LTR or RTL in 2009 draft. 3/2011 draft offers combinations that are either all physical (lr) or all logical (inline-reverse), so exact mapping is not possible //
+//(<nowiki>**</nowiki>) "box-direction:normal|reverse" picks up direction from writing mode, along given axis. There is no explicit LTR or RTL in 2009 draft. 6/2011 draft offers combinations that are either all physical (lr) or all logical (inline-reverse), so exact mapping is not possible //
+
+//(***) 2009 syntax is not clear on how to use specified width - as preferred or as final. implementations differ, this example assumes preferered.
 ===== Issues =====
 
 ==== Issue 1 ====
