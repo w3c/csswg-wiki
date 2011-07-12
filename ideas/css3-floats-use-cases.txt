@@ -36,7 +36,7 @@ The wrap-shape-order property controls which elements are affected by an exclusi
 
 There are dependency issues, as illustrated in example IX of the draft.
 
-=== CSS Exclusion Proposal in 3 Questions ===
+=== CSS3 Floats Proposal in 3 Questions ===
 
 == How do you define an exclusion shape? ==
 
