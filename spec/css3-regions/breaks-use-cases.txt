@@ -1,0 +1,3 @@
+===== Introduction =====
+
+This page contains various use cases to support the analysis and discussion about what we should do with page, column and regions breaks.
