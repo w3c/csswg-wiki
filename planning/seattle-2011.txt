@@ -17,6 +17,7 @@ Host dinner: ???
   * CSS Regions issues [[spec:css3-regions|]]
   * CSS Floats / CSS Exclusions issues [[ideas:css3-floats|]]
   * Flexbox
+  * Writing Modes - text orientation (afternoon, JDaggett to call in)
 
 
 ===== Participants =====
