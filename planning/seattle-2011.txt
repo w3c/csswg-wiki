@@ -18,6 +18,8 @@ Host dinner: ???
   * CSS Floats / CSS Exclusions issues [[ideas:css3-floats|]]
   * Flexbox
   * Writing Modes - text orientation (afternoon, JDaggett to call in)
+  * Grids
+  * Gradients
 
 
 ===== Participants =====
