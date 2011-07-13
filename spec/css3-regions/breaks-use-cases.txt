@@ -113,14 +113,6 @@ Allow breaking of nested lists, ordered or unordered, across regions.
 Keep the correct nesting index and indentation across regions.
 
 <code html>
-CODE
-</code>
-
-{{:spec:css3-regions:PHOTO?direct&|}}
-
-===== TITLE =====
-
-<code html>
 <div id="r1" style="content:from-flow(article)"></div>
 <div id="r2" style="content:from-flow(article)"></div>
 
