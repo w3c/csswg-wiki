@@ -32,7 +32,4 @@ This page started from the initial [[http://www.w3.org/TR/2011/WD-css3-regions-2
 
 ===== To Do ====
 
-===== New issues =====
 
-
-===== Resolved issues =====
