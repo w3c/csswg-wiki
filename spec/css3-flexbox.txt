@@ -38,7 +38,27 @@ This module had major changes between 2009 spec and current state. The following
 ==== Issue 1 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jun/thread.html#msg37
   ;Summary : Multiline flexbox is missing from current draft
-  ;Proposal : TBD
+  
+Multiline flexbox needs at least 4 bits to choose from directional options (can be more to tie to writing mode, but not less):
+  - horizontal or vertical primary direction
+  - horizontal or vertical transverse direction
+  - single line or multiple lines
+  - horizontal or vertical line progression
+
+Current draft combines orientation and direction in one property [[http://dev.w3.org/csswg/css3-flexbox/#flex-direction0]], it works well for common cases but does not easily extent to multiline situation.
+
+Some options for adding mutiline are listed here: [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0116.html]]
+
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Jun/0134.html -- best proposal so far (from Fantasai)
+
+   flex-orientation: rows | columns | horizontal | vertical
+
+   flex-wrap: no-wrap | wrap | balance*
+
+   flex-direction: [ forward | backward ] || reverse-stack
+
+(this doesn't inlclude "line-progression")
+
   ;Status : Open
   
 
