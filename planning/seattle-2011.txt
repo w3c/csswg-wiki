@@ -42,6 +42,8 @@ Host dinner: ???
 | Koji Ishii | self | ??? | ??? | ??? | ??? |
 | Tab Atkins | Google | ??? | ??? | ??? | ??? |
 | Kimberly Blessing | Comcast | 2011-07-23 10:23 | 2011-07-26 08:45 | Courtyard Lake Union | US 70 / US 78 |
+| Alex Mogilevsky | Microsoft | n/a | n/a | Casa de Alex | hitchiking |
+
 ===== Share Rides from to SEA =====
 
 2011-07-23:
