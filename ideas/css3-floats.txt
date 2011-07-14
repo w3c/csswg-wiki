@@ -4,6 +4,12 @@ This page contains the issues that are not yet listed in the specification and t
 
 There is a companion [[ideas:css3-floats-use-cases|use cases]] page.
 
+===== Action Items =====
+
+  * Editor. Add that we may consider having multiple shapes to define the inside and ouside shapes separately.
+  * Editor. Add that we should have a 'wrap-shape-outline' or a 'stroke' property to let the user draw the outline of a wrap-shape
+  * Editor. Clarify what happens when there are separate sub-shapes in an exclusion.
+
 ===== Issues =====
 ===== Resolutions =====
 [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0325.html| Kyoto F2F June 2011, Friday]]
