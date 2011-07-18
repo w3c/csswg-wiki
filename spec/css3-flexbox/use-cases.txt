@@ -5,11 +5,11 @@ This section is for documenting several flexbox usecases, and their solutions.
 ==== 1. toolbar, where items (images + labels) are evenly spaced ====
 
 <html><table><tr><td></html>
-=== 2009 spec ===
+=== current draft ===
 
 <html></td><td></html>
 
-=== current draft ===
+=== 2009 spec ===
 //requires a spacer element//
 
 <html></td></tr><tr><td></html>
