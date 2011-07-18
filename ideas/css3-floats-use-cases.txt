@@ -1273,12 +1273,6 @@ One exclusion along a text.
 		wrap-shape: poly(0px,0px 280px,0px 220px,125px 0px,125px);
 	}  
 	
-	/* with image */
-	 #dropMany{   
-		float:positioned;
-		wrap-image: url(shape-for-many.png);
-		wrap-image-threshold: 100%; 
-	}
 </style>
 <div id="article">
      <p><span id="dropMany">Many</span> instances ...</p>
