@@ -82,7 +82,10 @@ flexbox spec says nothing about what happens when flexbox intersects page bounar
   
 ==== Issue 6 ====
   ;URL : //todo//
-  ;Summary : 
+  ;Summary : 'inline-' display values work around limitations of 'display' property semantics. Separeate properties for element placment and element content layout are long overdue.
   
+From flexbox spec draft: 
+
+ISSUE: The proliferation of "inline-*" display values is untenable and restrictive. Table cells should be able to use the flexbox layout mode for their contents, for example, rather than being forced to use block layout. It's expected that this will be fixed by splitting the ‘display’ property into subproperties controlling how the element formats its contents (‘display-inside’) and how it reacts to its surroundings (‘display-outside’). Once that occurs, this section will instead describe a single new ‘display-inside’ value that triggers flexbox layout.
 
   ;Status : Open
