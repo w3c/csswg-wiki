@@ -38,8 +38,7 @@ Some options for adding mutiline are listed here: [[http://lists.w3.org/Archives
   flex-direction: [ forward | backward ] || reverse-stack
 </code>
 (this doesn't inlclude "line-progression")
-
-  ;Status : Open
+  ;Status: Open
   
 ==== Issue 2 ====
   ;URL : //todo//
