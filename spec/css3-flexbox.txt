@@ -132,5 +132,42 @@ Similarly, there should be a way to control how lines are distributed if there i
 
   ;Status : Open
 
+==== Issue 10 ====
 
+  ;URL : http://dev.w3.org/csswg/css3-flexbox/#display-flexbox
+  ;Summary : "flex item" definition needs precise rules on handling absolute-positioned children
+  ;Proposal : 
 
+<html><ins style="background:yellow">abspos elements leave behind a placeholder, which is then treated like a 0x0 inline element.</ins></html>
+
+This is important for display types that wrap inappropriately-displayed items, like display:table or display:flexbox.
+
+In other words, doing this:
+
+  <div display:flexbox>
+    <div>foo</div>
+    <div position:absolute>bar</div>
+    <div>baz</div>
+  </div>
+
+...should create a flexbox with three flexbox items - the 'foo' and 'baz' elements, and an anonymous block wrapping the placeholder for 'bar'.
+
+  ;Status : Open
+
+==== Issue 11 ====
+
+  ;URL : //todo//
+  ;Summary : 
+  ;Proposal : 
+  ;Status : Open
+
+<html><!--
+
+==== Issue NEW ====
+
+  ;URL : //todo//
+  ;Summary : 
+  ;Proposal : 
+  ;Status : Open
+
+--></html>
