@@ -98,3 +98,12 @@ Floats are also out-of-flow, but children of flexboxes can't float. Issue:(ISSUE
 
   ;Status : Open
 
+==== Issue 8 ====
+  ;URL : http://dev.w3.org/csswg/css3-flexbox/#flex-order0
+  ;Summary : would 'flex-order' be more intuitive if named 'flex-index'?
+
+'flex-index' would be more consistent with 'z-index'
+
+  ;Status : Open
+
+
