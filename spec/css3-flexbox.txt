@@ -50,11 +50,11 @@ Current draft combines orientation and direction in one property [[http://dev.w3
 Some options for adding mutiline are listed here: [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0116.html]]
 
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Jun/0134.html -- best proposal so far (from Fantasai)
-
+<code>
   flex-orientation: rows | columns | horizontal | vertical
   flex-wrap: no-wrap | wrap | balance*
   flex-direction: [ forward | backward ] || reverse-stack
-
+</code>
 (this doesn't inlclude "line-progression")
 
   ;Status : Open
