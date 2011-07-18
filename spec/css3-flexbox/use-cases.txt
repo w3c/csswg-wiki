@@ -4,6 +4,15 @@ This section is for documenting several flexbox usecases, and their solutions.
 
 ==== 1. toolbar, where items (images + labels) are evenly spaced ====
 
+<html><table><tr><td></html>
+=== 2009 spec ===
+
+<html></td><td></html>
+
+=== current draft ===
+//requires a spacer element//
+
+<html></td></tr><tr><td></html>
 
 	<toolbar>
 		<tool>
@@ -27,6 +36,32 @@ This section is for documenting several flexbox usecases, and their solutions.
 	}
 	</style>
 
+<html></td><td></html>
+
+	<toolbar>
+		<tool>
+			<icon>
+			<label>foo</label>
+		</tool>
+		<spacer></spacer>
+		<tool>
+			<icon>
+			<label>foo</label>
+		</tool>
+		...
+	</toolbar>
+	<style>
+	toolbar {
+		display: box;
+		box-orient: horizontal;
+		padding: 3px;
+	}
+	spacer {
+		box-flex: 1;
+	}
+	</style>
+
+<html></td></tr></table></html>
 
 ==== 2. toolbar, where items are split into groups, and groups are evenly spaced ====
 
