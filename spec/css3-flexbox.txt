@@ -105,4 +105,21 @@ Floats are also out-of-flow, but children of flexboxes can't float. Issue:(ISSUE
 
   ;Status : Open
 
+==== Issue 9 ====
+  ;URL : //todo//
+  ;Summary : multiline flexbox needs properties to control line stacking direction and line pack
+
+This applies to both 2009 and current specs: it is not defined in which direction lines are to be added.
+
+It is reasonable to expect that default line progression matches current writing mode, but it should also allow explicit control.
+
+Similarly, there should be a way to control how lines are distributed if there is more available space than needed, similarly to 'flex-pack'.
+
+  ;Proposal : 
+  flex-line-progression: normal | reverse
+  flex-line-pack: before | after | middle | distribute
+
+  ;Status : Open
+
+
 
