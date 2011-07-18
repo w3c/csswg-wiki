@@ -9,15 +9,7 @@ The CSSWG co-chairs will select from this list and other sources to create the a
 
 === Follow-ups ===
 
-  ;Charter
-  :  FX TF Joint Deliverables?
-
 === Publication / Review Requests ===
-
-  ;CSS Exclusions
-  :  Publish WD?
-  ;CSS3 Images
-  :  Publish WD? (Request pending since 5 May telecon.)
 
 === Technical ===
 
