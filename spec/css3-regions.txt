@@ -36,14 +36,16 @@ This page started from the initial [[http://www.w3.org/TR/2011/WD-css3-regions-2
 
 ===== Issues to Resolve with the CSS WG =====
 
-==== content: from-flow(<flow-name>) v.s. from-flow: <flow-name> ====
+==== Issue 1 ====
+  ;URL : [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0413.html|WG Conference Call, [CSSWG] Minutes and Resolutions 2011-06-15]]
+  ;Summary : content: from-flow(<flow-name>) v.s. from-flow: <flow-name>
+  ;Proposal : content: from-flow(<flow-name>)
 
-[[http://lists.w3.org/Archives/Public/www-style/2011Jun/0413.html|WG Conference Call, [CSSWG] Minutes and Resolutions 2011-06-15]]
+  //**pros and cons**// : //todo//
 
-=== content: from-flow(<flow-name>) pros and cons ===
+  ;Proposal : from-flow: <flow-name>; 
 
-=== from-flow: <flow-name>; pros and cons ===
-
+  //**pros and cons**// : //todo//
 ==== Intrinsic size of regions ====
 
 See [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0629.html|mailing list]
