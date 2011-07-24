@@ -44,9 +44,9 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
 
 ===== Issues to Resolve with the CSS WG =====
 
-==== Issue 1 : content: from-flow(<flow-name>) v.s. from-flow: <flow-name>====
+==== Issue 1 : content: from-flow(<flow-name>) v.s. flow-from: <flow-name>====
   ;URL : [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0413.html|WG Conference Call, [CSSWG] Minutes and Resolutions 2011-06-15]]
-  ;Summary : content: from-flow(<flow-name>) v.s. from-flow: <flow-name>
+  ;Summary : content: from-flow(<flow-name>) v.s. flow-from: <flow-name>
   ;Proposal : content: from-flow(<flow-name>)
 
 **cons**:
@@ -54,11 +54,11 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
 **pros**:
   * clear interaction between 'content' and 'flow-from'
 
-  ;Proposal A: from-flow: <flow-name>; 
+  ;Proposal A: flow-from: <flow-name>; 
   
 **cons**:
            * Need to define the precedent between the content property and the flow-from property. 
-           * Concerns about the cascade implications of having from-flow: none
+           * Concerns about the cascade implications of having flow-from: none
 
 
 **pros**:
@@ -66,9 +66,10 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
 
 
 
-   ;Recommendation: use from-flow: <flow-name>;
+   ;Recommendation: use flow-from: <flow-name>;
    
    This requires no alteration to the definition of 'content', clearly separates the concept of flow and the concept of generated content.
+   
  
 ==== Issue 2 : Auto-sizing of regions ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jun/0629.html
