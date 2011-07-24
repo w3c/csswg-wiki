@@ -54,15 +54,33 @@ Multiline flexbox needs at least 4 bits to choose from directional options (can 
 
 Current draft combines orientation and direction in one property [[http://dev.w3.org/csswg/css3-flexbox/#flex-direction0]], it works well for common cases but does not easily extent to multiline situation.
 
-Some options for adding mutiline are listed here: [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0116.html]]
+  ;Proposal : Some options for adding mutiline are listed here: [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0116.html]] - options 1 to 6
+
 
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Jun/0134.html -- best proposal so far (from Fantasai)
+
+
 <code>
+Option 7:
   flex-orientation: rows | columns | horizontal | vertical
   flex-wrap: no-wrap | wrap | balance*
   flex-direction: [ forward | backward ] || reverse-stack
 </code>
 (this doesn't inlclude "line-progression")
+
+  ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Jul/0406.html 
+
+<code>
+Option 7 take II:
+
+    flex-wrap: no-wrap | wrap | balance
+    flex-flow: [ rows | columns | horizontal | vertical ] || [ reverse-line || reverse-wrap ]
+               |
+               [ ltr | rtl | auto ] || [ ttb | btt | auto ]
+</code>
+Any missing directions are taken from the writing mode. Forwards for
+a particular dimension is matching the block or inline direction
+(whichever) is appropriate.
 
   ;Status : Open
 
