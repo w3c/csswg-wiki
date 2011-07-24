@@ -18,7 +18,7 @@ Room: Puget Sound
   * CSS Regions issues [[spec:css3-regions|]]
   * CSS Floats / CSS Exclusions issues [[ideas:css3-floats|]]
   * Gradients (or Tuesday?)
-  * Writing Modes - text orientation (afternoon, JDaggett to call in)
+  * Writing Modes - text orientation (after lunch, JDaggett to call in)
 
 ====== Tuesday ======
 
