@@ -77,6 +77,22 @@ Option 7 take II:
     flex-flow: [ rows | columns | horizontal | vertical ] || [ reverse-line || reverse-wrap ]
                |
                [ ltr | rtl | auto ] || [ ttb | btt | auto ]
+
+Examples:             
+               
+    flex-flow: rows;                     /* forwards inline row (default) */
+    flex-flow: horizontal;               /* forwards horizontal row */
+    flex-flow: reverse-line;             /* backwards inline row */
+    flex-flow: reverse-wrap;             /* reverse-stacking forwards inline rows */
+    flex-flow: reverse-line vertical;    /* backwards vertical column */
+    flex-flow: reverse-line columns;     /* backwards block-oriented column */
+
+    flex-flow: ltr;                      /* horizontal ltr row, auto stacking */
+    flex-flow: ltr auto;                 /* same thing */
+    flex-flow: ttb;                      /* vertical ttb column, auto stacking */
+    flex-flow: ltr ttb;                  /* horizontal ltr row, ttb stacking */
+    flex-flow: auto ttb;                 /* horizontal auto row, ttb stacking */
+
 </code>
 Any missing directions are taken from the writing mode. Forwards for
 a particular dimension is matching the block or inline direction
