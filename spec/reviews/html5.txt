@@ -7,5 +7,6 @@ This page is where the CSSWG will track our comments to the HTMLWG regarding the
   * UI selectors - need to define / verify proper split of definition of UI selectors in CSS3-UI and how elements enter those states in HTML5
   * :ltr :rtl - how much of these should be in Selectors 4 vs HTML5?
   * :cue :past :future - do we need a new CSS module for these?
+  * proposal DISABLED attribute on STYLE and LINK elements
   * normative references to CSS editors drafts. e.g.
     * ... to be provided
