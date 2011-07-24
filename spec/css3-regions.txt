@@ -99,3 +99,10 @@ See [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0682.html|Possible O
    ;Summary : should we add an API to find out which region displays an element in a named flow?
    ;Discussion : this has been proposed by Alex and seems like a nice functionality. 
    ;Proposal : create an ACTION to have a specific API proposal.
+   
+==== Issue 6 : Compatibility with CSS Grid Layout Module Section 7.2 ====
+
+    ;URL : http://www.w3.org/TR/css3-grid-layout/#explicitly-defined-grid-cells
+    ;Summary : there should be a way to make grid cells regions. If the issue on grid cell is resolved as suggested in the section 7.2 issue, then it will be possible.
+    ;Proposal : have a RESOLUTION on section 7.2 issue that allows compatibility with CSS Regions.
+    
