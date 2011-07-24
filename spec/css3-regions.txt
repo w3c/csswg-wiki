@@ -47,16 +47,25 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
   ;Summary : content: from-flow(<flow-name>) v.s. from-flow: <flow-name>
   ;Proposal : content: from-flow(<flow-name>)
 
-  //**pros and cons**// : //todo//
+**cons**:
+  * collapses two different concepts together.
+**pros**:
+  * clear interaction between 'content' and 'flow-from'
 
-  ;Proposal : from-flow: <flow-name>; 
+  ;Proposal A: from-flow: <flow-name>; 
   
-  * cons:
+**cons**:
            * Need to define the precedent between the content property and the flow-from property. 
-           * Concerns about the cascade implications of having flow-from: none (fantasai)
-  * pros:
+           * Concerns about the cascade implications of having from-flow: none (fantasai)
+
+
+**pros**:
            * Separate concepts (content for content belonging to the element, flow-from for getting a segment of content from the flow)
 
+
+   ;Recommendation: use from-flow: <flow-name>;
+   
+   This requires no alteration to the definition of 'content', clearly separates the concept of flow and the concept of generated content.
 ==== Issue 2 ====
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jun/0629.html
   ;Summary : Define intrinsic size of regions (currently zero, but there isn't a consensus that it's he best choice)
