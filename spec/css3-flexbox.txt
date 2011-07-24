@@ -184,7 +184,9 @@ Note that all browsers agree that table-fixup either operates on the element-tre
 
 anonymous flexbox items are created in element tree. A sequence of plain text and inline elements produces one anonymous flexbox item, regardless of what is contained within inline elements (including any anonymous blocks). 
 
-  ;Status : Open
+  ;Status : Resolved: one item, blocks nested into inline elements don't break anonymous flexbox items.
+  
+  ;Action : Tab: update prose in the spec for anonymous block fixup.
 
 <html><!--
 
