@@ -32,7 +32,9 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
 ===== Action Items ====
 
 [[http://www.w3.org/Style/CSS/Tracker/actions/330|ACTION 330]]
-  * Vincent: Regions spec. editors to specify a model for breaking flow content across areas that accounts for regions, columns and pages. Build on paged media and propose behavior for nested flows breaks. See the [[spec:css3-regions:breaks-use-cases|breaks use cases]] page
+  * Vincent: Regions spec. editors to specify a model for breaking flow content across areas that accounts for regions, columns and pages. Build on paged media and propose behavior for nested flows breaks. See the [[spec:css3-regions:breaks-use-cases|breaks use cases]] page.
+    ✔ [[hhttp://lists.w3.org/Archives/Public/www-style/2011Jul/0241.html|Vicent's action item email]]
+    ✔ [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JulSep/0107.html|Alex's proposal]]
 
   * Vincent: document the from-flow v.s. content issue and create proposal.
 
