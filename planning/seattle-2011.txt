@@ -12,15 +12,15 @@ Registration:[[http://www.w3.org/2002/09/wbs/99999/csswg-f2f-seattle-2011-07/|su
 Weather Forecast: [[http://forecast.weather.gov/MapClick.php?lat=47.627&lon=-122.341&unit=1&lg=en&FcstType=text|°C]] / [[http://forecast.weather.gov/MapClick.php?lat=47.627&lon=-122.341&unit=0&lg=en&FcstType=text|°F]]
 ===== Proposed Agenda Topics ====
 
-===== Sunday =====
-===== Monday =====
+====== Sunday ======
+====== Monday ======
   * CSSOM - Monday?
   * CSS Regions issues [[spec:css3-regions|]] - Monday
   * CSS Floats / CSS Exclusions issues [[ideas:css3-floats|]] - Monday
   * Gradients - Monday/Tuesday
-===== Tuesday =====
+====== Tuesday ======
 
-===== TBD =====
+====== TBD ======
   * CSS3 Text
   * first two face-to-face meetings of 2012
   * Flexbox
