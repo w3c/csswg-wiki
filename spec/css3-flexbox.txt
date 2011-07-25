@@ -54,7 +54,7 @@ Multiline flexbox needs at least 4 bits to choose from directional options (can 
 
 Current draft combines orientation and direction in one property [[http://dev.w3.org/csswg/css3-flexbox/#flex-direction0]], it works well for common cases but does not easily extent to multiline situation.
 
-  ;Proposal : Some options for adding mutiline are listed here: [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0116.html]] - options 1 to 6
+  ;Proposal : Some options for adding multiline are listed here: [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0116.html]] - options 1 to 6
 
 
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Jun/0134.html -- best proposal so far (from Fantasai)
@@ -66,7 +66,7 @@ Option 7:
   flex-wrap: no-wrap | wrap | balance*
   flex-direction: [ forward | backward ] || reverse-stack
 </code>
-(this doesn't inlclude "line-progression")
+(this doesn't include "line-progression")
 
   ;Proposal : http://lists.w3.org/Archives/Public/www-style/2011Jul/0406.html 
 
@@ -104,9 +104,9 @@ a particular dimension is matching the block or inline direction
   ;URL : //todo//
   ;Summary : flexbox has two ways to align in transverse direction - confusing and still incomplete. Try to make it consistent with Grid and/or Table.
   
-2009 spec had box-align propery with values similar to vertical-align in table cells (start/end/center/stretch/baseline). Current spec adds alignment via auto margins and padding, however 'flex-align' property remains, just for baseline alignment. Having two ways to align, both incomplete, is inconsistent and confusing. 
+2009 spec had box-align property with values similar to vertical-align in table cells (start/end/center/stretch/baseline). Current spec adds alignment via auto margins and padding, however 'flex-align' property remains, just for baseline alignment. Having two ways to align, both incomplete, is inconsistent and confusing. 
 
-It may be OK, if margin-based alignment is more powerful, having two ways to align may be justified. At this point however, margin-based alignment (using "margin:auto") doesn't provide any new ways of alignment that were not possible with flex-slign property. 
+It may be OK, if margin-based alignment is more powerful, having two ways to align may be justified. At this point however, margin-based alignment (using "margin:auto") doesn't provide any new ways of alignment that were not possible with flex-align property. 
 
 Historically, it was proposed that margins can have flex values, which 
 
@@ -120,7 +120,7 @@ Alignment via margins doesn't really add new ways of alignment that were not pos
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011May/0271.html
   ;Summary : consider 'true-center' as an align option for flexbox
   
-'true-center' has been proposed many times and has dedicated supporeters. Now that flexbox is adding anumber of special layout rules and unique behavior, including new kinds of alignment, why not include true-center? There is no need to describe why it can be very useful.
+'true-center' has been proposed many times and has dedicated supporters. Now that flexbox is adding a number of special layout rules and unique behavior, including new kinds of alignment, why not include true-center? There is no need to describe why it can be very useful.
 
   ;Status : waiting for use cases
   
@@ -128,17 +128,17 @@ Alignment via margins doesn't really add new ways of alignment that were not pos
   ;URL : //todo//
   ;Summary : page breaking behavior needs to be defined for flexbox
 
-flexbox spec says nothing about what happens when flexbox intersects page bounaries. it is reasonable to expect that flexbox is used at high level of page layout (as to positiong side-by-side content columns or headers/footnotes), then it is critical that pages using flexbox layout print reasonably.  
+flexbox spec says nothing about what happens when flexbox intersects page boundaries. it is reasonable to expect that flexbox is used at high level of page layout (as to positioning side-by-side content columns or headers/footnotes), then it is critical that pages using flexbox layout print reasonably.  
 
   ;Status : Action Alex: propose
   
 ==== Issue 6 ====
   ;URL : //todo//
-  ;Summary : 'inline-' display values work around limitations of 'display' property semantics. Separeate properties for element placment and element content layout are long overdue.
+  ;Summary : 'inline-' display values work around limitations of 'display' property semantics. Separate properties for element placement and element content layout are long overdue.
   
 From flexbox spec draft: 
 
-ISSUE: The proliferation of "inline-*" display values is untenable and restrictive. Table cells should be able to use the flexbox layout mode for their contents, for example, rather than being forced to use block layout. It's expected that this will be fixed by splitting the ‘display’ property into subproperties controlling how the element formats its contents (‘display-inside’) and how it reacts to its surroundings (‘display-outside’). Once that occurs, this section will instead describe a single new ‘display-inside’ value that triggers flexbox layout.
+ISSUE: The proliferation of "inline-*" display values is untenable and restrictive. Table cells should be able to use the flexbox layout mode for their contents, for example, rather than being forced to use block layout. It's expected that this will be fixed by splitting the ‘display’ property into sub-properties controlling how the element formats its contents (‘display-inside’) and how it reacts to its surroundings (‘display-outside’). Once that occurs, this section will instead describe a single new ‘display-inside’ value that triggers flexbox layout.
 
   ;Status : Open
   ;Tentative resolution : this  is a change for CSS3-BOX; need proposal, pending use cases
