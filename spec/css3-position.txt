@@ -6,3 +6,9 @@ This page contains the issues that are not yet listed in the specification and t
 
 ===== Issues =====
 ===== Issue 1:  =====
+
+Changing the positioning edge. Or changing the containing block.
+
+There are issues with circular references. Need a way to handle this. 
+
+Original proposal: http://www.xanthir.com/blog/b48H0
