@@ -37,6 +37,7 @@ This section outlines active possibilities for future specs or notes
   * [[spec:selectors4|Selectors Level 4]]
   * [[spec:css3-overflow|CSS Overflow Level 3]]
   * [[spec:box-orphans|Box-model-related features with no home]]
+  * [[spec:css3-position|CSS Positioning]]
   * [[http://perldoc.perl.org/perlrun.html|position: persistent]] (scroll it)
 
 ===== out of date =====
