@@ -1,0 +1,3 @@
+===== CSS Regions Q & A ======
+
+This Q & A is in sync. with the following version of the specification: http://www.w3.org/TR/2011/WD-css3-regions-20110609/
