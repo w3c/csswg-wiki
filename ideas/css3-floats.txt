@@ -4,6 +4,29 @@ This page contains the issues that are not yet listed in the specification and t
 
 There is a companion [[ideas:css3-floats-use-cases|use cases]] page.
 
+===== General Note =====
+
+Floats have a number of aspects/characteristics:
+
+  - The content if removed from normal flow
+  - A BFC is set up and shrink-wrapped
+  - The BFC is positioned
+      - Relative to the marker left behind when the content is removed
+      - Floats do not overlap one another and are stacked or cleared
+      - Positioning is limited to the “containing block”
+  - The BFC is an exclusion using it Border box as the wrap-shape
+ 
+For exclusions,
+  - Positioning removes the content from normal flow (or the content is left in normal flow)
+  - Positioning also sets up a BFC and shrink-wraps it; wrap-shape may be default or explicit
+  - Positioning positions the exclusion,
+      - The marker is used to resolve “auto” values in absolute positioning
+      - The Exclusions proposal has groups and order to control exclusion interaction
+      - Interaction is not limited per b.
+  - The wrap-shape (or pair of shapes) is the exclusion.
+ 
+We noted that “float” should have been better tied to “position” because it currently turns of the “position” property and replaces it.
+
 ===== Action Items =====
 
   * Editor. Add that we may consider having multiple shapes to define the inside and ouside shapes separately.
