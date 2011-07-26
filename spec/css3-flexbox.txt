@@ -113,6 +113,19 @@ Option 7.4
                [ wrap | wrap-reverse | wrap-left | wrap-right | wrap-down| wrap-up ]
 
 
+Option 8:
+
+<code>
+flex-flow: 
+    [ row | row-reverse | column | column-reverse ] || [ wrap | wrap-reverse ] |
+
+    [ horizontal | horizontal-reverse | horizontal-ltr| horizontal-rtl ] && 
+    [ wrap| wrap-reverse | wrap-down| wrap-up ]? |
+
+    [ vertical| vertical-reverse| vertical-ttb| vertical-btt ] && 
+    [ wrap | wrap-reverse | wrap-left | wrap-right ]?
+</code>
+
   ;Status : Open
 
 ==== Issue 3 ====
