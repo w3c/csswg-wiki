@@ -251,9 +251,9 @@ anonymous flexbox items are created in element tree. A sequence of plain text an
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0430.html
   ;Summary : consider 'stack' as flexbox direction
   ;Proposal : 
-
+<code>
   flex-flow: stack;
-
+</code>
 Children replaced one on top another. Intrinsic dimensions of
 flex-flow: stack; container are equal to tallest/widest child dimensions.
 
