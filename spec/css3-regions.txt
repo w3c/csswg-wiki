@@ -67,7 +67,17 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
    ;Summary : should we add an API to find out which region displays an element in a named flow?
    ;Discussion : this has been proposed by Alex and seems like a nice functionality. 
    ;Proposal : create an ACTION to have a specific API in the next draft.
-   
+   ;Proposal : add a method to NamedFlow interface   
+  [supplemental] interface NamedFlow {
+      ...
+      Element[] getRegionsContainingElement(Element element);
+  }
+or document
+  [supplemental] interface Document {
+      ...
+      Element[] getRegionsContainingElement(Element element, string flowName);
+  }
+
 ==== Issue 6 : Compatibility with CSS Grid Layout Module Section 7.2 ====
 
     ;URL : http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/#explicitly-defined-grid-cells
