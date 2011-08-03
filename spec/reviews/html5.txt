@@ -159,10 +159,12 @@ If it is necessary, e.g., for transport reasons, to combine several resources in
 
 Chapter 10 on rendering seems to say that elements and attributes are matched against CSS selectors in a case-insensitive way, even if the document is in XML. (The chapter itself is not normative, but I assume it says that because there is corresponding normative text somewhere else.) That contradicts XML. It also breaks existing style sheets, e.g., user style sheets that rely on the fact that
 
-  body [color: green}
+  body {color: green}
   BODY {color: blue}
 
 makes XHTML documents green and HTML ones blue.
+
+**Anne notes** that this comment is incorrect, that the case-insensitivity only applies to attribute values and only for the rules listed in that section as UA style rules.
 
 === Pseudo-namespaces in HTML ===
 
