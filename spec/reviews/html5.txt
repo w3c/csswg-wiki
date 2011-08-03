@@ -4,15 +4,21 @@ This page is where the CSSWG will track our comments to the HTMLWG regarding the
 
 ===== Official CSSWG Comments (DRAFT) =====
 
-  * UI selectors - need to define / verify proper split of definition of UI selectors in CSS3-UI and how elements enter those states in HTML5
-  * :ltr :rtl - should be :dir per Selectors 4; filed http://www.w3.org/Bugs/Public/show_bug.cgi?id=13346
-  * ::cue, ::cue(selector)
-  * :past, :future - do we need a new CSS module for these? http://lists.w3.org/Archives/Public/www-style/2011Jul/0413.html
-  * normative references to CSS editors drafts. e.g.
-    * ... to be provided
-  * case-insensitive attribute value matching; http://lists.w3.org/Archives/Public/www-style/2011Jul/0415.html
-  * rendering depends on video { object-fit: contain; }
-  * for defining <font> could be useful if CSS has font-size:xxx-large for a font size 50% larger than xx-large
+==== Pseudo-selectors ====
+
+It is our understanding that the CSSWG defines pseudo-class selectors in its modules, and the HTMLWG defines how elements enter the corresponding states in HTML5. Given that understanding, this section seems to be missing normative references to the appropriate specs, i.e. Selectors 3 / CSS3 UI / Selectors 4.
+
+With regards to '':ltr'' and '':rtl'', these should be updated to '':dir()'' per Selectors 4: see http://www.w3.org/Bugs/Public/show_bug.cgi?id=13346
+
+We've added '':past'' and '':future'' to the Selectors 4 draft for you, btw. Next time please ask us if you need a selector defined. We might not get to it right away, but at least we will be aware that we need to draft a spec for it.
+
+==== ::cue and coordination ====
+
+...
+
+==== Normative references to CSS editors' drafts ====
+
+...
 
 ==== Automatic height for transcluded elements (SEAMLESS attribute) ====
 
