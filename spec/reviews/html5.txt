@@ -2,23 +2,55 @@
 
 This page is where the CSSWG will track our comments to the HTMLWG regarding their HTML5 specification.
 
-===== current editor draft =====
+===== Official CSSWG Comments (DRAFT) =====
 
   * UI selectors - need to define / verify proper split of definition of UI selectors in CSS3-UI and how elements enter those states in HTML5
   * :ltr :rtl - should be :dir per Selectors 4; filed http://www.w3.org/Bugs/Public/show_bug.cgi?id=13346
   * ::cue, ::cue(selector)
   * :past, :future - do we need a new CSS module for these? http://lists.w3.org/Archives/Public/www-style/2011Jul/0413.html
-  * proposal DISABLED attribute on STYLE and LINK elements
   * normative references to CSS editors drafts. e.g.
     * ... to be provided
   * case-insensitive attribute value matching; http://lists.w3.org/Archives/Public/www-style/2011Jul/0415.html
   * rendering depends on video { object-fit: contain; }
   * for defining <font> could be useful if CSS has font-size:xxx-large for a font size 50% larger than xx-large
 
-==== Proposed comments by Bert ====
+==== Automatic height for transcluded elements (SEAMLESS attribute) ====
 
+Another timing/coordination problem is the SEAMLESS attribute. CSS currently says that "replaced elements" (CSS's term that loosely corresponds to transclusions) that don't have an "intrinsic size" will be 150px high. An HTML document, e.g., doesn't have an "intrinsic size" under the definition of current CSS, and thus <IFRAME SEAMLESS...> will be 150px high, with or without SEAMLESS.
 
-=== Attribute value normalization is not backwards compatible ===
+There are ideas to extend CSS and allow resources that do not have a fixed aspect ratio, but that do nevertheless have a definite height for each given width (such as HTML documents) to be rendered with that height, instead of 150px. But those ideas aren't yet at a state where HTML can take them for granted.
+
+It's a nice feature: "seamless" transclusion is obviously more attractive than transclusion in a 150px-high box with a scroll bar, but it urgently needs coordination with CSS.
+
+== Proposed Text for the Comment ==
+
+The section on the 'seamless' attribute attempts to specify the sizing of seamless iframes, but it does so in an incomplete and somewhat incorrect manner.
+
+This section should instead delegate to CSS, where we should define how this sort of sizing works.
+
+==== Chapter 10 more clearly marked as informative ====
+
+Chapter 10 says that it is not normative, but it says it in a rather roundabout way. It would probably avoid confusion if it actually had the literal words "informative" or "not normative" at the top.
+
+===== Uncategorized? =====
+
+=== Alternative style sheet handling undefined ===
+
+HTML5 says that alternative style sheets are defined in CSSOM. There are 
+two issues here. One is a question of timing: there is actually no 
+version of CSSOM yet, not even a WD, that defines alternative style 
+sheets. The other is a question of spec organization: why in CSSOM? It 
+has nothing to do with the DOM, it's not where you would expect it, and 
+why should an implementer need to learn to read the special language of 
+the CSSOM spec just to implement alternative style sheets?
+
+===== Daniel's Personal Comments =====
+
+  * proposed DISABLED attribute on STYLE and LINK elements
+
+===== Bert's Personal Comments =====
+
+==== Attribute value normalization is not backwards compatible ====
 
 The way string-valued attributes are processed in HTML5 is not backwards 
 compatible with the way in HTML4. In HTML4, newlines in the source 
@@ -35,16 +67,6 @@ avoid long lines:
 
 and the the two attributes will still be equal to one another, but not 
 so in HTMl5.
-
-=== Alternative style sheet handling undefined ===
-
-HTML5 says that alternative style sheets are defined in CSSOM. There are 
-two issues here. One is a question of timing: there is actually no 
-version of CSSOM yet, not even a WD, that defines alternative style 
-sheets. The other is a question of spec organization: why in CSSOM? It 
-has nothing to do with the DOM, it's not where you would expect it, and 
-why should an implementer need to learn to read the special language of 
-the CSSOM spec just to implement alternative style sheets?
 
 === White space where HTML4 ignored it ===
 
@@ -88,29 +110,11 @@ Current CSS cannot express the desired behavior of the DETAILS element. Although
 
 Moreover, all the (informal) proposals in CSS so far have dealt with collapsing elements where the parts to show and the parts to hide were elements or attributes (e.g., LI elements in a collapsible list, or TITLE attributes). Maybe it is possible to invent pseudo-elements for the collapsible content of the DETAILS element, but it is probably better to add an element, e.g.: <DETAILS><SUMMARY>...</SUMMARY><BODY>...</BODY></DETAILS>. At least the choice of mark-up needs further investigation and should be coordinated with the CSS WG.
 
-=== Automatic height for transcluded elements (SEAMLESS attribute) ===
-
-Another timing/coordination problem is the SEAMLESS attribute. CSS currently says that "replaced elements" (CSS's term that loosely corresponds to transclusions) that don't have an "intrinsic size" will be 150px high. An HTML document, e.g., doesn't have an "intrinsic size" under the definition of current CSS, and thus <IFRAME SEAMLESS...> will be 150px high, with or without SEAMLESS.
-
-There are ideas to extend CSS and allow resources that do not have a fixed aspect ratio, but that do nevertheless have a definite height for each given width (such as HTML documents) to be rendered with that height, instead of 150px. But those ideas aren't yet at a state where HTML can take them for granted.
-
-It's a nice feature: "seamless" transclusion is obviously more attractive than transclusion in a 150px-high box with a scroll bar, but it urgently needs coordination with CSS.
-
-==== Proposed Text for the Comment ====
-
-The section on the 'seamless' attribute attempts to specify the sizing of seamless iframes, but it does so in an incomplete and somewhat incorrect manner.
-
-This section should instead delegate to CSS, where we should define how this sort of sizing works.
-
 === Scoped style sheets ===
 
 Scoped style sheets are complex, difficult to maintain for authors, and not needed. Especially with the SEAMLESS attribute, there is no need to combine separate documents in a single file, they can be transcluded instead. That keeps each of them simple, easy to maintain, easy to re-use, and easy to parse: one head with one style, one body, and its own URL.
 
 If it is necessary, e.g., for transport reasons, to combine several resources in one file, it is better to use a generic solution, that works not only for HTML documents, but for any documents. That could be, e.g., a zip or tar file or a multipart MIME file.
-
-=== Chapter 10 more clearly marked as informative ===
-
-Chapter 10 says that it is not normative, but it says it in a rather roundabout way. It would probably avoid confusion if it actually had the literal words "informative" or "not normative" at the top.
 
 === Case-insensitive XML ===
 
