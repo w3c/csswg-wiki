@@ -96,6 +96,12 @@ There are ideas to extend CSS and allow resources that do not have a fixed aspec
 
 It's a nice feature: "seamless" transclusion is obviously more attractive than transclusion in a 150px-high box with a scroll bar, but it urgently needs coordination with CSS.
 
+==== Proposed Text for the Comment ====
+
+The section on the 'seamless' attribute attempts to specify the sizing of seamless iframes, but it does so in an incomplete and somewhat incorrect manner.  For example, it is unclear 
+
+This section should instead delegate to CSS, where we should define how this sort of sizing works.
+
 === Scoped style sheets ===
 
 Scoped style sheets are complex, difficult to maintain for authors, and not needed. Especially with the SEAMLESS attribute, there is no need to combine separate documents in a single file, they can be transcluded instead. That keeps each of them simple, easy to maintain, easy to re-use, and easy to parse: one head with one style, one body, and its own URL.
