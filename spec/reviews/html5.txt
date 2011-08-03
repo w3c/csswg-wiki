@@ -32,6 +32,14 @@ This section should instead delegate to CSS, where we should define how this sor
 
 Chapter 10 says that it is not normative, but it says it in a rather roundabout way. It would probably avoid confusion if it actually had the literal words "informative" or "not normative" at the top.
 
+===== No CSSWG Comment =====
+
+The following topics were raised for review, but the CSSWG has no comments on them.
+
+  * case-insensitive attribute value matching; http://lists.w3.org/Archives/Public/www-style/2011Jul/0415.html
+  * rendering depends on video { object-fit: contain; }
+  * for defining <font> could be useful if CSS has font-size:xxx-large for a font size 50% larger than xx-large
+
 ===== Uncategorized? =====
 
 === Alternative style sheet handling undefined ===
