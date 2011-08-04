@@ -13,7 +13,9 @@ References:
 
 This section keeps track of the CSS WG resolutions regarding the CSS Regions specification. A checkmark indicates that the resolution has been integrated at least in the latest editor draft.
 
-==== [[http://krijnhoetmer.nl/irc-logs/css/20110725|Seattle F2F July 2011, Monday]] ====
+==== Seattle F2F July 2011 ====
+
+[[http://krijnhoetmer.nl/irc-logs/css/20110725|Seattle F2F July 2011, Monday]]
 
   * ✔ RESOLVED: Copying Flow Content is not something we are looking at right now.
   * ✔ RESOLVED: Change the grid to integrate with CSS regions content through regular elements
