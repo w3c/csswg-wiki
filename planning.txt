@@ -30,20 +30,22 @@ Suggested updates:
     * based on [[http://www.w3.org/TR/2001/WD-css3-text-20010517/#document-grid|CSS3 module: text WD 20010517]]
 
 ===== Upcoming Meetings =====
-
-  * [[planning:seattle-2011]]
+  * [[planning:tpac-2011]]
   * [[planning:2012]]
 ===== Past Meetings =====
-
+==== 2008 ====
   * [[planning:cambridge-2008]]
   * [[planning:mandelieu-2008]]
+==== 2009 ====
   * [[planning:tokyo-2009]]
   * [[planning:sophia-2009]]
   * [[planning:tpac-2009]]
+==== 2010 ====
   * [[planning:cupertino-2010]]
   * [[planning:oslo-2010]]
   * [[planning:tpac-2010]]
+==== 2011 ====
   * [[planning:mountain-view-2011]]
   * [[planning:tokyo-workshop-2011]]
   * [[planning:japan-2011]] ([[planning:japan-2011-venues|venues]])
- 
+  * [[planning:seattle-2011]]
