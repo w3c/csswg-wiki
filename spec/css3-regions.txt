@@ -90,6 +90,13 @@ The edges of first regions in a region chain associated to a named flow establis
   ;Discussion : In DOM Level 3 events, all events are Sync. except 'error', 'load', 'wheel' and 'scroll' which are Async. Not clear what guides making an event Sync or Async.
   ;Proposal : None yet.
   
+  
+==== Issue 11: Should not allow pseudo-elements to move to a named flow ====
+
+  ;Summary : The current spec. says that the 'flow-into' property only applies to elements but it does not explicitly rule out pseudo-elements such as '::first-line'
+  ;Discussion : Since the '::first-line' pseudo-element is layout based, it seems difficult to allow moving it to a flow and raises questions (e.g., after the first-line has been moved to the named flow, what happens to the new 'first line'? Should it also be moved to the named flow?).
+  ;Proposal : Add wording in the spec. saying that the 'flow-into' property is not allowed on pseudo-elements.
+  
 ===== Issues to Resolve with the CSS WG =====
 
 ==== Issue 2 : Auto-sizing of regions ====
