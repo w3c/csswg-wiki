@@ -308,7 +308,6 @@ Option 1:
 Option 2: Option 1 plus a new set value for 'flex-flow' -- [ align-up | align-right | align-left | align-down | align-before | align-after ]
 
   ;Proposal : alignment direction is wrap direction in multi-line flexbox and block flow direction in single-line flexbox (option 1)
-
   ;Status : Open
 
 <html><!--
