@@ -312,6 +312,13 @@ Option 2: Option 1 plus a new set value for 'flex-flow' -- [ align-up | align-ri
 
 <html><!--
 
+==== Issue 15 ====
+
+  ;URL : //todo//
+  ;Summary : including margins and paddings into flex algorithm (with flex 1 for 'auto') is incomplete. Would it make sense to allow flex() function on margins and paddings?
+  ;Proposal : TBD
+  ;Status : Open
+
 ==== Issue NEW ====
 
   ;URL : //todo//
