@@ -108,7 +108,15 @@ The edges of first regions in a region chain associated to a named flow establis
   ;Summary : the current draft uses the 'content-order' property to sequence regions in a region chain. It seems that the 'region-order' property would be more appropriate.
   ;Proposal : rename the 'content-order' property to 'region-order'
   
-  
+
+==== Issue 14: ::region-lines pseudo-selector ====
+
+   ;URL : http://lists.w3.org/Archives/Public/www-style/2011May/0518.html">
+   ;Description: there is concern (see link)
+        that the ''first-line'' precedent is underspecified and that more
+        specification is needed in addition to referencing the existing
+        precedent.
+   ;Proposal: address this issue through testing and implementation feedback. Keep specification as is for now.
 ===== Issues to Resolve with the CSS WG =====
 
 ==== Issue 2 : Auto-sizing of regions ====
