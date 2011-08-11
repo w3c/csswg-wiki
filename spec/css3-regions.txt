@@ -78,12 +78,12 @@ L-Action-3
 L-Action-4
   * ✔  <html><span style="color:#6c6;font-weight:bold;">Alex</span></html>: sendemail about content v.s., flow-from to www-style.
 
-✔  [[http://www.w3.org/Style/CSS/Tracker/actions/352|ACTION 352]]
-  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: for this version we are limiting regions to be block containers; will add a note that this may be expanded in future levels
+[[http://www.w3.org/Style/CSS/Tracker/actions/352|ACTION 352]]
+  * ✔  <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: for this version we are limiting regions to be block containers; will add a note that this may be expanded in future levels
 
 
-✔  [[http://www.w3.org/Style/CSS/Tracker/actions/330|ACTION 330]]
-  * <html><span style="color:gray;font-weight:bold;">Vincent (duplicate of ACTION-354)</span></html>: Regions spec. editors to specify a model for breaking flow content across areas that accounts for regions, columns and pages. Build on paged media and propose behavior for nested flows breaks. See the [[spec:css3-regions:breaks-use-cases|breaks use cases]] page.
+[[http://www.w3.org/Style/CSS/Tracker/actions/330|ACTION 330]]
+  * ✔  <html><span style="color:gray;font-weight:bold;">Vincent (duplicate of ACTION-354)</span></html>: Regions spec. editors to specify a model for breaking flow content across areas that accounts for regions, columns and pages. Build on paged media and propose behavior for nested flows breaks. See the [[spec:css3-regions:breaks-use-cases|breaks use cases]] page.
 
 See: [[http://lists.w3.org/Archives/Public/www-style/2011Jul/0241.html|Vincent's action email]]  
 See: [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JulSep/0107.html|Alex's proposal]]
