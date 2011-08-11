@@ -54,6 +54,26 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
 [[http://www.w3.org/Style/CSS/Tracker/actions/354|ACTION 354]]
   * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: Come up with a proposal for breaks either a page-break or a general type of break or both and related use cases
 
+L-Action-1
+  * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: remove all issues from draft and move to wiki.
+
+L-Action-2
+  * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: Remove "Integration with other specifications section"
+
+L-Action-3
+  * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: Update Wiki with remaining actions.
+
+L-Action-4
+  * <html><span style="color:crimson;font-weight:bold;">Alex</span></html>: sendemail about content v.s., flow-from to www-style.
+
+L-Action-5
+  * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: pagination region: what happens when flowing between containers of varying width? e..g., <div style="width:auto">...</div> flowing across regions of various widths. Action: Vincent to illustrate the use case (body with text flowing through multiple pages of different width, and width=100%).
+
+L-Action-6
+  * <html><span style="color:crimson;font-weight:bold;">Rossen</span></html>: respond to Alex's email on auto sizing.
+
+L-Action-7
+  * <html><span style="color:crimson;font-weight:bold;">Alex</span></html>: provide feedback on applicability of seamless frames in CSS regions.
 
 
 ====== Completed or Duplicated Actions ======
