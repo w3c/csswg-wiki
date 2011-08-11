@@ -66,6 +66,18 @@ L-Action-7
 
 ====== Completed or Duplicated Actions ======
 
+L-Action-1
+  * ✔  <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: remove all issues from draft and move to wiki.
+
+L-Action-2
+  * ✔  <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: Remove "Integration with other specifications section"
+
+L-Action-3
+  * ✔  <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: Update Wiki with remaining actions.
+
+L-Action-4
+  * ✔  <html><span style="color:#6c6;font-weight:bold;">Alex</span></html>: sendemail about content v.s., flow-from to www-style.
+
 ✔  [[http://www.w3.org/Style/CSS/Tracker/actions/352|ACTION 352]]
   * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: for this version we are limiting regions to be block containers; will add a note that this may be expanded in future levels
 
