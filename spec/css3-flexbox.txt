@@ -280,7 +280,17 @@ flex-flow: stack; container are equal to tallest/widest child dimensions.
 
   ;Status : Open
 
+==== Issue 13 ====
 
+  ;URL : http://dev.w3.org/csswg/css3-flexbox/#flex-function
+  ;Summary : default values in flex() function should be the initial values
+  
+Current spec says: "If flex() function has a single value and it is a <length>, a <percentage>, or a valid keyword for 'width' or 'height', the preferred size is set to that value, **the positive flexibility is set to 1**, and the negative flexibility is set to ''0''."
+
+Omitted values should devault to initial values, and initial value for flex is zero. That and other rules for flex() should change to use initial values as defaults
+
+  ;Proposal : Always use initial values as defaults in flex()
+  ;Status : Open
 
 <html><!--
 
