@@ -57,9 +57,6 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
 L-Action-5
   * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: pagination region: what happens when flowing between containers of varying width? e..g., <div style="width:auto">...</div> flowing across regions of various widths. Action: Vincent to illustrate the use case (body with text flowing through multiple pages of different width, and width=100%).
 
-L-Action-6
-  * <html><span style="color:crimson;font-weight:bold;">Rossen</span></html>: respond to Alex's email on auto sizing.
-
 L-Action-7
   * <html><span style="color:crimson;font-weight:bold;">Alex</span></html>: provide feedback on applicability of seamless frames in CSS regions.
 
