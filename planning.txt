@@ -32,6 +32,7 @@ Suggested updates:
 ===== Upcoming Meetings =====
   * [[planning:tpac-2011]]
   * [[planning:2012]]
+    * [[planning:paris-2012]]
 ===== Past Meetings =====
 ==== 2008 ====
   * [[planning:cambridge-2008]]
