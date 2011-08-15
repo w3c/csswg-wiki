@@ -230,9 +230,10 @@ Ugly, not self-documenting:
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/margin-collapse-137.htm|[RC6] margin-collapse-137]]
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/margin-collapse-138.htm|[RC6] margin-collapse-138]]
 
-==== 72 RC6 testcases missing the invalid flag ====
+==== 73 RC6 testcases missing the invalid flag ====
 
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/c526-font-sz-003.htm|[RC6] c526-font-sz-003]] font-size: -0.5in; will be parsed and reported as an illegal value.
+  - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/c548-ln-ht-002.htm|[RC6] c548-ln-ht-002]] line-height: -1em; will be parsed and reported as an illegal value.
   - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/font-size-rule-001.htm|[RC6] font-size-rule-001]]
   - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/font-family-rule-003.htm|[RC6] font-family-rule-003]]
   - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/font-family-rule-007.htm|[RC6] font-family-rule-007]]
