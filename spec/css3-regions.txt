@@ -125,7 +125,7 @@ See Issue 1 below.
 
    ;URL : http://www.w3.org/TR/CSS21/visuren.html#block-formatting
    ;Description : unclear if pages (the region precedent) establish a new BFC.
-   ;Proposal : none yet.
+   ;Proposal : regions should establish a BFC because there is no sense in having their content participate in the region parent's BFC, under any circumstance.
    
 ==== Issue 16: Scrolling behavior for split blocks ====
 
