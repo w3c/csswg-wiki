@@ -74,6 +74,11 @@ L-Action-11
   * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: write up new proposal based on Rossen's 'option 1' discussion (see attached {{:spec:css3-regions:auto-sizing.pdf|}}) and raise as issue with the working group.
 
 
+L-Action-12
+  * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: add a note that the overflow property works as usual on all regions in case there is an overflow (e.g., borders and characters).
+
+
+
 
 ====== Completed or Duplicated Actions ======
 
