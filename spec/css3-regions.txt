@@ -127,6 +127,11 @@ See Issue 1 below.
    ;Description : unclear if pages (the region precedent) establish a new BFC.
    ;Proposal : none yet.
    
+==== Issue 16: Scrolling behavior for split blocks ====
+
+   ;Description : what happens to scroll overflow for blocks that are split across regions/
+   ;Proposal : none yet.
+   
 ===== Issues to Resolve with the CSS WG =====
 
 
