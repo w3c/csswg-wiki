@@ -120,6 +120,13 @@ See Issue 1 below.
    ;Description : there is concern (see link) that the ''first-line'' precedent is underspecified and that more specification is needed in addition to referencing the existing precedent.
    ;Proposal : address this issue through testing and implementation feedback. Keep specification as is for now.
    
+   
+==== Issue 15: Do regions establish a new BFC? ====
+
+   ;URL : http://www.w3.org/TR/CSS21/visuren.html#block-formatting
+   ;Description : unclear if pages (the region precedent) establish a new BFC.
+   ;Proposal : none yet.
+   
 ===== Issues to Resolve with the CSS WG =====
 
 
