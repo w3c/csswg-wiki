@@ -124,13 +124,9 @@ See: [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JulSep/0107.html|Alex'
 See Issue 1 below.
 
 ===== New Issues =====
-
-
-==== Issue 13: Should we rename content-order to region-order? ====
-
-  ;Summary : the current draft uses the 'content-order' property to sequence regions in a region chain. It seems that the 'region-order' property would be more appropriate.
-  ;Proposal : rename the 'content-order' property to 'region-order'
-  
+   
+   
+===== Issues to Resolve with the CSS WG =====
 
 ==== Issue 14: ::region-lines pseudo-selector ====
 
@@ -138,28 +134,6 @@ See Issue 1 below.
    ;Description : there is concern (see link) that the ''first-line'' precedent is underspecified and that more specification is needed in addition to referencing the existing precedent.
    ;Proposal : address this issue through testing and implementation feedback. Keep specification as is for now.
    
-   
-==== Issue 15: Do regions establish a new BFC? ====
-
-   ;URL : http://www.w3.org/TR/CSS21/visuren.html#block-formatting
-   ;Description : unclear if pages (the region precedent) establish a new BFC.
-   ;Proposal : regions should establish a BFC because there is no sense in having their content participate in the region parent's BFC, under any circumstance.
-   
-==== Issue 16: Scrolling behavior for split blocks ====
-
-   ;Description : what happens to scroll overflow for blocks that are split across regions.
-   ;Options : could either say that scrollable regions cannot be broken or that a scrollbar only appears on the second segment.
-   ;Proposal : scroll blocks are not splittable.
-   
-==== Issue 17: Behavior of broken floats ====
-
-   ;Description : what happens if a float is broken across regions of different width? In particular, what happens if the float fragment on a second (or third) region, is in the middle of the region (x-axis)? How does that interact with subsequent floats? How does that interact with elements and clear behavior?
-   ;Proposal : disallow breaking floats across regions. They overflow.
-   
-   
-===== Issues to Resolve with the CSS WG =====
-
-
 
 ==== Issue 10: Should the regionLayoutUpdate event by Sync or Async? ====
 
@@ -213,6 +187,34 @@ See [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0682.html|Possible O
   ;Summary : Should we add a new type of break for content in regions or should we specify which breaks should be honored when flowing content in regions?
   ;Discussion : see URL and response from Alex. The general idea is that we should be able to define a region 'type' for content that is getting laid out and honor breaks for that container 'type'. So if a region has 'flow-container-type' set to column, then it will honor column breaks in the content it lays out.
   ;Proposal: [[http://lists.w3.org/Archives/Member/w3c-css-wg/2011JulSep/0107.html|See Alex's proposal]] 
+
+===== Issues Resolved by Editors =====
+
+==== Issue 13: Should we rename content-order to region-order? ====
+
+  ;Summary : the current draft uses the 'content-order' property to sequence regions in a region chain. It seems that the 'region-order' property would be more appropriate.
+  ;Proposal : rename the 'content-order' property to 'region-order'
+  ;Resolution : L-Action-13 to rename.
+
+==== Issue 15: Do regions establish a new BFC? ====
+
+   ;URL : http://www.w3.org/TR/CSS21/visuren.html#block-formatting
+   ;Description : unclear if pages (the region precedent) establish a new BFC.
+   ;Proposal : regions should establish a BFC because there is no sense in having their content participate in the region parent's BFC, under any circumstance.
+   ;Resolution : L-Action-14 to edit spec.
+   
+==== Issue 16: Scrolling behavior for split blocks ====
+
+   ;Description : what happens to scroll overflow for blocks that are split across regions.
+   ;Options : could either say that scrollable regions cannot be broken or that a scrollbar only appears on the second segment.
+   ;Proposal : scroll blocks are not breakable.
+   ;Resolution : L-Action-15 to edit spec.
+   
+==== Issue 17: Behavior of broken floats ====
+
+   ;Description : what happens if a float is broken across regions of different width? In particular, what happens if the float fragment on a second (or third) region, is in the middle of the region (x-axis)? How does that interact with subsequent floats? How does that interact with elements and clear behavior?
+   ;Proposal : disallow breaking floats across regions. They overflow.
+   ;Resolution : L-Action-15 to edit spec.
     
 ===== Resolved Issues: Seattle F2F Meeting, July 2011 =====
 
