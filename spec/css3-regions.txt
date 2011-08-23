@@ -68,6 +68,26 @@ L-Action-10
 
 ====== Completed or Duplicated Actions ======
 
+
+L-Action-8
+  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: make sure circular dependencies are covered in the spec. and that the behavior is consistent with an invalid flow-from reference.
+
+L-Action-11
+  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: write up new proposal based on Rossen's 'option 1' discussion (see attached {{:spec:css3-regions:auto-sizing.pdf|}}) and raise as issue with the working group.
+
+L-Action-12
+  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: add a note that the overflow property works as usual on all regions in case there is an overflow (e.g., borders and characters).
+
+L-Action-13
+  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: rename content-order to region-order.
+
+L-Action-14
+  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: update the spec. to specify that regions establish a BFC.
+
+L-Action-16
+  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: Regions initial containing block: The edges of first regions in a region chain associated to a named flow establish the rectangle that is the initial containing block of the named flow.
+
+
 L-Action-6
   * <html><span style="color:#6c6;font-weight:bold;">Rossen</span></html>: respond to Alex's email on auto sizing.
 
