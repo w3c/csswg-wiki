@@ -125,6 +125,14 @@ See Issue 1 below.
 
 ===== New Issues =====
    
+==== Issue 18: Interplay of flow-from and content ====
+
+   ;URL : http://krijnhoetmer.nl/irc-logs/css/20110824
+   ;Description : During the 08/24/2011, the working group resolved to use the 'flow-from' property instead of the content property to make an element a region. Fantasai expressed reserves and Steve Zilles suggested to add an issue.
+   ;Proposal : close this issue and wait for a formal issue expressing specific technical problems.
+ 
+
+
 ==== Issue 17: Behavior of broken floats ====
 
    ;Description : what happens if a float is broken across regions of different width? In particular, what happens if the float fragment on a second (or third) region, is in the middle of the region (x-axis)? How does that interact with subsequent floats? How does that interact with elements and clear behavior?
