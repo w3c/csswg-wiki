@@ -1,6 +1,6 @@
 ====== Step-by-step Publishing a CSS Spec ======
 
-  - Make a Changes section summarizing the major changes since the last publication. ("Major" is relative--for a CR, it's any non-editorial change, but for an early-stage WD it would be sections that got an overhaul, major syntactic changes, or major behavioral changes, not every minor detail that got fixed.)
+  - Make a Changes section summarizing the major changes since the last publication. ("Major" is relative---for a CR, it's any non-editorial change, but for an early-stage WD it would be sections that got an overhaul, major syntactic changes, or major behavioral changes, not every minor detail that got fixed.)
   - Get an official CSSWG Resolution to publish. Make any changes requested.
   - Update the Previous Version link at the top to the latest dated URL on /TR
   - [[http://validator.w3.org/|Validate]] both Overview.src.html and Overview.html
