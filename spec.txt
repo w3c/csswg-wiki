@@ -26,8 +26,8 @@ These are being actively developed. Sometimes used to be CRs that need major rev
   * [[spec:css3-regions|CSS Regions Module]]
   * [[spec:css-ruby|CSS3 Ruby Module]] (out of date CR, back to WD for major revisions)
   * [[spec:css3-text|CSS Text Module Level 3]]
-  * [[spec:css3-text-layout|CSS Text Layout Module Level 3]]
   * [[spec:css3-values|CSS Values and Units Module Level 3]]
+  * [[spec:css3-writing-modes|CSS Writing Modes Level 3]]
 
 ===== brainstorming =====
 This section outlines active possibilities for future specs or notes
