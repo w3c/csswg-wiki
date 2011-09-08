@@ -1,7 +1,5 @@
 ====== CSS Speech Module Level 3 ======
 
-**This page is under construction**
-
   * main publication URL: http://www.w3.org/TR/css3-speech
   * current status: Last Call Working Draft - http://www.w3.org/TR/2011/WD-css3-speech-20110818
   * latest editor's draft: http://dev.w3.org/csswg/css3-speech
