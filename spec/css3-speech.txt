@@ -29,3 +29,13 @@
   ;Resolution : N/A
   ;Remarks : voice-language solution, similar to http://dev.w3.org/csswg/css3-fonts/#font-language-override-prop, as [[http://lists.w3.org/Archives/Public/www-style/2011May/0033.html|illustrated by Fantasai]]: ''voice-language: auto | <language-code> | inherit; inherited: yes; computed value: as specified; with auto => The used value is taken from the language of the selected element, or some UA-chosen value if unknown. The computed value is the keyword 'auto'.''
 
+==== Issue 3 ====
+
+  ;Summary : Renaming the 'voice-volume' property to 'volume-voice'.
+  ;Raised By : Christoph Päper <christoph.paeper@crissov.de>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Aug/0552.html
+  ;Response : N/A
+  ;Status : OPEN
+  ;Resolution : N/A
+
+http://lists.w3.org/Archives/Public/www-style/2011Aug/0552.html
