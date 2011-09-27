@@ -41,6 +41,9 @@ http://www.w3.org/TR/SVGTiny12/interact.html#focusable-attr
 ==== more selectors ====
   * [[https://developer.mozilla.org/en/CSS/%3a-moz-placeholder|:placeholder]] pseudo-class for when an input element is in the state of showing its placeholder text
   * [[https://developer.mozilla.org/en/CSS/%3a%3a-moz-progress-bar|::progress-bar]] pseudo-element for selecting and styling the area of an HTML progress element that represents the amount of progress that has happened so far. This lets you, for example, change the color of progress bars.
+  *  :valid-drop-zone, :invalid-drop-zone - a drop-zone (as Mozilla implements [[https://developer.mozilla.org/en/CSS/:-moz-drag-over|:-moz-drag-over]]) that is valid/invalid.
+    * :valid-drop-zone - a drop zone that accepts the type of data being dragged
+    * :invalid-drop-zone - a drop zone that doesn't accept the type of data being dragged
   * see http://wiki.csswg.org/spec/selectors4#ideas-to-consider for more.
 
 ===== dropped css3 features =====
