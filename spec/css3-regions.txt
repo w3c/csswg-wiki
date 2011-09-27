@@ -179,6 +179,8 @@ See Issue 1 below.
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Aug/0264.html
   ;Summary : should we allow the following: a magazine articles with regions galore on the first page, and then it switches to simple multi-column layout from page 2 and onwards
   ;Proposal : TBD
+  
+  
 ===== Issues to Resolve with the CSS WG =====
 
 ==== Issue 14: ::region-lines pseudo-selector ====
