@@ -187,7 +187,7 @@ See Issue 1 below.
 
    ;URL : http://lists.w3.org/Archives/Public/www-style/2011May/0518.html">
    ;Description : there is concern (see link) that the ''first-line'' precedent is underspecified and that more specification is needed in addition to referencing the existing precedent.
-   ;Proposal : address this issue through testing and implementation feedback. Keep specification as is for now.
+   ;Proposal : modify region styling to only have @region rules and limit the number of properties that can be part of the @ rule. For example, disallow width/height, display, float, position and properties that change the nature of the element.
    
 
 ==== Issue 10: Should the regionLayoutUpdate event by Sync or Async? ====
