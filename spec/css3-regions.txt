@@ -202,17 +202,6 @@ See Issue 1 below.
   
 
   
-==== Issue 2 : Auto-sizing of regions ====
-  ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jun/0629.html
-  ;Summary : Define intrinsic size of regions (currently zero, but there isn't a consensus that it's the best choice)
-
-There are different options for behavior of regions of undefined size, with different pros and cons. 
-
-See [[http://lists.w3.org/Archives/Public/www-style/2011Jun/0682.html|Possible Options]]
-
-  ;Proposal : This should be closed as it is addressed by ACTION-351
-  
-
 
 
 ===== Issues Resolved by Editors =====
