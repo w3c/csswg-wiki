@@ -56,6 +56,12 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
     * ✔ agreed to add event on changes to regionOverflow and flowRanges
 ===== Action Items =====
 
+
+L-Action-15
+  * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: WARNING (ISSUE STILL NOT RESOLVED). Add note that floats and scrolling divs are not breakable (and therefore overflow their region).
+    * There has been a discussion about this with Alan Stearns, David Hyatt, Alex and Rossen. Do we have a resolution? How does this need to show in the spec.
+    * Meeting w/ Rossen and Alex, 09/27/2011: this issue should be dealt with in the pagination spec.
+
 [[http://www.w3.org/Style/CSS/Tracker/actions/350|ACTION 350]]
   * <html><span style="color:crimson;font-weight:bold;">Alex</span></html>: to add an api to find out which element is in a named flow
 
