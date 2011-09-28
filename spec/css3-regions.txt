@@ -77,6 +77,11 @@ L-Action-10
 
 ====== Completed or Duplicated Actions ======
 
+L-Action-15
+  * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: WARNING (ISSUE STILL NOT RESOLVED). Add note that floats and scrolling divs are not breakable (and therefore overflow their region).
+    * There has been a discussion about this with Alan Stearns, David Hyatt, Alex and Rossen. Do we have a resolution? How does this need to show in the spec.
+    * Meeting w/ Rossen and Alex, 09/27/2011: this issue should be dealt with in the pagination spec.
+
 L-Action-5
   * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: pagination region: what happens when flowing between containers of varying width? e..g., <div style="width:auto">...</div> flowing across regions of various widths. Action: Vincent to illustrate the use case (body with text flowing through multiple pages of different width, and width=100%).
     * This issue is closed because of ACTION 351 where we decided that width:auto resolves to 0.
