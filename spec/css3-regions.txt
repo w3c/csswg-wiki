@@ -64,10 +64,6 @@ This section keeps track of the CSS WG resolutions regarding the CSS Regions spe
     * Added comment to original issues following discussions with Rossen and agreement to stick to width:auto meaning 0. 
     * height:auto needs to be discussed further.
 
-L-Action-5
-  * <html><span style="color:crimson;font-weight:bold;">Vincent</span></html>: pagination region: what happens when flowing between containers of varying width? e..g., <div style="width:auto">...</div> flowing across regions of various widths. Action: Vincent to illustrate the use case (body with text flowing through multiple pages of different width, and width=100%).
-    * This issue should be closed because of ACTION 351 where we decided that width:auto resolves to 0.
-
 L-Action-7
   * <html><span style="color:crimson;font-weight:bold;">Alex</span></html>: provide feedback on applicability of seamless frames in CSS regions.
 
