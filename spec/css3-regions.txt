@@ -22,6 +22,8 @@ Whether an id is testable can be determined by scanning the spec and ignoring an
 
 ===== Topics to move to the pagination spec. =====
 
+It was decided during this conference call (http://krijnhoetmer.nl/irc-logs/css/20110824) to create a separate spec. for issues that are common to regions, multi-column and page media. List of issues raised by CSS regions editors:
+
   * Which elements break along container (column, page, region) boundary and which do not?
 
   * How do breaks work together, in particular in nested scenarios? 
