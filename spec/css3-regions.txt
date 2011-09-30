@@ -27,6 +27,10 @@ It was decided during this conference call (http://krijnhoetmer.nl/irc-logs/css/
   * Which elements break along container (column, page, region) boundary and which do not?
 
   * How do breaks work together, in particular in nested scenarios? 
+
+  * Behavior of fragmented floats: does each 'float' fragment behave as a regular float in its container?
+
+  * How does the transform property (and transform-origin) work for content split across multiple containers?
 ===== Resolutions =====
 
 This section keeps track of the CSS WG resolutions regarding the CSS Regions specification. A checkmark indicates that the resolution has been integrated at least in the latest editor draft.
