@@ -1,5 +1,32 @@
 ====== TPAC 2011 ======
 
-Proposed topics for topics for the November 2011 CSS Working Group Face-to-Face meeting at TPAC. This should be a technical meeting, and focus should be on topics that benefit from us all being in the same room. Add any proposed topics below: we will filter and sort later.
+Agenda and Logistics for November 2011 CSS Working Group Face-to-Face meeting at TPAC. Note: This should be a technical meeting, and focus should be on topics that benefit from us all being in the same room.
 
-  * Add stuff here
+  
+===== Agenda Brainstorming =====
+
+Please add your agenda topic suggestions here for prioritization and sorting.
+
+* Add stuff here
+
+
+===== Attendee Contact Information =====
+
+Please add your arrival and departure dates, hotel name and mobile phone info.
+
+^ Name     ^ Dates       ^ Hotel         ^ Contact # ^
+| Molly E. Holzschlag    | 10/30 - 11/05    | Marriott | +1 520 250 8022 |
+| Name   | Dates    | Hotel | Contact |
+| Name   | Dates    | Hotel | Contact |
+
+
+===== Hotels and Transportation =====
+
+Most people will be at the Marriott, but there are many hotels in the area that are more affordable and include free parking and/or WIFI. Daniel has suggested the [[http://www.jdvhotels.com/hotels/avatar | Avatar ]]. Please add additional suggestions here, as well as any requests for airport ride share or other transportation assitance and needs.
+
+
+===== Special Needs/Requests =====
+
+Please use this section to discuss any special requirements of which the group should be aware.
+
+
