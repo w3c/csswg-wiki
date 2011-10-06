@@ -15,9 +15,9 @@ Please add your agenda topic suggestions here for prioritization and sorting.
 Please add your arrival and departure dates, hotel name and mobile phone info.
 
 ^ Name     ^ Dates       ^ Hotel         ^ Contact # ^
-| Molly E. Holzschlag    | 10/30 - 11/05    | Marriott | +1 520 250 8022 |
-| Name   | Dates    | Hotel | Contact |
-| Name   | Dates    | Hotel | Contact |
+| Molly E. Holzschlag | 30-Oct - 05-Nov | Marriott | +1 520 250 8022 |
+| Peter Linss | 27-Oct - 05-Nov | Marriott | - |
+| Name | Dates | Hotel | Contact |
 
 
 ===== Hotels and Transportation =====
