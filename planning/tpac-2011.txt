@@ -31,10 +31,11 @@ Most people will be at the Marriott, but there are other hotels in the area that
 
 ==== Transportation ====
 
-* According to the Santa Clara Marriott's web site, there is no shuttle service at this hotel
-* SJC and SFO are served by South & East Bay Shuttle (408) 866-6660; fee: 25 USD SJC/69 USD SFO (one way); reservation required
-* There is an on-site Hertz Rental Car at the Marriott
-* Public transport isn't exactly close - there's a BART station in Freemont and Santa Clara Caltran - both are over five miles from the conference hotel
+  * According to the Santa Clara Marriott's web site, there is no shuttle service at this hotel
+  * SJC and SFO are served by South & East Bay Shuttle (408) 866-6660; fee: 25 USD SJC/69 USD SFO (one way); reservation required
+  * There is an on-site Hertz Rental Car at the Marriott
+  * Public transport isn't exactly close - there's a BART station in Freemont and Santa Clara Caltran - both are over five miles from the  
+    conference hotel
 
 
 ===== Special Needs/Requests =====
