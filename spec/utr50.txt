@@ -29,7 +29,7 @@ This page is a memo page to make our discussion on [[http://www.unicode.org/repo
 ==== Code Points ===
 ^Code^Memo^
 |U+201C-201D|Should be T|
-|U+337B-337F|Vertical glyphs are incorrect|
+|U+337B-337F|Adobe/Apple fonts use vertically compressed glyphs, while MS fonts use horizontally compressed glyphs using Tate-Chu-Yoko.|
 Not comprehensive at all yet.
 ===== The East Asian Class Property ======
 Not reviewed yet.
