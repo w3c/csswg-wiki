@@ -51,6 +51,69 @@
   ;Status : OPEN
   ;Resolution : N/A
 
+==== Issue 4 ====
+
+  ;Summary : Not dropping the "at-risk" voice-* properties
+  ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0010.html
+  ;Response : 
+  ;Status : OPEN
+  ;Resolution : N/A
+
+==== Issue 5 ====
+
+  ;Summary : 'voice-rate' percentages
+  ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0011.html
+  ;Response : 
+  ;Status : OPEN
+  ;Resolution : N/A
+
+==== Issue 6 ====
+
+  ;Summary : 'play-during' or equivalent property
+  ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0012.html
+  ;Response : 
+  ;Status : OPEN
+  ;Resolution : N/A
+
+==== Issue 7 ====
+
+  ;Summary : use of generic SPAN element in voice-stress example and client-side use question
+  ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0013.html
+  ;Response : 
+  ;Status : OPEN
+  ;Resolution : N/A
+
+==== Issue 8 ====
+
+  ;Summary : no longdesc for the aural formatting model diagram
+  ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0015.html
+  ;Response : 
+  ;Status : OPEN
+  ;Resolution : N/A
+
+==== Issue 9 ====
+
+  ;Summary : Appendix B — Index: why such cryptic hyperlink text?
+  ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0016.html
+  ;Response : 
+  ;Status : OPEN
+  ;Resolution : N/A
+
+==== Issue 10 ====
+
+  ;Summary : aural/speech events/modifications cued by ARIA properties/attributes
+  ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
+  ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0017.html
+  ;Response : 
+  ;Status : OPEN
+  ;Resolution : N/A
+
 ===== Testing, Reference Implementations =====
 
 ==== Existing Prototypal Implementations ====
