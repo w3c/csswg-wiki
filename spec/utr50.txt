@@ -1,0 +1,32 @@
+====== UTR #50 Review Memo ======
+This page is a memo page to make our discussion on [[http://www.unicode.org/reports/tr50/|UTR #50]] smooth.
+
+===== General =====
+  * [[http://www.unicode.org/review/pri207/|PRI #207]] review period ends on Oct 24th, 2011 --- way too short
+  * Eric mentioned that [[http://www.unicode.org/forum/viewtopic.php?f=35&t=201|UTR #50 is for Japanese text and should define Hangul orientation that appears in Japanese text, rather than Hangul native orientation]]. Our goal of "upright-right" is a good vertical text flow for East Asian. Are we seeing things differently?
+  * UTR #50 only tries "some level of compatibility with existing fonts". Again, this is very different from our goals, isn't this?
+  * UTR #50 defines not only glyph orientation in vertical text flow but also character spacing classes in horizontal text flow, similar to what we have in the [[http://dev.w3.org/csswg/css3-text/#text-spacing-prop|text-spacing]] property. Again, review period is too short for such a big property.
+
+===== The East Asian Orientation Property =====
+  * What are the definitions of U, S, SB, and T? ([[http://www.unicode.org/forum/viewtopic.php?f=35&t=198|Tk is gone]])
+  * From what I understand, T allows anything; from changing glyph to changing orientations, so although "representative glyphs" are shown, their orientations are undefined in UTR #50. Some rotate, some do not. Is this correct understanding?
+  * If UTR #50 means fonts should not change glyphs/positions for U/S/SB, there is a big compatibility and font designing problems here.
+    * Some fonts use different glyphs for vertical  flow at, say, U+FF62/FF63 today.
+    * Some fonts use U+301D/301F glyphs for U+201C/201D in vertical flow today.
+    * Some fonts use GPOS to adjust positions of punctuation in vertical flow.
+    * For brush-stroke fonts, start and end edges of brushes vary by flow direction for several glyphs, just like it does for U+30FC, because the direction brush moves is different.
+  * S/SB does not work with proportional or non-square fonts. If a font is tall in horizontal flow, it needs to be wide in vertical flow.
+  * Does the baseline alignment work good by just rotation?
+    * EM DASH, Arrows, etc. aligns at center baseline?
+    * Most font designers I contacted believe that it's ok as long as the font is a square font, but I'm worried as it has never been tested at all.
+
+===== Yi, Mongolian, Hangul, Bopomofo, etc. =====
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=202|Vertical Directionality property from johnwcowan]]
+  * [[http://lists.w3.org/Archives/Public/public-i18n-cjk/2011OctDec/0000.html|Hangul characters upright or sideways in vertical flow?]]
+  * [[http://lists.w3.org/Archives/Public/www-style/2011Oct/0128.html|Yi and Hangul]]
+  * [[http://lists.w3.org/Archives/Public/www-style/2011Oct/0104.html|Egyp]]
+
+===== Code Points ====
+^Code^Memo^
+|U+201C-201D|Should be T|
+|U+337B-337F|Vertical glyphs are incorrect|
