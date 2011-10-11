@@ -30,6 +30,6 @@ This page is a memo page to make our discussion on [[http://www.unicode.org/repo
 ^Code^Memo^
 |U+201C-201D|Should be T|
 |U+337B-337F|Vertical glyphs are incorrect|
-
+Not comprehensive at all yet.
 ===== The East Asian Class Property ======
 Not reviewed yet.
