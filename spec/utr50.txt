@@ -28,9 +28,12 @@ This page is a memo page to make our discussion on [[http://www.unicode.org/repo
   * [[http://lists.w3.org/Archives/Public/www-style/2011Oct/0374.html|Egyp]] also [[http://www.omniglot.com/writing/egyptian_hieratic.htm|Hieratic]]
 
 ==== Code Points ===
-^Code^Memo^
-|U+201C-201D|Should be T|
-|U+337B-337F|Adobe/Apple fonts use vertically compressed glyphs, while MS/Ricoh fonts use horizontally compressed glyphs using Tate-Chu-Yoko.|
+
 Not comprehensive at all yet.
+
+^Code^Description^Memo^
+|U+201C-201D|Curly quotes|Should be T for East Asian text|
+|U+337B-337F|Square era names|Adobe/Apple fonts use vertically compressed glyphs, while MS/Ricoh fonts use horizontally compressed glyphs using Tate-Chu-Yoko.|
+
 ===== The East Asian Class Property ======
 Not reviewed yet.
