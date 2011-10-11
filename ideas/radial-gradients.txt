@@ -1,0 +1,17 @@
+====== Radial Gradient Wars ======
+
+=== Syntax A ===
+
+  radial-gradient(...)
+
+Key posts
+
+  * http://lists.w3.org/...
+
+=== Syntax B ===
+
+  radial-gradient(...)
+
+Key posts
+
+  * http://lists.w3.org/...
