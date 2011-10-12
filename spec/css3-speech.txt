@@ -21,7 +21,7 @@
 **Closure states**: an issue can be closed as ''Accepted'', ''OutOfScope'', ''Invalid'', ''Rejected'', or ''Retracted''.
 
 
-==== Issue 1 ====
+==== <html><span style="background-color:#FFA500;">ISSUE 1</span></html> ====
 
   ;Summary : Interaction between the 'voice-volume' and 'cue' properties.
   ;Raised By : Paul Bagshaw <paul.bagshaw@orange-ftgroup.com> (Co-author of SSML 1.1 and PLS 1.0)
@@ -29,7 +29,7 @@
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Sep/0189.html (proposal: improve informative note, reject commenter's suggested change)
   ;Comment 2 : http://lists.w3.org/Archives/Public/www-style/2011Sep/0503.html
   ;Response 2 : http://lists.w3.org/Archives/Public/www-style/2011Sep/0507.html
-  ;Status : OPEN
+  ;Status : OPEN (Editor's proposal: ''Rejected'', with agreement to clarify informative statements in the specification)
   ;Resolution : N/A
 
 ==== Issue 2 ====
