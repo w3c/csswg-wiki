@@ -7,7 +7,7 @@ Agenda and Logistics for November 2011 CSS Working Group Face-to-Face meeting (S
 
 Please add your agenda topic suggestions here for prioritization and sorting.
 
-* Add stuff here
+* Gradients (1 hour)
 
 
 ===== Attendee Contact Information =====
