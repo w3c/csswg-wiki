@@ -74,7 +74,7 @@
   ;Summary : 'play-during' or equivalent property
   ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0012.html
-  ;Response : 
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0423.html (agree with design decision to exclude 'play-during', reject need to re-introduce it)
   ;Status : OPEN
   ;Resolution : N/A
 
