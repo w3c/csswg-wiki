@@ -10,15 +10,15 @@
   * publication URL: http://www.w3.org/TR/2011/WD-css3-speech-20110818
   * public announcement: http://lists.w3.org/Archives/Public/www-style/2011Aug/0550.html
 
-  Color nomenclature (''Verified'' indicates commentor's acceptance of the response):
+**Color nomenclature**: (''Verified'' indicates commentor's acceptance of the response):
   
-  ^ Color           ^ Description |
-  | <html><span style="background-color:#90EE90;">ISSUE X</span></html> | Accepted or Rejected [Verified] |
-  | <html><span style="background-color:#FFA500;">ISSUE X</span></html> | Rejected [not Verified] |
-  | <html><span style="background-color:#FFFFFF;">ISSUE X</span></html> | Out-of-Scope or Invalid [not Verified] |
-  | <html><span style="background-color:#FF0000;">ISSUE X</span></html> | Formal Objection |
+^ Color           ^ Description |
+| <html><span style="background-color:#90EE90;">ISSUE X</span></html> | Accepted or Rejected [Verified] |
+| <html><span style="background-color:#FFA500;">ISSUE X</span></html> | Rejected [not Verified] |
+| <html><span style="background-color:#FFFFFF;">ISSUE X</span></html> | Out-of-Scope or Invalid [not Verified] |
+| <html><span style="background-color:#FF0000;">ISSUE X</span></html> | Formal Objection |
   
-  Closure states: an issue can be closed as ''Accepted'', ''OutOfScope'', ''Invalid'', ''Rejected'', or ''Retracted''.
+**Closure states**: an issue can be closed as ''Accepted'', ''OutOfScope'', ''Invalid'', ''Rejected'', or ''Retracted''.
 
 
 ==== Issue 1 ====
