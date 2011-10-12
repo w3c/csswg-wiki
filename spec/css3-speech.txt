@@ -101,7 +101,7 @@
   ;Summary : Appendix B — Index: why such cryptic hyperlink text?
   ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0016.html
-  ;Response : 
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0407.html (not specific to the CSS3 Speech Module: pre-processor should be fixed for all CSS specifications as the document index is automatically generated)
   ;Status : OPEN
   ;Resolution : N/A
 
