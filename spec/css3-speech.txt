@@ -48,7 +48,7 @@
   ;Comment 6 : http://lists.w3.org/Archives/Public/www-style/2011Sep/0519.html
   ;Response 6 : http://lists.w3.org/Archives/Public/www-style/2011Sep/0520.html
   ;Comment 7 : http://lists.w3.org/Archives/Public/www-style/2011Sep/0518.html
-  ;Status : CLOSED [''Invalid''] (Working Group consensus: defer to Level 4)
+  ;Status : CLOSED [''Invalid''] (Working Group consensus: defer to Level 4, see IRC log at http://logs.csswg.org/irc.w3.org/css/?date=2011-10-12 )
   ;Resolution : N/A
   ;Remarks : voice-language solution, similar to http://dev.w3.org/csswg/css3-fonts/#font-language-override-prop, as [[http://lists.w3.org/Archives/Public/www-style/2011May/0033.html|illustrated by Fantasai]]: ''voice-language: auto | <language-code> | inherit; inherited: yes; computed value: as specified; with auto => The used value is taken from the language of the selected element, or some UA-chosen value if unknown. The computed value is the keyword 'auto'.''
 
