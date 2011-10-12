@@ -153,7 +153,7 @@
 
 ==== Issue 15 ====
 
-  ;Summary : 'cue-before' and 'cue-after' properties
+  ;Summary : 'cue-before' and 'cue-after' properties (named sound icons, such as "warning", "error", etc.)
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : 
