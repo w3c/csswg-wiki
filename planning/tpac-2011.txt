@@ -7,7 +7,10 @@ Agenda and Logistics for November 2011 CSS Working Group Face-to-Face meeting (S
 
 Please add your agenda topic suggestions here for prioritization and sorting.
 
-* Gradients (1 hour)
+  * Gradients (1 hour)
+  * CSS OM Constants [[http://wiki.csswg.org/spec/cssom-constants]] (30 minutes)
+  * 
+
 
 
 ===== Attendee Contact Information =====
