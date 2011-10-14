@@ -145,12 +145,12 @@
 
 ==== Issue 13 ====
 
-  ;Summary : 'speak' and 'speak-as' properties
+  ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 13</b>: 'speak' and 'speak-as' properties</span></html>
+  ;Status : OPEN
+  ;Resolution : N/A
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : 
-  ;Status : OPEN
-  ;Resolution : N/A
 
 ==== Issue 14 ====
 
