@@ -63,12 +63,12 @@
 
 ==== Issue 4 ====
 
-  ;Summary : Not dropping the "at-risk" voice-* properties
+  ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 4</b>: Not dropping the "at-risk" voice-* properties</span></html>
+  ;Status : OPEN
+  ;Resolution : N/A
   ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0010.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0019.html (Fantasai clarifies the meaning of "at-risk" features, with respect to CR implementations)
-  ;Status : OPEN
-  ;Resolution : N/A
 
 ==== Issue 5 ====
 
