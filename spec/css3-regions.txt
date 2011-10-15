@@ -209,6 +209,14 @@ See Issue 1 below.
   <iframe style="flow-into:flow1; flow-source-type:element"> --  add iframe to flow as a replaced element
   <iframe style="flow-into:flow1; flow-source-type:content"> --  add content of the iframe to flow
 </code>
+   ;Option 3 : use a rule
+  @flow flow1 "story1.html";
+  @flow flow2 url("story1.html");
+Note that with this approach, it is not possible to concatenate content from multiple urls in one flow (which may be a good thing, concatenation is not an expected use pattern for flow indirection feature.
+
+  **pro:** no special case for iframe
+
+  **con:** different OM for programmatic flow source control.  
    ;Proposal : TBD 
 
 ==== Issue 18: Interplay of flow-from and content ====
