@@ -214,10 +214,10 @@ See Issue 1 below.
   @flow flow2 url("story1.html");
 Note that with this approach, it is not possible to concatenate content from multiple urls in one flow (which may be a good thing, concatenation is not an expected use pattern for flow indirection feature.
 
-  **pro:** no special case for iframe
+  **pro* no special case for iframe
 
-  **con:** different OM for programmatic flow source control.  
-  **con:** content is provided/defined by stylesheet, which seems wrong. 
+  **con* different OM for programmatic flow source control.  
+  **con* content is provided/defined by stylesheet, which seems wrong. 
 
    ;Proposal : TBD 
 
