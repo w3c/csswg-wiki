@@ -190,6 +190,8 @@
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0509.html
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0518.html
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0521.html
 
 ==== Issue 18 ====
 
