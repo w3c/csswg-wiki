@@ -51,13 +51,15 @@ Writing Mode categories:
   * V - vert or sideways
 
 ^Code^Description^UTR^WM^Memo^
-|U+201C-201D|Curly quotes|SB|V|Should be T for East Asian text|
-|U+337B-337F|Square era names|T|U|Adobe/Apple fonts use vertically compressed glyphs, while MS/Ricoh fonts use horizontally compressed glyphs using Tate-Chu-Yoko. JLTF says both should be allowed.|
 |U+2016|Double vertical line|U|?|Typically rotated in Japanese typesetting|
-|U+FF5C|Fullwidth vertical line|U|?|Typically rotated in Japanese typesetting|
+|U+2018-2019|Vertical glyphs look incorrect.|
+|U+201C-201D|Curly quotes|SB|V|Should be T for East Asian text|
+|U+3303, 3305, 3306, etc.|When one char in a line, it can be either align center or left (top) and that should be up to font designers. Showing representative glyphs can be misleading.|
+|U+337B-337F|Square era names|T|U|Adobe/Apple fonts use vertically compressed glyphs, while MS/Ricoh fonts use horizontally compressed glyphs using Tate-Chu-Yoko. JLTF says both should be allowed.|
 |U+FF1A|Fullwidth colon|U|V|Typically rotated in Japanese typesetting. Tends to be upright in traditional Chinese.|
 |U+FF1B|Fullwidth semicolon|U|V|Not used in Japanese, typically upright with no vert altglyph. Fonts seem inconsistent. What about Chinese?|
 |U+FF1D|Fullwidth equals sign|U|U|Typically rotated in Japanese fonts. What about Chinese?|
+|U+FF5C|Fullwidth vertical line|U|?|Typically rotated in Japanese typesetting|
 
 ==== Tailoring ====
 
