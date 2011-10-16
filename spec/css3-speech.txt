@@ -196,6 +196,10 @@
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : 
 
+
+----
+
+
 ==== Issue 13 ====
 
   ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 13</b>: 'speak' and 'speak-as' properties</span></html>
