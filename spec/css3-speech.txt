@@ -162,8 +162,8 @@
 
 ==== Issue 10 ====
 
-  ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 10</b>: aural/speech events/modifications cued by ARIA properties/attributes</span></html>
-  ;Status : OPEN
+  ;Summary : <html><span style="background-color:#E0FFFF; padding:0.5em;"><b>ISSUE 10</b>: aural/speech events/modifications cued by ARIA properties/attributes</span></html>
+  ;Status : <html><span style="background-color:#EEEEEE; padding:0.5em;"><b>CLOSED</b> [<code>Invalid</code>]</span></html>
   ;Resolution : N/A
   ;Raised By : Gregory Rosmaita <gregory.rosmaita@gmail.com>
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0017.html
