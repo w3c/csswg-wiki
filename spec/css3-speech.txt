@@ -155,6 +155,11 @@
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0016.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0407.html (not specific to the CSS3 Speech Module: pre-processor should be fixed for all CSS specifications as the document index is automatically generated)
 
+
+----
+
+
+
 ==== Issue 10 ====
 
   ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 10</b>: aural/speech events/modifications cued by ARIA properties/attributes</span></html>
