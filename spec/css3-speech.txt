@@ -115,6 +115,10 @@
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0012.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0423.html (agree with design decision to exclude 'play-during', reject need to re-introduce it)
 
+
+----
+
+
 ==== Issue 7 ====
 
   ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 7</b>: use of generic SPAN element in voice-stress example and client-side use question</span></html>
