@@ -279,6 +279,8 @@
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0506.html
 
 
+----
+
 
 ==== Issue 19 ====
 
