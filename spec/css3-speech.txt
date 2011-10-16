@@ -178,10 +178,10 @@
 
   ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 11</b>: relative 'voice-volume' values (e.g. Louder / Softer)</span></html>
   ;Status : OPEN
-  ;Resolution : N/A
+  ;Resolution : Editor's proposal: reject new keywords (2 other topics are #1 invalid, and #2 already-addressed issue)
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
-  ;Response : 
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0528.html
 
 
 ----
