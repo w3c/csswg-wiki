@@ -294,6 +294,10 @@
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0505.html
 
 
+----
+
+
+
 ==== Issue 20 ====
 
   ;Summary : <html><span style="background-color:#E0FFFF; padding:0.5em;"><b>ISSUE 20</b>: Not dropping the "at-risk" 'voice-balance' property</span></html>
