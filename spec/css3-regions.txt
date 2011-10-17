@@ -364,6 +364,8 @@ See: http://lists.w3.org/Archives/Public/www-style/2011Aug/0069.html
   [supplemental] interface NamedFlow {
       ...
       Element[] getRegionsContainingElement(Element element);
+      /*or*/
+      NodeList getRegionsByContent(Node contentNode);
   }
 or document
   [supplemental] interface Document {
