@@ -79,7 +79,7 @@ L-Action-7
 
 (as noted in http://lists.w3.org/Archives/Public/www-style/2011Sep/0098.html)
 
-[[http://wiki.csswg.org/spec/css3-regions#issue-19special-behavior-of-iframe-flow|Issue 19] still need a resolution, but seamless iframe is not the answer.
+[[http://wiki.csswg.org/spec/css3-regions#issue-19special-behavior-of-iframe-flow|Issue 19]] still need a resolution, but seamless iframe is not the answer.
 
 [[http://www.w3.org/Style/CSS/Tracker/actions/351|ACTION 351]]
   * <html><span style="color:#6c6;font-weight:bold;">Vincent</span></html>: rework the issue of resolved sizes for regions and come up with an alt solution for the group along with use cases and examples.
