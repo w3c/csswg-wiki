@@ -263,7 +263,8 @@
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0509.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0518.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0521.html
-
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0547.html
+  ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0555.html
 
 ----
 
