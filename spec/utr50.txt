@@ -165,7 +165,7 @@ Placing arrows into the ''S'' category instead of ''U'' also relieves concerns a
 Because of the following reasons:
   * digits are typeset sideways by default
   * commonly used variable names (Latin, Greek) are typeset sideways by default
-  * superscripts and subscripts are typeset sideways by default
+  * superscripts and subscripts are [[http://www.unicode.org/forum/viewtopic.php?f=35&t=204|typically typeset sideways]]
   * arrows, which function as relations in math, would also be typeset sideways by default (see above)
   * ASCII math symbols are expected to typeset sideways
   * mathematical formulae are usually typeset sideways even in vertical text
