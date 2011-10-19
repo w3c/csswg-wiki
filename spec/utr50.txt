@@ -54,6 +54,8 @@ Writing Mode categories:
   * V - vert or sideways
 
 ^Code^Description^UTR^WM^Memo^
+|U+00A9|COPYRIGHT SIGN|U|S|Examples: {{:spec:copyright_horz.png?linkonly|}} {{:spec:copyright_vert.jpg?linkonly|}}|
+|U+00AE|REGISTERED SIGN|U|S|{{http://www.unicode.org/reports/tr50/tr50-1.html#w1aac13b9b1|UTR#50 4.4}} mentions this could be contextual. Tailoring can be another option along with U+00A9 COPYRIGHT SIGN.|
 |U+2016|Double vertical line|U|V|Typically rotated in Japanese typesetting|
 |U+2018-2019|LEFT/RIGHT SINGLE QUOTATION MARK|T|UF|Some people says T, while some says SB. Some says these should be consistent with U+201C/201D.|
 |U+201C-201D|Curly quotes|SB|V|JLREQ defines "use double curly quotes in horizontal and double prime in vertical". Some people think these are SB because these code points are for horizontal only, and it's author's responsibility to replace them to U+301D/301F in vertical flow. Some says T, so that replacement can happen automatically when user switched text flow just like small Kana. Since it's split, probably T is better.|
