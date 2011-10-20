@@ -335,7 +335,8 @@ Note that this topic is tracked on the public CSS emailing list (feel free to co
   ;Mozilla : property parsing, see: https://bugzilla.mozilla.org/show_bug.cgi?id=525444 and https://bugzilla.mozilla.org/show_bug.cgi?id=47159
   ;Internet Explorer 9 : "does not support any of the CSS3 speech properties": http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx#speech
 
-NOTE: Chrome TTS engine extension, ChromeVox, SSML support (not CSS) : see http://code.google.com/chrome/extensions/ttsEngine.html and http://code.google.com/chrome/extensions/tts.html and https://chrome.google.com/webstore/detail/kgejglhpjiefppelpmljglcjbhoiplfn and http://googlecode.blogspot.com/2011/10/new-text-to-speech-api-for-chrome.html
+  * NOTE: Chrome TTS engine extension, ChromeVox, SSML support (not CSS) : see http://code.google.com/chrome/extensions/ttsEngine.html and http://code.google.com/chrome/extensions/tts.html and https://chrome.google.com/webstore/detail/kgejglhpjiefppelpmljglcjbhoiplfn and http://googlecode.blogspot.com/2011/10/new-text-to-speech-api-for-chrome.html
+  * NOTE: Firefox native TTS API soon? See https://bugzilla.mozilla.org/show_bug.cgi?id=687879
   
   
 ==== Test Suite ====
