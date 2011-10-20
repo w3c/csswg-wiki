@@ -1,0 +1,75 @@
+====== TPAC 2011 ======
+
+Agenda and Logistics for November 2011 CSS Working Group Face-to-Face meeting (Sunday October 30 - Tuesday November 1, 2011) at TPAC. Note: This should be a technical meeting, and focus should be on topics that benefit from us all being in the same room.
+
+**Sunday meeting** will be held at Adobe Systems Headquarters, 345 Park Ave, San Jose, CA 95113. From 9am to 5pm/6pm. Breakfast and lunch catered. Many thanks to Adobe for hosting on that day.
+
+  * How do we get in?
+  * Is there parking available?
+
+===== Agenda Brainstorming =====
+
+Please add your agenda topic suggestions here for prioritization and sorting.
+
+  * Gradients (1 hour)
+    * Pending issues e.g radial Gradient syntax
+    * Publish LC
+  * CSS OM Constants [[http://wiki.csswg.org/spec/cssom-constants]] (30 minutes)
+  * CSS Exclusions & Shapes [[http://dev.w3.org/csswg/css3-exclusions/]]
+  * CSS Positioned Layout [[http://dev.w3.org/csswg/css3-positioning/]]
+  * Test suite issues (CSS 2.1)
+  * CSS3 Values and Units [[http://www.w3.org/Style/CSS/Tracker/products/8|issues]] / LC
+  * CSS3 Images &#8212; any other issues remaining; move to LC
+  * CSS3 Animations
+    * display:none and animations/transitions
+    * Next publication
+  * CSS Flexbox: pending issues, update WD
+  * Media Queries: test suite
+  * CSS regions: remaining [[http://wiki.csswg.org/spec/css3-regions#issues-to-resolve-with-the-css-wg|issues]]
+  * CSS3 Fonts
+  * CSS3 Writing Modes
+    * **Brief** discussion of ongoing work on [[http://www.unicode.org/reports/tr50/tr50-1.html|UTR #50]] and how if affects text-orientation
+
+===== Attendee Contact Information =====
+
+Please add your arrival and departure dates, hotel name and mobile phone info (for those comfortable in doing so).
+
+^ Name     ^ Dates       ^ Hotel         ^ Contact # ^
+| Elika J. Etemad | 29 Oct – 3 Nov | ? | I'm not posting my cell phone publicly, sorry. |
+| Molly E. Holzschlag | 28 Oct – 5 Nov | Marriott | +1 520 250 8022 |
+| Peter Linss | 27 Oct – 5 Nov | Marriott | - |
+| Florian Rivoal | 29 Oct – 3 Nov | Avatar | - |
+| Alan Stearns | 27 Oct – 3 Nov | Avatar | +1 206 550 4299 |
+| L. David Baron | - | at home | see [[https://www.w3.org/2000/09/dbwg/details?group=32061|member-only data]] |
+| Sylvain Galineau | 29 Oct – 4 Nov | Avatar | +1 603 957 1211 |
+| Kimberly Blessing | 30 Oct – 4 Nov | Marriott | @obiwankimberly |
+| Arron Eicholz | 29 Oct – 3 Nov | Marriott | - | 
+| Daniel Glazman (chair)| 28 Oct – 3 Nov | Avatar | +33 6 0791 0256 |
+| John Daggett | 29 Oct – 4 Nov | Avatar | - |
+| Vincent Hardy| 28 Oct – 3 Nov | Home | +1 415 290 85 17 |
+| Name | Dates | Hotel | Contact |
+
+
+===== Hotels and Transportation =====
+
+Most people will be at the Marriott, but there are other hotels in the area that are more affordable and include free parking and/or WIFI. 
+
+==== Hotels ====
+
+  * [[http://www.marriott.com/hotels/travel/sjcga-santa-clara-marriott/ | The Marriott (Conference Hotel) ]]
+  * [[http://www.jdvhotels.com/hotels/avatar | The Avatar ]]
+
+==== Transportation ====
+
+  * According to the Santa Clara Marriott's web site, there is no shuttle service at this hotel
+  * SJC and SFO are served by South & East Bay Shuttle (408) 866-6660; fee: 25 USD SJC/69 USD SFO (one way); reservation required
+  * There is an on-site Hertz Rental Car at the Marriott
+  * Public transport from SFO: take BART from the airport to Millbrae, then switch to Caltran to Mountain View, then switch to Santa Clara Light Rail. Get off at either Old Ironsides or Great America and walk South on Great America to the Marriott.
+
+
+
+===== Special Needs/Requests =====
+
+Please use this section to discuss any special requirements of which the group should be aware.
+
+
