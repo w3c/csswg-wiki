@@ -359,5 +359,5 @@ Related public email discussion:
 
   * Request for special ARIA handling: http://lists.w3.org/Archives/Public/www-style/2011Oct/0017.html
   * Other related requests (limits on volume, rate, pause/rest durations, etc.): http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
-  * Group to involve: [w3c-wai-gl@w3.org], [w3c-wai-pf@w3.org], [www-style@w3.org], others?
+  * Group to involve: [w3c-wai-gl@w3.org] (WAI Content Guidelines, WCAG), [w3c-wai-pf@w3.org] (WAI Protocol And Formats), [wai-liaison@w3.org] (WAI Liaison), [www-style@w3.org] (CSS), others?
 
