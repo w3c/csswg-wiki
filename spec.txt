@@ -5,11 +5,9 @@ This section documents problems found in the CSS specs and working drafts. Probl
 RECOMMENDATIONS!
   * [[spec:css2.1|CSS Level 2 Revision 1]]
   * [[spec:css3-color|CSS Color Module Level 3]]
-PR as of 2011-08-11
   * [[http://www.w3.org/TR/css3-namespace/|CSS Namespaces Module]]
-PR as of 2009-12-15 (not sure why didn't automatically go to REC)
   * [[spec:css3-selectors|Selectors Level 3]] (PR as of 2009-12-15, awaiting namespaces)
-
+PR
 ===== CR =====
 Awaiting implementations, test suites, or actively being revised per implementation experience.
   * [[spec:css3-ui|CSS Basic User Interface Module Level 3]] (another LCWD expected)
