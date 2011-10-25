@@ -3,13 +3,14 @@
 This page lists the ways in which the computed value of one property depends on the computed value of another.  This is important to track so that we can avoid creating circular dependencies.
 
 ^ Reason ^ Dependent property ^ Property depended upon ^
-| em units | every property taking length values (...) | font-size |
-| ex units, ch units | every property taking length values (...) | font-size, font-family, font-size-adjust, font-stretch, font-style, font-variant, font-weight |
-| currentColor | every property taking color values (...) | color |
-| % units | vertical-align | line-height |
-| % units | line-height | font-size |
-| logical box properties | ??? | direction |
-| 'none' and 'hidden' | border-*-width | border-*-style |
-| 'none' and 'hidden' | outline-width | outline-style |
-| absolute/fixed position makes float:none | float | position |
-| float/position make things block-like | display | position, float |
+| em units (CSS21) | every property taking length values (...) | font-size |
+| ex units (CSS21), ch units (css3-values) | every property taking length values (...) | font-size, font-family, font-size-adjust, font-stretch, font-style, font-variant, font-weight |
+| currentColor (css3-color), initial value of border (CSS21) | every property taking color values (...) | color |
+| % units (CSS21) | vertical-align | line-height |
+| % units (CSS21) | line-height | font-size |
+| logical box properties (css3-writing-modes) | ??? | direction |
+| 'none' and 'hidden' (CSS21) | border-*-width | border-*-style |
+| 'none' and 'hidden' (CSS21) | outline-width | outline-style |
+| absolute/fixed position makes float:none (CSS21) | float | position |
+| float/position make things block-like (CSS21) | display | position, float |
+| content: normal (css3-content) | content | ??? |
