@@ -42,8 +42,13 @@ This section outlines active possibilities for future specs or notes
 ===== out of date =====
 These specs are old / out of date and need active editors/owners to bring them up to date.
   * [[spec:css3-box|CSS Box Module Level 3]]
-  * [[spec:css3-content|CSS Generated Content Level 3]]
-
+  * [[spec:css3-content|CSS Generated Content Module Level 3]]
+  * [[spec:css3-grid|CSS Grid Positioning Module Level 3]]
+  * [[spec:css3-preslev|CSS Presentation Levels Module Level 1]]
+  * [[spec:css3-ruby|CSS Ruby Layout Module Level 1]]
+  * [[spec:css3-syntax|CSS Syntax Module Level 3]]
+  * [[spec:css3-tables-algorithms|CSS Table Layout Algorithm Module Level 3]]
+  * [[spec:css3-line-grid|CSS Line Grid Module Level 1]]
 ====== Specification Reviews ======
 CSSWG members' comments on related specs not published by our group.
 
