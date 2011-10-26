@@ -39,7 +39,8 @@ Please add your agenda topic suggestions here for prioritization and sorting.
     * **Brief** discussion of ongoing work on [[http://www.unicode.org/reports/tr50/tr50-1.html|UTR #50]] and how if affects text-orientation
     * Proposed time: Sunday afternoon so that Ken Lunde and Taro Yamamoto from Adobe can attend
   * [[https://lists.w3.org/Archives/Member/w3c-css-wg/2011OctDec/0085.html|Invitation from 3D Community Group]]
-  * CSS GCPM: in particular 'overflow: paged', 'float: top/bottom/corner/next-page', and 'column-span: integer'
+  * CSS GCPM: I'd like to publish updated WD. 
+  * CSS multicol: We should settle margin collapsing issue for spanners, and define more exact behavior for break-* properties
 
 Joint meeting with WebApps and WebAppsSec [[http://www.w3.org/2008/webapps/wiki/TPAC2011|Monday 11-12am on CORS and From-Origin]]. Affects CSS3 Fonts and other API's relying on cross-origin embedding.
 
