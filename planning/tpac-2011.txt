@@ -56,6 +56,46 @@ Joint meeting with PF WG on Tuesday 3:30pm-5pm regarding a11y and CSS layout.
 Joint meeting with FXTF on Thursday at 9am (in SVG WG meeting room).
 
 Declarative 3D Community Group meeting Tuesday 9am-1pm [Simon, Ted?]
+===== Proposed Schedule =====
+
+=== Sunday ===
+
+  * Welcome + agenda + extras (0h15)
+  * How the WG should track spec issues (1h30)
+  * //break// (0h15)
+  * Gradients (1h)
+  * CSS Regions issues (0h45)
+  * //lunch// (1h)
+  * Orientation and Unicode properties for vertical text layout (1h45)
+  * //break// (0h15à
+  * CSS3 Writing Modes (0h30)
+  * CSS Exclusions and Shapes (1h)
+  * CSS GCPM (0h15)
+
+=== Monday ===
+
+  * CSS3 Values & Units (1h)
+  * CSS3 Positioned Layout Module (0h45)
+  * //break// (0h15)
+  * Joint meeting with WebApps/WebAppsSec on CORS and From-Origin (1h)
+  * //lunch// (1h)
+  * CSS Media Queries Test Suite (0h30)
+  * CSS Flexbox (1h15)
+  * CSS3 Animations (1h)
+  * //break// (0h15)
+  * CSS Multicol (2h)
+  * Web Font joint meeting (1h)
+
+=== Tuesday ===
+
+  * Joint meeting FXTF in SVG WG room, 9am-1pm
+  * CSS OM in CSS WG room, 9am, 1h
+  * Joint meeting IDPF/EPUB in CSS WG room, 10:00, 1h
+  * //break// in CSS WG room, 0h15
+  * Test Suite (2.1) issues in CSS WG room, 11:15, 1h
+  * CSS3 Images, 2pm, 1h
+  * Joint meeting PF WG in CSS WG room, 3:30pm, 1h30
+
 ===== Attendee Contact Information =====
 
 Please add your arrival and departure dates, hotel name and mobile phone info (for those comfortable in doing so).
