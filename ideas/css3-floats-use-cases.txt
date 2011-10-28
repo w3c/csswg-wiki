@@ -16,7 +16,7 @@ This section describes each of the proposed model according to the following que
   * What is the container model?
   * What is affected by an exclusion?
 
-=== CSS Exclusion Proposal in 3 Questions ===
+=== CSS Exclusions and Shapes Proposal in 3 Questions ===
 
 == How do you define an exclusion shape? ==
 
