@@ -456,7 +456,7 @@ One exclusion along a text.
 <style>
 	/* with SVG shape */
 	 #dropMany{      
-	    wrap-flow: right;
+		wrap-flow: right;
 		shape-outside: polygon(0px,0px 280px,0px 220px,125px 0px,125px);
 	}  
 	
