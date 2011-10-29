@@ -86,6 +86,8 @@ Declarative 3D Community Group meeting Tuesday 9am-1pm [Simon, Ted?]
   * CSS Multicol (2h)
   * Web Font joint meeting (1h)
 
+  * HCG meetup for WG chairs, Staff Contact, ... 6pm, hotel's bar
+
 === Tuesday ===
 
   * AC session for AC-Reps
