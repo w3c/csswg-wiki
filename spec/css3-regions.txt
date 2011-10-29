@@ -246,6 +246,29 @@ Note that with this approach, it is not possible to concatenate content from mul
 
 ===== Issues Resolved by Editors =====
 
+==== Issue 21: When does a flow get created? ====
+
+   ;URL : none
+   ;Description : 
+   
+<code>
+  <style>
+  .article{
+    flow-into: thread;
+  }
+  .region{
+    flow-from: thread;
+  }
+  </style>
+  <html>
+  <body>
+    <div class=region>div content</div>
+  </body>
+  </html>
+</code>
+
+   ;Proposal : Added example to the spec. that was already clear that the flow-from property makes an element a region and therefore its content is not rendered, even if there is no content in the region.
+   
 ==== Issue 14: ::region-lines pseudo-selector ====
 
    REPLACED BY ISSUE 20. THERE IS NO MORE ::region-lines IN THE CURRENT EDITOR DRAFT.
