@@ -24,7 +24,7 @@
     * the size values are for a quarter of the image size, not the whole image size,
     * the explicit size doesn't give the image implicit dimensions,
     * the positioning lengths and keywords apply to the center of the gradient, instead of to the top left (and percentage offsets are even more different), 
-    * the positioning values move the whole gradient and then clip it to the image dimensions. 
+    * the positioning values sometimes change the size of the whole gradient, sometimes move the whole gradient, and then clip it to the image dimensions. 
 
   * Two gradient lines (horizontal and vertical radii) instead of one (unless using 'circle' keyword). No getting around this in either syntax.
   * Percentages are relative to both dimensions, fixed distances measured against horizontal only. This is in simplified syntax too. 
