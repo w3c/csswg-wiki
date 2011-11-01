@@ -66,3 +66,7 @@ CSSWG members' comments on related specs not published by our group.
   * [[spec:cssom-constants|CSSOM Constants]]
   * [[spec:computed-values|Computed values patterns]]
   * [[spec:property-dependencies|Property dependencies]] in computed values
+
+====== Coordination between standards groups ======
+===== IDPF EPUB =====
+See: http://code.google.com/p/epub-revision/wiki/AdvancedAdaptiveLayoutCharter
