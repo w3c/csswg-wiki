@@ -18,6 +18,7 @@ Awaiting implementations, test suites, or actively being revised per implementat
 
 ===== WD =====
 These are being actively developed. Sometimes used to be CRs that need major revision.
+  * [[spec:cssom|CSSOM - CSS Object Module]]
   * [[spec:css3-flexbox|CSS Flexbox Module]]
   * [[spec:css3-images|CSS Images Level 3]]
   * [[spec:css3-lists|CSS Lists Module Level 3]]
