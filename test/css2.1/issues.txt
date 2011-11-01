@@ -128,9 +128,8 @@ Ugly, not self-documenting:
 
 
 
-==== 10 RC6 testcases with too technical pass conditions ====
+==== 9 RC6 testcases with too technical pass conditions ====
 
-  - [Moz] [[http://test.csswg.org/suites/css2.1/20110323/html4/inline-table-width-001a.htm|[RC6] inline-table-width-001a]] My neighbour would ask "What's 10em and how wide is it exactly?"
   - [Moz] [[http://test.csswg.org/suites/css2.1/20110323/html4/table-percent-width-001.htm|[RC6] table-percent-width-001]] My neighbour would ask "What's a 100px by 100px green square?"
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/background-alpha-001.htm|[RC6] background-alpha-001]] My neighbour would ask "What's a 'multi-bit alpha channel'?" Pass conditions are not so clear and text is too technical.
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/background-alpha-002.htm|[RC6] background-alpha-002]] My neighbour would ask "What's a 'multi-bit alpha channel'?" Pass conditions are not so clear and text is too technical.
