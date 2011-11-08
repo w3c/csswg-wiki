@@ -32,7 +32,7 @@ TBD
 
 ====== Participants ======
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^
-| Tantek Çelik | self | 2012-01-28 13:55 CDG | 2012-02-08 12:25 CDG | ??? pref: apt share | arriving: BA0308, departing: BA0309 |
+| Tantek Çelik | Mozilla Foundation | 2012-01-28 13:55 CDG | 2012-02-08 12:25 CDG | ??? pref: apt share | arriving: BA0308, departing: BA0309 |
 | Tab Atkins | Google | ??? | ??? | ??? | ??? |
 ===== Transport from to CDG =====
 TBD
