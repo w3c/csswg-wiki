@@ -31,11 +31,12 @@ TBD
 TBD
 
 ====== Participants ======
-^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^
-| Tab Atkins | Google | ??? | ??? | ??? | ??? |
-| Tantek Çelik | Mozilla Foundation | 2012-01-28 13:55 CDG | 2012-02-08 12:25 CDG | ??? pref: apt share | arriving: BA0308, departing: BA0309 |
-| Peter Linss | HP | ??? | ??? | ??? | ??? |
-| Florian Rivoal | Opera | ??? | ??? | ??? | ??? |
+^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+| Tab Atkins | Google | ??? | ??? | ??? | ??? |  |
+| Tantek Çelik | Mozilla Foundation | 2012-01-28 13:55 CDG | 2012-02-08 12:25 CDG | ??? pref: apt share | arriving: BA0308, departing: BA0309 |  |
+| Peter Linss | HP | ??? | ??? | ??? | ??? |  |
+| Florian Rivoal | Opera | ??? | ??? | ??? | ??? |  |
+| Brad Kemper | Invited Expert | ??? | ??? | ??? | ??? | I'd like to go, but don't know yet if I can swing it. Cost is a big issue. |
 
 ===== Transport from to CDG =====
 TBD
