@@ -10,34 +10,22 @@ Room: TBD
 **Registration:** TBD - http://www.w3.org/2002/09/wbs/99999/csswg-f2f-paris-2012-01/ |survey
 
 **Weather:** TBD
-====== Agenda ======
+===== Agenda =====
 
-===== Monday =====
-==== Morning ====
-TBD
-==== Afternoon ====
-TBD
+=== Proposed Topics ===
 
-===== Tuesday =====
-==== Morning ====
-TBD
-==== Afternoon ====
-TBD
+  * Add topics here
 
-===== Wednesday =====
-==== Morning ====
-TBD
-==== Afternoon ====
-TBD
-
-====== Participants ======
+===== Participants =====
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Tab Atkins | Google | ??? | ??? | ??? | ??? |  |
 | Tantek Çelik | Mozilla Foundation | 2012-01-28 13:55 CDG | 2012-02-08 12:25 CDG | ??? pref: apt share | arriving: BA0308, departing: BA0309 |  |
-| Peter Linss | HP | ??? | ??? | ??? | ??? |  |
-| Florian Rivoal | Opera | ??? | ??? | ??? | ??? |  |
-| Brad Kemper | Invited Expert | ??? | ??? | ??? | ??? | I'd like to go, but don't know yet if I can swing it. Cost is a big issue. |
+| fantasai | Mozilla Foundation | ??? |??? | ??? pref: apt share |
 | Chris Lilley | W3C | probably TGV | ??? | ??? | ??? |  |
+| Peter Linss | HP | ??? | ??? | ??? | ??? |  |
+| Brad Kemper | Invited Expert | ??? | ??? | ??? | ??? | I'd like to go, but don't know yet if I can swing it. Cost is a big issue. |
+| Florian Rivoal | Opera | ??? | ??? | ??? | ??? |  |
 
-===== Transport from to CDG =====
-TBD
+===== Transport to/from CDG =====
+
+  * Take the blue RER B from CDG to Denfert Rochereau and transfer to the light green Metro #6 (direction Nation) to Place d'Italie
