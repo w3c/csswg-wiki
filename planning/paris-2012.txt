@@ -35,13 +35,14 @@ Room: TBD
 
 People interested:
 
-  * Anton (unsponsored)
-  * dbaron
-  * fantasai
-  * Florian?
-  * Koji (unsponsored?)
-  * Tab
-  * Tantek
+^Name^In^Out^Unsponsored?^
+|Anton|Sun 1/29|Thu 2/2|**Y**|
+|dbaron|?|FOSDEM?|N|
+|fantasai|any|any|N|
+|Florian?|?|FOSDEM?|N|
+|Koji|?|?|**?**|
+|Tab|?|?|N|
+|Tantek|Sat 1/28|Wed 2/8|N|
 
 ===== Transport to/from CDG =====
 
