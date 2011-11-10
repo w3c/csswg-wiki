@@ -39,7 +39,7 @@ Room: TBD
 People interested:
 
 ^Name^In^Out^Unsponsored?^
-|Anton|Sun 1/29|Thu 2/2|**Y**|
+|Anton|Sun 2/6|Thu 2/10|**Y**|
 |dbaron|?|FOSDEM?|N|
 |fantasai|any|any|N|
 |Florian?|?|FOSDEM?|N|
