@@ -2,4 +2,4 @@
 
 It's been proposed to have queries for things like contrast preferences. See F2F minutes, to be posted later.
 
-see: [[mediaqueries-4]]
+see: [[mediaqueries4]]
