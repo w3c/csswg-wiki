@@ -174,7 +174,7 @@ Ugly, not self-documenting:
 
 ===== Tests that have HTML or CSS Validation errors =====
 
-==== 8 testcases that have HTML Validation errors ====
+==== 9 testcases that have HTML Validation errors ====
 
   - [Moz] [[http://test.csswg.org/suites/css2.1/20101210/html4/before-after-dynamic-attr-001.htm|before-after-dynamic-attr-001]] The html element can not have a class: class="reftest-wait"; body element can not be empty.
   - [Moz] [[http://test.csswg.org/suites/css2.1/20101210/html4/before-after-dynamic-restyle-001.htm|before-after-dynamic-restyle-001]] The html element can not have a class: class="reftest-wait"; body element can not be empty.
@@ -184,6 +184,7 @@ Ugly, not self-documenting:
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/fonts-009.htm|[RC6] fonts-009]]
   - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/inlines-014.htm|[RC6] inlines-014]] line8: <met> should be <meta>
   - [MSFT] [[http://test.csswg.org/suites/css2.1/20110323/html4/viewport-004.htm|[RC6] viewport-004]] The frame element must not have a closing, end tag: its content model is empty. [[http://validator.w3.org/check?uri=http%3A%2F%2Ftest.csswg.org%2Fsuites%2Fcss2.1%2F20110323%2Fhtml4%2Fviewport-004.htm&charset=%28detect+automatically%29&doctype=Inline&group=0|Validation report of viewport-004.htm]]
+  - [Hixie] [[http://test.csswg.org/suites/css2.1/20110323/html4/tables-002.htm|[RC6] tables-002]]
 
 ==== 6 RC6 testcases that have CSS Validation errors ====
 
