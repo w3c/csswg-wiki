@@ -41,14 +41,16 @@ People interested:
 
 ^Name^In^Out^Unsponsored?^
 |Anton|Sun 2/5|Thu 2/9|**Y**|
-|dbaron|?|FOSDEM?|N|
+|dbaron|FOSDEM?|Sun 2/12 (or hotel earlier)|N|
 |fantasai|any|any|N|
-|Florian?|?|FOSDEM?|N|
+|Florian?|FOSDEM?|?|N|
 |Koji|?|?|**?**|
 |Tab|?|?|N|
 |Tantek|Sat 1/28|Wed 2/8|N|
 
 Proposed: In appreciation for their self-volunteered time and travel expenses, let's exclude unsponsored Invited Experts from the cost split.
+
+Note: FOSDEM is Sat-Sun Feb 4-5, so people attending FOSDEM would probably be taking the train from Brussels to Paris late on Sunday February 5.
 ===== Transport to/from CDG =====
 
   * Take the blue RER B from CDG to Denfert Rochereau and transfer to the light green Metro #6 (direction Nation) to Place d'Italie
