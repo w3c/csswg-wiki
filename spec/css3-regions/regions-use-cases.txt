@@ -30,3 +30,15 @@ As the following image shows, it is important to be able to control the interact
 
 ==== Fancy illustration layout ====
 
+{{:spec:css3-regions:advanced_piechart.jpg?200|}}
+
+==== Dropcap exclusion ====
+
+{{:spec:css3-regions:simple_dropcap-1.png?200|}}
+
+==== Magazine layouts ====
+
+{{:spec:css3-regions:advanced_panorama.jpg?200|}}
+{{:spec:css3-regions:advanced_multi-column-article.jpg?200|}}
+{{:spec:css3-regions:simple_multiple_threads.png?200|}}
+{{:spec:css3-regions:region-break_headings.jpg?200|}}
