@@ -7,7 +7,6 @@ This is the CSS Working Group's planning space.
 [[planning:agenda|Agenda Scratchspace]]
 
 ===== Upcoming Meetings =====
-  * [[planning:tpac-2011]]
   * [[planning:2012]]
     * [[planning:paris-2012]]
 
@@ -28,3 +27,4 @@ This is the CSS Working Group's planning space.
   * [[planning:tokyo-workshop-2011]]
   * [[planning:japan-2011]] ([[planning:japan-2011-venues|venues]])
   * [[planning:seattle-2011]]
+  * [[planning:tpac-2011]]
