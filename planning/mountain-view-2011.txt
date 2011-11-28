@@ -1,5 +1,13 @@
 ====== Mountain View F2F March 2011 ======
 
+  * 2011 March 7-9
+  * Mountain View, CA, USA
+  * Organizer: Mozilla (David Baron)
+  * Minutes: [[http://lists.w3.org/Archives/Public/www-style/2011Mar/0258.html|Monday]], [[http://lists.w3.org/Archives/Public/www-style/2011Mar/0272.html|Tuesday]], [[http://lists.w3.org/Archives/Public/www-style/2011Mar/0306.html|Wednesday]]
+
+
+===== Proposed topics =====
+
 Topics for the [[http://www.w3.org/Style/Group/2011/MountainView|March 2011 CSS Working Group Face-to-Face]] meeting in Mountain View, California.
 ===== Monday =====
   * **9:15am-5:30pm** CSS 2.1 [[http://wiki.csswg.org/spec/css2.1|Remaining Issues]]
