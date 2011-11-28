@@ -256,7 +256,7 @@
 
   ;Summary : <html><span style="background-color:#90EE90;padding:0.5em;"><b>ISSUE 15</b>: 'cue-before' and 'cue-after' properties (named sound icons, such as "warning", "error", etc.)</span></html>
   ;Status : <html><span style="background-color:#EEEEEE; padding:0.5em;"><b>CLOSED</b> [<code>Rejected</code>] (deferred)</span></html>
-  ;Resolution : __Working Group consensus__: new feature to consider for future level/revision. (See http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
+  ;Resolution : __Working Group consensus__: new feature to consider for future level/revision. (See http://lists.w3.org/Archives/Public/www-style/2011Nov/0719.html or http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0535.html
@@ -270,7 +270,7 @@
 
   ;Summary : <html><span style="background-color:#90EE90;padding:0.5em;"><b>ISSUE 16</b>: 'voice-family' property's 'preserve' value</span></html>
   ;Status : <html><span style="background-color:#EEEEEE; padding:0.5em;"><b>CLOSED</b> [<code>Rejected</code>] (deferred)</span></html>
-  ;Resolution : __Working Group consensus__: reject dropping of 'preserve' value. (See http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
+  ;Resolution : __Working Group consensus__: reject dropping of 'preserve' value. (See http://lists.w3.org/Archives/Public/www-style/2011Nov/0719.html or http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0534.html
@@ -285,7 +285,7 @@
 
   ;Summary : <html><span style="background-color:#E0FFFF;padding:0.5em;"><b>ISSUE 17</b>: 'voice-duration' property's 'time' value</span></html>
   ;Status : <html><span style="background-color:#EEEEEE; padding:0.5em;"><b>CLOSED</b> [<code>Invalid</code>]</span></html>
-  ;Resolution : __Working Group consensus__: authoring guidelines on value ranges (constraints) are out-of-scope. (See http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
+  ;Resolution : __Working Group consensus__: authoring guidelines on value ranges (constraints) are out-of-scope. (See http://lists.w3.org/Archives/Public/www-style/2011Nov/0719.html or http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0509.html
@@ -305,7 +305,7 @@
 
   ;Summary : <html><span style="background-color:#FFA500;padding:0.5em;"><b>ISSUE 18</b>: 'voice-stress' property renaming to 'voice-emphasis'</span></html>
   ;Status : <html><span style="background-color:#EEEEEE; padding:0.5em;"><b>CLOSED</b> [<code>Rejected</code>]</span></html>
-  ;Resolution : __Working Group consensus__: reject property renaming. (See http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
+  ;Resolution : __Working Group consensus__: reject property renaming. (See http://lists.w3.org/Archives/Public/www-style/2011Nov/0719.html or http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> 
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0506.html
@@ -319,7 +319,7 @@
 
   ;Summary : <html><span style="background-color:#E0FFFF; padding:0.5em;"><b>ISSUE 19</b>: Remarks and questions (request for clarifications), not actual issues.</span></html>
   ;Status : <html><span style="background-color:#EEEEEE; padding:0.5em;"><b>CLOSED</b> [<code>Invalid</code>]</span></html>
-  ;Resolution : __Working Group consensus__: not actual specification issue. (See http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
+  ;Resolution : __Working Group consensus__: not actual specification issue. (See http://lists.w3.org/Archives/Public/www-style/2011Nov/0719.html or http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
   ;Raised By : Robert Brown <Robert.Brown@microsoft.com> (involved with, but not representing the HTML Speech Working Group)
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Sep/0523.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Sep/0527.html
@@ -337,7 +337,7 @@
 
   ;Summary : <html><span style="background-color:#E0FFFF; padding:0.5em;"><b>ISSUE 20</b>: Not dropping the "at-risk" 'voice-balance' property</span></html>
   ;Status : <html><span style="background-color:#EEEEEE; padding:0.5em;"><b>CLOSED</b> [<code>Invalid</code>]</span></html>
-  ;Resolution : __Working Group consensus__: not actual specification issue. (See http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
+  ;Resolution : __Working Group consensus__: not actual specification issue. (See or http://lists.w3.org/Archives/Public/www-style/2011Nov/0719.html http://logs.csswg.org/irc.w3.org/css/?date=2011-11-23 )
   ;Raised By : PF-WG, Janina Sajka <janina@rednote.net> and James Craig <jcraig@apple.com>
   ;Comment : http://lists.w3.org/Archives/Public/www-style/2011Oct/0446.html
   ;Response : http://lists.w3.org/Archives/Public/www-style/2011Oct/0504.html
