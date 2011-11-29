@@ -3,7 +3,7 @@
 
 ==== Requirements & Feedback ====
 
-===== Martin Duerst =====
+===== Martin Durst =====
 
 1) As many others have said, don't force me to read with a fixed width.
 There are definitely legibility issues with too wide (or too small, for
