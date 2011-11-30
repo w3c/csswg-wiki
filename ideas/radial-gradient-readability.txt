@@ -103,9 +103,10 @@ Because the default size is ''cover'', this means:
 Feedback on CSS3.info indicates that people find "to <length>" awkward. Since technically only one of <size> or <position> needs a keyword (for unambiguous parsing), fixed sizes could be combined with the shape keyword. This does mean that size must come before position (although either could be omitted).
 
 The alternate syntax would be ''radial-gradient([ <extent> || <shape> ] at <position>, <colors>)''.
+
 For example, ''radial-gradient(5em circle at 25% 50px, white, black)''
 
-Comparison:
+Comparison to other proposal:
 
 <html>
 <table rules="groups" class="data" cellpadding="5">
