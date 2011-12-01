@@ -135,7 +135,9 @@ In the "Asterix and the Great Crossing" comic book the Viking characters are sup
 
 This effect could be obtained by the following transform:
 
+<code>
 @text-transform fake-norse
 {
     convert: "aoAO" to "åøÅØ";
 }
+</code>
