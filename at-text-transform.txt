@@ -149,6 +149,23 @@ Someone, for example in a user style sheet, may want to apply an uppercase or lo
 }
 </code>
 
+==== Georgian upper/lower case ====
+
+http://en.wikipedia.org/wiki/Letter_case#Other_forms_of_case
+http://en.wikipedia.org/wiki/Georgian_alphabet
+
+The Georgian language has used three different unicameral alphabets through history: Asomtavruli, Nuskhuri, and Mkhedruli. Recently, some authors have been using Asomtavruli letters in an otherwise Mkhedruli text, in a way that resembles a bicameral alphabet. One may assume that they would find the following transform useful.
+
+@text-transform Mkhedruli-to-Asomtavruli
+{
+    convert: "ა","ჵ" to "Ⴀ","Ⴥ";
+}
+
+@text-transform Asomtavruli-to-Mkhedruli
+{
+    convert: "Ⴀ","Ⴥ" to "ა","ჵ";
+}
+
 
 ===== Cross-language use cases =====
 
