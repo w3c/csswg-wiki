@@ -213,3 +213,14 @@ This effect could be obtained by the following transform:
     convert: "aoAO" to "åøÅØ";
 }
 </code>
+
+==== Leet speak ====
+In Internet, hacker and gamer culture a phenomenon is quite common, where characters are replaced by other characters or character sequences which have a somewhat similar glyphic appearance. Although no single consensual convention exists and sometimes mappings are neither injective nor surjective, one could simulate this playful style with a transform like the following:
+
+<code>
+@text-transform leet-speak
+{
+    convert: "A B C D E F  G H I J K  L M N O P Q R S T U V  W X Y Z"
+         to  "4 8 © ) 3 Ph 6 h 1 ! |{ £ M N 0 ¶ 9 ® 5 7 U \/ W * ¥ 2";
+}
+</code>
