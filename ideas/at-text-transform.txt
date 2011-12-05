@@ -87,8 +87,8 @@ This descriptor makes it possible to refer to existing text tranforms, either pr
 <code> [<string> [, <string>]? to <string> [, <string>]?] | <text-transform></code> </note>
 
 <note warning>ISSUE: do we also need one more desciptor along these lines:
-<code>Name: applies-to
-Value: all | initial
+<code>Name: scope
+Value: all | [initial || medial || final]
 Default: all
 </code>
 It would let people define customized versions of text-transform:capitalize;
