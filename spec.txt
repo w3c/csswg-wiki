@@ -64,7 +64,8 @@ CSSWG members' comments on related specs not published by our group.
   * [[http://dev.w3.org/csswg/css-module/Overview.src.html|CSS Module Template]] --- for starting new specs (and formatting old ones)
 ====== Coordination between specifications ======
   * [[spec:cssom-constants|CSSOM Constants]]
-  * [[spec:computed-values|Computed values patterns]]
+  * [[spec:computed-values|Patterns for writing "Computed Value" lines]]
+  * [[spec:at-rules-patterns|Patterns for writing at-rules
   * [[spec:property-dependencies|Property dependencies]] in computed values
 
 ====== Coordination between standards groups ======
