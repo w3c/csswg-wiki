@@ -127,12 +127,12 @@ Peter's page templates proposal [1] describes in detail one way of matching posi
 
 The template properties could be defined like this:
 
-     @page-template cover {
-min-width:600px;
-max-width:1200px;
-flows:author title subtitle publisher;
-flow-from:cover-page-template;
-}
+  @page-template cover {
+      min-width:600px;
+      max-width:1200px;
+      flows:author title subtitle publisher;
+      flow-from:cover-page-template;
+  }
 
 Then at every new page currently available flows are matched with a template that can display some or all of the flows.
 
@@ -143,13 +143,13 @@ It is very likely that advanced applications will require custom logic for conte
 
 Could be like this:
 
-     function onNewPage(e) {
-           if (e.pageNumber == 1) {
-                e.pageTemplate = "template-cover";
-           } else {
-                e.pageTemplate = "template-two-column";
-}
-                }
+  function onNewPage(e) {
+      if (e.pageNumber == 1) {
+          e.pageTemplate = "template-cover";
+      } else {
+          e.pageTemplate = "template-two-column";
+      }
+  }
 
 
 ==== 6.       Integration with "overflow:paged" ===
