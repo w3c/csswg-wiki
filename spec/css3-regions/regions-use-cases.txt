@@ -200,6 +200,92 @@ As the following image shows, it is important to be able to control the interact
 
 {{:spec:css3-regions:advanced_piechart.jpg?600|}}
 
+<code html>
+<html>
+<head>
+    <style type="text/css">
+
+    /* extract the content of #source into a named flow - 'article' */
+    #source{
+        flow-into: article;
+    }                             
+
+    /* render the content from the 'article' named flow into .region */
+    .region{
+        flow-from: article; 
+    }
+
+    #piechart{ 
+        position: absolute;
+        width: 500px; 
+        height: 500px;
+        right: 0;
+    } 
+    
+    #slice_1, #slice_2, #slice_3, slice_4{
+        position: absolute;
+        
+        /* prevent text from touching the edges of the slices */ 
+        wrap-padding: 10px;
+    } 
+    
+    #slice_1{ 
+        /* set the shape of the slice */
+        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
+        
+        /* using SVG for background. shape-inside doesn't affect the box background so background-color won't work */
+        background-image: url(green_slice.svg);
+        top: -10px;
+        left: -10px;
+    }
+    
+    #slice_2{
+        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn); 
+        
+        background-image: url(tan_slice.svg);
+        top: 200px;
+        left: -20px; 
+    } 
+    
+    #slice_3{
+        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
+
+        background-image: url(orange_slice.svg);
+        top: 350px;
+        bottom: -10px;
+    }
+    
+    #slice_4{
+        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
+
+        background-image: url(yellow_slice.svg);
+        top: 0;
+        right: 0;
+    }
+
+    </style>
+</head>
+<body> 
+
+   <h1>The <em>not so hidden</em> Cost$</h1>
+
+    <div id="source">
+        <p>
+        Not every meal is going to be ...
+        </p>       
+    </div> 
+    
+    <div id="piechart">
+        <div id="slice_1" class="region"></div>
+        <div id="slice_2" class="region"></div> 
+        <div id="slice_3" class="region"></div> 
+        <div id="slice_4" class="region"></div>    
+    </div> 
+    
+</body> 
+</html> 
+</code>
+
 ==== Dropcap exclusion ====
 
 {{:spec:css3-regions:simple_dropcap-1.png?600|}}
