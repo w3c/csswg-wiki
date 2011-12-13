@@ -2,6 +2,8 @@
 
 This page captures use cases for CSS Regions (and exclusions).
 
+CSS Regions can be coupled with [[ideas:css3-exclusions-use-cases|CSS Exclusions and Shapes use cases]] for rich layouts with non-rectangular and intruding boxes.
+
 ==== Flowing content between arbitrary areas ====
 
 The following image illustrates flowing the same content across regions of different widths. As the content is resized, so are the various regions and the content simply flows between the different regions.
@@ -258,6 +260,8 @@ As the following image shows, it is important to be able to control the interact
 
 {{:spec:css3-regions:simple_shape-order.png?600|}}
 
+Code sample similar to [[ideas:css3-exclusions-use-cases#uc-2overlapping-exclusions|Overlapping Exclusions]]
+
 <code html>
 <html>
 <head>
@@ -414,9 +418,4 @@ As the following image shows, it is important to be able to control the interact
 
 {{:spec:css3-regions:simple_dropcap-1.png?600|}}
 
-==== Magazine layouts ====
-
-{{:spec:css3-regions:advanced_panorama.jpg?600|}}
-{{:spec:css3-regions:advanced_multi-column-article.jpg?600|}}
-{{:spec:css3-regions:simple_multiple_threads.png?600|}}
-{{:spec:css3-regions:region-break_headings.jpg?600|}}
+Code sample similar to [[ideas:css3-exclusions-use-cases#uc-1simple-exclusion|Simple Exclusion]]
