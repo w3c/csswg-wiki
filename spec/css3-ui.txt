@@ -34,7 +34,7 @@ For latest edits/resolutions, see the editors draft:
   ; Proposed Resolution : create at least one test case per feature, update "Current Issues" section above to add the text <code>See the [[http://www.w3.org/Style/CSS/Test/#css3-ui|released]] and 
   [[http://dev.w3.org/CSS/css3-ui-test-suite/src/|development]] versions 
   of the test suite for the "Tests" references.</code>
-  ; Status : accepted and noted in editor's draft. pending contributions to test suite.
+  ; Status : Resolved. LCWD has link to CSS Tests page. Update this to link to specific test suite page for CSS3-UI for the next CR. Pending contributions to test suite.
 
 
 ==== Issue 2 ====
