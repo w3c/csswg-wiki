@@ -62,6 +62,7 @@ The following image illustrates flowing the same content across regions of diffe
 
 ==== Flowing content between areas and overlapping pull quote exclusion ====
 
+Use case from Korean News Paper layout: http://lists.w3.org/Archives/Public/www-archive/2011Oct/att-0033/KoreanNewspapers-exclusionAreas.pdf.
 {{:spec:css3-regions:exclusions_pullquote.jpg?600|}}
 
 Sample with CSS Regions and Exclusions
