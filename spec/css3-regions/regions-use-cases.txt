@@ -184,9 +184,9 @@ Sample with columns and CSS Exclusions
 
 ==== Flowing content into transformed areas ====
 
-{{:spec:css3-regions:regions_rotated_columns.jpg?600|}}
+See Stagger and Wagger at http://24ways.org/2009/type-inspired-interfaces
 
-See Stagger and Waggere at http://24ways.org/2009/type-inspired-interfaces
+{{:spec:css3-regions:regions_rotated_columns.jpg?600|}}
 
 <code html>
 <!DOCTYPE HTML>
