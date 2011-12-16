@@ -63,7 +63,7 @@ The following image illustrates flowing the same content across regions of diffe
 ==== Flowing content between areas and overlapping pull quote exclusion ====
 
 Use case from Korean News Paper layout: http://lists.w3.org/Archives/Public/www-archive/2011Oct/att-0033/KoreanNewspapers-exclusionAreas.pdf.
-{{:spec:css3-regions:exclusions_pullquote.jpg?600|}}
+{{:spec:css3-regions:exclusions_pullquote_offset.jpg?600|}}
 
 Sample with CSS Regions and Exclusions
 
@@ -85,11 +85,15 @@ Sample with CSS Regions and Exclusions
         
         #region_1, #region_2{    
             float:left; 
-            width:45%; 
             height:100%;
         }   
         
+        #region1{
+            width: 60%
+        }
+        
         #region_2{
+            width: 30%
             margin-left: 10%;
         }
         
@@ -133,55 +137,7 @@ Sample with CSS Regions and Exclusions
 </html>
 </code>
 
-Sample with columns and CSS Exclusions
 
-<code html>
-<!DOCTYPE HTML>
-<html>
-<head>
-    <style type="text/css"> 
-        
-        #source{
-            columns: 2;
-            height: 100%;
-        }                             
-         
-        blockquote{          
-            position:absolute;
-            
-            height:200px;   
-            width:50%;
-            
-            left: 25%;
-            top: 35%;   
-            
-            /* exclude surrounding content */
-            wrap-flow: both; 
-            
-            /* prevent the content from touching the edges of the box */
-            wrap-padding: 20px;
-        
-            color: lightblue;
-            font-size: 2em;
-        }     
-        
-    </style>
-</head>
-<body>
-
-    <div id="source">
-        <p>
-            Lorem ipsum dolor sit amet ...
-        </p>       
-    </div>  
-        
-    <blockquote>
-        Lorem ipsum dolor ...
-    </blockquote>
-
-</body>
-</html>
-</code>
 
 ==== Flowing content into transformed areas ====
 
