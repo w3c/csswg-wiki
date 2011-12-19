@@ -10,118 +10,87 @@ The following image illustrates flowing the same content across regions of diffe
 
 {{:spec:css3-regions:simple_single_thread.png?600|}}
 
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source {
+  flow-into: article;
+}
+/* render the content from the 'article' named flow into .region */
+.region {
+  flow-from: article; 
+}
+#region_1, 
+#region_2, 
+#region_3 {
+  float: left;   
+  background: lightblue;
+}
+#region_1, 
+#region_3 {
+  width:   20%;
+  height: 600px;
+}
+#region_2 {
+  width:   50%; 
+  height: 200px;
+  margin: 0 5%;
+}
+</code>     
 <code html>
-<!DOCTYPE HTML>
-<html>
-<head>
-    <style type="text/css"> 
-        
-        /* extract the content of #source into a named flow - 'article' */
-        #source{
-            flow-into: article;
-        }                             
-         
-        /* render the content from the 'article' named flow into .region */
-        .region{
-            flow-from: article; 
-        }
-        
-        #region_1, #region_2, #region_3{    
-            float:left;   
-            background:lightblue;
-        }   
-        
-        #region_1, #region_3{
-            width:20%;
-            height:600px;
-        }     
-        
-        #region_2{
-            width:50%; 
-            height:200px;
-            margin:0 5%;
-        }
-        
-    </style>
-</head>
-<body>
-
-    <div id="source">
-        <p>
-            Lorem ipsum dolor sit amet ...
-        </p>       
-    </div>  
-    
-    <div id="region_1" class="region"></div>
-    <div id="region_2" class="region"></div>
-    <div id="region_3" class="region"></div>
-
-</body>
-</html>
+<div id="source">
+  <p>Lorem ipsum dolor sit amet ...</p>
+</div>
+<div id="region_1" class="region"></div>
+<div id="region_2" class="region"></div>
+<div id="region_3" class="region"></div>
 </code>
 
 ==== Flowing content between areas of a non-grid layout ====
 
 {{:spec:css3-regions:regions_non-grid.jpg?600|}}
 
-<code html>
-<!DOCTYPE HTML>
-<html>
-<head>
-    <style type="text/css"> 
-        
-        /* extract the content of #source into a named flow - 'article' */
-        #source{
-            flow-into: article;
-        }                             
-         
-        /* render the content from the 'article' named flow into .region */
-        .region{
-            flow-from: article; 
-        }
-        
-        #region_1, #region_2, #region_3{    
-            position:absolute;
-        }   
-        
-        #region_1{
-            width:22%;
-            height:100px; 
-            top:0;
-            left:0;
-        }     
-        
-        #region_2{ 
-            width:15%; 
-            height:250px;
-            bottom:0;
-            left: 5%;
-        }            
-        
-        #region3{
-            width: 70%;
-            height:  100%;
-            top:0;
-            right:0;
-        }
-        
-    </style>
-</head>
-<body>
-
-    <div id="source">
-        <p>
-            Lorem ipsum dolor sit amet ...
-        </p>       
-    </div>  
-    
-    <div id="region_1" class="region"></div>
-    <div id="region_2" class="region"></div>
-    <div id="region_3" class="region"></div>
-
-</body>
-</html>
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source {
+  flow-into: article;
+}
+/* render the content from the 'article' named flow into .region */
+.region {
+  flow-from: article; 
+}
+#region_1, 
+#region_2, 
+#region_3 {
+  position: absolute;
+}
+#region_1 {
+  width:   22%;
+  height: 100px; 
+  top:      0;
+  left:     0;
+}     
+#region_2 {
+  width:   15%; 
+  height: 250px;
+  bottom:   0;
+  left:     5%;
+}            
+#region3 {
+  width:   70%;
+  height: 100%;
+  top:      0;
+  right:    0;
+}
 </code>
+<code html>
+<div id="source">
+  <p>Lorem ipsum dolor sit amet ...</p>
+</div>  
+<div id="region_1" class="region"></div>
+<div id="region_2" class="region"></div>
+<div id="region_3" class="region"></div>
+</code>
+
 ==== Flowing content between areas and overlapping pull quote exclusion ====
 
 Use case from Korean News Paper layout: http://lists.w3.org/Archives/Public/www-archive/2011Oct/att-0033/KoreanNewspapers-exclusionAreas.pdf.
@@ -129,77 +98,49 @@ Use case from Korean News Paper layout: http://lists.w3.org/Archives/Public/www-
 
 Sample with CSS Regions and Exclusions
 
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source {
+  flow-into: article;
+}
+/* render the content from the 'article' named flow into .region */
+.region {
+  flow-from: article;
+}
+#region_1, 
+#region_2 {
+  float: left; 
+  height: 100%;
+}   
+#region1 {
+  width:   60%
+}
+#region_2 {
+  width:   30%
+  margin-left: 10%;
+}
+blockquote {          
+  position:absolute;
+  height: 200px;   
+  width:   50%;
+  left:    25%;
+  top:     35%;   
+  /* exclude surrounding content */
+  wrap-flow: both; 
+  /* prevent the content from touching the edges of the box */
+  wrap-padding: 20px;
+  color: lightblue;
+  font-size: 2em;
+}
+</code>
 <code html>
-<!DOCTYPE HTML>
-<html>
-<head>
-    <style type="text/css"> 
-        
-        /* extract the content of #source into a named flow - 'article' */
-        #source{
-            flow-into: article;
-        }                             
-         
-        /* render the content from the 'article' named flow into .region */
-        .region{
-            flow-from: article; 
-        }
-        
-        #region_1, #region_2{    
-            float:left; 
-            height:100%;
-        }   
-        
-        #region1{
-            width: 60%
-        }
-        
-        #region_2{
-            width: 30%
-            margin-left: 10%;
-        }
-        
-        blockquote{          
-            position:absolute;
-            
-            height:200px;   
-            width:50%;
-            
-            left: 25%;
-            top: 35%;   
-            
-            /* exclude surrounding content */
-            wrap-flow: both; 
-            
-            /* prevent the content from touching the edges of the box */
-            wrap-padding: 20px;
-        
-            color: lightblue;
-            font-size: 2em;
-        }     
-        
-    </style>
-</head>
-<body>
-
     <div id="source">
-        <p>
-            Lorem ipsum dolor sit amet ...
-        </p>       
-    </div>  
-    
+        <p>Lorem ipsum dolor sit amet ...</p>
+    </div>
     <div id="region_1" class="region"></div>
     <div id="region_2" class="region"></div>
-    
-    <blockquote>
-        Lorem ipsum dolor ...
-    </blockquote>
-
-</body>
-</html>
+    <blockquote>Lorem ipsum dolor ...</blockquote>
 </code>
-
-
 
 ==== Flowing content into transformed areas ====
 
@@ -207,55 +148,35 @@ See Stagger and Swagger at http://24ways.org/2009/type-inspired-interfaces
 
 {{:spec:css3-regions:regions_rotated_columns.jpg?600|}}
 
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source {
+  flow-into: article;
+}
+/* render the content from the 'article' named flow into .region */
+.region {
+  flow-from: article; 
+}
+#region_1, 
+#region_2 {
+  float: left;  
+  width:  45%;
+  height: 70%;
+}
+#region_1 {
+  transform: rotate(6.5deg);
+}
+#region_2 {
+  transform: rotate(-5.5deg) translate(0, 40px);
+}
+</code>
 <code html>
-<!DOCTYPE HTML>
-<html>
-<head>
-    <style type="text/css"> 
-        
-        /* extract the content of #source into a named flow - 'article' */
-        #source{
-            flow-into: article;
-        }                             
-         
-        /* render the content from the 'article' named flow into .region */
-        .region{
-            flow-from: article; 
-        }
-        
-        #region_1, #region_2{    
-            float:left;  
-            width:45%;
-            height:70%;
-        }
-        
-         #region_1{
-            transform: rotate(6.5deg);
-         }   
-        
-        #region_2{
-            transform: rotate(-5.5deg) translate(0, 40px);
-        }
-        
-    </style>
-</head>
-<body>
-
     <div id="source">
-        <p>
-            Lorem ipsum dolor sit amet ...
-        </p>       
-    </div>  
-    
+        <p>Lorem ipsum dolor sit amet ...</p>
+    </div>
     <div id="region_1" class="region"></div>
     <div id="region_2" class="region"></div>
-
-</body>
-</html>
 </code>
-
-
-
 
 ==== Flowing content into arbitrary areas ====
 
@@ -263,67 +184,48 @@ The following image illustrates flowing content into an arbitrarily shaped area 
 
 {{:spec:css3-regions:simple_shape.png?600|}}
 
-<code html>
-<html>
-<head>
-    <style type="text/css">
-
-    /* extract the content of #source into a named flow - 'article' */
-    #source{
-        flow-into: article;
-    }                             
-
-    /* render the content from the 'article' named flow into .region */
-    .region{
-        flow-from: article; 
-    }
-
-    #circle, #heart{
-        position: absolute;
-        width: 40%;
-        height: 40%;
-    } 
-
-    #circle{
-        /* notation from CSS Exclusions and Shapes Module */
-        shape-inside: circle(50%, 50%, 30%); 
-
-        left: 0;
-    }
-
-    #heart{
-        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);
-
-        right: 0;    
-    }  
-
-    /* region-styling to change the color of paragraph text that flows into #heart */
-    @region #heart {
-        p {
-            color: red;
-        }
-    }
-
-    </style>
-</head>
-<body>    
-
-    <div id="source">
-        <p>
-         Lorem ipsum dolor sit amet ...
-        </p>       
-    </div>  
-
-    <div id="circle" class="region"></div>
-    <div id="heart" class="region"></div> 
-    
-</body> 
-</html> 
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source {
+  flow-into: article;
+}                             
+/* render the content from the 'article' named flow into .region */
+.region {
+  flow-from: article; 
+}
+#circle, 
+#heart {
+  position: absolute;
+  width:  40%;
+  height: 40%;
+} 
+#circle {
+  /* notation from CSS Exclusions and Shapes Module */
+  shape-inside: circle(50%, 50%, 30%); 
+  left: 0;
+}
+#heart {
+  shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);
+  right: 0;    
+}
+/* region-styling to change the color of paragraph text that flows into #heart */
+@region #heart {
+  p {
+    color: red;
+  }
+}
 </code>
+<code html>
+<div id="source">
+  <p>Lorem ipsum dolor sit amet ...</p>
+</div>  
+<div id="circle" class="region"></div>
+<div id="heart" class="region"></div> 
+</code>
+
 ==== Flowing content *around* arbitrary areas ====
 
 The following image illustrates the need to be able to flow content around an arbitrarily shaped area.
-
 
 {{:spec:css3-regions:simple_exclusion.png?600|}}
 
@@ -337,64 +239,46 @@ As the following image shows, it is important to be able to control the interact
 
 Code sample similar to [[ideas:css3-exclusions-use-cases#uc-2overlapping-exclusions|Overlapping Exclusions]]
 
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source {
+  flow-into: article;
+}                             
+/* render the content from the 'article' named flow into .region */
+.region {
+  flow-from: article; 
+}
+#circle_1, 
+#circle_2, 
+#circle_3 {
+  position: absolute;
+  width:  40%;
+  height: 40%; 
+  /* notation from CSS Exclusions and Shapes Module */
+  shape-inside: circle(50%, 50%, 30%);   
+}
+#circle_2 {
+  /* act as exclusion for the text flow from surrounding regions */
+  wrap-flow: both;
+  /* circular exclusion shape on affected elements */
+  shape-outside: circle(50%, 50%, 30%);
+  /* avoid being affected by other regions with lower z-index */
+  z-index:  1;   
+}
+/* region-styling to change the color of paragraph text that flows into #circle_2 */
+@region #circle_2 {
+  p {
+    color: red;
+  }
+}
+</code>
 <code html>
-<html>
-<head>
-    <style type="text/css">
-
-    /* extract the content of #source into a named flow - 'article' */
-    #source{
-        flow-into: article;
-    }                             
-
-    /* render the content from the 'article' named flow into .region */
-    .region{
-        flow-from: article; 
-    }
-
-    #circle_1, #circle_2, #circle_3{
-        position: absolute;
-        width: 40%;
-        height: 40%; 
-        
-        /* notation from CSS Exclusions and Shapes Module */
-        shape-inside: circle(50%, 50%, 30%);   
-    } 
-
-    #circle_2{
-        /* act as exclusion for the text flow from surrounding regions */
-        wrap-flow: both;
-        
-        /* circular exclusion shape on affected elements */
-        shape-outside: circle(50%, 50%, 30%);
-        
-        /* avoid being affected by other regions with lower z-index */
-        z-index: 1;   
-    }
-
-    /* region-styling to change the color of paragraph text that flows into #circle_2 */
-    @region #circle_2 {
-        p {
-            color: red;
-        }
-    }
-
-    </style>
-</head>
-<body>    
-
-    <div id="source">
-        <p>
-         The text in this element will wrap ...
-        </p>       
-    </div>  
-
-    <div id="circle_1" class="region"></div>
-    <div id="circle_2" class="region"></div> 
-    <div id="circle_3" class="region"></div> 
-    
-</body> 
-</html> 
+<div id="source">
+  <p>The text in this element will wrap ...</p>
+</div>
+<div id="circle_1" class="region"></div>
+<div id="circle_2" class="region"></div> 
+<div id="circle_3" class="region"></div> 
 </code>
 
 === Concrete Use Cases ===
@@ -403,90 +287,67 @@ Code sample similar to [[ideas:css3-exclusions-use-cases#uc-2overlapping-exclusi
 
 {{:spec:css3-regions:advanced_piechart.jpg?600|}}
 
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source{
+  flow-into: article;
+}
+/* render the content from the 'article' named flow into .region */
+.region {
+  flow-from: article; 
+}
+#piechart {
+  position: absolute;
+  width:  500px; 
+  height: 500px;
+  right:    0;
+}
+#slice_1, 
+#slice_2, 
+#slice_3, 
+#slice_4 {
+  position: absolute;
+  /* prevent text from touching the edges of the slices */ 
+  wrap-padding: 10px;
+} 
+#slice_1 {
+  /* set the shape of the slice */
+  shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
+  /* using SVG for background. shape-inside doesn't affect the box background so background-color won't work */
+  background-image: url(green_slice.svg);
+  top:    -10px;
+  left:   -10px;
+}
+#slice_2 {
+  shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn); 
+  background-image: url(tan_slice.svg);
+  top:    200px;
+  left:   -20px; 
+}
+#slice_3 {
+  shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
+  background-image: url(orange_slice.svg);
+  top:    350px;
+  bottom: -10px;
+}
+#slice_4 {
+  shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
+  background-image: url(yellow_slice.svg);
+  top:      0;
+  right:    0;
+}
+</code>
 <code html>
-<html>
-<head>
-    <style type="text/css">
-
-    /* extract the content of #source into a named flow - 'article' */
-    #source{
-        flow-into: article;
-    }                             
-
-    /* render the content from the 'article' named flow into .region */
-    .region{
-        flow-from: article; 
-    }
-
-    #piechart{ 
-        position: absolute;
-        width: 500px; 
-        height: 500px;
-        right: 0;
-    } 
-    
-    #slice_1, #slice_2, #slice_3, slice_4{
-        position: absolute;
-        
-        /* prevent text from touching the edges of the slices */ 
-        wrap-padding: 10px;
-    } 
-    
-    #slice_1{ 
-        /* set the shape of the slice */
-        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
-        
-        /* using SVG for background. shape-inside doesn't affect the box background so background-color won't work */
-        background-image: url(green_slice.svg);
-        top: -10px;
-        left: -10px;
-    }
-    
-    #slice_2{
-        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn); 
-        
-        background-image: url(tan_slice.svg);
-        top: 200px;
-        left: -20px; 
-    } 
-    
-    #slice_3{
-        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
-
-        background-image: url(orange_slice.svg);
-        top: 350px;
-        bottom: -10px;
-    }
-    
-    #slice_4{
-        shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);   
-
-        background-image: url(yellow_slice.svg);
-        top: 0;
-        right: 0;
-    }
-
-    </style>
-</head>
-<body> 
-
-   <h1>The <em>not so hidden</em> Cost$</h1>
-
-    <div id="source">
-        <p>
-        Not every meal is going to be ...
-        </p>       
-    </div> 
-    
-    <div id="piechart">
-        <div id="slice_1" class="region"></div>
-        <div id="slice_2" class="region"></div> 
-        <div id="slice_3" class="region"></div> 
-        <div id="slice_4" class="region"></div>    
-    </div> 
-    
-</body> 
-</html> 
+<h1>The <em>not so hidden</em> Cost$</h1>
+<div id="source">
+  <p>Not every meal is going to be ...</p>       
+</div> 
+<div id="piechart">
+  <div id="slice_1" class="region"></div>
+  <div id="slice_2" class="region"></div> 
+  <div id="slice_3" class="region"></div> 
+  <div id="slice_4" class="region"></div>    
+</div> 
 </code>
 
 ==== Dropcap exclusion ====
