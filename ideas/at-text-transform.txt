@@ -301,7 +301,6 @@ In Internet, hacker and gamer culture, a phenomenon is quite common, where chara
 <code css>
 @text-transform leet-speak
 {
-    transformation: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-                to  "48©)3F6H1!K£MN0¶9®57UVW*¥2";
+    transformation: "A-Z" to "48©)3F6H1!K£MN0¶9®57UVW*¥2";
 }
 </code>
