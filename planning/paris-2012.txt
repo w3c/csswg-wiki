@@ -14,7 +14,8 @@ Room: TBD
 
 === Proposed Topics ===
 
-  * Add topics here
+  * Selectors 4
+  * ?
 
 ===== Participants =====
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
