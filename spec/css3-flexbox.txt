@@ -235,8 +235,8 @@ In other words, doing this:
 not leave a placeholder, but only use the hypothetical block and hypothetical line to determine auto position.
   ;Proposal 2 : ignore position:absolute on flexbox children
   ;Status : Open. consider proposal 2; Alex is Ok with allowing empty anonymous item.
-  ;Action : Tab to get use cases for supporting absolute positioning.
-
+  ;Resolved : abspos elements leave behind placeholders and all that implies
+http://lists.w3.org/Archives/Public/www-style/2011Nov/0711.html  
 ==== Issue 11 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0284.html
