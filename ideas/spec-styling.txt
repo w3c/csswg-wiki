@@ -3,6 +3,10 @@
 
 ==== Requirements & Feedback ====
 
+===== Christoph Päper =====
+
+http://lists.w3.org/Archives/Public/site-comments/2011Dec/0026.html
+
 ===== Loretta Guarino Reid =====
 
 Speaking of all the contrast issues, can we please ensure that the new style meets WCAG 2.0 AA? I haven't yet done an analysis, but this should be a requirement.
