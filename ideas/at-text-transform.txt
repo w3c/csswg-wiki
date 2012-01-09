@@ -162,12 +162,12 @@ This letter being rather new, authors are bound to disagree whether it is a prop
 <code css>
 @text-transform german-uppercase
 {
-    transformation: uppercase, U+00DF to U+1E9E;
+    transformation: U+00DF to U+1E9E, uppercase;
 }
 
 @text-transform german-lowercase
 {
-    transformation: lowercase, U+1E9E to U+00DF;
+    transformation: U+1E9E to U+00DF, lowercase;
 }
 </code>
 <note warning>
