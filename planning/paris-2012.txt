@@ -40,6 +40,7 @@ Room: TBD
 | Alan Stearns | Adobe | Feb 5 | Feb 11 | Ibis | ??? |  |
 | Håkon Wium Lie | Opera | Feb 5 | Feb 8 | 
 | Alex Mogilevsky | Microsoft | Feb 4 | Feb 10 | ??? |
+| Jet Villegas | Mozilla | 2012-02-05 11:30 CDG | 2012-02-09 10:40 CDG | |
 
 
 ===== Housing =====
