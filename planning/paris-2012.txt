@@ -19,6 +19,7 @@ Room: TBD
 
 ===== Participants =====
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+| Glenn Adams | Cox | TBD | TBD | | |  |
 | Tab Atkins | Google | Sometime Feb 4 | 2012-02-09 12:40 CDG | apt share | ??? |  |
 | Tantek Çelik | Mozilla Foundation | 2012-01-28 13:55 CDG | 2012-02-08 12:25 CDG | apt share | arriving: BA0308, departing: BA0309 |  |
 | fantasai | Mozilla Foundation | Sat/Sun via OSL | temporarily local | apt share |
