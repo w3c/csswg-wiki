@@ -13,7 +13,7 @@ Implementations of regions, columns and paginations will vary but in most genera
     </div>
 
     <div style="margin:1em"></div>
-    	
+    
     <div class="centerbox" style="width:10em;margin:auto;border:1px solid black;padding:0.5em;text-align:center;">
         Layout engine
     </div>
@@ -35,6 +35,69 @@ Implementations of regions, columns and paginations will vary but in most genera
     </div>
 </div>
 </html>
+
+
+The most common cases are 
+  * Layout for screen
+
+<html>
+<div class="figure" style="border:thin solid silver; width:35em; padding:1em; font-size:50%; -float:right; clear:right;">
+    <div class="legend" style="font-style:italic">Content</div>
+    <div class="" style="background:silver">
+    	... Lorem ipsum dolor sit amet, consectetur ...
+    </div>
+
+    <div style="margin:1em"></div>
+    	
+    <div class="centerbox" style="width:10em;margin:auto;border:1px solid black;padding:0.5em;text-align:center;">
+        Layout engine
+    </div>
+
+    <div style="margin:0.5em"></div>
+    	
+    <div class="legend" style="font-style:italic">Containers</div>
+    <div style="text-align:center">
+        <div class="box" style="display:block;margin:0.5em;border:1px dashed black;padding:0.5em; border-bottom-style:none;height:3em;">
+        </div>
+    </div>
+</div>
+</html>
+
+(there is only one container, usually with auto height) and 
+  * printing
+
+<html>
+<div class="figure" style="border:thin solid silver; width:35em; padding:1em; font-size:50%; -float:right; clear:right;">
+    <div class="legend" style="font-style:italic">Content</div>
+    <div class="" style="background:silver">
+    	... Lorem ipsum dolor sit amet, consectetur ...
+    </div>
+
+    <div style="margin:1em"></div>
+    	
+    <div class="centerbox" style="width:10em;margin:auto;border:1px solid black;padding:0.5em;text-align:center;">
+        Layout engine
+    </div>
+
+    <div style="margin:0.5em"></div>
+    	
+    <div class="legend" style="font-style:italic">Containers</div>
+    <div style="text-align:center">
+        <div class="box" style="display:inline-block;margin:0.5em;border:1px dashed black;padding:0.5em;width:2em;height:3em;">
+        </div>
+        <div class="box" style="display:inline-block;margin:0.5em;border:1px dashed black;padding:0.5em;width:2em;height:3em;">
+        </div>
+        <div class="box" style="display:inline-block;margin:0.5em;border:1px dashed black;padding:0.5em;width:2em;height:3em;">
+        </div>
+        <div class="box" style="display:inline-block;margin:0.5em;border:1px dashed black;padding:0.5em;width:2em;height:3em;">
+        </div>
+        <div class="box" style="display:inline-block;margin:0.5em;border:1px dashed black;padding:0.5em;width:2em;height:3em;">
+        </div>
+    </div>
+</div>
+</html>
+
+(a sequence of containers, usually all of the same size)
 
 Layout engine outputs pieces of content that are laid out to fit into given containers. Let's call them "fragments":
 
@@ -95,3 +158,4 @@ Layout engine outputs pieces of content that are laid out to fit into given cont
 </div>
 
 </html>
+
