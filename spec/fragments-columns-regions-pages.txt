@@ -100,8 +100,7 @@ That's what all layout engines do, the most common cases being
 
 ==== x ====
 ===== 
-Fragmentati
-on and generating containers =====
+===== Fragmentation and generating containers =====
 
 When layout engine does its work, it outputs pieces of content that are laid out to fit into given containers. Let's call them "fragments":
 
