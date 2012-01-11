@@ -2,6 +2,8 @@
 //Notes and examples in support of discussion on Regions//
 
 ===== Layout Engine with Fragmentation =====
+Implementations of regions, columns and paginations will vary but in most general situation it is reasonable to assume that there is a layout engine that takes formatted content in DOM as input and fills one or more container with that content:
+
 <html>
 
 <div class="figure" style="border:thin solid silver; width:35em; padding:1em;">
@@ -32,7 +34,12 @@
         </div>
     </div>
 </div>
+</html>
 
+Layout engine outputs pieces of content that are laid out to fit into given containers. Let's call them "fragments":
+
+
+<html>
 <div class="figure" style="border:thin solid silver; width:35em; padding:1em;">
     <div class="legend" style="font-style:italic">Content</div>
     <div class="" style="background:silver">
