@@ -6,7 +6,7 @@ Implementations of regions, columns and paginations will vary but in most genera
 
 <html>
 
-<div class="figure" style="border:thin solid silver; width:35em; padding:1em;">
+<div class="figure" style="border:thin solid silver; width:35em; margin:auto; padding:1em;">
     <div class="legend" style="font-style:italic">Content</div>
     <div class="" style="background:silver">
     	... Lorem ipsum dolor sit amet, consectetur ...
@@ -36,12 +36,11 @@ Implementations of regions, columns and paginations will vary but in most genera
 </div>
 </html>
 
-
-The most common cases are 
+That's what all layout engines do, the most common cases being 
   * Layout for screen
 
 <html>
-<div class="figure" style="border:thin solid silver; width:35em; padding:1em; font-size:50%; -float:right; clear:right;">
+<div class="figure" style="border:thin solid silver; width:35em; margin:auto; padding:1em; font-size:66%; -float:right; clear:right;">
     <div class="legend" style="font-style:italic">Content</div>
     <div class="" style="background:silver">
     	... Lorem ipsum dolor sit amet, consectetur ...
@@ -67,7 +66,7 @@ The most common cases are
   * printing
 
 <html>
-<div class="figure" style="border:thin solid silver; width:35em; padding:1em; font-size:50%; -float:right; clear:right;">
+<div class="figure" style="border:thin solid silver; width:35em; margin:auto; padding:1em; font-size:66%; -float:right; clear:right;">
     <div class="legend" style="font-style:italic">Content</div>
     <div class="" style="background:silver">
     	... Lorem ipsum dolor sit amet, consectetur ...
@@ -99,11 +98,12 @@ The most common cases are
 
 (a sequence of containers, usually all of the same size)
 
-Layout engine outputs pieces of content that are laid out to fit into given containers. Let's call them "fragments":
+===== Fragmentation and generating containers =====
 
+When layout engine does its work, it outputs pieces of content that are laid out to fit into given containers. Let's call them "fragments":
 
 <html>
-<div class="figure" style="border:thin solid silver; width:35em; padding:1em;">
+<div class="figure" style="border:thin solid silver; width:35em; margin:auto; padding:1em;">
     <div class="legend" style="font-style:italic">Content</div>
     <div class="" style="background:silver">
     	... Lorem ipsum dolor sit amet, consectetur ...
