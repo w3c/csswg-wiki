@@ -270,7 +270,7 @@ Note that as layout engine fills containers with content, there may be content t
 
 Which gets us to the questions of "where do the containers come from?" and "how to get more?"
 
-===== Container sources =====
+===== Containers =====
 
 Considering that a target container for fragmentation is a rectangle or shape with size and possibly position, there are many ways to create and manage theem. 
 
