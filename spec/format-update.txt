@@ -1,0 +1,21 @@
+====== Meta-Update Status ======
+
+This page is here to track all the changes and meta-information we've resolved to include in our specs, and which weren't part of the original CSS3 templates. Next time you update your spec, check that it has all these pieces!
+
+  * Title as "CSS Foo Module [Level N]" 
+  * Includes link to issues list in header (see [[http://dev.w3.org/csswg/css-module/|template]])
+  * Includes link to www-style in header (see [[http://dev.w3.org/csswg/css-module/|template]])
+  * Includes link to editor's draft in header (see [[http://dev.w3.org/csswg/css-module/|template]])
+  * Includes [[http://dev.w3.org/csswg/css-module/#placement|module interactions]] and [[http://dev.w3.org/csswg/css-module/#values|values]] sections
+  * Propdef tables "Values" field name links to values section
+  * Propdef tables include "Animatable" field
+  * Propdef tables include "Canonical order" field
+  * Includes [[http://dev.w3.org/csswg/css-module/#conventions|Document Conventions]] section
+  * Includes an appropriate Conformance section
+
+^ Spec ^ Title ^ Issues ^ List ^ Draft ^ Interactions ^ Values ^ Animatable ^ Order ^ Conventions ^ Conformance ^
+|[[http://dev.w3.org/csswg/css3-background/|css3-background]] | Y | N | N | N | N | N | N | N | Y | Y |
+|[[http://dev.w3.org/csswg/css3-multicol/|css3-multicol]] | Y | N | N | N | N | N | N | N | N | Y |
+|[[http://dev.w3.org/csswg/css3-speech/|css3-speech]] | Y | N | N | N | Y | N | N/A | N | Y | Y |
+|[[http://dev.w3.org/csswg/css3-2d-transforms/|css3-2d-transforms]] | Y | N | N | N | N | N | N | N | N | N |
+|[[http://dev.w3.org/csswg/css3-transitions/|css3-transitions]] | Y | N | N | N | N | N | N | N | N | N |
