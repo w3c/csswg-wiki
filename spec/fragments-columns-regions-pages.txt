@@ -316,6 +316,11 @@ All pages are of the same size - the size of content area of the element.
 
 UI is provided by UA, it may be jestures on touch device, or page navigation controls (perhaps similar to controls on <video> element)
 
+**Issues:** 
+  * Dealing variable-sized pages is not yet defined and may be limited
+  * More complex UI (e.g. facing pages) and/or UI customization is to be defined
+
+
 ==== columns ====
 ==== scripted pages ====
 ==== page templates ====
