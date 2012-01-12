@@ -303,6 +303,19 @@ Let's compare the different kinds of fragmenting containers, specifically lookin
 ===== Examples =====
 
 ==== overflow:paged ====
+
+**Goal:** easly declarative way to create paged view, good behavior with default settings and default UI.
+
+**Proposal:**
+
+  oveflow:paged
+ 
+Element with "overflow:paged" shows one page of content at a time. 
+
+All pages are of the same size - the size of content area of the element.
+
+UI is provided by UA, it may be jestures on touch device, or page navigation controls (perhaps similar to controls on <video> element)
+
 ==== columns ====
 ==== scripted pages ====
 ==== page templates ====
