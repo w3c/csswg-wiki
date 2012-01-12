@@ -67,6 +67,7 @@ CSSWG members' comments on related specs not published by our group.
   * [[spec:publish|Step-by-step Publishing a Spec]] --- getting your spec on www.w3.org
   * [[spec:issue-tracking|Tracking Issues]] --- raising your newborn draft into a grown-up spec
   * [[http://dev.w3.org/csswg/css-module/Overview.src.html|CSS Module Template]] --- for starting new specs (and formatting old ones)
+  * [[spec:format-update]] --- for updating existing specs to our latest "specs should include"
 ====== Coordination between specifications ======
   * [[spec:cssom-constants|CSSOM Constants]]
   * [[spec:computed-values|Patterns for writing "Computed Value" lines]]
