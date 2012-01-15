@@ -13,4 +13,4 @@ If you're a spec editor, you should check the "computed value:" definition of th
   - properties that just accept keyword or IDREF values, should just specify: 
     * Computed value: as specified
   - computed values should never depend on layout
-  - (disputed) computed values should never depend on containing block hierarchy
+  - (disputed) computed values should never depend on containing block hierarchy (though note that they already do in CSS21, eg 'height' for percentage values (http://lists.w3.org/Archives/Public/www-style/2011Sep/0008.html)
