@@ -51,16 +51,14 @@ Room: TBD
   * list here ...
 ==== Apartment Share ====
 
+Apartment 1 has been claimed by Anton, fantasai, Tab, and Tantek.
+
 People interested:
 
 ^Name^In^Out^Sponsored?^
-|Anton|Sun Feb 5|Thu Feb 9|**N**|
 |dbaron|FOSDEM?|Sun Feb 12 (or hotel earlier)|Y|
-|fantasai|any|any|Y|
 |Florian?|FOSDEM?|?|Y|
 |Koji|Sun Feb 5|Thu Feb 9|N|
-|Tab|Sat Feb 4|Thu Feb 9|Y|
-|Tantek|Sat Jan 28|Wed Feb 8|Y|
 
 Proposed: In appreciation for their self-volunteered time and travel expenses, let's exclude unsponsored Invited Experts from the cost split.
 
