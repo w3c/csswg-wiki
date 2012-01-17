@@ -34,14 +34,15 @@ Room: TBD
 | Bert | W3C | ? | ? | ? | ? | |
 | John Daggett | Mozilla | 2012-02-03 15:50 CDG | 2012-02-10 11:00 CDG | ??? (maybe apt share) | JL405/JL042 | |
 | Luke Macpherson | Google | 2012-02-04 17:55 CDG | 2012-02-09 17:50 CDG | ??? | Ask me | |
-| Koji Ishii | Invited Expert | 2012-02-05 17:45 CDG | 2012-02-09 12:45 CDG | apt share | KL1243/KL2012 | |
+| Koji Ishii | Invited Expert | 2012-02-05 17:45 CDG | 2012-02-09 12:45 CDG | Apt-Share-1 | KL1243/KL2012 | |
 | Anton Prowse | Invited Expert | ??? |??? | Apt-Share-1 |
-| Sylvain Galineau | Microsoft | Feb 3 or 4 | ??? | ??? | ??? |  |
+| Sylvain Galineau | Microsoft | Feb 3 or 4 | ??? | Apt-Share-2 | ??? |  |
 | Alan Stearns | Adobe | Feb 5 | Feb 11 | Ibis | ??? |  |
 | Håkon Wium Lie | Opera | Feb 5 | Feb 8 | 
 | Alex Mogilevsky | Microsoft | Feb 4 | Feb 10 | ??? |
 | Jet Villegas | Mozilla | 2012-02-05 11:30 CDG | 2012-02-09 10:40 CDG | Best Western Hotel De Weha |
-| Rossen Atanassov | Microsoft | Feb 4 | Feb 10 | some apt share |
+| Rossen Atanassov | Microsoft | Feb 4 | Feb 10 | Apt-Share-2 |
+| Alex Mogilevsky | Microsoft | ??? | ??? | Apt-Share-2 |
 
 
 ===== Housing =====
