@@ -9,10 +9,9 @@ This set of use cases shows some expected uses of paged views.
 
 Uses cases, analysis and proposals found here probably don’t correspond to a single specification. The goal here is to get a holistic view of each case, which will help to compare proposals and understand relative importance of lower level problems.
 
-===== Use Cases =====
-<html><div style="background:yellow;font-weight:bold"><i>Work in progress</i></div></html>
+====== Use Cases ======
 
-==== paged view for window or element ====
+===== paged view for window or element =====
 
 **Goal:** easly declarative way to create paged view, good behavior with default settings and default UI.
 
@@ -61,7 +60,7 @@ Presents content of a separate document in paged view. Can be used to build a pa
   * Add a way to customize pages (page numbers, headers, footers)?
   * Dealing variable-sized pages is not yet defined and may be limited in this simple case
 
-==== paged view with custom controls ====
+===== paged view with custom controls =====
 
 **Goal:** Add custom controls to paged view.
 
@@ -113,7 +112,7 @@ Paged layout need to be exposed in OM, similar to how scrolling is exposed via s
 
 **Example:**
 
-==== columns ====
+===== columns =====
 
 **Goal:** multicolumn flow in a single defined container or in paged view
 
@@ -124,7 +123,7 @@ Paged layout need to be exposed in OM, similar to how scrolling is exposed via s
 **Issues:** 
   * As-is, multicol layout requires a higher-level pagination control.
 
-==== scripted pages and paged view ====
+===== scripted pages and paged view =====
 
 **Goal:** enable broad range of page design and UI, including the most complicated cases seen in print magazines and experimental UI.
 
@@ -136,7 +135,7 @@ Paged layout need to be exposed in OM, similar to how scrolling is exposed via s
   * No declarative way to generated additional regions or pages is yet defined
 
 
-==== page templates ====
+===== page templates =====
 
 **Goal:** automatically generate complex pages based on content and encoded design intent
 
@@ -146,13 +145,13 @@ Paged layout need to be exposed in OM, similar to how scrolling is exposed via s
   
 **Issues:** 
 
-==== Column breaks and page breaks ====
+===== Column breaks and page breaks =====
 
 **Goal:** provide a way to control layout in columns and pages, when columns, pages or both are parts of a template-based paged view
 
 **Issues:** 
 
-===== Issues =====
-Some issues not addressed in use cases:
+====== Issues ======
+Further issues (not addressed in use cases):
   * Paged view doesn't automatically mean "paged media" (which is commonly used as "for printing" and can't be repurposed). Should there be a way to declare that a paginating viewer (e.g. iframe) needs to render the same visuals as what would be printed?
   * Media queries for paged view/columns/regions?
