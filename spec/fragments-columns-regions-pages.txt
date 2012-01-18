@@ -317,8 +317,11 @@ Let's compare the different kinds of fragmenting containers, specifically lookin
   <div style="background:white;border:1px solid black; --width:7em; padding:1em; text-align:justify">
     <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</div>
   </div>
-  <div style="display:inline-block; color:lightgray; font-size:1.2em;">&lt;--</div>
-  <div style="display:inline-block; color:lightgray; font-size:1.2em;">--&gt;</div>xxx
+  <div style="text-align:justify; padding:0 1em;">
+    <div style="display:inline-block; color:lightgray; font-size:1.2em;">&lt;&lt;&lt;</div>
+    <div style="display:inline-block; color:lightgray; font-size:1.2em;">&gt;&gt;&gt;</div>
+    <div style="display:inline-block; width:6em; height:0; visibility:hidden"></div>
+  </div>
 </div>
 </div>
 </html>
