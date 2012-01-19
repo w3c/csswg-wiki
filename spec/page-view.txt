@@ -154,9 +154,9 @@ posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet c
 **Option 2:** page OM
 
 
-===== scripted pages and paged view =====
+===== magazine pages with regions =====
 
-**Goal:** enable broad range of page design and UI, including the most complicated cases seen in print magazines and experimental UI.
+**Goal:** enable complex page design, with multiple content flows and graphics
 
 **Proposals:**
   * css3-regions module
