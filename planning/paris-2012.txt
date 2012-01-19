@@ -20,7 +20,13 @@ Room: TBD
   * [[http://lists.w3.org/Archives/Public/public-css-testsuite/2012Jan/0001.html|Media Queries REC]]
   * CSS3 Backgrounds and Borders republish CR
   * CSS3 Values and Units LCWD?
-
+  * CSS Image Values: LC status. CR?
+  * CSS Regions: resolve feedback on scope and other issues
+  * CSS Exclusion: spec scope, shape extraction model, shape syntax...
+  * CSS Flexbox: open issues and feedback, LC?
+  * CSS Fragmentation: FPWD?
+  * CSS3 Text - text-shadow - support for spread radius? (Supported in IE10)
+  * 
 ===== Participants =====
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Daniel Glazman | Disruptive Innovations | (host) | (host) | home | N/A |
