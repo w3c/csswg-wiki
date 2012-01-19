@@ -133,12 +133,12 @@ Paged layout need to be exposed in OM, similar to how scrolling is exposed via s
 </div>
 
 <div style="background:gray; padding:1em; text-align:center;">
-    <div style="display:inline-block;background:white;border:1px solid black; ">
+    <div style="display:inline-block;background:white;border:1px solid black; margin:0.5em">
     <div style="width:6.5em; height:9em; margin:1em; overflow:hidden; text-align:justify; color:green;">
       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce     </div>
     </div>
 
-    <div style="display:inline-block;background:white;border:1px solid black; ">
+    <div style="display:inline-block;background:white;border:1px solid black; margin:0.5em">
     <div style="width:6.5em; height:9em; margin:1em; overflow:hidden; text-align:justify; color:blue;">
 posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
     </div>
@@ -146,8 +146,6 @@ posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet c
 </div>
 </div>
 </html>
-
-In this example, 
   * left page has green text, right page has blue text
   * even and odd pages are positioned differently to create a two-page view
 
