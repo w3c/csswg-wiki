@@ -153,16 +153,6 @@ posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet c
 
 **Option 2:** page OM
 
-===== columns =====
-
-**Goal:** multicolumn flow in a single defined container or in paged view
-
-**Proposals:**
-  * The existing css3-multicol module.
-  * Extensions for adding control to individulal columns
-
-**Issues:** 
-  * As-is, multicol layout requires a higher-level pagination control.
 
 ===== scripted pages and paged view =====
 
