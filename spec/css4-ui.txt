@@ -46,13 +46,13 @@ nav-focus: _normal_ | ignore | focus
 
 ==== more selectors ====
   * [[https://developer.mozilla.org/en/CSS/%3a-moz-placeholder|:placeholder]] pseudo-class for when an input element is in the state of showing its placeholder text
+  * [[https://bugs.webkit.org/show_bug.cgi?id=66032|:autofill]] pseudo-class for when an input element is in the state of showing an autofilled value
   * [[https://developer.mozilla.org/en/CSS/%3a%3a-moz-progress-bar|::progress-bar]] pseudo-element for selecting and styling the area of an HTML progress element that represents the amount of progress that has happened so far. This lets you, for example, change the color of progress bars.
   *  :valid-drop-zone, :invalid-drop-zone - a drop-zone (as Mozilla implements [[https://developer.mozilla.org/en/CSS/:-moz-drag-over|:-moz-drag-over]]) that is valid/invalid.
     * :valid-drop-zone - a drop zone that accepts the type of data being dragged
     * :invalid-drop-zone - a drop zone that doesn't accept the type of data being dragged
   * see http://wiki.csswg.org/spec/selectors4#ideas-to-consider for more.
   * [[http://lists.w3.org/Archives/Public/www-style/2011Nov/0705.html|::backdrop-of(selector)]] - a pseudo-element that matches the backdrop of a fullscreened element, a modal dialog, or other platform features with similar needs. 
-
 ==== pointer-events ====
 Moved from CSS3-UI editor's draft because it was the top source of issues for the 2nd CSS3-UI LCWD, and because it requires documenting previously undocumented web platform hit-testing model.
 
