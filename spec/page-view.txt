@@ -182,6 +182,13 @@ The user reads the magazine in a reader application, with same options for page 
 
 **Goal:** automatically generate complex pages based on content, encoded design intent and media properties
 
+{{ :spec:magpageportrait.png}}{{ :spec:magpagelandscape.png}}
+
+Online magazine must work on devices on different sizes, resolution and orientation. Just as any other adaptive content using media queries, same magazine will look very different on different devices.
+
+
+<html><div style="clear:both"></div></html>
+
 **Proposals:**
   * Need a proposal. 
   * [[http://epub-revision.googlecode.com/svn-history/r3025/trunk/src/proposals/css_page_templates/csspgt-doc.xhtml | IDPF Page Templates Proposal]] has a range of ideas, to converge with what is developing in recent discussions.
