@@ -119,7 +119,7 @@ This should wait synchronously for pagination to be completed, if needed, follow
 
 //**Events?** -- should there be an event for layout change? maybe not, unlike regions: all content is inside the viewer element, content change events may be enough//
 
-
+//**TODO -- work in progress here**//
 
 **Example**
 
