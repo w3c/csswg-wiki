@@ -106,14 +106,19 @@ Implementation of custom page UI needs some or all of the following:
 
 To achieve that, pages and paged viewer need exposure in styles and OM
 
-**Options**
-//There are no formal proposals on OM for overflow:paged at this time. Some options (not all mutually exclusive) are...//
+**Ideas**
+//There are no formal proposals on OM for overflow:paged at this time.//
 
-**Option 1:** page selectors
+New property **pager-style:auto|noui** -- enable or disable default UI
+  .pager { overflow:paged; pager-style:noui }
 
-  #paged { width:6.5in; height:9in; overflow:paged; }
-  #paged * { border: 1px solid black; }
-  #paged::nth-child(even) { position:relative; left:<page-width> } /**
+**Element.pageCount** -- get number of pages
+This should wait synchronously for pagination to be completed, if needed, following the patter of 'offsetHeight' etc. (which always return correct value, forcing synchronous layout)
+
+**Element.showPage(pageNumber)**
+
+//**Events?** -- should there be an event for layout change? maybe not, unlike regions: all content is inside the viewer element, content change events may be enough//
+
 
 
 **Example**
