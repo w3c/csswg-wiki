@@ -154,15 +154,21 @@ posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet c
 **Option 2:** page OM
 
 
-===== Magazine pages with regions =====
+===== Magazine viewer =====
 
 **Goal:** enable complex page design, with multiple content flows and graphics
 
-A manually designed magazine article could look like this:
+A magazine article could look like this. 
 
 {{:spec:magazine1.png}}
 
 Each individual page can have unique design and can include content from multiple sources: multiple text streams (main story, side bar, pull quotes) and images (some included in text, some placed directly as related visuals or advertisements).
+
+//Note that at this point we don't make assumptions on how exactly each "page" is constructed. It may be automatically generated with some adaptive mechanism or it may be manually put together by a design team with print design experience. That distinction will be important for next use case, here we are looking at ways to represent the layout//
+
+The user reads the magazine in a reader application, with same options for page navigation control as in previous examples of page view.
+
+{{:spec:magazine2.png}}
 
 **Proposals:**
   * css3-regions module
