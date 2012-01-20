@@ -11,9 +11,9 @@ Uses cases, analysis and proposals found here probably don’t correspond to a s
 
 ====== Use Cases ======
 
-===== paged view for window or element =====
+===== Page view in window or element =====
 
-**Goal:** easly declarative way to create paged view, good behavior with default settings and default UI.
+**Goal:** easy declarative way to create paged view, good behavior with default settings and default UI.
 
 <html>
 <div style="display:inline-block; width:9em;">
