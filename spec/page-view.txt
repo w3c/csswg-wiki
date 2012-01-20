@@ -158,7 +158,81 @@ posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet c
 
 **Goal:** enable complex page design, with multiple content flows and graphics
 
+<html>
+<div class="desktop" style="display:inline-block; background:gray; vertical-align:text-top;">
+<div id="page1" class="pageFrame" style="float:left; background:white; border:1px solid black; margin:1em; width:17em; height:22em;">
+<div class="pageContent" style="margin:0.25em; width:16.5em; height:21.5em; position:relative;">
+<div class="titleImg" style="background:salmon; width:66%; height:50%; margin: -0.25em -0.25em 0 0; float:right;"></div>
+<div class="mainStory">
+<div class="head" style="width:60%; margin-right:-50%; float:left; border-bottom:0.2em solid silver">
+<h1 class="title" style="margin:0">Best Food in Seattle</h1>
+<div class="abstract" style="font-size:66%; font-style:italic;">Newest reviews from our food and coffee snobs</div>
+</div>
+<div style="margin-right:20%; padding-right:1ex; height:9em; text-align:justify; clear:left; ">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. 
+Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet 
+<div class="img" style="background:lightblue; width:6em; height:4em; margin:0 0.25em 0 -0.25em; float:left;"></div>  
+commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. 
+</div> 
+</div>
+<div style="width:20%; height:66%; background:wheat; position:absolute; right:0; bottom:0; font-size:66%; padding:1ex"><h2 style="margin:0">Sushi</h2>
+<div>Lorem ipsum dolor sit amet, con&shy;sec&shy;te&shy;tu&shy;er adi&shy;pis&shy;cing elit. Mae&shy;ce&shy;nas port&shy;ti&shy;tor congue massa
+Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada 
 
+</div>
+<div class="continuedTo" style="font-style:italic; position:absolute; right:0; bottom:0;">to page 3...</div>
+</div>
+</div>
+</div>
+
+<!--
+<div id="page2" class="pageFrame" style="float:left; background:white; border:1px solid black; margin:1em; width:17em; height:22em;">
+<div class="pageContent" style="margin:0.25em; width:16.5em; height:21.5em; position:relative;">
+<div class="imgA" style="background:lightgreen; width:5em; height:22em; float:right; margin:-0.25em -0.25em 0 -3em;"></div>
+<div class="mainStory" style="float:left; width:5em; height:21.5em; margin-right:1em; overflow:hidden;">
+Vivamus a tellus.
+Pellentesque habitant morbi 
+tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+</div>
+<div class="mainStory" style="float:left; width:5em; height:21.5em; overflow:hidden;">
+Aenean nec lorem. In porttitor. Donec laoreet 
+nonummy augue.
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem 
+</div>
+</div>
+</div>
+
+<div id="page3" class="pageFrame" style="float:left; background:white; border:1px solid black; margin:1em; width:17em; height:22em;">
+<div class="pageContent" style="margin:0.25em; width:16.5em; height:21.5em; position:relative;">
+<div class="imgC" style="background:mediumaquamarine; width:12em; height:4em; position:absolute; left:-0.25em;; bottom:-0.25em;"></div>
+<div class="mainStory" style="float:left; width:5em; height:17.5em; margin-right:1em; overflow:hidden;">
+<div class="img" style="background:seagreen; width:5em; height:3em; float:left;"></div>  
+venenatis eleifend. Ut nonummy.
+Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit. Maecenas 
+Vivamus a tellus.
+</div>
+<div class="mainStory" style="float:left; width:5em; height:17.5em; overflow:hidden;">
+Pellentesque habitant morbi 
+tristique senectus et netus et malesuada 
+fames ac turpis egestas. 
+<div class="img" style="background:seagreen; width:3em; height:3em; float:left;"></div>  
+Proin pharetra.
+</div>
+<div style="width:7em; background:wheat; position:absolute; padding:1ex; right:0; top:0; bottom:0; font-size:66%; overflow:hidden;">
+<h2 style="margin:0">Sushi</h2>
+<div class="continuedFrom" style="font-style:italic; ">....from page 1</div>
+<div>libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+nonummy augue.
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis.
+
+</div>
+-->
+</div>
+</html>
 
 **Proposals:**
   * css3-regions module
@@ -168,8 +242,7 @@ posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet c
   * No declarative way to generated additional regions or pages is yet defined
 
 
-===== Adapt
-ive magazine pages with templates =====
+===== Adaptive magazine pages with templates =====
 
 **Goal:** automatically generate complex pages based on content, encoded design intent and media properties
 
@@ -179,8 +252,7 @@ ive magazine pages with templates =====
   
 **Issues:** 
 
-===== Colum
-n breaks and page breaks =====
+===== Column breaks and page breaks =====
 
 **Goal:** provide a way to control layout in columns and pages, when columns, pages or both are parts of a template-based paged view
 
