@@ -74,7 +74,7 @@ CSSWG members' comments on related specs not published by our group.
   * [[spec:computed-values|Patterns for writing "Computed Value" lines]]
   * [[spec:at-rules-patterns|Patterns for writing at-rules]]
   * [[spec:property-dependencies|Property dependencies]] in computed values
-
+  * [[spec:calc-and-percentages|Specifying Percentages in the Age of Calc()]]
 ====== Coordination between standards groups ======
 ===== IDPF EPUB =====
 See: http://code.google.com/p/epub-revision/wiki/AdvancedAdaptiveLayoutCharter
