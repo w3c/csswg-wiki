@@ -275,6 +275,7 @@ anonymous flexbox items are created in element tree. A sequence of plain text an
   ;Status : Resolved: one item, blocks nested into inline elements don't break anonymous flexbox items.
   
 **ED updated**
+
 ==== Issue 12 ====
 
   ;URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0430.html
