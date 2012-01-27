@@ -32,11 +32,8 @@ Behavior of auto margins in cross direction is TBD. Options are (1) auto margion
   ;Summary : flex() has issues that 'flex' property wouldn't have
   * flex() applies to 'width' and 'height' properties always, regardless of whether the element is a flexbox item.
   * because of being applied to broadly used properties, flex() has to have meaning when applied to non-flex-item. It can then be invalid or have a special meaning, neither seem ideal:
-    * if flex() is invalid when not in flexbox, 
-"width:100px; width:flex(1 100px)" means "width:auto" 
-(because the last value wins in cascading, then gets ignored)
-    * if flex() applies to anything as preferred size, 
-"width:flex(1)" means "width:0"
+    * if flex() is invalid when not in flexbox, "width:100px; width:flex(1 100px)" means "width:auto" (because the last value wins in cascading, then gets ignored)
+    * if flex() applies to anything as preferred size, "width:flex(1)" means "width:0"
   * in DOM, specified style has to show as flex(...); any script that read selement.style.width will be broken or will have to parse flex()
   * having to specify flex separately for width and height forces unnecessary duplication. E.g. if a flexbox is sometimes horizontal and sometimes vertical but flexibility is same, stylesheet may have something like "width:flex(1 auto); height:flex(1 auto)", which will work but is confusing.
   * combining width/height and flexibility in one property makes it impossible to change them independently
