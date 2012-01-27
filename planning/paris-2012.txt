@@ -30,7 +30,6 @@ Room: TBD
   * CSS Fragmentation: FPWD?
   * CSS3 Text - text-shadow - support for spread radius? (Supported in IE10)
   * Functional syntax, to comma or not to comma?
-  * An overview of page view and page layout modules (1 hour - Alex - should happen prior to regions, exclusions; ideally followed by a break)
   * Decoration break behavior with Bi-di
 
 ===== Participants =====
