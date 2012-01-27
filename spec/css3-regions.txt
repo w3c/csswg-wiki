@@ -220,7 +220,16 @@ See Issue 1 below.
 Note that with this approach, it is not possible to concatenate content from multiple urls in one flow (which may be a good thing, concatenation is not an expected use pattern for flow indirection feature.
 
 ISSUE: what will OM for programmatic flow source control look like?
-   ;Option 4 : <link> element   
+   ;Option 4 : seamless iframe
+  <iframe seamless style="flow-into:flow1" src="article1.html">
+
+This would almost work, but the definition of seamless iframe includes being transparent for DOM and styles, which is not what is expected from external flow.
+
+It may be possible to add another attribute to HTML5 iframe for style boundaries.
+
+Also, seamless iframe status is uncertain.
+
+   ;Option 5 : <link> element   
 <code>
   <link rel="namedflow" type="text/html-sandboxed" title="flow1" href="article1.html" />
 </code>
