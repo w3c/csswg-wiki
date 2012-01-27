@@ -351,7 +351,7 @@ Now tracked with https://www.w3.org/Bugs/Public/show_bug.cgi?id=15191
 ==== Issue 19: Special behavior of iframe flow ====
 
    ;URL : http://lists.w3.org/Archives/Public/www-style/2011Sep/0072.html
-   ;Description : iframe has special behavioer when used as a flow source (http://dev.w3.org/csswg/css3-regions/#the-flow-into-property) -- it puts its content into the flow, rather than itself. The model would be cleaner if the behavior was triggered by a property, not element tag.
+   ;Description : iframe has special behavior when used as a flow source (http://dev.w3.org/csswg/css3-regions/#the-flow-into-property) -- it puts its content into the flow, rather than itself. The model would be cleaner if the behavior was triggered by a property, not element tag.
    ;Option 1 : two ‘flow-into’ properties:
 <code> 
   <iframe style="flow-into:flow1"> --  add iframe to flow as a replaced element
