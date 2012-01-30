@@ -361,3 +361,5 @@ Code sample similar to [[ideas:css3-exclusions-use-cases#uc-1simple-exclusion|Si
 Pages showing multicolumn layout with two flows, one French and the other English text.
 
 See this real-life example of an airline magazine with english/french side by side. 
+
+{{:spec:css3-regions:multi-lingual.png?200|}}
