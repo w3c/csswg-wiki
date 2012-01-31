@@ -219,7 +219,6 @@ ISSUE: that would apply to all elements, sometimes useful, but potentially with 
    ;Option 3 : use a rule
   @flow flow1 "story1.html";
   @flow flow2 url("story1.html");
-Note that with this approach, it is not possible to concatenate content from multiple urls in one flow (which may be a good thing, concatenation is not an expected use pattern for flow indirection feature.
 
 ISSUE: what will OM for programmatic flow source control look like?
    ;Option 4 : seamless iframe
