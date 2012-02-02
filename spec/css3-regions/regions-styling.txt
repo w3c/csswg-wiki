@@ -39,6 +39,12 @@ window.getComputedStyle(elem, '::in-region(regionA)');
 window.getComputedStyle(elem, "::before::in-region(regionA)");
 </code>
 
+   According to the [[http://dev.w3.org/csswg/selectors3/#w3cselgrammar|Selectors Level 3]] specification: 
+   
+<file>
+Note that pseudo-elements are restricted to one per selector and occur only in the last simple_selector_sequence.
+</file>
+
 ==== Flowed content boxes and DOM access ====
 
 The DOM specification provides a [[http://www.w3.org/TR/cssom-view/#the-getclientrects-and-getboundingclientrect-methods|way]] 
