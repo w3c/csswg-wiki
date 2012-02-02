@@ -15,34 +15,29 @@ The following image illustrates flowing the same content across regions of diffe
 #source {
   flow-into: article;
 }
+/* page template arranges columns using a flexbox */
+.page { 
+  display:flexbox; 
+  padding:0.5em
+}
 /* render the content from the 'article' named flow into .region */
 .region {
   flow-from: article; 
-}
-#region_1, 
-#region_2, 
-#region_3 {
-  float: left;   
   background: lightblue;
+  margin:0.5em;
 }
-#region_1, 
-#region_3 {
-  width:   20%;
-  height: 600px;
-}
-#region_2 {
-  width:   50%; 
-  height: 200px;
-  margin: 0 5%;
-}
+#region_1, #region_3 { width:flex(1); }
+#region_2 { width:flex(1.7); height:40%; }
 </code>     
 <code html>
 <div id="source">
   <p>Lorem ipsum dolor sit amet ...</p>
 </div>
-<div id="region_1" class="region"></div>
-<div id="region_2" class="region"></div>
-<div id="region_3" class="region"></div>
+<div class="page">
+  <div id="region_1" class="region"></div>
+  <div id="region_2" class="region"></div>
+  <div id="region_3" class="region"></div>
+</div>
 </code>
 
 ==== Flowing content between areas of a non-grid layout ====
