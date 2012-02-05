@@ -173,6 +173,44 @@ See Stagger and Swagger at http://24ways.org/2009/type-inspired-interfaces
     <div id="region_2" class="region"></div>
 </code>
 
+==== Filtering content - "Breaking news" ====
+
+With CSS Regions I can filter the content and surface it. Possible use cases: "breaking news" lists, terms of content summary, collecting references from a page, such as bugs or external links.
+
+{{:spec:css3-regions:screeny-shot-feb-5-2012-8.14.34-pm.png?600|}}
+
+<code css>
+/* extract the breaking news into a separate named flow - 'breaking-news' */
+.breaking{
+    background: yellow;
+    -webkit-flow-into: breaking-news;
+} 
+
+.stories, 
+.breaking-news{
+    width:20ex;
+    height:5ex;
+}                     
+
+/* show only breaking news */
+.breaking-news{ 
+    -webkit-flow-from: breaking-news;
+}   
+
+</code>
+<code html>
+<h2>Surfacing breaking news</h2>
+<ul class="breaking-news"></ul>
+
+<ul class="stories">
+    <li><a href="//example.com/story/1">A story</a></li>
+    <li><a href="//example.com/story/2">Another story</a></li>
+    <li class="breaking"><a href="//example.com/story/3">Something notable</a></li>
+    <li><a href="//example.com/story/4">Slow news day</a></li>
+    <li class="breaking"><a href="//example.com/story/5">Critical story</a></li>
+</ul>
+</code>
+
 ==== Flowing content into arbitrary areas ====
 
 The following image illustrates flowing content into an arbitrarily shaped area (e.g., a heart).
