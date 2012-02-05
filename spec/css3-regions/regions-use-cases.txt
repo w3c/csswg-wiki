@@ -252,6 +252,52 @@ With CSS Regions I can filter the content and surface it. Possible use cases: "b
 </code>
 
 Idea from [[https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/shadow/index.html#shadow-dom-example|Shadow DOM Example]]
+
+==== Capturing overflow content ====
+
+{{:spec:css3-regions:screeny-shot-feb-5-2012-8.14.34-pm.png?600|}}
+
+<code css>
+/* extract the content of #source into a named flow - 'article' */
+#source {
+    flow-into: article;
+}   
+
+.region{
+    flow-from: article;
+}                      
+
+#region1{
+    width:25%;
+    height:30%;
+    float:left;
+}             
+
+#region2{
+    width:65%;    
+    height:30%;
+    float:right;
+}
+
+#region3{       
+    width:100%;
+    height:60%;
+    margin-top:10%;
+
+    /* This region will catch all the overflow content */
+    region-overflow:auto;
+    overflow:auto;
+} 
+</code>
+<code html>
+    <div id="source">
+        <p>Lorem ipsum dolor sit amet ...</p>
+    </div>  
+
+    <div id="region1" class="region"></div>
+    <div id="region2" class="region"></div>
+    <div id="region3" class="region"></div>
+</code>
 ==== Flowing content into arbitrary areas ====
 
 The following image illustrates flowing content into an arbitrarily shaped area (e.g., a heart).
