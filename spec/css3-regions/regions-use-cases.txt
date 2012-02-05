@@ -253,9 +253,9 @@ With CSS Regions I can filter the content and surface it. Possible use cases: "b
 
 Idea from [[https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/shadow/index.html#shadow-dom-example|Shadow DOM Example]]
 
-==== Capturing overflow content ====
+==== Capturing region overflow content ====
 
-{{:spec:css3-regions:screeny-shot-feb-5-2012-8.14.34-pm.png?600|}}
+{{:spec:css3-regions:regions_region-overflow.jpg?600|}}
 
 <code css>
 /* extract the content of #source into a named flow - 'article' */
