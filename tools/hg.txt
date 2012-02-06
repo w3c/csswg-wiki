@@ -1,0 +1,183 @@
+====== Quick Guide to Using Mercurial ======
+
+The CSS Working Group has adopted Mercurial as the repository technology for storing our test suites. Mercurial is a modern, distributed version control system. This guide is intended to serve as a quick start for those setting up access to the repository for the first time, not to serve as an in-depth tutorial. It is expected that the reader have some familiarity with centrally managed version control systems like Subversion.
+
+===== What is a "distributed" version control system? =====
+
+A standard version control system has a single central repository, usually hosted on a server. Users "checkout" files from the central server, make changes, and "commit" them back to the server. Users keep a working copy of the files on their own system, but all the revision history lives in the central repository.
+
+With a distributed version control system, every user has their own repository, complete with the entire revision history. In fact, they can have as many copies of the repository as they want. Users can add or change files and commit them to their own repository at will, even without access to a central server at the time. When users are ready to share their work with others, they "push" their changes from their own repository to a central server. When they want to see others' work, they "pull" changes from the central server to their own repository.
+
+===== Getting Started =====
+
+First, you'll need a Mercurial client. If you don't already have one, you can find [[http://mercurial.selenic.com/wiki/Download|download instructions here]]. You can see if you already have Mercurial installed by opening up a command shell and typing "hg %%--%%version". Our server is running version 2.0.1, earlier versions should work, but we recommend using the latest client.
+
+The remainder of this guide will focus on the command-line Mercurial client "hg", but there are GUI based Mercurial clients available for many platforms. Here is a [[http://mercurial.selenic.com/wiki/OtherTools|list of other Mercurial clients]]. While users of a GUI client obviously won't be using the command line, the same basic operations apply.  
+
+==== Setting up Mercurial Preferences ====
+
+You can store basic settings for Mercurial in your config file. [[http://www.selenic.com/mercurial/hgrc.5.html|Detailed instructions for the config file]] are available, but for now, this guide will focus only on setting up the basics.
+
+In your favorite plain text editor, create a file named ".hgrc" in your home directory and enter the following:
+  [ui]
+  username = John Doe <john@doe.com>
+  merge = internal:merge
+
+  [diff]
+  git = 1
+  showfunc = 1
+  unified = 8
+
+  [defaults]
+  commit = -v
+
+Insert your own name and email address in place of "John Doe", alternatively you may use the username that you use to access the repository (and this wiki). **IMPORTANT**: If you will be pushing changes to the central repository, and you use the Full Name <email> format, be sure the email address you enter is the same as that associated with your wiki account. 
+
+You can also [[http://mercurial.selenic.com/wiki/MergeProgram|select a merge program]] in place of "internal:merge". The merge program will help you resolve conflicts between your work and others' after pulling from the central repository. If you select "internal:merge", Mercurial will leave conflict markers in your source similar to Subversion or other systems.
+
+You may also want to select a different editor to use for commit messages, you can do this by adding a line in the "[ui]" section like:
+  editor = pico
+of course, you can replace "pico" with the name of your favorite plain text editor.
+
+If you are planning on pushing changes to the central repository, you should also add:
+  [auth]
+  csswg.prefix = https://hg.csswg.org/
+  csswg.username = your_wiki_user_name
+  csswg.password = your_wiki_password
+  
+This will prevent the server from asking your username and password every time you push. If you don't want to store your password in the config file, you can [[http://mercurial.selenic.com/wiki/KeyringExtension|install the Keyring extension]] and omit the password line. The Keyring extension will prompt you for your password the first time it is needed and store it securely in your system keyring.
+
+If you access the web through a proxy, you'll also need to set that up now. [[http://www.selenic.com/mercurial/hgrc.5.html#http-proxy|Details of proxy settings can be found here]].
+
+==== Initial clone of the repository ====
+
+The first step is to clone the central repository to your own machine. If you are not planning on pushing changes back to the central repository, open a command shell and cd to your favorite working directory, then type:
+
+  hg clone http://hg.csswg.org/test [directory_name]
+
+The directory name is optional, by default the repository will be created in a directory named "test", if you want to use a different name, enter it at the end of the command (don't use the brackets "[" "]").
+
+If you plan on pushing changes back to the central repository, you'll need to push over a secure connection, it's easiest if you make your initial clone from the secure server:
+  hg clone https://hg.csswg.org/test [directory_name]
+alternatively you can specify the secure URL when pushing, or [[http://mercurial.selenic.com/wiki/TipsAndTricks#Save_a_push_URL_so_that_you_don.27t_need_to_enter_it_each_time|enter it into your config file]].
+
+Once this command is complete, you now have your very own copy of the test suite repository, you can begin making changes at will.
+
+==== Checking your status ====
+
+While you are working, you can see a list of changes you have made by entering the following:
+  hg status
+
+This command will give a list of files that differ from the current state of your repository. Modified files will have an "M" listed before their name, new files will have a "?", missing files will have a "!".
+
+You can also see the actual changes you've made with the command:
+  hg diff
+
+==== Adding new files ====
+
+If you create a new file or directory, you'll need to tell Mercurial to start tracking it. You do this by the following:
+  hg add [filename]
+
+Once you add a file it'll show up in the status listing with an "A". Note that newly added files aren't actually in the repository until you commit them. If you omit the filename, all unknown files and directories in the current directory are added.
+
+==== Removing files ====
+
+To remove a file from the repository type:
+  hg remove filename
+  
+Once a file is removed, it'll show up in the status listing with a "R". The file is removed from your working directory immediately, but it isn't removed from the repository until your next commit.
+
+==== Reverting changes ====
+
+If you decide you don't want to keep changes you made to a file, or removed a file by mistake, you can restore to the last committed version by typing:
+  hg revert filename
+
+==== Committing Changes ====
+
+At any point in your work, you can save your current state by committing your changes to your own repository by typing:
+  hg commit
+  
+Note that by default, //all// modified, added or removed files will be committed into your repository, not just those in the current directory. You can commit individual files by specifying their name after "commit".
+
+Also note, that commits only affect your own repository. These changes will not be visible to others until you push.
+
+==== Getting other people's work ====
+
+To synchronize your repository to the central server, type:
+  hg pull
+  
+This will bring all changes from the central server into your own repository, but it will not change the files in your working directory.
+
+You can preview changes that will be pulled, without actually pulling, with the command:
+  hg incoming
+
+After pulling, to update your working directory to the current state of the central server, use the following:
+  hg update
+or alternatively, you can combine the pull and update into one operation:
+  hg pull --update
+
+When you pull, if you have committed changes to your repository, and others have pushed changes to the central repository, Mercurial automatically creates a branch to track the different lines of work. You'll know this happened if you see a message like:
+  added 2 changesets with 1 changes to 1 files (+1 heads)
+  (run 'hg heads' to see heads, 'hg merge' to merge)
+
+With other version control systems branches can be quite a pain, with Mercurial they're really not a big deal. See the next section.
+
+==== Branches and Merging ====
+
+If you've done a pull and Mercurial created a branch (you've seen a message about adding heads), all this really means for the normal user is that you have to merge other people's changes into your work before you can push back to the central repository. This is the same operation you would do with a centrally managed version control system like Subversion during an update. The difference with Mercurial is that the other changes are tracked separately from yours and you can merge when you're ready.
+
+When you're ready to merge, simply type:
+  hg merge
+
+In most cases Mercurial will be able to handle the merge completely by itself. If both you and others have changed the same area in the same files, there may be a conflict. This is no different than what would have happened with a centrally managed system.
+
+If the merge changed files you've been working on, you can see the results of the merge by typing:
+  hg diff
+  
+The merge takes place in your working directory, so once the merge is complete, you'll need to commit it.
+  hg commit
+
+==== Sharing your work ====
+
+When you are ready to share your work with others, it's time to push your changes back to the central server. Before doing this, be sure to commit all your work in to your own repository first. Then, pull and update or pull and merge. If a merge was required, verify that your intended changes are still intact before pushing.
+
+When you are ready to push, enter:
+  hg push
+
+If you didn't pull from the secure URL, you can still push by entering:
+  hg push https://hg.csswg.org/test
+  
+At this point your changes will be available on the server to other users. If you received an error message about "heads", you likely forgot to pull, update and merge before pushing (or someone else pushed just before you). The error message describes re-trying the push with the "-f" option to force it working. DON'T DO THIS. Doing this would create a branch in the central repository. Pull, merge, commit, then try the push again. See the section above about merging.
+
+You can preview what will be pushed before pushing by entering:
+  hg outgoing
+
+===== Subversion Cheat Sheet =====
+
+If you are used to using Subversion, the following commands are roughly equivalent:
+
+  svn update  ==  hg pull --update  or  hg pull ; hg merge
+  svn commit  ==  hg commit ; hg push
+  svn status  ==  hg status
+  svn diff    ==  hg diff
+  svn add     ==  hg add
+  svn remove  ==  hg remove
+  
+Of course, there's a lot more to Mercurial, but that's beyond the scope of this document.
+
+===== Wait, I had work that I didn't commit in the Subversion repository =====
+
+We recently moved our test suites from a Subversion repository to Mercurial. If you had been working on a checkout from the Subversion repository and hadn't committed your changes before the move, the best way forward is to clone a new Mercurial repository in a different directory, then copy your added or changed files from your Subversion working directory into your Mercurial working directory, then commit and push from there.
+
+===== More Information =====
+
+There are many more in-depth guides to Mercurial available on the web, here are a few:
+  * [[http://hginit.com|Hg Init: a Mercurial tutorial by Joel Spolsky]]
+  * [[http://hgbook.red-bean.com/|Mercurial: The Definitive Guide]]
+  * [[http://mercurial.selenic.com/|Mercurial Project Home Page]]
+
+===== Still need help? =====
+
+If you're stuck, you can [[mailto:peter.linss@hp.com|email Peter]] for help with the repository.
+
+Also, remember, this is a wiki. If you can improve these instructions, please do.
