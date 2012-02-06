@@ -37,6 +37,9 @@ http://www.hamburg.park.hyatt.de
 </file>
 
 ==== Hafen Hamburg (120 Euros) ====
+
+When you call for reservation, ask for the Adobe Systems rate.
+
 <file>
 Seewartenstr.9
 20459 Hamburg	
