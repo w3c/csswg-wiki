@@ -50,6 +50,8 @@ http://www.hotel-­‐hafen-­‐hamburg.de
 
 ==== Clipper Elb Ledge (145 Euros) ====
 
+When you call for reservation, ask for the Adobe Systems rate.
+
 <file>
 Carsten-­‐Rehder-­‐Str.71	
 22767 Hamburg
@@ -57,7 +59,6 @@ Tel.0049 40 80 9010
 Mail: info@clipper-­‐boardinghouses.de	
 http://www.clipper-­‐hotels.de
 </file>
-
 ===== Hamburg Port Anniversary information =====
 
 http://english.hamburg.de/event-calendar/nofl/290988/hafengeburtstag-hamburg-english.html
