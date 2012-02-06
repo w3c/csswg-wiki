@@ -33,8 +33,32 @@ Send your public key file (id_dsa.pub) to Bert Bos. Until your public key file h
 You need to first install CVS on your system.
 
 If you have a Mac:
-  * install XCode.  It helps if you're using a fairly new OS X version (e.g. 10.6 Snow Leopard) and XCode.
-  * [[http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg|install MacPorts (OSX 10.6)]] (see [[http://www.macports.org/install.php|Installing MacPorts]] for other installs)
+  * [[https://developer.apple.com/xcode/|install XCode]].  It helps if you're using a fairly new OS X version (e.g. 10.6 Snow Leopard) and XCode.
+    * Note: as of OSX 10.7 Lion, you will likely need to get [[http://itunes.apple.com/us/app/xcode/id448457090|XCode from the Apple Mac App store]].
+  * install MacPorts [[http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg|(OSX 10.6)]]| [[https://distfiles.macports.org/MacPorts/MacPorts-2.0.3-10.7-Lion.dmg|(OSX 10.7)]]. See [[http://www.macports.org/install.php|Installing MacPorts]] for other installs.
+
+The MacPorts installer will run a program to determine if it can be installed.
+
+If you get an error alert like:
+
+<html><pre>
++----------------------------------------------------+
+| MacPorts-2.0.3 can't be installed on this          |
+| computer.                                          |
+|                                                    |
+| Xcode is not installed, or was installed with UNIX |
+| Development (10.5+) or Command Line Support        |
+| (10.4) deselected.                                 |
+|                                (Not Now) ((Close)) |
++----------------------------------------------------+
+</pre></html>
+
+Then go back and make sure you've installed XCode.
+If you have installed XCode, make sure you've updated it to the latest version.
+You may need to check the [[http://itunes.apple.com/us/app/xcode/id448457090|XCode page in the Apple Mac App store]] - if you see a button to "Update" or "Upgrade", click it.
+
+Now retry installing MacPorts again.
+
   * Install CVS by entering this command into a Terminal window:
 
 <code bash>sudo port install cvs</code>
