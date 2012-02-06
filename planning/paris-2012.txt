@@ -61,7 +61,6 @@ Room: Blue room Monday, Green room Tuesday and Wednesday, 5th floor
   * CSS Exclusion: spec scope, shape extraction model, shape syntax...
   * CSS3 Text - text-shadow - support for spread radius? (Supported in IE10)
   * @text-transform
-  * Functional syntax, to comma or not to comma?
   * Decoration break behavior with Bi-di
   * Animations/Transitions
   * CSS3 Writing Modes - update on text-orientation
