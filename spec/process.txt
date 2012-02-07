@@ -10,7 +10,7 @@ This proposal provides improvements that encourage rapid draft advancement based
 
 ==== principles ====
 Drafts should:
-  * be published early and often (helps show interest/activity)
+  * be published early and often to show interest/activity
   * transparently note objections/issues
   * advance as rapidly as implementations and tests show interest/interop
   * drop/postpone features lacking implementation(s) to not hold up interoperable features
