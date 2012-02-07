@@ -1,4 +1,4 @@
-====== Spec Advancement Process ======
+====== Spec Advancement Process Proposal ======
 By default the CSSWG follows the W3C Process: http://www.w3.org/Consortium/Process/
 
 Here are some thoughts on improvements.
