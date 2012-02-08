@@ -66,16 +66,16 @@ Room: Blue room Monday, Green room Tuesday and Wednesday, 5th floor
   * CSS Fragmentation: FPWD?
   * length units in matrix() and matrix3d() transform functions
   * Request to publish CSS 2D Transform and CSS 3D Transform with note pointing to the merged CSS Transform spec. which is in progress.
+
+
+===== Proposed Topics =====
+
   * [[http://dev.w3.org/html5/spec/the-style-element.html#attr-style-scoped|HTML5 Scoped Stylesheets]] - need for formal group comment? potential [[https://www.w3.org/Bugs/Public/show_bug.cgi?id=15821|problems]]?
   * CSS3 Text - collect/resolve remaining issues?
   * CSS3 Text - text-shadow - support for spread radius? (Supported in IE10)
 
   * Animations/Transitions
   * Selectors 4
-
-
-
-===== Proposed Topics =====
 
   * Discuss overlap between grid layout and template layout.
   * @text-transform
