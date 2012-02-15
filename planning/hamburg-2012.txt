@@ -124,6 +124,13 @@ http://www.hamburg-tourism.de/en/events/port-birthday-hamburg/
   * Taxi recommended
 
 WARNING: There will be a detour because of the Port Anniversary (see above) so maybe the prices for the taxi drive are going a bit up!
+
+  * Public transport
+
+The S-Bahn runs every 10 minutes from the airport of Hamburg to the city centre ( called: Hauptbahnhof ) in just 25 minutes.
+The price for a one-way-ticket is 2,85 € or you can chose an All-Day-Ticket for 6,95€ or a 3-Day-Ticket for 16,85€ per person.
+For more information: www.hvv.de. To go to the East-Hotel you can also use the S-Bahn but then you have to  go to the station “ Reeperbahn”, 
+it is about 10 minutes longer to run but it is the same line ( S-Bahn No.1 Direction to Wedel or Blankenese).
 ===== Hamburg Subway =====
 
 <file>
