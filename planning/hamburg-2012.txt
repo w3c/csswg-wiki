@@ -151,6 +151,7 @@ Daily ticket (starting at 9 o’clock): 5.60Euros
 | Luke Macpherson | Google | ?? | ?? | ?? | ?? | |
 | Alex Mogilevsky | Microsoft | ?? | ?? | ?? | ?? | |
 | Steve Zilles | Adobe | ??| ??| ?? | ?? |  |
+| Florian Rivoal | Opera | May 8 | May 12 | Hanse Clipper Haus | ?? | |
 ===== Agenda =====
 
   * TBD
