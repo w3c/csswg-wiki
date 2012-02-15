@@ -10,7 +10,7 @@ With a distributed version control system, every user has their own repository, 
 
 ===== Getting Started =====
 
-First, you'll need a Mercurial client. If you don't already have one, you can find [[http://mercurial.selenic.com/wiki/Download|download instructions here]]. You can see if you already have Mercurial installed by opening up a command shell and typing "hg %%--%%version". Our server is running version 2.0.1, earlier versions should work, but we recommend using the latest client.
+First, you'll need a Mercurial client. If you don't already have one, you can find [[http://mercurial.selenic.com/wiki/Download|download instructions here]]. You can see if you already have Mercurial installed by opening up a command shell and typing "hg %%--%%version". Our server is running version 2.1, earlier versions should work, but we recommend using the latest client.
 
 The remainder of this guide will focus on the command-line Mercurial client "hg", but there are GUI based Mercurial clients available for many platforms. Here is a [[http://mercurial.selenic.com/wiki/OtherTools|list of other Mercurial clients]]. While users of a GUI client obviously won't be using the command line, the same basic operations apply.  
 
