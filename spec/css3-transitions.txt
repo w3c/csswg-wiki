@@ -1,4 +1,4 @@
-====== css3-transitions issues list ======
+====== CSS3 Transitions ======
 
 The [[http://www.w3.org/TR/css3-transitions/|CSS Transitions Module Level 3]] (CSS3-Transitions, latest public TR version) defines visual transitions using CSS.
 
