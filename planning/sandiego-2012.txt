@@ -1,5 +1,31 @@
 ====== San Diego F2F 2012 ======
 
-**Where**: August 13-15 2012
+**When**: August 13-15 2012
+
+**Where**: San Diego location TBD
 
 **Host**: HP (Peter Linss)
+
+===== Hosted Dinner =====
+
+TBD
+
+===== Lodging =====
+
+TBD
+
+===== Transport to/from Airport =====
+
+  * TBD
+
+===== Participants =====
+^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+| Peter Linss | HP | local | – | – | – | |
+| John Daggett | Mozilla | August 12 | August 15 | AirBnB | ?? | |
+===== Agenda =====
+
+  * TBD
+
+=== Proposed Topics ===
+
+  * Add topics here
