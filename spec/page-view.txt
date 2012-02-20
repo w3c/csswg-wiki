@@ -60,6 +60,15 @@ Any item with 'overflow:paged' is treated by @page and related as though it was 
 If you want a different presentation on-screen than in print, you simply embed the @page rules inside @media rules. 
 
 If the 'size' property creates a page that is larger than the paged element, then traditional scrolling mechanisms can be used to reveal the extra content of that page. Otherwise, 'size' with absolute dimensions can give intrinsic width, height, and aspect ratio to the paged element.
+
+If the author wishes an element on the page to have different @page rules than the page itself, or of an ancestor with @page, then named pages can be used.
+
+
+**Example:**
+  @page { ... }
+  @page myInner { ... }
+  html { width: 100%; height: 100%; overflow: paged }
+  innerDiv { width: 50em; height: 10em; overflow: paged; page: myInner; }
 ===== Paged view with custom controls =====
 
 **Goal:** Add custom controls to paged view.
