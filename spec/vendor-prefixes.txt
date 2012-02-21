@@ -122,6 +122,8 @@ Perhaps some combination of:
 ===== Known prefixes =====
 This is a [[http://www.w3.org/TR/CSS2/syndata.html|list of known prefixes]] from vendors and third parties. Implementers MUST NOT use them unless licensed by a condition above. 
 
+Vendors or organizations who want to introduce a prefix of their own should publicize it by registering the case-insensitive string with the CSS WG, i.e. sending an informal mail to www-style. The string should be two to six characters long and should be easily associated with (only) the registering party or its product.
+
 The prefixes are shown with leading and trailing hyphen, although in some cases the initial one is left out.
 
 -ah-	Antenna House
@@ -141,5 +143,51 @@ The prefixes are shown with leading and trailing hyphen, although in some cases 
 -tc-	Tall Components
 -wap-	The WAP Forum
 -webkit-	Apple Safari, Google Chrome etc. (WebKit)
--weasy-	WeasyPrint
+-weasy-	Weasy Print
 -xv-	Opera (CSS Speech module)
+
+===== Known prefixes =====
+The following prefixes are reserved for semantics to be defined by the CSS WG. This may or may not happen. They must not be used with different meaning. 
+All combinations of any of the following prefixed followed by any combination of digits 0–9, the hyphen character ‘-’ and the letter ‘x’ is also reserved, e.g. ''-css3-'', ''-svg-2-'', ''-wd-2012-'' and ''-draftX-''.
+
+=== W3C bodies and specifications ===
+-w3-	W3C – World Wide Web Consortium
+-w3c-	ditto
+-css-	CSS – Cascading Stylesheets
+-csswg-	CSS Working Group
+-wg-	ditto
+-svg-	SVG – Scalable Vector Graphics
+-svgwg-	SVG Working Group
+-xsl-	XSL – Extensible Stylesheet Language (Family)
+-xslfo-	XSL Formatting Objects
+-fo-	ditto
+-xppl-	XPPL – XML Print and Page Layout Working Group
+-xml-	ditto
+
+=== Generic statuses ===
+-alpha-	“alpha”
+-beta-	“beta”
+-expires-	“expires”, “expiration date”
+-exp-	“experimental” or “expires”
+-x-	“experimental”
+-draft-	“draft”
+-pd-	“proposed draft”, “proposal”, “public draft”, “private draft”
+-ed-	“Editor’s Draft”
+-wd-	“Working Draft”
+-lc-	“Last Call Working Draft”
+-lcwd-	ditto
+-cr-	“Candidate Recommendation”
+-pr-	“Proposed Recommendation”
+-rec-	“Recommendation”
+-tr-	ditto
+
+=== For use in examples or discussion ===
+-vendor-	Example vendor prefix
+-vnd-	Example vendor prefix
+-ua-	Example user agent prefix
+-browser-	Example user agent prefix
+-org-	Example third party prefix
+-spec-	Example third party specification prefix
+-xmp-	Example prefix
+-pre-	Example prefix
+-prefix-	Example prefix
