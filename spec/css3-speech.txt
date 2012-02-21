@@ -359,7 +359,7 @@
 
 ===== Testing, Reference Implementations =====
 
-==== Existing Prototypal Implementations ====
+==== Existing Prototypal or Semi-Complete Implementations ====
 
 (support for "aural" and/or "speech" stylesheets, as per the CSS2.1 appendix and/or the previous CSS3-Speech drafts, respectively)
 
@@ -370,12 +370,15 @@ Note that this topic is tracked on the public CSS emailing list (feel free to co
   ;FireVox : implements some CSS Speech features (has its own CSS parser, because Firefox doesn't support CSS Speech/Aural features), see http://www.firevox.clcworld.net/demos/css_demo.html and http://clc4tts.clcworld.net/css_technical.html
   ;WebKit : implements support for the "speak" property in its core, and I think that there is platform-level support through the accessibility layer (Mac OS X only ?). See http://trac.webkit.org/browser/trunk/LayoutTests/platform/mac/accessibility/css-speech-speak.html and https://bugs.webkit.org/show_bug.cgi?id=46827 (partially supported by VoiceOver in the iOS5 betas)
   ;FormsPlayer (now "ubiquity-xforms", included in "backplanebx") : for Internet Explorer, provides prosody control via CSS properties (voice, volume, rate, pitch). See http://www.google.com/codesearch?q=speak+package:http://ubiquity-xforms-cpp\.googlecode\.com and http://code.google.com/p/backplanebx/source/browse/XFormsProcessor/content/XFormsProcessor/chrome/
-  ;Mozilla : property parsing, see: https://bugzilla.mozilla.org/show_bug.cgi?id=525444 and https://bugzilla.mozilla.org/show_bug.cgi?id=47159
+  ;Mozilla Gecko : property parsing, see: https://bugzilla.mozilla.org/show_bug.cgi?id=525444 and https://bugzilla.mozilla.org/show_bug.cgi?id=47159
   ;Internet Explorer 9 : "does not support any of the CSS3 speech properties": http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx#speech
 
-  * NOTE: Chrome TTS engine extension, ChromeVox, SSML support (not CSS) : see http://code.google.com/chrome/extensions/ttsEngine.html and http://code.google.com/chrome/extensions/tts.html and https://chrome.google.com/webstore/detail/kgejglhpjiefppelpmljglcjbhoiplfn and http://googlecode.blogspot.com/2011/10/new-text-to-speech-api-for-chrome.html and http://lists.w3.org/Archives/Public/public-xg-htmlspeech/2011Nov/0022.html
-  * NOTE: Firefox native TTS API soon? See https://bugzilla.mozilla.org/show_bug.cgi?id=687879
-  
+
+==== Points of Interest ====  
+
+  ;Google Chrome (WebKit) : "TTS engine" extension, ChromeVox, SSML support, see http://code.google.com/chrome/extensions/ttsEngine.html and http://code.google.com/chrome/extensions/tts.html and https://chrome.google.com/webstore/detail/kgejglhpjiefppelpmljglcjbhoiplfn and http://googlecode.blogspot.com/2011/10/new-text-to-speech-api-for-chrome.html and http://lists.w3.org/Archives/Public/public-xg-htmlspeech/2011Nov/0022.html . Also see IDPF's Readium extension (open-source EPUB reader), at http://readium.org/
+  ;Mozilla Firefox (Gecko) : native TTS API? See https://bugzilla.mozilla.org/show_bug.cgi?id=687879
+
   
 ==== Test Suite ====
 
@@ -383,7 +386,6 @@ Related public email discussion:
 
   * http://lists.w3.org/Archives/Public/www-style/2011Jun/0789.html
   * http://lists.w3.org/Archives/Public/www-style/2011Jun/0791.html
-
 
 ===== Cross-cutting concerns, collaboration opportunities =====
 
