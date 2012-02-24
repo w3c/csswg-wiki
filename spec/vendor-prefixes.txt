@@ -147,7 +147,8 @@ The prefixes are shown with leading and trailing hyphen, although in some cases 
 -xv-	Opera (CSS Speech module)
 
 ===== Reserved prefixes =====
-The following prefixes are reserved for semantics to be defined by the CSS WG. This may or may not happen. They must not be used with different meaning. 
+The following prefixes are reserved for semantics to be defined by the CSS WG. This 
+may or may not happen. They must not be used with different meaning. 
 All combinations of any of the following prefixed followed by any combination of digits 0–9, the hyphen character ‘-’ and the letter ‘x’ is also reserved, e.g. ''-css3-'', ''-svg-2-'', ''-wd-2012-'' and ''-draftX-''.
 
 === W3C bodies and specifications ===
@@ -170,6 +171,8 @@ All combinations of any of the following prefixed followed by any combination of
 -expires-	“expires”, “expiration date”
 -exp-	“experimental” or “expires”
 -x-	“experimental”
+-test-	“test”, “in testing”
+
 -draft-	“draft”
 -pd-	“proposed draft”, “proposal”, “public draft”, “private draft”
 -ed-	Editor’s Draft
