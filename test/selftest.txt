@@ -26,6 +26,6 @@ They also have some disadvantages:
   * They cannot be automated: a human must determine whether the test has passed or failed.
   * In some cases it is difficult or impossible to design the test for a glaringly obvious pass or fail. (In these cases, if it's possible to create a reference, the [[test:reftest|reftest]] format may be more appropriate.)
 
-Self-describing tests must follow the [[test:css2.1:format|CSS test format guidelines]].
+Self-describing tests must follow the [[format|CSS test format guidelines]].
 
 Additional information on writing self-describing tests is available [[http://www.w3.org/Style/CSS/Test/guidelines.html|on the W3C site]].
