@@ -16,15 +16,15 @@ A reftest has three parts:
 
   ; test file : The test file. This must follow the [[format|CSS test format guidelines]].
   ; reference file : This is a different, usually simpler, file that results in the same rendering as the test. The reference file must not use the same features that are being tested. Sometimes more than one reference file is required.
-  ; reftest comparison : A reference link or a line in a reftest "manifest" file that says which files are to be compared and whether they are to render identically or differently.
+  ; reftest comparison : One or more reference links that say which files are to be compared and whether they are to render identically or differently.
 
-==== The Reftest Test ====
+==== The Reftest Test File ====
 
 The test file uses the technology to be tested. This file must follow the [[format|CSS test format guidelines]].
 
 In addition to matching a reftest reference, the test may also function as an self-describing test. This is preferred because having the description lets the tester check that the test and the reference are not //both// being rendered incorrectly and triggering a false pass, and because designing it for an obvious fail makes it easier to find what went wrong when the reftest does fail.
 
-==== The Reftest Reference ====
+==== The Reftest Reference File ====
 
 The reference file uses a different method to produce the same rendering as the test file. Multiple tests can (and often do) share the same reference file. 
 
@@ -62,11 +62,13 @@ Like the format for the test file, the reftest reference format is also XHTML in
 
 There are several common references, such as those used for parsing and selectors tests. Their names begin with ''ref-'' so they can be easily found in the ''reftest'' directory. Email public-css-testsuite@w3.org if you would like to add to the common references collection.
 
-==== The Reftest Comparison ====
+==== The Reftest Comparison Links ====
 
-=== Reference Links ===
+In order to designate which files are to be compared to the test file, and the nature of the comparison, the test file must have one or more links to the reference files as described in the [[format#reference-links|test format]].
 
-In order to designate which files are to be compared to the test file, and the nature of the comparison, the test file must have one or more links to the reference files as described in the [[format#reference-links|test format]]. If multiple reference files must be matched, each reference file should, in turn, link to the next reference.
+  * If multiple reference files must be matched, each reference file should, in turn, link to the next reference.
+  * If multiple renderings are conforming, each possible rendering should have its own reference file linked from the test file.
+  * In cases where it's likely for the test and the reference to misrender identically, the test should also have one (or more) mismatch references.
 
 ===== The Reftest Manifest =====
 
