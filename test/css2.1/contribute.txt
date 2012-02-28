@@ -14,16 +14,15 @@ To give us permission to distribute your contribution under these two licenses, 
 
 ===== How to Submit a New Test =====
 
-You can submit a new test by
+First, send us permission to use the test as described above.
 
-  - Sending us permission to use the test as described above.
-  - Either uploading the test into your ''submitted'' directory [[http://hg.csswg.org/test/file/tip/contributors|in the Mercurial repository]] OR, if you don't have write access, sending the test to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] as a link or attachment and asking someone else to upload it. If you are submitting tests for CSS2.1, you can also [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/web-authors-contributions-css21-testsuite.html|contact Gérard Talbot]] for assistance.
+You can either submit tests into the test repository yourself (see below), or you can send it as a link or attachment to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] and ask someone else to submit it. If you are contributing tests for CSS2.1, you can also [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/web-authors-contributions-css21-testsuite.html|contact Gérard Talbot]] for assistance.
 
-To obtain write access to the repository, make sure you have an account on this wiki, and send an email to [[http://fantasai.inkedblade.net/contact|fantasai]] requesting access.
+To obtain write access to the repository, make sure you have an account on this wiki, and send an email to [[http://fantasai.inkedblade.net/contact|fantasai]] requesting test repository access. We will set up a submission folder for you [[http://hg.csswg.org/test/file/tip/contributors|in the test repository]].
 
-Instructions on how to use the Mercurial repository are available [[tools:hg|here]].
+To submit a test, simply add it to the ''submitted'' folder in your contributor directory and push your changes to ''https://hg.csswg.org/test''. It will show up in [[http://test.csswg.org/shepherd/|Shepherd]], our test-tracking system. See [[tools:hg|How to use Mercurial]].
 
-Please make sure submissions follow the [[http://www.w3.org/Style/CSS/Test/guidelines.html|CSS2.1 Test Suite Guidelines]]. New tests are subject to the [[test:css2.1:review|review process]]. We may ask you to fix problems in your test and resubmit it before adding it to the test suite.
+Please make sure submissions follow the [[http://www.w3.org/Style/CSS/Test/guidelines.html|CSS2.1 Test Suite Guidelines]] and are in the proper [[test:format|format]]. New tests are subject to the [[test:css2.1:review|review process]]. We may ask you to fix problems in your test and resubmit it before adding it to the test suite.
 
 ===== How to Report a Problem in the Test Suite =====
 
