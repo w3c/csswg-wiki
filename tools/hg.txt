@@ -68,11 +68,13 @@ If you access the web through a proxy, you'll also need to set that up now. [[ht
 
 The first step is to clone the central repository to your own machine.
 
-  ; CSSWG Test Repository :
+** CSSWG Test Repository **
   hg clone https://hg.csswg.org/test
-  ; CSSWG Spec Repository :
+
+** CSSWG Spec Repository **
   hg clone https://dvcs.w3.org/hg/csswg/
-  ; FXTF Spec Repository :
+
+** FXTF Spec Repository **
   hg clone https://dvcs.w3.org/hg/FXTF/
 
 Note: By default, the directory name will match the one on the server. If you want to use a different name, enter it at the end of the command.
