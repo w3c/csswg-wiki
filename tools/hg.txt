@@ -154,25 +154,26 @@ You can commit individual files by specifying their names at the end of the ''hg
 
 At this point your changes will be available on the server to other users.
 
-If you received an error message about "heads", you likely forgot to pull, update and merge/rebase before pushing (or someone else pushed just before you). The error message describes re-trying the push with the "-f" option to force it working. DON'T DO THIS. Doing this would create a branch in the central repository. Pull, merge, commit, then try the push again. See the section above about merging.
-
 If you have a long commit message, you can leave out the ''-m "Commit message"'' part and Mercurial will fire up the editor you mentioned in your config file.
+
+If you received an error message about "heads", someone else pushed just after you pulled and before you pushed. The error message describes re-trying the push with the "-f" option to force it working. DON'T DO THIS. Doing this would create a branch in the central repository. Pull, merge, commit, then try the push again. See the section below about merging.
 
 ==== Merging ====
 
-When you pull, if you have committed changes to your repository, and others have pushed changes to the central repository, Mercurial automatically creates a branch to track the different lines of work. You'll know this happened if you see a message like:
+When you pull, if you have committed changes to your repository (but haven't pushed them yet), and others have pushed changes to the central repository, Mercurial automatically creates two branches to track the different lines of work. You'll know this happened if you see a message like:
   added 2 changesets with 1 changes to 1 files (+1 heads)
   (run 'hg heads' to see heads, 'hg merge' to merge)
 
-What this means is that you have to merge other people's changes into your work before you can push back to the central repository. This is the same operation you would do with a centrally managed version control system like Subversion during an update. The difference with Mercurial is that the other changes are tracked separately from yours and you can merge when you're ready.
-
-When you're ready to merge, simply type:
+What this means is that you have to merge the two lines of work before you can push back to the central repository. To merge, simply type:
   hg merge
 
-In most cases Mercurial will be able to handle the merge completely by itself. If both you and others have changed the same area in the same files, there may be a conflict.
+In most cases Mercurial will be able to handle the merge completely by itself. If both you and others have changed the same area in the same files, there may be a conflict, which you will need to resolve manually. Type
+  hg diff
+
+to see what's changed and fix it.
 
 <note>
-You can also [[http://mercurial.selenic.com/wiki/MergeProgram|select a merge program]] in place of "internal:merge" in your ''.hgrc''. The merge program will help you resolve conflicts between your work and others' after pulling from the central repository. If you select "internal:merge", Mercurial will leave conflict markers in your source similar to Subversion or other systems.
+You can also [[http://mercurial.selenic.com/wiki/MergeProgram|select a merge program]] in place of "internal:merge" in your ''.hgrc''. The merge program will help you resolve conflicts between your work and others' after pulling from the central repository. (With "internal:merge", Mercurial will leave conflict markers in your source similar to Subversion or other systems.)
 </note>
 
 Once the merge is complete (and you've resolved any conflicts), you'll need to commit it.
@@ -180,9 +181,6 @@ Once the merge is complete (and you've resolved any conflicts), you'll need to c
 ==== Advanced: Offline Commits ====
 
 Mercurial allows you to commit changes to your local copy of the repository, allowing you to save your work in stages (and assign separate commit messages to each stage) without communicating with the central server. This is why ''hg commit'' and ''hg push'' are separate commands. Note that if you do this, you'll need to get comfortable with ''hg merge'' and/or ''hg rebase''.
-
-If you're doing this, we recommend pulling with
-  hg pull --rebase
 
 See [[http://stackoverflow.com/questions/2963250/how-to-remove-accidental-branch-in-tortoisehg/2974657#2974657|these instructions]] for TortoiseHg.
 ===== CVS / Subversion Cheat Sheet =====
