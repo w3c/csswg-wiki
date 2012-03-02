@@ -39,6 +39,7 @@ Create a file in your home directory called ".hgrc", or "%USERPROFILE%\mercurial
   
   [extensions]
   rebase = 
+  mq = 
   
   [auth]
   # CSSWG Test Repository
@@ -201,14 +202,13 @@ Once the merge is complete (and you've resolved any conflicts), you'll need to c
 
 Mercurial allows you to commit changes to your local copy of the repository, allowing you to save your work in stages (and assign separate commit messages to each stage) without communicating with the central server. This is why ''hg commit'' and ''hg push'' are separate commands. Note that if you do this, you'll need to get comfortable with ''hg merge'' and/or ''hg rebase''.
 
-If you want to use rebase, instead of using ''hg pull -u'', pull by using
-  hg pull --rebase
-See [[http://stackoverflow.com/questions/2963250/how-to-remove-accidental-branch-in-tortoisehg/2974657#2974657|these instructions]] to set this as the default pull option for TortoiseHg.
+Another way to manage offline changes is to use [[http://mercurial.selenic.com/wiki/MqTutorial|Mercurial Queues]], which manages your local changes as pseudo-commits that you can apply, unapply, revise, and rearrange before you formally commit and push.
+
 ===== CVS / Subversion Cheat Sheet =====
 
 If you are used to using Subversion or CVS, the following commands are roughly equivalent:
 
-  cvs update  == svn update  ==  hg pull --rebase
+  cvs update  == svn update  ==  hg pull --u
   cvs commit  == svn commit  ==  hg commit ; hg push
      ???      == svn status  ==  hg status
   cvs diff -u == svn diff    ==  hg diff
