@@ -161,16 +161,16 @@ When you're sure you want to push to the server, **make sure you pull first**, t
 
 If there's a **conflict** after you pull, make sure you **fix it before you commit**!
 
+If you have a long commit message, you can leave out the ''-m "Commit message"'' part and Mercurial will fire up the editor you mentioned in your config file.
+
 <note important>
 By default, //all// modified, added or removed files will be committed into your repository, not just those in the current directory. You can commit individual files by specifying their names at the end of the ''hg commit'' command.
 
-**Use ''.'' to commit only changes in the current directory**, e.g.
+Use ''.'' to commit only changes in the current directory, e.g.
   hg commit -m "Fix all typos in this directory" .
 </note>
 
 At this point your changes will be available on the server to other users.
-
-If you have a long commit message, you can leave out the ''-m "Commit message"'' part and Mercurial will fire up the editor you mentioned in your config file.
 
 If you received an error message about "heads", someone else pushed just after you pulled and before you pushed. The error message describes re-trying the push with the "-f" option to force it working. DON'T DO THIS. Doing this would create a branch in the central repository. Pull, merge, commit, then try the push again. See the section below about merging.
 
