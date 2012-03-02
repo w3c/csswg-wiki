@@ -148,9 +148,9 @@ When you're sure you want to push to the server, **make sure you pull first**, t
 If there's a **conflict** after you pull, make sure you **fix it before you commit**!
 
 <note important>
-By default, //all// modified, added or removed files will be committed into your repository, not just those in the current directory.
+By default, //all// modified, added or removed files will be committed into your repository, not just those in the current directory. You can commit individual files by specifying their names at the end of the ''hg commit'' command.
 
-You can commit individual files by specifying their names at the end of the ''hg commit'' command. Use ''.'' to commit all changes in the current directory, e.g.
+**Use ''.'' to commit only changes in the current directory**, e.g.
   hg commit -m "Fix all typos in this directory" .
 </note>
 
