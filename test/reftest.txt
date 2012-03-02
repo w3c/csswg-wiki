@@ -136,7 +136,7 @@ The following is a list of 19 CSS2.1 tests that appear to be unreftestable:
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/margin-collapse-164.htm
 |[RC6] margin-collapse-164]] **Reasons why**: As of today, March 1st 2012, it is still not established officially if the test is valid or invalid, correct or incorrect.
   - [[http://test.csswg.org/suites/css2.1/nightly-unstable/html4/line-height-125.htm
-|[nightly-unstable] line-height-125]] **Reasons why**: the offsetHeight of FAIL varies from one browser to another and when using a different font. When using the same font type ("Liberation Serif"), the offsetHeight of FAIL is 57px in Chrome 17 and 56px in Firefox 10.0.2 and Opera 11.61. With other font types, there is and should be still a 1px difference.
+|[nightly-unstable] line-height-125]] **Reasons why**: the offsetHeight of FAIL varies from one browser to another and when using a different font. When using the same font type ("Liberation Serif"), the offsetHeight of the text node "FAIL" is 57px in Chrome 17 and 56px in Firefox 10.0.2 and Opera 11.61. With other font types, there is and should be still a 1px difference.
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/floats-101.htm
 |[RC6] floats-101]] **Reasons why**: I do not remember right now.
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/floats-143.htm
