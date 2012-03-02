@@ -203,7 +203,7 @@ See [[http://stackoverflow.com/questions/2963250/how-to-remove-accidental-branch
 
 If you are used to using Subversion or CVS, the following commands are roughly equivalent:
 
-  cvs update  == svn update  ==  hg pull --update  or  hg pull ; hg merge
+  cvs update  == svn update  ==  hg pull --rebase
   cvs commit  == svn commit  ==  hg commit ; hg push
      ???      == svn status  ==  hg status
   cvs diff -u == svn diff    ==  hg diff
