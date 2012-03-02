@@ -2,6 +2,8 @@
 
 The CSS Working Group has adopted Mercurial as the repository technology for storing our test suites. Mercurial is a modern, distributed version control system. This guide is intended to serve as a quick start for those setting up access to the repository for the first time, not to serve as an in-depth tutorial. It is expected that the reader have some familiarity with centrally managed version control systems like CVS or Subversion.
 
+This guide will focus on the command-line Mercurial client ''hg'', but there are GUI-based Mercurial clients available for many platforms. Here is a [[http://mercurial.selenic.com/wiki/OtherTools|list of other Mercurial clients]]. While users of a GUI client obviously won't be using the command line, the same basic operations apply.
+
 ===== What is a "distributed" version control system? =====
 
 A standard version control system has a single central repository, usually hosted on a server. Users "checkout" files from the central server, make changes, and "commit" them back to the server. Users keep a working copy of the files on their own system, but all the revision history lives in the central repository.
@@ -12,11 +14,9 @@ With a distributed version control system, every user has their own repository, 
 
 ==== Installing Mercurial ====
 
-First, you'll need a Mercurial client. If you don't already have one installed, you can find [[tools:hg:install|installation instructions here]].
+You need to first [[tools:hg:install|install Mercurial on your system]], if you haven't already. Our server is running version 2.1. Earlier versions should work, but we recommend using the latest client.
 
-You can see if you already have Mercurial installed by opening up a command shell and typing "hg %%--%%version". Our server is running version 2.1, earlier versions should work, but we recommend using the latest client.
-
-The remainder of this guide will focus on the command-line Mercurial client "hg", but there are GUI-based Mercurial clients available for many platforms. Here is a [[http://mercurial.selenic.com/wiki/OtherTools|list of other Mercurial clients]]. While users of a GUI client obviously won't be using the command line, the same basic operations apply.  
+You can see if you already have Mercurial installed by opening up a command shell and typing "hg %%--%%version".
 
 ==== Setting up Mercurial Preferences ====
 
