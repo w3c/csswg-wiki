@@ -108,7 +108,7 @@ Here is an example of a reftest manifest.
 
 Most of the CSS2.1 tests are self-describing tests that //could// be reftests, but are not. (They were written before the reftest format was adopted.) They are slowly being converted into reftests, and your help in this effort is welcome. Some guidelines are offered below:
 
-  * If the test uses Ahem, make sure its font size is a multiple of 5px, otherwise it may render inconsistently (due to rounding errors introduced by certain platforms' font APIs).
+  * **If the test uses Ahem, make sure its font size is a multiple of 5px**, otherwise it may render inconsistently (due to rounding errors introduced by certain platforms' font APIs).
   * If multiple tests can share a reference, share the reference. (This allows for some optimizations in the test runs.)
   * If multiple files have almost but not quite the same rendering, and could almost but not quite render identically and thus share a reference, you may tweak the tests to render identically **provided that** this does not affect the tests' precision or correctness.
 
