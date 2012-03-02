@@ -1,5 +1,7 @@
 ====== Installing Mercurial ======
 
+This guide will focus on the command-line Mercurial client hg, but there are GUI-based Mercurial clients available for many platforms. Here is a [[http://mercurial.selenic.com/wiki/OtherTools|list of other Mercurial clients]].
+
 ===== Windows =====
 
   * Install [[http://tortoisehg.bitbucket.org/|TortoiseHg]] to get both GUI and command line tools installed.
