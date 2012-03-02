@@ -12,11 +12,11 @@
   # yum install mercurial
 
 
-===== Mac OS X =====
-
-You need to first install Mercurial on your system.
+===== Mac OS X Simple Install =====
 
 A simple Mercurial installer is available on [[http://mercurial.selenic.com/|the Mercurial web site]]. Download and open this file, once unzipped you'll find a folder with a Mercurial .mpkg file, double click this file and follow the instructions to install.
+
+===== Mac OS X MacPorts Install =====
 
 Developers may find it preferable to use MacPorts to install Mercurial. While more complicated for a simple install, having MacPorts makes it easier to install additional packages that you may find useful, such as Mercurial's [[http://mercurial.selenic.com/wiki/KeyringExtension|Keyring Extension]] for simple password management or other developer tools for working with the test suites, etc. If you choose to go this route, do not install from the installer above and follow the instructions below instead, otherwise skip to "Configuring Mercurial for use with W3C specs".
 
