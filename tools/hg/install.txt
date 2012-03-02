@@ -1,15 +1,18 @@
-====== W3C Mercurial (hg) for Dummies ======
+====== Installing Mercurial ======
 
-===== What you need beforehand =====
-  - A W3C member access username and password
-
-===== Installing Mercurial =====
-
-==== Windows ====
+===== Windows =====
 
   * Install [[http://tortoisehg.bitbucket.org/|TortoiseHg]] to get both GUI and command line tools installed.
 
-==== Mac OS X ====
+===== Linux (Debian-based) =====
+
+  $ sudo apt-get install mercurial
+
+===== Linux (Fedora-based) =====
+  # yum install mercurial
+
+
+===== Mac OS X =====
 
 You need to first install Mercurial on your system.
 
@@ -152,53 +155,3 @@ If you already have the latest version of Mercurial, you should not get any mess
 <code bash>sudo port uninstall outdated</code>
 
 Note that Mercurial is a Python application. Although OS X has Python pre-instaled, MacPorts will install its own version of Python into /opt/local/bin so that it can manage dependencies between packages. This will not interfere with your normal Python installation. Currently, on OS X Mercurial will use Python version 2.7. Note that if you install any extensions to Mercurial via MacPorts, you'll need to use the py27- version of the extension.
-
-Skip to "Configuring Mercurial for use with W3C specs".
-
-==== Linux (Debian-based) ====
-
-  $ sudo apt-get install mercurial
-==== Linux (Fedora-based) ====
-  # yum install mercurial
-
-===== Configuring Mercurial for use with W3C specs =====
-Create a file in your home directory called ".hgrc", or "%USERPROFILE%\mercurial.ini" on Windows.  Give it the following contents, but with the name, email, username, and password replaced appropriately:
-
-  [ui]
-  username = Your Full Name <your@email.address.example>
-  
-  [auth]
-  w3c.prefix = https://dvcs.w3.org/hg/
-  w3c.username = yourusername
-  w3c.password = yourpassword
-  
-If you don't want to store your password in the config file, you can [[http://mercurial.selenic.com/wiki/KeyringExtension|install the Keyring extension]] and omit the password line. The Keyring extension will prompt you for your password the first time it is needed and store it securely in your system keyring.
-
-If you access the web through a proxy, you'll also need to set that up now. [[http://www.selenic.com/mercurial/hgrc.5.html#http-proxy|Details of proxy settings can be found here]].
-
-===== Using Mercurial to edit a W3C spec =====
-
-Mercurial is a distributed version control system. (See [[tools:hg| Mercurial Quick Guide]] for more information.)
-
-TO DO: explain atomic commits (and how you should use them)
-
-TO DO: explain distributed nature (and attribution of commits) Note: we have the quick guide page (linked above), we should merge all general Mercurial info there, and have this page be only about accessing the specs. The quick guide page is currently targeted towards test suite access, that should be factored into it's own access page.
-
-==== Clone a repository ====
-
-First, you need to clone the repository to your local machine so you have a copy of it.  Go to a command prompt in the parent of the directory you want the repository in, and then run the command:
-  hg clone https://dvcs.w3.org/hg/FXTF/
-You should then see output like this:
-  destination directory: FXTF
-  requesting all changes
-  adding changesets
-  adding manifests
-  adding file changes
-  added 78 changesets with 799 changes to 642 files
-  updating to branch default
-  137 files updated, 0 files merged, 0 files removed, 0 files unresolved
-This has now created a directory called "FXTF" inside of that directory with all of the FX task force specs
-
-==== hg pull / push ( / incoming / outgoing) ====
-
-==== hg commit / update ( / diff) ====
