@@ -1,6 +1,6 @@
 ====== Quick Guide to Using Mercurial ======
 
-The CSS Working Group has adopted Mercurial as the repository technology for storing our test suites. Mercurial is a modern, distributed version control system. This guide is intended to serve as a quick start for those setting up access to the repository for the first time, not to serve as an in-depth tutorial. It is expected that the reader have some familiarity with centrally managed version control systems like CVS or Subversion.
+The CSS Working Group has adopted Mercurial as the repository technology for storing our test suites and editor's drafts of specifications. Mercurial is a modern, distributed version control system. This guide is intended to serve as a quick start for those setting up access to the repository for the first time, not to serve as an in-depth tutorial. It is expected that the reader have some familiarity with centrally managed version control systems like CVS or Subversion.
 
 This guide will focus on the command-line Mercurial client ''hg'', but there are GUI-based Mercurial clients available for many platforms.  While users of a GUI client obviously won't be using the command line, the same basic operations apply.
 
