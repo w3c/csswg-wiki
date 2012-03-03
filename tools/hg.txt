@@ -236,6 +236,8 @@ This will bring your working directory up to date with your repository and make 
 
 If the update operation fails, don't panic. This is normal if you got the "heads" message when pulling. See the next sections about merging instead of updating.
 
+If the update fails with the message: "abort: outstanding uncommitted changes", you have local changes that have not been committed. Either commit those changes or revert them first, then try again.
+
 === Merging Other Changesets: hg merge ===
 
 If you have made local changes and there have been changsets sent to the central repository by others, they need to be merged together. Do the following:
