@@ -87,11 +87,11 @@ Note: By default, the working directory name will match the name of the central 
 
 ===== Working With Mercurial =====
 
-The fundamental difference between working with a distributed version control system, like Mercurial, versus a standard version control system, like CVS or Subversion, is that with a standard version control system, when you want to make changes to the repository, you must synchronize with the server, merge your changes with others', and commit your changes, sending them to the server all as one operation. With a distributed version control system, these are handled as individual operations, generally only performed on your local repository. Synchronizing your local repository with the central repository is a separate operation. This means you are free to commit your work in smaller increments at will, only to merge them with other people's work and send them to the central repository when you are ready to do so.
+The fundamental difference between working with a distributed version control system, like Mercurial, versus a standard version control system, like CVS or Subversion, is that with a standard version control system, when you want to save your work to the repository, you must synchronize with the server, merge your changes with others', and commit your changes, sending them to the server all as one operation. With a distributed version control system, these are handled as individual operations, generally only performed on your local repository. Synchronizing your local repository with the central repository is a separate operation. This means you are free to commit your work in smaller increments at will, only to merge them with other people's work and send them to the central repository when you are ready to do so.
 
 In general, working with Mercurial is actually very similar to working with CVS or Subversion. The overall operations when dealing with merging and conflicts are conceptually the same, only with Mercurial the operations are broken out into discrete steps that can be done independently instead of all at once during updates. You can keep your overall workflow as similar as possible to CVS or Subversion by working in small increments and synchronizing with the central repository frequently. The more frequently you synchronize, the less likely you are to encounter merge issues.
 
-Once you have a clone of the central repository on your machine, you are free to edit the files with your favorite tools. Mercurial will automatically detect changes made to any files within your working directory. Note however, that when moving, renaming, copying, or deleting files, these operations need to be done via Mercurial rather than your standard operating system operations. This enables Mercurial to track those changes in addition to edits within the files.
+Once you have a created a working directory by cloning the central repository onto your machine, you are free to edit the files in the working directory with your favorite tools. Mercurial will automatically detect changes made to any files within your working directory. Note however, that when moving, renaming, copying, or deleting files, these operations need to be done via Mercurial rather than your standard operating system operations. This enables Mercurial to track those changes in addition to edits within the files.
 
 ==== Quick Start ====
 
@@ -125,7 +125,7 @@ While you are working, you can see an overview of your changes by entering:
   hg status   # all files in the repository
   hg status . # only files in this directory
 
-This command will give a list of files that differ from the current state of your repository, marking each with a status code before it's name:
+This command will give a list of files in your working directory that differ from the current state of your local repository, marking each with a status code before it's name:
 
 |M|Modified file|
 |?|File not tracked by Mercurial (probably a newly created file)|
@@ -147,7 +147,7 @@ You can create a patch file by redirecting to a file: Append '' > filename.patch
 
 === Reverting changes: hg revert ===
 
-If you decide you don't want to keep changes you made to a file, or removed a file by mistake, you can restore to the last committed version by typing:
+If you decide you don't want to keep changes you made to a file, or removed a file by mistake, you can restore that file to the last committed version by typing:
   hg revert filename
 
 === Managing Files ===
@@ -202,7 +202,7 @@ To save your work, enter:
 
 If you have a long commit message, you can leave out the ''-m "Commit message"'' part and Mercurial will fire up the editor you specified in your config file. Please make sure your commit message is a reasonable summary of your changes, it need not be an essay, but should describe the gist of your changes to a casual observer. Breaking your work into multiple, smaller commits can also help keep the commit messages clear and relevant.
 
-When your work is committed, Mercurial will save your work as a "changeset" and list the ID assigned to the newly created changeset.
+When your work is committed, Mercurial will save your work as a "changeset" into your local repository and list the ID assigned to the newly created changeset.
 
 <note important>
 By default, //all// modified, added or removed files will be committed into your repository, not just those in the current directory. You can commit individual files by specifying their names at the end of the ''hg commit'' command.
@@ -214,7 +214,7 @@ Use ''.'' to commit only changes in the current directory, e.g.
 
 ==== Working With the Central Repository ====
 
-At some point, you will want to share your work by sending your changesets (the result of an "hg commit") to the central repository, and see other people's work by merging their changes with your local repository. When synchronizing work between repositories, each changeset is shared as an atomic unit. Before you can send any of your changesets to the central repository, you must first merge any other changesets that may have been sent to the central repository with your local repository. 
+At some point, you will want to share your work by sending your changesets (the result of an "hg commit") to the central repository, and to see other people's work by merging their changes with your local repository. When synchronizing work between repositories, each changeset is shared as an atomic unit. Before you can send any of your changesets to the central repository, you must first merge any other changesets that may have been sent to the central repository with your local repository. 
 
 === Getting Other Changesets From The Central Repository: hg pull ===
 
@@ -227,31 +227,33 @@ When you pull, you may see a message about "heads", don't panic. This simply mea
   added 2 changesets with 1 changes to 1 files (+1 heads)
   (run 'hg heads' to see heads, 'hg merge' to merge)
 
-=== Updating Your Local Repository: hg update ===
+=== Updating Your Working Directory: hg update ===
 
-After pulling changesets from the central repository, you'll want to see the result of those changes in your working directory. Do the following:
+After pulling changesets from the central repository into your local repository, you'll want to see the result of those changes in your working directory. Do the following:
   hg update
 
-This will bring your working directory up to date with your repository and make other people's changesets visible. You can combine the pull and update operations into one by optionally running:
+This will bring your working directory up to date with your local repository and make other people's changesets visible. You can combine the pull and update operations into one by optionally running:
   hg pull -u
 
 If the update operation fails, don't panic. This is normal if you got the "heads" message when pulling. See the next sections about merging instead of updating.
 
-If the update fails with the message: "abort: outstanding uncommitted changes", you have local changes that have not been committed. Either commit those changes or revert them first, then try again.
+If the update fails with the message: "abort: outstanding uncommitted changes", you have changes in your working directory that have not been committed to your local repository. Either commit those changes or revert them first, then try again.
+
+If the update succeeds, you are ready to send your work to the central repository, if desired, and you can skip the sections about merging and conflicts.
 
 === Merging Other Changesets: hg merge ===
 
-If you have made local changes and there have been changsets sent to the central repository by others, they need to be merged together. Do the following:
+If you have made local changes and there have been changesets sent to the central repository by others, they need to be merged together. Do the following:
   hg merge
 
-If the merge fails with the message: "abort: outstanding uncommitted changes", you have local changes that have not been committed. Either commit those changes or revert them first, then try again.
+If the merge fails with the message: "abort: outstanding uncommitted changes", you have changes in your working directory that have not been committed to your local repository. Either commit those changes or revert them first, then try again.
 
 In most cases Mercurial will be able to handle the merge completely by itself. If both you and others have changed the same area in the same files, there may be a conflict, which you will need to resolve manually. Mercurial will report this with a message similar to the following: "warning: conflicts during merge". See the next section about resolving conflicts.
 
 Provided your local changesets and other people's changsets haven't modified the same lines in the same files, you are ready to commit the merge into your local repository with:
   hg commit -m "merge"
 
-The merge and following commit remove the branch that Mercurial created during your pull operation.
+The merge and following commit remove the branch that Mercurial created in your local repository during your pull operation.
 
 === Resolving Conflicts: hg resolve ===
 
@@ -263,7 +265,7 @@ You'll see a listing of all files modified by the merge operation, e.g:
   M two.txt
   ? two.txt.orig
 
-In this example, the file "one.txt" was simply modified locally as the result of other people's changes. The file "two.txt" had merge conflicts. You can spot the files with merge conflicts because there will an a newly created (untracked) file with the same name and the additional extension ".orig". This new file will be the original contents of your version of the file before the merge.
+In this example, the file "one.txt" was simply modified locally by Mercurial as the result of other people's changes being merged into your working directory. The file "two.txt" had merge conflicts. You can spot the files with merge conflicts because there will an a newly created (untracked) file with the same name and the additional extension ".orig". This new file will be the original contents of your version of the file before the merge and is available for your reference.
 
 You can now edit the files with conflicts in your favorite editor. Search for the conflict markers, replacing them, and everything between them with the proper contents. For example:
   ...
@@ -282,19 +284,21 @@ Alternatively, you can discard your local edits with the command:
 
 Repeat as needed for any additional files that had conflicts. Once all conflicts have been resolved, commit those changes to your local repository:
   hg commit -m "merge"
+  
+Once all the conflicts have been resolved and committed, you should simply delete the files with the ".orig" extensions to avoid any confusion. It is not necessary to "hg remove" those files as they were never tracked by Mercurial.
 
 === Sending Your Changesets To The Central Repository: hg push ===
 
 Now that your local repository has been synchronized with the central repository, you are ready to send your changesets to the central repository. Enter the command:
   hg push
 
-If you see a message similar to: "abort: push creates new remote head", then you either forgot to pull and synchronize your local repository with the central repository, or someone else has pushed changesets since you last did. The error message describes re-trying the push with the "-f" option to force it working. DON'T DO THIS. Doing this would create a branch in the central repository. Pull, merge, commit, then try the push again.
+If you see a message similar to: "abort: push creates new remote head", then you either forgot to pull and synchronize your local repository with the central repository, or someone else has pushed changesets since you last did. The error message describes re-trying the push with the "-f" option to force it working. **DON'T DO THIS**. Doing this would create a branch in the central repository. Pull, merge, commit, then try the push again.
 
 At this point your changes will be available in the central repository and visible to other users.
 
 === Comparing Your Local Repository To The Central Repository (Optional) ===
 
-You may find it useful to compare the state of your local repository to the central repository from time to time. This can help you understand if you're in a situation where you'll need to merge your work before sharing it.
+You may find it useful to compare the state of your local repository to the central repository from time to time. This can help you understand if you're in a situation where you'll need to merge your work before pushing it.
 
 == Checking For Changes In Your Local Repository: hg outgoing ==
 
@@ -322,7 +326,7 @@ This command can be abbreviated:
 
 === Rebasing Changesets: hg rebase ===
 
-During normal operations, it is a common occurrence for multiple people to commit work into their local repositories without synchronizing to each other's work first. This normally results in the automatic branching and merge operations described above. The only downside to this situation is that the change history of the repository can become somewhat convoluted and difficult for others to follow. One way to avoid this is to "rebase" your changesets before pushing.
+During normal operations, it is a common occurrence for multiple people to commit work into their local repositories without synchronizing to each other's work first. This normally results in the automatic branching and merge operations described above. The only downside to this situation is that the change history of the central repository can become somewhat convoluted and difficult for others to follow. One way to avoid this is to "rebase" your changesets before pushing.
 
 What this means is that you tell Mercurial to recompute your changes so that they appear to be made after the changes that other people have made. If your changes have been in different files, this can be simply achieved by replacing your pull operation with:
   hg pull --rebase
@@ -337,7 +341,7 @@ Resolving rebase conflicts is beyond the scope of this document. Rebasing is not
 
 === Patch Queues ===
 
-Another way to manage offline changes is to use [[http://mercurial.selenic.com/wiki/MqTutorial|Mercurial Queues]], which manages your local changes as pseudo-commits that you can apply, unapply, revise, and rearrange before you formally commit and push.
+Another way to manage offline changes is to use [[http://mercurial.selenic.com/wiki/MqTutorial|Mercurial Queues]], which manages your local changes as pseudo-commits that you can apply, unapply, revise, and rearrange before you formally commit and push. Details about using patch queues are beyond the scope of this document.
 
 ===== CVS / Subversion Cheat Sheet =====
 
