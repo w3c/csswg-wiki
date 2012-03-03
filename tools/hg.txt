@@ -194,7 +194,7 @@ This command can be abbreviated:
 
 === Saving Your Work: hg commit ===
 
-Note: Before you commit your changes, it's a good idea to review the changes with 'hg status', making sure new files have been 'hg add'ed, deleted files have been 'hg remove'd, and double check a 'hg diff' of your edits. It is also good practice to commit your work often and in small increments, grouping only related changes together. Since a commit only records your work into your local repository and does not share your work with others, you do not need to wait until you are "done" before committing changes.
+<note>Before you commit your changes, it's a good idea to review the changes with 'hg status', making sure new files have been 'hg add'ed, deleted files have been 'hg remove'd, and double check a 'hg diff' of your edits. It is also good practice to commit your work often and in small increments, grouping only related changes together. Since a commit only records your work into your local repository and does not share your work with others, you do not need to wait until you are "done" before committing changes.</note>
 
 To save your work, enter:
   hg commit -m "Commit message explaining your changes"
@@ -222,7 +222,7 @@ You can copy new changesets from the central repository by pulling:
 
 Note that pulling only updates your local repository, it does not affect your working directory (i.e. you'll have the changes, but you won't see them).
 
-When you pull, you may see a message about "heads", don't panic. This simply means that you have created local changesets and other people have sent changesets to the central repository. Mercurial has handled this by creating a branch in your local repository. The branch containing these changesets needs to be merged before continuing. See the next few sections. The message will be similar to:
+When you pull, you may see a message about "heads", don't panic. This simply means that you have created local changesets and other people have also sent changesets to the central repository. Mercurial has handled this by creating a branch in your local repository. The branch containing these changesets needs to be merged before continuing. See the next few sections. The message will be similar to:
   added 2 changesets with 1 changes to 1 files (+1 heads)
   (run 'hg heads' to see heads, 'hg merge' to merge)
 
