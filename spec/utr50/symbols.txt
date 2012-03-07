@@ -13,9 +13,9 @@ Category Codes:
 Two modes are presented: Stacking (''text-orientation: upright'') and Default (TBD).
 
 Since S* is a large set, they're split among pages:
-  * Symbol, Currency (Sc) and Symbol, Modifier (Sk) are in this page.
-  * [[symbols_math||Symbol, Math (Sm)]]
-  * [[symbols_other||Symbol, Other (So)]]
+  * [[#Symbol, Currency (Sc)]] and [[#Symbol, Modifier (Sk)]] are in this page.
+  * [[symbols_math|Symbol, Math (Sm)]]
+  * [[symbols_other|Symbol, Other (So)]]
 
 ===== Symbol, Currency (Sc) =====
 
