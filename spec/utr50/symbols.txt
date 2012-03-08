@@ -32,7 +32,7 @@ Since S* is a large set, they're split among pages:
 |[[http://www.fileformat.info/info/unicode/char/00A4/index.htm|U+00A4]]|CURRENCY SIGN|''¤''|U|
 |[[http://www.fileformat.info/info/unicode/char/00A5/index.htm|U+00A5]]|YEN SIGN|''¥''|U|
 |[[http://www.fileformat.info/info/unicode/char/058F/index.htm|U+058F]]|ARMENIAN DRAM SIGN|''֏''|U|
-|[[http://www.fileformat.info/info/unicode/char/060B/index.htm|U+060B]]|AFGHANI SIGN|''؋''|U|:?: Arabic|
+|[[http://www.fileformat.info/info/unicode/char/060B/index.htm|U+060B]]|AFGHANI SIGN|''؋''|U||
 |[[http://www.fileformat.info/info/unicode/char/09F2/index.htm|U+09F2]]|BENGALI RUPEE MARK|''৲''|U|
 |[[http://www.fileformat.info/info/unicode/char/09F3/index.htm|U+09F3]]|BENGALI RUPEE SIGN|''৳''|U|
 |[[http://www.fileformat.info/info/unicode/char/09FB/index.htm|U+09FB]]|BENGALI GANDA MARK|''৻''|U|
@@ -67,7 +67,7 @@ Since S* is a large set, they're split among pages:
 |[[http://www.fileformat.info/info/unicode/char/20B8/index.htm|U+20B8]]|TENGE SIGN|''₸''|U|
 |[[http://www.fileformat.info/info/unicode/char/20B9/index.htm|U+20B9]]|INDIAN RUPEE SIGN|''₹''|U|
 |[[http://www.fileformat.info/info/unicode/char/A838/index.htm|U+A838]]|NORTH INDIC RUPEE MARK|''꠸''|U|
-|[[http://www.fileformat.info/info/unicode/char/FDFC/index.htm|U+FDFC]]|RIAL SIGN|''﷼''|U|:?: Arabic|
+|[[http://www.fileformat.info/info/unicode/char/FDFC/index.htm|U+FDFC]]|RIAL SIGN|''﷼''|U||
 |[[http://www.fileformat.info/info/unicode/char/FE69/index.htm|U+FE69]]|SMALL DOLLAR SIGN|''﹩''|U|
 |[[http://www.fileformat.info/info/unicode/char/FF04/index.htm|U+FF04]]|FULLWIDTH DOLLAR SIGN|''＄''|U|
 |[[http://www.fileformat.info/info/unicode/char/FFE0/index.htm|U+FFE0]]|FULLWIDTH CENT SIGN|''￠''|U|
