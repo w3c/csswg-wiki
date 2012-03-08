@@ -499,7 +499,7 @@ We propose to make all spaces upright in ''upright/stacked'' mode.
 |[[http://www.fileformat.info/info/unicode/char/083c/index.htm|U+083C]]|SAMARITAN PUNCTUATION ARKAANU|࠼|U|
 |[[http://www.fileformat.info/info/unicode/char/083d/index.htm|U+083D]]|SAMARITAN PUNCTUATION SOF MASHFAAT|࠽|U|
 |[[http://www.fileformat.info/info/unicode/char/083e/index.htm|U+083E]]|SAMARITAN PUNCTUATION ANNAAU|࠾|U|
-|[[http://www.fileformat.info/info/unicode/char/085e/index.htm|U+085E]]|MANDAIC PUNCTUATION|࡞|U|
+|[[http://www.fileformat.info/info/unicode/char/085e/index.htm|U+085E]]|MANDAIC PUNCTUATION|࡞|U|:?: Mandaic
 |[[http://www.fileformat.info/info/unicode/char/0964/index.htm|U+0964]]|DEVANAGARI DANDA|।|U|
 |[[http://www.fileformat.info/info/unicode/char/0965/index.htm|U+0965]]|DEVANAGARI DOUBLE DANDA|॥|U|
 |[[http://www.fileformat.info/info/unicode/char/0970/index.htm|U+0970]]|DEVANAGARI ABBREVIATION SIGN|॰|U|
