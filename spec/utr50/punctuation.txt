@@ -19,6 +19,8 @@ FIXME Default orientation is not covered yet; focusing on stacked mode first bec
 
 ==== Punctuation, Connector (Pc) ====
 
+See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistler's notes on this category]]
+
 ^Code^Description^Char^Stack^Memo^
 |[[http://www.fileformat.info/info/unicode/char/005f/index.htm|U+005F]]|LOW LINE|_|R|:?: Double low line and low line have different orientations|
 |[[http://www.fileformat.info/info/unicode/char/203f/index.htm|U+203F]]|UNDERTIE|‿|R|
