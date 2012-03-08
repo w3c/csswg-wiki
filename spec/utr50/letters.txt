@@ -1,14 +1,14 @@
 ====== Letters and Numbers Orientation By Codepoint ======
 
-This page is intended to help analyze troublesome characters like punctuation and symbols. It is not comprehensive at all yet.
+This page is intended to help analyze Unicode wrt text orientation. It is not comprehensive at all yet.
 
 Category Codes:
 
-^Code^Meaning^
-^U|Upright; translates between horizontal and vertical|
-^R|Sideways; rotates between horizontal and vertical|
-^T<sub>U</sub>|Typeset upright with alternate glyph. Best fallback is just upright.|
-^T<sub>R</sub>|Typeset upright with alternate glyph. Best fallback is just sideways.|
+^Code^UTR50^MSFT^Meaning^
+^U|U|S|Upright; translates between horizontal and vertical|
+^R|S|R|Sideways; rotates between horizontal and vertical|
+^T<sub>U</sub>|T|ST|Typeset upright with alternate glyph. Best fallback is just upright.|
+^T<sub>R</sub>|SB|RT|Typeset upright with alternate glyph. Best fallback is just sideways.|
 
 Two modes are presented: Stacking (''text-orientation: upright'') and Default (TBD).
 
