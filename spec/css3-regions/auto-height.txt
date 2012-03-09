@@ -128,7 +128,7 @@ Because there is a region with height:auto, a Step B is necessary.
 Because there is a region with height:auto, a Step B is necessary. 
 
   - Step B, Phase 1: layout regionA and regionB. regionB uses an intrinsic height of 'Y'. As a result, 
-                     regionB's bottom property's used value is 'Y'.
+                     regionA's bottom property's used value is 'Y'.
   - Step B, Phase 2: layout content in region. The content will fit partially in regionA (because it has a narrower width)
                      but will not fill in regionB completely.
                      
