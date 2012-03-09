@@ -52,7 +52,7 @@ this model and implement the layout in fewer iterations.
 </code>
 
   - Step A, Phase 1: layout regionA. regionA uses an intrinsic size of zero.
-  - Step A, Phase 2: layout content in regions. When laying out regionA, because regionB has height:auto: 
+  - Step A, Phase 2: layout content in regions. When laying out regionA, because it has height:auto: 
                       - compute the fragment that fits into the region (following fragmentation rules). 
                       - compute the intrinsic height of the region based on the fragment content
                       - freeze the intrinsic height ('Y') for regionB.
