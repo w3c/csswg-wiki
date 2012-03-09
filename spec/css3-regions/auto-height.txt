@@ -99,7 +99,6 @@ Because there is a region with height:auto, a Step B is necessary.
     
     #regionB {
         flow-from: article;
-        height: 0;
         width: 200px;
         position: absolute;
         top: 0;
