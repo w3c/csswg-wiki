@@ -76,7 +76,7 @@ Because there is a region with height:auto, a Step B is necessary.
                       - compute the fragment that fits into the region (following fragmentation rules). 
                       - compute the intrinsic height of the region based on the fragment content
                       - freeze the intrinsic height ('Y') for region1.
-     Because region1 has height:auto:
+     Because region2 has height:auto:
                       - compute the fragment that fits into the region (following fragmentation rules). In this case, assuming there was a break in the flow content, we'll assume the resulting fragment is half of the first one.
                       - compute the intrinsic height of the region based on the fragment content
                       - freeze the intrinsic height ('Y/2') for region2.
