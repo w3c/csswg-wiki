@@ -851,5 +851,5 @@ See also [[spec:utr50:symbols:arrows]]
 ==== Arabic Mathematical Alphabetic Symbols ====
 
 ^Code^Description^Char^Stack^Memo^
-|[[http://www.fileformat.info/info/unicode/char/1EEF0/index.htm|U+1EEF0]]|ARABIC MATHEMATICAL OPERATOR MEEM WITH HAH WITH TATWEEL|''𞻰''|U|:?: Arabic|
-|[[http://www.fileformat.info/info/unicode/char/1EEF1/index.htm|U+1EEF1]]|ARABIC MATHEMATICAL OPERATOR HAH WITH DAL|''𞻱''|U|:?: Arabic|
+|[[http://www.fileformat.info/info/unicode/char/1EEF0/index.htm|U+1EEF0]]|ARABIC MATHEMATICAL OPERATOR MEEM WITH HAH WITH TATWEEL|''𞻰''|U| |
+|[[http://www.fileformat.info/info/unicode/char/1EEF1/index.htm|U+1EEF1]]|ARABIC MATHEMATICAL OPERATOR HAH WITH DAL|''𞻱''|U| |
