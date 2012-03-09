@@ -14,7 +14,7 @@ Two modes are presented: Stacking (''text-orientation: upright'') and Default (T
 
 Since S* is a large set, they're split among pages:
   * [[#Symbol, Currency (Sc)]] and [[#Symbol, Modifier (Sk)]] are in this page.
-  * [[symbols_math|Symbol, Math (Sm)]]
+  * [[spec:utr50:symbols:math|Symbol, Math (Sm)]]
   * Symbol, Other (So)
     * [[so]]
     * [[so2]]
