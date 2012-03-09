@@ -2,7 +2,7 @@
 
   * undated publication URL: http://www.w3.org/TR/css3-speech
   * current status: Last Call Working Draft (18/08/2011) http://www.w3.org/TR/2011/WD-css3-speech-20110818
-  * latest editor's draft: http://dev.w3.org/csswg/css3-speech
+  * latest editor's draft: http://dev.w3.org/csswg/css3-speech/
   * issue tracker: http://www.w3.org/Style/CSS/Tracker/products/29
 
 ===== Last Call Working Draft, Disposition of Comments =====
@@ -406,4 +406,3 @@ Related public email discussion:
   * Request for special ARIA handling: http://lists.w3.org/Archives/Public/www-style/2011Oct/0017.html
   * Other related requests (limits on volume, rate, pause/rest durations, etc.): http://lists.w3.org/Archives/Public/www-style/2011Oct/0368.html
   * Group to involve: [w3c-wai-gl@w3.org] (WAI Content Guidelines, WCAG), [w3c-wai-pf@w3.org] (WAI Protocol And Formats), [wai-liaison@w3.org] (WAI Liaison), [www-style@w3.org] (CSS), others?
-
