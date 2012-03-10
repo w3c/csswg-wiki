@@ -248,7 +248,7 @@ See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistl
 
 ==== Spaces (Zs) ====
 
-We propose to make all spaces upright in ''upright/stacked'' mode.
+We propose to make all spaces upright in ''upright/stacked'' mode; whether this is workable depends on whether enough fonts have vertical metrics.
 
 ^Code^Description^Char^Stack^Memo^
 |[[http://www.fileformat.info/info/unicode/char/0020/index.htm|U+0020]]|SPACE|'' ''|U :?: DVO=S|
