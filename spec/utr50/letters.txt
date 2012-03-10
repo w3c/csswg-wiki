@@ -25,7 +25,7 @@ Letters and script-specific (non-Common) numbers are classified by using their s
 |Hang|Hangul|U|U| |
 |Merc|Meroitic Cursive|U|U| |
 |Mero|Meroitic Hieroglyphs|U|U| |
-|Mong|Mongolian|R|R| |
+|Mong|Mongolian|V|V|Mongolian in Unicode code chart shows vertical glyphs and most font today has glyphs in 90 degree CCW rotated, so they are U from Unicode point of view, but R from UA point of view. Call it V.|
 |Ogam|Ogham|R|R| |
 |Orkh|Old Turkic|R|R| |
 |Phag|Phags Pa|R|R| |
