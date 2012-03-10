@@ -227,6 +227,17 @@
 
 ===== Symbols Arrows (So) =====
 
+==== Miscellaneous Symbols ====
+
+^Code^Description^Char^Stack^Mixed^Memo^
+|[[http://www.fileformat.info/info/unicode/char/261A/index.htm|U+261A]]|BLACK LEFT POINTING INDEX|''☚''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/261B/index.htm|U+261B]]|BLACK RIGHT POINTING INDEX|''☛''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/261C/index.htm|U+261C]]|WHITE LEFT POINTING INDEX|''☜''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/261D/index.htm|U+261D]]|WHITE UP POINTING INDEX|''☝''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/261E/index.htm|U+261E]]|WHITE RIGHT POINTING INDEX|''☞''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/261F/index.htm|U+261F]]|WHITE DOWN POINTING INDEX|''☟''|U|R|
+
+
 ==== Dingbats ====
 
 ^Code^Description^Char^Stack^Mixed^Memo^
