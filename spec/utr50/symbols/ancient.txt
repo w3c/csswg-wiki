@@ -19,7 +19,7 @@ Since S* is a large set, they're split among pages:
   * Symbol, Other (So)
     * [[spec:utr50:so]]
     * [[pictographs]]
-    * [[spec:utr50:so3]]
+    * [[cjk]]
     * [[spec:utr50:so4]]
     * [[game]]
     * [[spec:utr50:so6]]
