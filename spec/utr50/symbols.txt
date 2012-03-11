@@ -15,13 +15,16 @@ Two modes are presented: Stacking (''text-orientation: upright'') and Default (T
 Since S* is a large set, they're split among pages:
   * [[#Symbol, Currency (Sc)]] and [[#Symbol, Modifier (Sk)]] are in this page.
   * [[spec:utr50:symbols:math|Symbol, Math (Sm)]]
-  * Symbol, Other (So)
-    * [[so]]
+  * Symbol, Other (So), which is a very large category, is grouped into some rough categories:
+    * [[spec:utr50:symbols:textual]]
     * [[spec:utr50:symbols:pictographs]]
     * [[spec:utr50:symbols:cjk]]
+    * [[spec:utr50:symbols:enclosed]]
     * [[spec:utr50:symbols:ancient]]
     * [[spec:utr50:symbols:game]]
     * [[spec:utr50:symbols:technical]]
+    * [[spec:utr50:symbols:drawing]]
+  * [[spec:utr50:symbols:arrows]] (So and Sm)
 
 ===== Symbol, Currency (Sc) =====
 
