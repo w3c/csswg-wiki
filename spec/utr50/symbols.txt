@@ -19,7 +19,7 @@ Since S* is a large set, they're split among pages:
     * [[so]]
     * [[so2]]
     * [[so3]]
-    * [[so4]]
+    * [[spec:utr50:symbols:ancient]]
     * [[so5]]
     * [[so6]]
 
