@@ -1,4 +1,4 @@
-==== Introduction ====
+==== Regions: Processing Model for height:auto ====
 
 This page documents a possible processing model for enabling height:auto on regions. 
 This is a work in progress and meant to help discussion and drive to an agreed upon model.
