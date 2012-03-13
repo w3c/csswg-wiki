@@ -1,5 +1,18 @@
 ==== CSS Object Model for CSS Regions ====
 
+=== Access to flow content (suggested CSS OM Changes) ===
+
+== Region interface ==
+
+This would replace the supplemental Element interface:
+
+<code>
+interface Region {
+    readonly attribute DOMString regionOverflow;
+    getter Range[] getRegionFlowRanges();
+};              
+</code>
+
 === Flowed content boxes and DOM access ===
 
 == getClientRects and getBoundingClientRects ==
