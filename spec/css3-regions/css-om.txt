@@ -1,0 +1,25 @@
+==== CSS Object Model for CSS Regions ====
+
+=== Flowed content boxes and DOM access ===
+
+== getClientRects and getBoundingClientRects ==
+
+The DOM specification provides a [[http://www.w3.org/TR/cssom-view/#the-getclientrects-and-getboundingclientrect-methods|way]] 
+to compute the bounding client rectangle for an element (getBoundingClientRect()) and its generated 
+boxes (getClientRects). 
+
+The current definition seems appropriate for CSS regions and the multiple boxes generated
+for an element flowing through multiple regions. The getClientRects method would return the list of boxes for the 
+element found in the different regions. The <code>getBoundingClientRect</code> would work as specified.
+
+== offsetWidth/offsetHeight/offsetTop/offsetLeft ==
+
+The offsetWidth/offsetHeight/offsetTop/offsetLeft attributes would work as specified, using the first box, i.e., the
+first part of the element flowing in a region. The usefulness of that is limited, but it is the same situation as for elements
+flowing in a multi-column.
+
+The clientTop/clientLeft/clientWidth/clientHeight attributes are relative to the padding edge of the element. For
+an element fragmented accross region, the padding edge would be made of the outermost edges, for all the element's fragment boxes. 
+However, this does not seem to be the way implementations work for multi-column content, where the WebKit and Opera browsers 
+report the edges of the element as if it was laid out in a single column (i.e., as if it appended all the fragments in the 
+box direction), Firefox reports the edges of the first fragment's box.
