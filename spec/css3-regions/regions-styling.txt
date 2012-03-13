@@ -16,20 +16,35 @@ a particular region.
 For example:
 
 <code>
-@region regionA {
+@region #regionA {
     h2 {
         color: red;
     }
 }
 </code>
 
-can be interpreted as specifying an additional property for the <code>h2::in-region(regionA)</code> pseudo-element.
+can be interpreted as specifying an additional property for the:
+
+<code>h2:in-region(regionA)</code> pseudo-element. This assumes that 
+we are able to identify regions uniquely and uniformly (i.e., no matter whether 
+they are elements or not). Note the pseudo-element syntax uses an identifier and the @region rule uses an id selector).
+
+For the sake of the discussion, we can assume we are using the property 'region-id' to set a region identifier:
+
+<code>
+#myElement::before {
+    region-name: regionA;
+}
+</code>
 
 If we follow that model, the used style for the content falling into a particular region could be retrieved as:
 
 <code>
-window.getComputedStyle(elem, '::in-region(regionA)');
+var regionA = document.getNamedFlow('article').getRegions()[0];
+window.getComputedStyle(elementInFlow, regionA);
 </code>
+
+This requires an extension to the getComputedStyle method to allow a 'region' .
 
 === Open questions ===
 
