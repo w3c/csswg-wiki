@@ -29,7 +29,8 @@ can be interpreted as specifying an additional property for the:
 we are able to identify regions uniquely and uniformly (i.e., no matter whether 
 they are elements or not). Note the pseudo-element syntax uses an identifier and the @region rule uses an id selector).
 
-For the sake of the discussion, we can assume we are using the property 'region-id' to set a region identifier:
+For the sake of the discussion, we can assume we are using the property 'region-id' to set a region identifier. For example, if 
+the region was a '::before' pseudo-element:
 
 <code>
 #myElement::before {
@@ -40,11 +41,8 @@ For the sake of the discussion, we can assume we are using the property 'region-
 If we follow that model, the used style for the content falling into a particular region could be retrieved as:
 
 <code>
-var regionA = document.getNamedFlow('article').getRegions()[0];
-window.getComputedStyle(elementInFlow, regionA);
+window.getComputedStyle(elementInFlow,'::in-region(regionA)');
 </code>
-
-This requires an extension to the getComputedStyle method to allow a 'region' .
 
 === Open questions ===
 
