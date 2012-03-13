@@ -31,7 +31,7 @@ interface NamedFlow {
   readonly attribute boolean overflow;
   
   getter Region[] getRegions();
-  getter Region[] getContentNodes();
+  getter Node[] getContentNodes();
   Region[] getRegionsByContentNode(Node node);
 };
 </code>
