@@ -1,8 +1,12 @@
-==== CSS Object Model for CSS Regions  ====
+==== CSS Object Model for CSS Regions ====
 
 === getFlowByName when there is no flow ===
 
 See https://www.w3.org/Bugs/Public/show_bug.cgi?id=14948
+
+=== naming update on NamedFlow members ===
+
+See https://www.w3.org/Bugs/Public/show_bug.cgi?id=15879
 
 === Access to flow content (suggested CSS OM Changes) ===
 
