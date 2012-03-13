@@ -2,6 +2,7 @@
 
 === Access to flow content (suggested CSS OM Changes) ===
 
+Changes proposed here follow the [[http://lists.w3.org/Archives/Public/www-style/2012Feb/1354.html|discussion]] on the mailing list.
 == Region interface ==
 
 This would replace the supplemental Element interface:
