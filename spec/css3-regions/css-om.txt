@@ -1,5 +1,9 @@
 ==== CSS Object Model for CSS Regions ====
 
+=== getFlowByName when there is no flow ===
+
+See https://www.w3.org/Bugs/Public/show_bug.cgi?id=14948
+
 === Access to flow content (suggested CSS OM Changes) ===
 
 Changes proposed here follow the [[http://lists.w3.org/Archives/Public/www-style/2012Feb/1354.html|discussion]] on the mailing list.
