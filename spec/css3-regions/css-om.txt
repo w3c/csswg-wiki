@@ -12,6 +12,10 @@ See https://www.w3.org/Bugs/Public/show_bug.cgi?id=15879
 
 See https://www.w3.org/Bugs/Public/show_bug.cgi?id=15938
 
+=== Disallow flow-into on pseudo-elements to preserve NamedFlow.getContentNodes() ===
+
+See https://www.w3.org/Bugs/Public/show_bug.cgi?id=16383
+
 === Rename Region.regionOverflow to Region.flowedContent ===
 
 The current 'regionOverlfow' name can be confusing and misunderstood for normal CSS layout overflow
