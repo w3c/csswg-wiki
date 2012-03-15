@@ -33,6 +33,9 @@ Changes proposed here follow the [[http://lists.w3.org/Archives/Public/www-style
 They also address the following bugs:
   *  [[https://www.w3.org/Bugs/Public/show_bug.cgi?id=16286|Issue 16286: NamedFlow should return a static node list]]
  
+Note that the following changes use the WebIDL [[http://www.w3.org/TR/WebIDL/#es-sequence|sequence<T>]] type which maps to 
+a native JavaScript Array instance. All methods that return a sequence<T> return a new instance on each call.
+
 == Region interface ==
 
 This would replace the supplemental Element interface:
