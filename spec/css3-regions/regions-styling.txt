@@ -3,16 +3,16 @@
 == Problem Description ==
 
 With regions, element (or pseudo-element) boxes are often broken into multiple pieces that are laid out in different regions. 
-For example, it is possible to move an element and its generated box with width:100% to a flow and 
-layout the flow between two regions, one of width 500px and one of width 200px. In that situation,
+For example, it is possible to move an element and its generated box with width:100% to a named flow and 
+lay out the named flow between two regions, one of width 500px and one of width 200px. In that situation,
 the specified width for the element is 100% and its used value for the portion laid out in the first 
-region is 500px and 200px for the second region.
+region is 500px and the used value for the portion laid out in the second region is 200px.
 
 So there is a notion of per-fragment used style.
 
 In addition, regions have a notion of style that applies only to the fragments of an element that
-falls into a particular region. A way to think about this is to consider that the selectors in the 
-@region style rules apply to the pseudo-elements representing the fragment of the element that falls in
+fall into a particular region. A way to think about this is to consider that the selectors in the 
+@region style rules apply only to the pseudo-elements representing the fragment of the element that falls in
 a particular region.
 
 For example:
@@ -33,7 +33,7 @@ pseudo-element selects the fragment of 'h2' that fits into '<region-name>'.
 This assumes that we are able to identify regions uniquely and uniformly (i.e., no matter whether 
 they are elements or not). Note the pseudo-element syntax uses an identifier and the @region rule uses an id selector).
 
-For the sake of the discussion, we can assume we are using the 'region-name' property to set a region identity. For example:
+For the sake of the discussion, let's assume we are using a 'region-name' property to set a region identity. For example:
 
 <code>
 #myDiv {
