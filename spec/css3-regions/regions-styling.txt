@@ -63,6 +63,12 @@ Modify the region styling syntax to be consistent with existing 'fragment' selec
   - use the pseudo-element instead of the @region rule and use that pseudo-element to access the used style with getComputedStyle.
 
 
+<code>
+h2::in-region(regionA) {
+   color: red;
+}
+</code>
+
 === Open questions ===
 
   * Can we chain pseudo-elements? For example, can we do the following:
@@ -78,14 +84,3 @@ Note that pseudo-elements are restricted to one per selector and occur only in t
 </file>
 
 which seems to prevent the combination of a '::before' pseudo-element selector with another '::in-region()' pseudo selector. 
-
-  * Should we use the pseudo-element syntax for setting style?
-
-This has been discussed before, for example in the following [[http://lists.w3.org/Archives/Public/www-style/2012Jan/0626.html|thread]]. 
-In light of the above, it seems to be a better syntax than the @region style rule:
-
-<code>
-h2::in-region(regionA) {
-   color: red;
-}
-</code>
