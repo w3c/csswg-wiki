@@ -19,19 +19,19 @@ FIXME Default orientation is not covered yet; focusing on stacked mode first bec
 
 ==== Punctuation, Connector (Pc) ====
 
-See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistler's notes on this category]]. Maybe they should be upright in stacked mode instead?
+See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistler's notes on this category]].
 
-^Code^Description^Char^Stack^Memo^
-|[[http://www.fileformat.info/info/unicode/char/005f/index.htm|U+005F]]|LOW LINE|_|R|:?: Double low line and low line have different orientations|
-|[[http://www.fileformat.info/info/unicode/char/203f/index.htm|U+203F]]|UNDERTIE|‿|R|
-|[[http://www.fileformat.info/info/unicode/char/2040/index.htm|U+2040]]|CHARACTER TIE|⁀|R|
-|[[http://www.fileformat.info/info/unicode/char/2054/index.htm|U+2054]]|INVERTED UNDERTIE|⁔|R|
-|[[http://www.fileformat.info/info/unicode/char/fe33/index.htm|U+FE33]]|PRESENTATION FORM FOR VERTICAL LOW LINE|︳|U|Vertical presentation forms always upright|
-|[[http://www.fileformat.info/info/unicode/char/fe34/index.htm|U+FE34]]|PRESENTATION FORM FOR VERTICAL WAVY LOW LINE|︴|U|Vertical presentation forms always upright|
-|[[http://www.fileformat.info/info/unicode/char/fe4d/index.htm|U+FE4D]]|DASHED LOW LINE|﹍|R|:?: Double low line and low line have different orientations|
-|[[http://www.fileformat.info/info/unicode/char/fe4e/index.htm|U+FE4E]]|CENTRELINE LOW LINE|﹎|R|:?: Double low line and low line have different orientations|
-|[[http://www.fileformat.info/info/unicode/char/fe4f/index.htm|U+FE4F]]|WAVY LOW LINE|﹏|R|:?: Double low line and low line have different orientations|
-|[[http://www.fileformat.info/info/unicode/char/ff3f/index.htm|U+FF3F]]|FULLWIDTH LOW LINE|＿|R|:?: Double low line and low line have different orientations|
+^Code^Description^Char^Stack^Mixed^Memo^
+|[[http://www.fileformat.info/info/unicode/char/005f/index.htm|U+005F]]|LOW LINE|_|U|R|Match double low line, overline|
+|[[http://www.fileformat.info/info/unicode/char/203f/index.htm|U+203F]]|UNDERTIE|‿|R|R|Intended to link consecutive letters|
+|[[http://www.fileformat.info/info/unicode/char/2040/index.htm|U+2040]]|CHARACTER TIE|⁀|R|R|Intended to link consecutive letters|
+|[[http://www.fileformat.info/info/unicode/char/2054/index.htm|U+2054]]|INVERTED UNDERTIE|⁔|R|R|Intended to link consecutive letters|
+|[[http://www.fileformat.info/info/unicode/char/fe33/index.htm|U+FE33]]|PRESENTATION FORM FOR VERTICAL LOW LINE|︳|U|U|Vertical presentation forms always upright|
+|[[http://www.fileformat.info/info/unicode/char/fe34/index.htm|U+FE34]]|PRESENTATION FORM FOR VERTICAL WAVY LOW LINE|︴|U|U|Vertical presentation forms always upright|
+|[[http://www.fileformat.info/info/unicode/char/fe4d/index.htm|U+FE4D]]|DASHED LOW LINE|﹍|U|R|Match low line|
+|[[http://www.fileformat.info/info/unicode/char/fe4e/index.htm|U+FE4E]]|CENTRELINE LOW LINE|﹎|U|R|Match low line|
+|[[http://www.fileformat.info/info/unicode/char/fe4f/index.htm|U+FE4F]]|WAVY LOW LINE|﹏|U|R|Match low line|
+|[[http://www.fileformat.info/info/unicode/char/ff3f/index.htm|U+FF3F]]|FULLWIDTH LOW LINE|＿|U|R|Match low line|
 
 ==== Punctuation, Dash (Pd) ====
 
