@@ -26,7 +26,7 @@ to rename the 'regionOverflow' property to 'flowConsumed' with the following val
   * remainder: the region consumes the remainder of the flow content.
   * none: the region does not consume any flow content because all content has been fitted in previous regions.
 
-Note that a region may not display any content and still report 'some' for its 'flowConsumed' value. This happens, for example,
+Note that a region may no[[External Link]]t display any content and still report 'some' for its 'flowConsumed' value. This happens, for example,
 if the region is too small to accommodate any content. To find out if a region actually displays anything, the author can 
 use the getFlowContentRanges() method and compare the startContainer/endContainer and startOffset/endOffset values. For a region that
 does not display any content, these values should be the same (startContainer == endContainer and startOffset == endOffset).
@@ -40,7 +40,8 @@ They also address the following bugs:
 Note that the following changes use the WebIDL [[http://www.w3.org/TR/WebIDL/#es-sequence|sequence<T>]] type which maps to 
 a native JavaScript Array instance. All methods that return a sequence<T> return a new instance on each call. However,
 the most [[http://lists.w3.org/Archives/Public/public-webapps/2012JanMar/1145.html|recent discussions on public-webapps]] favors
-keeping NodeList instead of moving to a straight array. See alternate options below.
+keeping NodeList instead of moving to a straight array. So the proposal uses a static NodeList for Node instances and a sequence<T> 
+for other types of lists (see [[http://lists.w3.org/Archives/Public/public-webapps/2012JanMar/1151.html|this discussion]].
 
 == Region interface ==
 
@@ -56,7 +57,7 @@ interface Region {
 == NamedFlow interface changes ==
 
 Changes:
-  - Ordered List ItemThe getRegionsByContentNode method now returns a static array of Regions, not a live NodeList.
+  - The getRegionsByContentNode method now returns a static NodeList.
   - The contentNodes attribute now returns a static list of nodes. Should this be changed to 'getContentNodes()' to make this more obvious to the user?
   - Added a getRegions method to get the current list of regions which are associated with the NamedFlow.
 
@@ -66,40 +67,11 @@ interface NamedFlow {
   readonly attribute boolean overflow;
   
   sequence<Region> getRegions();
-  sequence<Node> getContentNodes();
+  NodeList getContentNodes(); /* static: new instance returned every time */
   sequence<Region> getRegionsByContentNode(Node node);
 };
 </code>
 
-Alternate options:
-
-<code>
-[ArrayClass]
-interface RangeList {
-  getter Range? item(unsigned long index);
-  readonly attribute unsigned long length;
-};
-
-[ArrayClass]
-interface RegionList {
-  getter Region? item(unsigned long index);
-  readonly attribute unsigned long length;
-};
-
-interface Region {
-    readonly attribute DOMString flowConsumed;
-    RangeList getRegionFlowRanges();
-};      
-
-interface NamedFlow {
-  readonly attribute DOMString name;
-  readonly attribute boolean overflow;
-  
-  RegionList getRegions();
-  NodeList getContentNodes();
-  RegionList getRegionsByContentNode(Node node);
-};
-</code>
 
 === Flowed content boxes and DOM access ===
 
