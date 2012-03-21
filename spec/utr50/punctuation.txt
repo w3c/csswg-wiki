@@ -53,7 +53,7 @@ See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistl
 |[[http://www.fileformat.info/info/unicode/char/2e3b/index.htm|U+2E3B]]|THREE-EM DASH|⸻|R|Dashes are sideways|
 |[[http://www.fileformat.info/info/unicode/char/301c/index.htm|U+301C]]|WAVE DASH|〜|T<sub>R</sub>|Wave dash must transform :?: DVO=T|
 |[[http://www.fileformat.info/info/unicode/char/3030/index.htm|U+3030]]|WAVY DASH|〰|T<sub>R</sub>|Wave dash must transform :?: DVO=T|
-|[[http://www.fileformat.info/info/unicode/char/30a0/index.htm|U+30A0]]|KATAKANA-HIRAGANA DOUBLE HYPHEN|゠|R| Sideways in JIS |
+|[[http://www.fileformat.info/info/unicode/char/30a0/index.htm|U+30A0]]|KATAKANA-HIRAGANA DOUBLE HYPHEN|゠|T<sub>R</sub>| Sideways in JIS. Japanese fonts with this glyph expected to have vertical alternate. |
 |[[http://www.fileformat.info/info/unicode/char/fe31/index.htm|U+FE31]]|PRESENTATION FORM FOR VERTICAL EM DASH|︱|U|Vertical presentation forms are always upright|
 |[[http://www.fileformat.info/info/unicode/char/fe32/index.htm|U+FE32]]|PRESENTATION FORM FOR VERTICAL EN DASH|︲|U|Vertical presentation forms are always upright|
 |[[http://www.fileformat.info/info/unicode/char/fe58/index.htm|U+FE58]]|SMALL EM DASH|﹘|R|Dashes are sideways|
