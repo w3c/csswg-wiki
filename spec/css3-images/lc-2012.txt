@@ -1,4 +1,4 @@
-====== Overview of Comments for January 2012 LCWD ======
+====== Whiteboard for January 2012 LCWD ======
 
 This page is a status whiteboard for CSS3 Images. We needed a lot of whiteboard for the [[http://dev.w3.org/csswg/css3-images/issues-lc-2012|Disposition of Comments]].
 
