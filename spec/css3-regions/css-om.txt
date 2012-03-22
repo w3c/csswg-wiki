@@ -31,6 +31,15 @@ if the region is too small to accommodate any content. To find out if a region a
 use the getFlowContentRanges() method and compare the startContainer/endContainer and startOffset/endOffset values. For a region that
 does not display any content, these values should be the same (startContainer == endContainer and startOffset == endOffset).
 
+Other ideas:
+
+  * Region.regionContent with values flow, end and none.
+  * Region.contentFit fit, end and none.
+  * Region.flowPosition start, middle, end or none.
+  * Region.flowFragment start, middle, end or none.
+  * Region.fragmentStatus inprogress, complete, empty.
+  * Region.flowProgress start, middle, end and empty.
+
 === Access to flow content (suggested CSS OM Changes) ===
 
 Changes proposed here follow the [[http://lists.w3.org/Archives/Public/www-style/2012Feb/1354.html|discussion]] on the mailing list.
