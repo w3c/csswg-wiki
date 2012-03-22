@@ -2,7 +2,7 @@
 
 This page is a status whiteboard for CSS3 Images. We needed a lot of whiteboard for the [[http://dev.w3.org/csswg/css3-images/issues-lc-2012|Disposition of Comments]].
 
-The DoC lists important messages on www-style in the course of discussion. This page is listing the actions the WG needs to take to resolve the issues.
+The DoC lists important messages on www-style in the course of discussion. This page is listing the actions the WG needs to take to resolve the issues. See [[http://lists.w3.org/Archives/Public/www-style/2012Mar/0504.html|these minutes]] for the discussion and resolution of these issues.
 
 ===== Directional Images =====
 
