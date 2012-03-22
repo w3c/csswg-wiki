@@ -112,13 +112,13 @@ box direction), Firefox reports the edges of the first fragment's box.
 
 === Document interface additions ===
 
-Remove the NamedFlowCollection interface and change the partial Document interface to:
+Change getNamedFlows() to namedFlows:
 
 <code>
 partial interface Document {
   NamedFlow getFlowByName(DOMString name);
-  sequence<NamedFlow> getNamedFlows();
+  readonly NamedFlowCollection namedFlows;
 };  
 </code>
 
-Rationale: align use of sequence with the other proposed API changes.
+Rationale: the list is live and the value should be an attribute, not a function.
