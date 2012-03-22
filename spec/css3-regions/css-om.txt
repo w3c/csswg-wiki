@@ -26,7 +26,7 @@ to rename the 'regionOverflow' property to 'flowConsumed' with the following val
   * remainder: the region consumes the remainder of the flow content.
   * none: the region does not consume any flow content because all content has been fitted in previous regions.
 
-Note that a region may no[[External Link]]t display any content and still report 'some' for its 'flowConsumed' value. This happens, for example,
+Note that a region may not display any content and still report 'some' for its 'flowConsumed' value. This happens, for example,
 if the region is too small to accommodate any content. To find out if a region actually displays anything, the author can 
 use the getFlowContentRanges() method and compare the startContainer/endContainer and startOffset/endOffset values. For a region that
 does not display any content, these values should be the same (startContainer == endContainer and startOffset == endOffset).
