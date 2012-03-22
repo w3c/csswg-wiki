@@ -85,6 +85,7 @@ interface NamedFlow {
 };
 </code>
 
+Issue: should we have a RegionChain abstraction that is associated 1:1 (for now) with a NamedFlow.
 
 === Flowed content boxes and DOM access ===
 
