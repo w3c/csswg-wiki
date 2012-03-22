@@ -96,3 +96,16 @@ an element fragmented accross region, the padding edge would be made of the oute
 However, this does not seem to be the way implementations work for multi-column content, where the WebKit and Opera browsers 
 report the edges of the element as if it was laid out in a single column (i.e., as if it appended all the fragments in the 
 box direction), Firefox reports the edges of the first fragment's box.
+
+=== Document interface additions ===
+
+Remove the NamedFlowCollection interface and change the partial Document interface to:
+
+<code>
+partial interface Document {
+  NamedFlow getFlowByName(DOMString name);
+  sequence<NamedFlow> getNamedFlows();
+};  
+</code>
+
+Rationale: align use of sequence with the other proposed API changes.
