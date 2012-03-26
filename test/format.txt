@@ -9,9 +9,9 @@ The recommended structure for CSS tests is a [[selftest|self-describing]] [[reft
 The following are requested of all tests submitted to the CSSWG, both for [[test:reftest|reftests]] and [[test:selftest|self-describing tests]]:
 
   ; Short
-  : Tests should be very short (a paragraph or so) and certainly not require scrolling on even the most modest of screens, unless the test is specifically for scrolling or paginating behaviour.
+  : Tests should be very short and certainly not require scrolling on even the most modest of screens, unless the test is specifically for scrolling or paginating behaviour. We suggest aiming to fit within 300px × 300px.
   ; Valid
-  : Unless specifically testing error-recovery features, the tests should all be valid.
+  : Unless specifically testing error-recovery features, the tests should all be valid. Inconsistencies in e.g. HTML parsing shouldn't be affecting CSS test suite pass rates.
   ; Cross-platform
   : Tests should be as cross-platform as reasonably possible, working across different devices, screen resolutions, paper sizes, etc. Exceptions should document their assumptions.
   ; Red Means Failure
