@@ -8,6 +8,8 @@ See https://www.w3.org/Bugs/Public/show_bug.cgi?id=14948
 
 === naming update on NamedFlow members ===
 
+**Implemented** in https://dvcs.w3.org/hg/csswg/rev/e182d5d3f5a6
+
 See https://www.w3.org/Bugs/Public/show_bug.cgi?id=15879
 
 === attach events to NamedFlow ===
