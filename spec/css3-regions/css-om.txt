@@ -47,7 +47,7 @@ This would replace the supplemental Element interface:
 
 <code>
 interface Region {
-    readonly attribute DOMString flowConsumed;
+    readonly attribute DOMString regionOverset;
     readonly attribute DOMString flowFrom;
     sequence<Range> getRegionFlowRanges();
 };              
