@@ -3,7 +3,8 @@
 === getFlowByName when there is no flow ===
 
 See https://www.w3.org/Bugs/Public/show_bug.cgi?id=14948
-Implemented in https://dvcs.w3.org/hg/csswg/rev/d4e15f801ff5
+
+**Implemented** in https://dvcs.w3.org/hg/csswg/rev/d4e15f801ff5
 
 === naming update on NamedFlow members ===
 
