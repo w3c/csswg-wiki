@@ -155,8 +155,8 @@ The following is a list of 21 CSS2.1 tests that appear to be unreftestable:
 |[RC6] line-height-applies-to-010]] **Reasons why**: 
   - [[http://test.csswg.org/suites/css2.1/20110323/html4/containing-block-009.htm
 |[RC6] containing-block-009]] **Reasons why**: some browsers have different horizontal margins for body; most browsers (IE8+, Firefox, Opera, Chrome, Safari) use margin: 8px for body element while Konqueror 4 uses margin: 10px. I do not see how to work around such difficulty when creating a reftest for this test. In order words, a) the horizontal gap between left edge of viewport and leftmost black border is 58px in IE8+, Firefox, Opera, Chrome and Safari but 60px in Konqueror 4 and b)the horizontal gap between rightmost black border and right edge of viewport is 58px in IE8+, Firefox, Opera, Chrome and Safari but 60px in Konqueror 4.
-  - [[http://test.csswg.org/suites/css2.1/20110323/html4/font-size-119.htm
-|[RC6] font-size-119]] **Reasons why**: font-size keywords can not be reliably converted into font-size pixels. So, there is no way to know how tall the document box is; so presence of vertical scrollbar and its relative position are undefined
+  - [[http://test.csswg.org/suites/css2.1/nightly-unstable/html4/font-size-119.htm
+|[nightly-unstable] font-size-119]] **Reasons why**: font-size keywords can not be reliably converted into font-size pixels. So, there is no way to know how tall the document box is; so presence of vertical scrollbar and its relative position are undefined
 
 <del>[[http://test.csswg.org/suites/css2.1/20110323/html4/inline-formatting-context-023.htm
 |[RC6] inline-formatting-context-023]] **Reasons why**: 1px offset in Opera 11.61 which is unexplained as of now.</del> I have concluded that Opera 11.61 has a bug. So, the reftest for this test has been done.
