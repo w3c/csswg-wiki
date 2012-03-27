@@ -4,6 +4,8 @@
 
 == getClientRects and getBoundingClientRects ==
 
+**Integrated** https://dvcs.w3.org/hg/csswg/rev/ded78444853a
+
 The DOM specification provides a [[http://www.w3.org/TR/cssom-view/#the-getclientrects-and-getboundingclientrect-methods|way]] 
 to compute the bounding client rectangle for an element (getBoundingClientRect()) and its generated 
 boxes (getClientRects). 
@@ -13,6 +15,8 @@ for an element flowing through multiple regions. The getClientRects method would
 element found in the different regions. The getBoundingClientRect method would work as specified.
 
 == offsetWidth/offsetHeight/offsetTop/offsetLeft ==
+
+**Integrated** https://dvcs.w3.org/hg/csswg/rev/ded78444853a
 
 The offsetWidth/offsetHeight/offsetTop/offsetLeft attributes would work as specified, using the first box, i.e., the
 first part of the element flowing in a region. The usefulness of that is limited, but it is the same situation as for elements
