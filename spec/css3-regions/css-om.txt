@@ -3,6 +3,7 @@
 === getFlowByName when there is no flow ===
 
 See https://www.w3.org/Bugs/Public/show_bug.cgi?id=14948
+Implemented in https://dvcs.w3.org/hg/csswg/rev/d4e15f801ff5
 
 === naming update on NamedFlow members ===
 
@@ -98,6 +99,8 @@ report the edges of the element as if it was laid out in a single column (i.e., 
 box direction), Firefox reports the edges of the first fragment's box.
 
 === Document interface additions ===
+
+Implemented in: https://dvcs.w3.org/hg/csswg/rev/d4e15f801ff5
 
 Change getNamedFlows() to namedFlows:
 
