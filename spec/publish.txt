@@ -5,7 +5,6 @@
     - **LCWD comment period -** For LCWD, establish with the WG a deadline (3 weeks minimum, 4 is typical) and a list of other WGs to ask for comments. Let a chair or staff contact inform those WGs, and all other WGs (via chairs@w3.org) of the upcoming last call and give them a few days to ask for a different deadline.
   - **Prepare Draft -**
     - Update the Previous Version link at the top to the latest dated URL on /TR (Omit or write "none" if there is none)
-    - Add a "Changes Since Last Draft" section with all non-trivial changes listed.
     - [[http://validator.w3.org/|Validate]] both Overview.src.html and Overview.html
     - [[http://validator.w3.org/checklink|Link-check]] your spec.
     - Optional: If you feel so inclined, you can use [[http://www.w3.org/2005/07/pubrules|pubrules checker]] (if it's working), review its results, and correct any errors. (Some errors are expected/harmless if you check an editor's draft, so read carefully!)
