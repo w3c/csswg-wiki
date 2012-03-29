@@ -21,7 +21,7 @@ Note: The above combines steps specific to the CSS WG and general W3C-wide [[htt
 
 ===== Template for WD Publication Request =====
 
-Replace «marked» items:
+Replace >>marked<< items:
 
   ; To : bert@, webreq@
   ; CC : w3c-css-wg@
@@ -38,4 +38,31 @@ Replace «marked» items:
     >>http://dev.w3.org/...<<
   Can you please set this up for publication?
   Thanks,
+  >>your signature<<
+
+===== Template for WD Announcement to www-style =====
+
+Replace >>marked<< items. Here's an [[http://lists.w3.org/Archives/Public/www-style/2011Nov/0790.html|example]]:
+
+  ; To : www-style@
+  ; Subject : [CSSWG]>>[css3-foo]<< >>CSS Foo<< Working Draft Published
+  ; Body : 
+
+  
+  The CSS WG published an updated draft of the >>CSS Foo<< module:
+  
+      >>http://www.w3.org/TR/2011/WD-css3-foo-20111129/<<
+  
+  >>one-sentence summary of module<<
+  
+  >>What's new, what's cool, what you'd like feedback on, and what to expect going forward<<
+  
+  Please, send any comments to this mailing list, <www-style@w3.org>, and 
+  please, prefix the subject line with
+  
+      >>[css3-foo]<<
+  
+  (as I did on this message).
+
+  For the CSS WG,
   >>your signature<<
