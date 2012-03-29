@@ -72,7 +72,7 @@ Replace >>marked<< items. Here's an [[http://lists.w3.org/Archives/Public/www-st
   For the CSS WG,
   >>your signature<<
 
-====== Template for WD Announcement to Blog ======
+===== Template for WD Announcement to Blog =====
 
 The CSSWG blog is your communication channel to people who aren't technical enough or devoted enough to follow www-style. Take advantage of it, and engage your audience.
 
