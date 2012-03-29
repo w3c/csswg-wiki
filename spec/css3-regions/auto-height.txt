@@ -98,6 +98,8 @@ To resolve the 'intrinsic' height of regionA and regionB:
 </code>
 
 The RIH-1 and RIH-2 intrinsic heights are used during the layout of regions, before flowing named flow content into them.          
+
+
 <html><span style="color:#a00;font-weight:bold">IMPORTANT: THE FOLLOWING USE CASES NEED TO BE UPDATED</span></html>
 
 == Example B - Edge Case B (from https://www.w3.org/Style/CSS/Tracker/actions/351) ==
