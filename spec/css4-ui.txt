@@ -46,7 +46,9 @@ nav-focus: _normal_ | ignore | focus
 
 ==== more selectors ====
   * [[https://developer.mozilla.org/en/CSS/%3a-moz-placeholder|:placeholder]] pseudo-class for when an input element is in the state of showing its placeholder text
-  * [[https://bugs.webkit.org/show_bug.cgi?id=66032|:autofill]] pseudo-class for when an input element is in the state of showing an autofilled value
+  * [[https://wiki.mozilla.org/CSS/:autofill|:autofill]] pseudo-class for when an input element is in the state of showing an autofilled value. Related implementer bugs:
+    * [[https://bugzilla.mozilla.org/show_bug.cgi?id=740979|:-moz-autofill]]
+    * [[https://bugs.webkit.org/show_bug.cgi?id=66032|:-webkit-autofill]]
   * [[https://developer.mozilla.org/en/CSS/%3a%3a-moz-progress-bar|::progress-bar]] pseudo-element for selecting and styling the area of an HTML progress element that represents the amount of progress that has happened so far. This lets you, for example, change the color of progress bars.
   *  :valid-drop-zone, :invalid-drop-zone - a drop-zone (as Mozilla implements [[https://developer.mozilla.org/en/CSS/:-moz-drag-over|:-moz-drag-over]]) that is valid/invalid.
     * :valid-drop-zone - a drop zone that accepts the type of data being dragged
