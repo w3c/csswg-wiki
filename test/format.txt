@@ -50,6 +50,27 @@ A template for new tests follows. Copy and paste the code below into a new file 
 </html>
 </code>
 
+For the HTML style header, the following template can be used:
+
+<code html>
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>CSS Test: DESCRIPTION OF TEST</title>
+  <link rel="author" title="NAME_OF_AUTHOR" href="mailto:EMAIL OR http://CONTACT_PAGE"/>
+  <link rel="help" href="RELEVANT_SPEC_SECTION"/>
+  <meta name="flags" content="TOKENS" />
+  <meta name="assert" content="TEST ASSERTION"/>
+  <style type="text/css"><![CDATA[
+   CSS FOR TEST
+  ]]></style>
+ </head>
+ <body>
+  CONTENT OF TEST
+ </body>
+</html>
+</code>
+
 ===== Template Details =====
 
 
