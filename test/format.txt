@@ -50,7 +50,7 @@ A template for new tests follows. Copy and paste the code below into a new file 
 </html>
 </code>
 
-For the HTML style header, the following template can be used:
+For tests that //require// the use of the HTML style header, the following template can be used:
 
 <code html>
 <!DOCTYPE html>
