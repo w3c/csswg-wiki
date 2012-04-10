@@ -156,7 +156,7 @@ it is about 10 minutes longer to run but it is the same line ( S-Bahn No.1 Direc
 | Bert Bos | W3C | May 8, 14:05 | May 12, 11:35 | Motel One Hamburg-Alster | LX1056 / SN2624 | |
 | Daniel Glazman | Disruptive Innovations | May 8, 5pm| May 12, 9:40am | Hotel Lafayette | AF2310/1411 | |
 | Alan Stearns | Adobe | May 7th | May 12th | East |  |  |
-| Sylvain Galineau | Microsoft | May 7th | May 11th | |  |  |
+| Sylvain Galineau | Microsoft | May 8th, 9pm | May 11th, 3pm | Radisson |  |  |
 | Tab Atkins | Google | ? | ? | Clipper Elb | ? | |
 | fantasai | Mozilla | May 6th | May 12th | Clipper Elb | | |
 | Koji Ishii | Invited Expert | ? | ? | Imperial Hamburg | | |
