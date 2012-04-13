@@ -1,5 +1,9 @@
 ==== Region Styling: Proposed alternate syntax ====
 
+PAGE OBSOLETE: in light of the discussion on www-style (see http://lists.w3.org/Archives/Public/www-style/2012Mar/0490.html), there seem to be a 
+preference for sticking to the @region syntax. The getComputedStyle API can be provided differently, for example as a method on the
+Region interface (e.g., Region.getComputedStyle(elem)).
+
 == Problem Description ==
 
 With regions, element (or pseudo-element) boxes are often broken into multiple pieces that are laid out in different regions. 
