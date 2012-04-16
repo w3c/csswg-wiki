@@ -24,7 +24,7 @@ As these are most likely to be practical and minimal (and supported by a second 
 ==== real world author extension needs ====
 Second, users and authors may have found that they wanted a CSS3-UI feature to work a certain way in their sites, and these real world needs are a second consideration.
 
-  * ...
+  * http://lists.w3.org/Archives/Public/www-style/2012Apr/0337.html
 
 ==== theoretical extension requests ====
 Third, there are hypothetical requests for extensions to CSS3-UI features. As these are not real world proven (only theoretical) demands, they are purely tertiary. We may consider them optimistically and include them in working drafts to solicit feedback and additional interest.
