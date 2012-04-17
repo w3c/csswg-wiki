@@ -121,7 +121,7 @@ On the other hand, the following text transform would transform that same sequen
 </note>
 
 <note warning> ISSUE 4:
-Define the processing model on the text for the 'spaced' value, to decide what happens to a piece of text like "aaa" when a transform like the following is applied to it:
+Define the processing model on the text for the 'spaced' value, to decide what happens to a piece of text like "aaaaa" when a transform like the following is applied to it:
 
 <code>@text-transform foo {
   character-type: spaced;
