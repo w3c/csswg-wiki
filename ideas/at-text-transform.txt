@@ -137,7 +137,22 @@ Example:
 }
 </code>
 
+===== DOM interaction =====
 
+Custom text transform values defined within @text-transform rules are accessible via the following modifications to the CSS Object Model.
+
+==== Interface CSSRule  ====
+
+The following additional rule type is added to the CSSRule interface.
+
+=== IDL Definition ===
+<code>
+interface CSSRule {
+...
+const unsigned short TEXT_TRANSFORM_RULE = 1000;
+...
+};
+</code>
 ====== Use cases ======
 
 ===== Single Languages use cases =====
