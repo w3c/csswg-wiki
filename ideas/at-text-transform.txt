@@ -39,7 +39,7 @@ When defined using a <urange> ((http://dev.w3.org/csswg/css3-fonts/#descdef-unic
 
 A <range> may also be defined as a string made of a single unicode character, followed by a hyphen (U+002D) followed by another signle unicode character. The semantics are identical to the <urange> U+XXXXXX-YYYYYY where XXXXXX is the code point of the first character and YYYYYY the code point of the second character.
 
-If defined by an <enumeration>, it is composed of each character in the string, where what a character is depends on the character-type descriptor. The character may not appear twice in the <char-list> defining the source of the mapping, otherwise the whole descriptor is invalid.
+If defined by an <enumeration>, it is composed of each character in the string, where what a character is depends on the character-type descriptor. The same character may not appear twice in the <char-list> defining the source of the mapping, otherwise the whole descriptor is invalid.
 
 <note warning>ISSUE 1: The items in an enumeration may instead be space separated. This allows specifying items made of more than 1 characters. Also, although it means we don't have to deal with the question of legacy vs extended grapheme clusters to make the list of items, the question remains open on the document side. Maybe space separated could be opt-in, turned on by a value of the character-type descriptor.</note>
 
@@ -98,7 +98,9 @@ In an <enumeration>, the possible values have the following meanings:
   * single: characters are single Unicode code points.
   * spaced: characters are space separated sequences of Unicode code points.
 
-How the the text to which the text-transform property is applied must be processed also depends on the value of this descriptor. When the value is extended, legacy, or single, each character (defined a respectively as extended grapheme clusters, legacy grapheme clusters, or single unicode code points) in the text is processed individually.
+How the the text to which the text-transform property is applied must be processed also depends on the value of this descriptor.
+
+When the value is 'extended', 'legacy', or 'single', each character (defined a respectively as extended grapheme clusters, legacy grapheme clusters, or single unicode code points) in the text is processed individually.
 
 <note>
 Example:
@@ -120,12 +122,15 @@ On the other hand, the following text transform would transform that same sequen
 </code>
 </note>
 
+<note warning> ISSUE 4:
+Define the processing model on the text for the 'spaced' value, to decide what happens to a piece of text like "aaa" when a transform like the following is applied to it:
 
-
-
-
-<note>'single' allows transforming base characters that are part of a grapheme cluster, or combining diacritics without affecting the rest of the cluster.
+<code>@text-transform foo {
+  character-type: spaced;
+  conversion: "aa ca a" to "a c ca";
+}</code>
 </note>
+
 
 <note warning>ISSUE 5: what happens when either extended or legacy is specified, but the enumeration contains invalid clusters? Skip the invalid character, make the conversion invalid, or make the whole descriptor invalid?</note>
 
