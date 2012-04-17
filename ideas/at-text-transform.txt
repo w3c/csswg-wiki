@@ -105,7 +105,7 @@ Example:
 <code>
 @text-transform foo {
   character-type: extended;
-  conversion: "e" to "a";
+  transformation: "e" to "a";
 }
 </code>
 If the text to which the above text transform is applied contains the U+65 U+301 sequence ('é'), it will not be transformed, because the transform applies to whole grapheme clusters.
@@ -115,7 +115,7 @@ On the other hand, the following text transform would transform that same sequen
 <code>
 @text-transform foo {
   character-type: single;
-  conversion: "e" to "a";
+  transformation: "e" to "a";
 }
 </code>
 </note>
@@ -125,7 +125,7 @@ Define the processing model on the text for the 'spaced' value, to decide what h
 
 <code>@text-transform foo {
   character-type: spaced;
-  conversion: "aa ca a" to "c a ca";
+  transformation: "aa ca a" to "c a ca";
 }</code>
 </note>
 
