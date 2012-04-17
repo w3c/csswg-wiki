@@ -39,7 +39,7 @@ When defined using a <urange> ((http://dev.w3.org/csswg/css3-fonts/#descdef-unic
 
 A <range> may also be defined as a string made of a single unicode character, followed by a hyphen (U+002D) followed by another signle unicode character. The semantics are identical to the <urange> U+XXXXXX-YYYYYY where XXXXXX is the code point of the first character and YYYYYY the code point of the second character.
 
-If defined by an <enumeration>, it is composed of each character in the string, where what a character is depends on the character-type descriptor. The same character may not appear twice in the <char-list> defining the source of the mapping, otherwise the whole descriptor is invalid.
+If defined by an <enumeration>, it is composed of each character in the string, where what a character is depends on the character-type descriptor. The character may not appear twice in the <char-list> defining the source of the mapping, otherwise the whole descriptor is invalid.
 
 <note warning>ISSUE 1: The items in an enumeration may instead be space separated. This allows specifying items made of more than 1 characters. Also, although it means we don't have to deal with the question of legacy vs extended grapheme clusters to make the list of items, the question remains open on the document side. Maybe space separated could be opt-in, turned on by a value of the character-type descriptor.</note>
 
@@ -82,22 +82,53 @@ The following two transforms are identical.
 ===== The character-type descriptor =====
 
 <code bnf>Name: character-type
-Value: extended | legacy | single
+Value: extended | legacy | single | spaced
 Default: extended
 </code>
 
-text-tranforms operate on a 1 character basis. This descriptor allows to chose between different definitions for character.
-
-  * extended: characters are extended grapheme clusters, as defined in [[http://unicode.org/reports/tr29/#Grapheme_Cluster_Boundaries|UAX29]]
-  * legacy: characters are legacy grapheme clusters, as defined in [[http://unicode.org/reports/tr29/#Grapheme_Cluster_Boundaries|UAX29]]
-  * single: characters are single unicode character code points. This allows to transform base characters that are part of a grapheme cluster, or combining diacritics without affecting the rest of the cluster.
-
-<note warning>ISSUE 5: what happens when either extended or legacy is specified, but the enumeration contains invalid clusters? Skip the invalid character, make the conversion invalid, or make the whole descriptor invalid?</note>
-
-This definition affects character processing in two different contexts:
+This definition affects what is meant by character processing in two different contexts:
 
   * strings used as an <enumeration> in the transformation descriptor
   * the text to which the text-transform will be applied.
+
+In an <enumeration>, the possible values have the following meanings:
+
+  * extended: characters are extended grapheme clusters, as defined in [[http://unicode.org/reports/tr29/#Grapheme_Cluster_Boundaries|UAX29]]
+  * legacy: characters are legacy grapheme clusters, as defined in [[http://unicode.org/reports/tr29/#Grapheme_Cluster_Boundaries|UAX29]]
+  * single: characters are single Unicode code points.
+  * spaced: characters are space separated sequences of Unicode code points.
+
+How the the text to which the text-transform property is applied must be processed also depends on the value of this descriptor. When the value is extended, legacy, or single, each character (defined a respectively as extended grapheme clusters, legacy grapheme clusters, or single unicode code points) in the text is processed individually.
+
+<note>
+Example:
+<code>
+@text-transform foo {
+  character-type: extended;
+  conversion: "e" to "a";
+}
+</code>
+If the text to which the above text transform is applied contains the U+65 U+301 sequence ('é'), it will not be transformed, because the transform applies to whole grapheme clusters.
+
+On the other hand, the following text transform would transform that same sequence into U+61 U+301 ('á'), as it would consider each Unicode code point individually.
+
+<code>
+@text-transform foo {
+  character-type: single;
+  conversion: "e" to "a";
+}
+</code>
+</note>
+
+
+
+
+
+<note>'single' allows transforming base characters that are part of a grapheme cluster, or combining diacritics without affecting the rest of the cluster.
+</note>
+
+<note warning>ISSUE 5: what happens when either extended or legacy is specified, but the enumeration contains invalid clusters? Skip the invalid character, make the conversion invalid, or make the whole descriptor invalid?</note>
+
 
 <note warning>ISSUE 6: define what happens when a text-transform refers via its transformation descriptor to another text-transform which has a different character-type. My guess: the original character-type applies to processing the enumerations, while the character-type in the including text-transform applies to the text that will be transformed. Or maybe this means this descriptor should be split in two.</note>
 
