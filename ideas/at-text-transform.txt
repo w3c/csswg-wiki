@@ -153,6 +153,24 @@ const unsigned short TEXT_TRANSFORM_RULE = 1000;
 ...
 };
 </code>
+
+==== Interface CSSTextTransformRule ====
+
+ The CSSTextTransformRule interface represents a complete set of keyframes for a single animation.
+
+=== IDL Definition ===
+    interface CSSTextTransformRule : CSSRule {
+        attribute          DOMString   name;
+        readonly attribute CSSStyleDeclaration style;
+    };
+    
+=== Attributes ===
+
+== name of type DOMString ==
+This attribute is the name of the transform, used by the text-transform property.
+
+== style of type CSSStyleDeclaration ==
+This attribute represents all the descriptors associated with this text-transform.
 ====== Use cases ======
 
 ===== Single Languages use cases =====
