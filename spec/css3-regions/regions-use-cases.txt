@@ -285,6 +285,15 @@ Then create a region chain out of the segments, usually giving them a height to 
 }
 </code>
 
+This works only if the class="segment" elements have no direct content, because we only have > * to work with. It would be better if there was an "all content" selector we could use, or if this styling would work for this use case (see https://www.w3.org/Bugs/Public/show_bug.cgi?id=16819)
+
+<code css>
+.segment {
+  flow-into: combined-segments;
+  flow-from: combined-segments;
+  height: 50vh;
+}
+</code>
 ==== Capturing region overflow content ====
 
 {{:spec:css3-regions:regions_region-overflow.jpg?600|}}
