@@ -5,6 +5,12 @@
 
 ===== WG Resolution Whiteboard =====
 
+==== CSS2.1 Dependency ====
+
+^Summary^Values and Units depends on CSS2.1 NUMBER token which is wrong|
+^DoC|http://dev.w3.org/csswg/css3-values/issues-lc-2012#issue-20|
+^Action|Resolve on 2.1 issue and either update CSS2.1 errata or update Values and Units|
+
 ==== calc() ====
 
 See [[http://lists.w3.org/Archives/Public/www-style/2012Apr/0531.html|Tab's summary email]]
