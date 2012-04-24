@@ -134,7 +134,7 @@ Define the processing model on the text for the 'spaced' value, to decide what h
 </note>
 
 
-<note warning>ISSUE 6: what happens when either extended or legacy is specified, but the enumeration contains invalid clusters? Skip the invalid character, make the conversion invalid, or make the whole descriptor invalid?</note>
+<note warning>ISSUE 6: Are all unicode code point sequences possible to decompose in valid grapheme clusters, or some combinations invalid? If invalid sequences exist, what happens when we run into them and either extended or legacy is specified. Skip the invalid character, make the conversion invalid, or make the whole descriptor invalid?</note>
 
 
 <note warning>ISSUE 7: define what happens when a text-transform refers via its transformation descriptor to another text-transform which has a different character-type. My guess: the original character-type applies to processing the enumerations, while the character-type in the including text-transform applies to the text that will be transformed. Or maybe this means this descriptor should be split in two.</note>
