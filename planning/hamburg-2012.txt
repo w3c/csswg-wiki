@@ -6,8 +6,9 @@
 
 ==== Proposed Topics ====
 
-  * Flexbox prepare LC: resolve all open issues (request for early in the F2F, so edits can be made and approved by the end of the week)
-  * CSS3 Text prepare LC: resolve all open issues
+  * fantasai's Box Alignment proposal
+  * Flexbox prepare LC: resolve all open issues (request for early in the F2F, so edits can be made and approved by the end of the week, estimate 2 hours)
+  * CSS3 Text prepare LC: resolve or assign actions to all open issues
   * CSS3 Values and Units CR: resolve all LC issues
   * CSS3 Writing Modes: create a roadmap for getting to LC (what needs to be solved, what can be deferred)
   * Grid Template level 3:
