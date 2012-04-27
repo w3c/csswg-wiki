@@ -78,12 +78,12 @@ NOTE: There will _not_ be any issue with registration since the room is outside 
 
 **Weather:** [[http://weather.yahoo.com/germany/hamburg/hamburg-656958/|Hamburg weather]]
 
-===== Hosted Dinner =====
+==== Hosted Dinner ====
 
 There will be a hosted diner on the night of the joint FX Task Force meeting at La Vela: - La Vela, italian place right downstairs from the office (Pete knows this well). This would avoid any logistical problems.
 .
 
-===== Lodging =====
+==== Lodging ====
 
 <file>
 Ideally, the SVG WG members not attending the CSS WG meeting would stay at 
@@ -125,7 +125,7 @@ We have blocked a number of rooms, the detailed hotel information is below.
    2 executive suites 118€
 </file>
 
-==== Hanse Clipper Haus ====
+=== Hanse Clipper Haus ===
 
 <file>
 Clipper Boardinghouse GmbH & Co. KG
@@ -136,7 +136,7 @@ Mail: info-hch@clipper-hotels.de
 www.clipper-boardinghouses.de 
 </file>
 
-==== Hyatt Hotel, 220 Euros (incl. breakfast) ====
+=== Hyatt Hotel, 220 Euros (incl. breakfast) ===
 <file>
 Bugenhagenstr.8-­10
 20095 Hamburg
@@ -145,7 +145,7 @@ Mail: Hamburg.park@hyatt.com
 http://www.hamburg.park.hyatt.de
 </file>
 
-==== Hafen Hamburg ====
+=== Hafen Hamburg ===
 
 <file>
 Seewartenstr.9
@@ -155,7 +155,7 @@ Mail: info@hotel-­hamburg.de
 http://www.hotel-­hafen-­hamburg.de
 </file>
 
-==== Clipper Elb Ledge  ====
+=== Clipper Elb Ledge  ===
 
 <file>
 Carsten-­Rehder-­Str.71	
@@ -165,7 +165,7 @@ Mail: info@clipper-­boardinghouses.de
 http://www.clipper-­hotels.de
 </file>
 
-==== East ====
+=== East ===
 
 <file>
 Simon-von-Utrecht Strasse 31
@@ -173,11 +173,12 @@ Simon-von-Utrecht Strasse 31
 Tel: +49(0) 40-3099-30
 Mail: info@east-hamburg.de
 </file>
-===== Hamburg Port Anniversary information =====
+
+==== Hamburg Port Anniversary information ====
 
 http://www.hamburg-tourism.de/en/events/port-birthday-hamburg/
 
-===== Transport to/from Airport =====
+==== Transport to/from Airport ====
 
   * Taxi recommended
 
@@ -189,7 +190,8 @@ The S-Bahn runs every 10 minutes from the airport of Hamburg to the city centre 
 The price for a one-way-ticket is 2,85 € or you can chose an All-Day-Ticket for 6,95€ or a 3-Day-Ticket for 16,85€ per person.
 For more information: www.hvv.de. To go to the East-Hotel you can also use the S-Bahn but then you have to  go to the station “ Reeperbahn”, 
 it is about 10 minutes longer to run but it is the same line ( S-Bahn No.1 Direction to Wedel or Blankenese).
-===== Hamburg Subway =====
+
+==== Hamburg Subway ====
 
   * Subway: [[http://www.hvv.de/|http://www.hvv.de/]]
   * [[http://www.hvv.de/en/tickets/day-tickets/all-day-ticket/|Daily ticket (starting before 9 o’clock)]]: 6.95 €
