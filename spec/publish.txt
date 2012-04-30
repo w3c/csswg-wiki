@@ -38,7 +38,7 @@ Replace >>marked<< items:
     >>http://lists.w3.org/...<<
   The editor's draft is here:
     >>http://dev.w3.org/...<<
-  Can you please set this up for publication?
+  Can you please set this up for publication? Is >>this date<< an acceptable publishing date?
   Thanks,
   >>your signature<<
 
