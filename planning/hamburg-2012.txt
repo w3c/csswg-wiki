@@ -31,6 +31,7 @@
   * Offer to host F2F meeting in September (Andreas Neumann, [[http://www.w3.org/Graphics/SVG/WG/wiki/F2F/Hamburg_2012/agenda_proposals|proposal]])
   * Advanced printing controls from XSL-FO
   * CSS Line Layout Module
+  * Animations & Transitions: resolve issues
 
 ==== Wednesday May 9th ====
 
