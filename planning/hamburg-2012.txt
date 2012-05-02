@@ -33,6 +33,7 @@
   * CSS Line Layout Module
   * Animations & Transitions: resolve issues (at FX joint meeting)
   * Exchanging reviews on tests
+  * Testing hackathon in SF
   * Future meetings
 
 ==== Wednesday May 9th ====
