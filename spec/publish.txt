@@ -50,11 +50,11 @@ The www-style message is your chance to update WG and www-style members who have
 Replace >>marked<< items. Here's an [[http://lists.w3.org/Archives/Public/www-style/2011Nov/0790.html|example]]:
 
   ; To : www-style@
-  ; Subject : [CSSWG]>>[css3-foo]<< >>CSS Foo<< Working Draft Published
+  ; Subject : [CSSWG]>>[css3-foo]<< Updated WD of >>CSSN Foo<<
   ; Body : 
 
 
-  The CSS WG published an updated draft[1] of the >>CSS Foo<< module:
+  The CSS WG has published an updated Working Draft of the >>CSS Foo Module Level N<<:
   
       >>http://www.w3.org/TR/css3-foo/<<
   
@@ -63,7 +63,11 @@ Replace >>marked<< items. Here's an [[http://lists.w3.org/Archives/Public/www-st
   >>What's new, what's cool, what you'd like feedback on, and what to expect
   going forward<<
   
-  Please, send any comments to this mailing list, <www-style@w3.org>, and 
+  Significant changes are listed at:
+  
+    >>http://www.w3.org/TR/2012/WD-css3-foo-20120501/#changes<<    
+  
+  Please send any comments to this mailing list, <www-style@w3.org>, and 
   please, prefix the subject line with
   
       >>[css3-foo]<<
@@ -74,6 +78,7 @@ Replace >>marked<< items. Here's an [[http://lists.w3.org/Archives/Public/www-st
   
   For the CSS WG,
   >>your signature<<
+
 
 ===== Template for WD Announcement to Blog =====
 
