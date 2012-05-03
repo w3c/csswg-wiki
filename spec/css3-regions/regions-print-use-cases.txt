@@ -7,7 +7,6 @@
 
 {{ :spec:css3-regions:gutter-flow.png?nolink |}}
 
-
 [[http://disruptive-innovations.com/zoo/customers/Adobe/regions.html|{{ :spec:css3-regions:2regions.png?400 |}}]]
 
 <HTML><div style="margin: auto ; width: 50%"><p>The screenshot and link above show a document made of two articles
@@ -19,10 +18,12 @@ copied here. Controls are available in the top-left corner to increase
 or decrease the font size of the articles and the width of the content
 area.</p>
 <p>The demo works in Chrome 19 with the CSS Regions features turned on.</p>
-<p>The original paper version is <a href="http://www.cxvascular.com/sn-newspaper-pdfs?DocumentScreen=detail&cl=352&ccs=673">issue 20 of Spinal News</a>. Here is a screenshot of the original document:</p></div>
+<p>The original paper version is <a href="http://www.cxvascular.com/sn-newspaper-pdfs?DocumentScreen=detail&cl=352&ccs=673">issue 20 of Spinal News</a> and is shown in three pages below.</p></div>
 </HTML>
 
-{{ :spec:css3-regions:spinalnews-20.png?nolink&400 |}}
+{{:spec:css3-regions:20-1.png?nolink&200|}}
+{{:spec:css3-regions:20-3.png?nolink&200|}}
+{{:spec:css3-regions:20-4.png?nolink&200|}}
 
 === Templates with multiple flows === 
 
