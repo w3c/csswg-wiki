@@ -8,7 +8,7 @@ The layout above uses different column widths to generate visual interest. In th
  
 {{ :spec:css3-regions:2reg_1excl.png?nolink |}}
 
-Here the layout uses the two-page spread to hold large graphics. Consider how something like this could look on a wide screen, with the columns of text depending on the size and shape of the graphic elements. This view could be generated with two regions (the second with multicol properties set).
+Here the layout uses the two-page spread to hold large graphics. Consider how something like this could look on a wide screen, with the placement of the text columns depending on the size and shape of the graphic elements. This particular arrangement could be generated with two regions (the second with multicol properties set).
 
 === Interleaved flows ===
 
