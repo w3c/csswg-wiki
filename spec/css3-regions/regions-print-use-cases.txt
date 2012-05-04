@@ -14,7 +14,40 @@ Here the layout uses the two-page spread to hold large graphics. Consider how so
 
 {{ :spec:css3-regions:gutter-flow.png?nolink |}}
 
-Here there are two named flows, but the contents are related. The flow running through the gutter of the main article is a timeline of events the article refers to. This can be accomplished in either continuous or paged media with sets of three regions.
+Here there are two named flows, but the contents are related. The flow running through the gutter of the main article is a timeline of events the article refers to. This can be accomplished in either continuous or paginated contexts with sets of three regions. Here's a paginated solution using Page Templates (assuming content to refer to and a box to paginate in):
+
+<code css>
+article {
+  flow-into: article-flow
+}
+#timeline {
+  flow-into: timeline-flow
+}
+#combine-articles {
+  overflow-style: paged-x;
+} 
+
+@template interleaved-layout{
+
+  @slot left {  
+    width: 35%;
+    float: left;
+    flow-from: article-flow;
+  }
+  
+  @slot time {  
+    width: 25%;
+    float: left;
+    flow-from: timeline-flow;
+  } 
+  
+  @slot right {
+    width: 35%;
+    float: left;
+    flow-from: article-flow;
+  }
+}
+</code>
 
 [[http://disruptive-innovations.com/zoo/customers/Adobe/regions.html|{{ :spec:css3-regions:2regions.png?400 |}}]]
 
