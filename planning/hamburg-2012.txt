@@ -38,10 +38,10 @@
   * Advanced printing controls from XSL-FO
   * GCPM: Page and column floats, alternative syntax, publish WD
   * CSS Regions:
-    - Issue 16858: should elements be disallowed as regions
-    - Issue 15832: Discussion region-overflow
-    - Issue 16636: should we re-introduce region-order? Should be possible with the region processing model
-    - Issue 15734: @region and specificity
+    * Issue 16858: should elements be disallowed as regions
+    * Issue 15832: Discussion region-overflow
+    * Issue 16636: should we re-introduce region-order? Should be possible with the region processing model
+    * Issue 15734: @region and specificity
   * CSS Exclusions Issues
   * Device adaptation
   * Media Queries level 4: discussion ideas and direction for the next level of the spec
