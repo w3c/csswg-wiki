@@ -6,10 +6,11 @@
 
 ==== Proposed Topics ====
 
-  * Prioritize advancing specs with heavy -webkit- prefix adoption.
+  * Prefixes and how to prioritize specs with heavy -webkit- prefix adoption.
     * CSS3 Transforms: resolve issues - what's blocking LCWD?
     * CSS3 Transitions & Animations: resolve issues (at FX joint meeting) - what's blocking LCWD?
     * FPWD CSS3 text-size-adjust
+    * [[http://lists.w3.org/Archives/Public/www-style/2012May/0125.html|Changing the prefix policy?]]
   * fantasai's [[http://fantasai.inkedblade.net/style/specs/css3-align/|Box Alignment proposal]]
   * Flexbox prepare LC: resolve all open issues (request for early in the F2F, so edits can be made and approved by the end of the week, estimate 2 hours, with maybe 1 hour follow-up later in the week)
   * CSS3 Text:
@@ -33,10 +34,7 @@
     - Issue 15734: @region and specificity
   * CSS Exclusions Issues
   * Device adaptation
-  * Prefixes
-    * Changing the policy? http://lists.w3.org/Archives/Public/www-style/2012May/0125.html
-  * Media Queries level 4
-    - Discussion ideas and direction for the next level of the spec.
+  * Media Queries level 4: discussion ideas and direction for the next level of the spec
   * CSS3 Fonts:
     * Subscript/superscript fallback
     * Small-caps fallback
