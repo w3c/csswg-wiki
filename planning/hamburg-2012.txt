@@ -14,8 +14,10 @@
   * Flexbox prepare LC: resolve all open issues (request for early in the F2F, so edits can be made and approved by the end of the week, estimate 2 hours, with maybe 1 hour follow-up later in the week)
   * CSS3 Text:
     * prepare LC: resolve or assign actions to all open issues - < 40 min, excepting any text-transform flamewars ;) suggest for Friday
-    * @text-transform and text-transform: full-size-kana
-  * CSS3 Values and Units CR: resolve all LC issues - 1hr?
+    * resolve @text-transform and text-transform: full-size-kana
+  * CSS3 Values and Units CR: 
+    * resolve all LC issues - 1hr?
+    * [[http://lists.w3.org/Archives/Public/www-style/2012May/0311.html|identifier and reserved keyword issue]]
   * CSS3 Writing Modes: create a roadmap for getting to LC (what needs to be solved, what can be deferred) - 30min max, suggest for Friday
     * Maybe a bit more time to discuss on [[http://lists.w3.org/Archives/Public/www-style/2012May/0082.html|allowing UA dependent behavior in text-orientation]] and on [[http://lists.w3.org/Archives/Public/www-style/2012Apr/0688.html|text-combine-mode]]
   * Grid Template level 3:
