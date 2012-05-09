@@ -60,7 +60,9 @@
   * Spec stylesheet
     * Use of alternate stylesheet
     * Changing default font 
-  
+  * CSS3 Syntax
+    * Tab started working on it again.  Briefly discuss plans and make sure no one hates it. (20 min)
+  * Parsing scientific notation in CSS (1 hr) 
 
 ==== Wednesday May 9th ====
 
