@@ -2,6 +2,6 @@
 
 ---- dataentry ----
 name        : Topic Template
-status      : Invalid # New, Discussed, Resolved, Invalid
+status_tag  : Invalid # New, Discussed, Resolved, Invalid
 type        : topic
 ----
