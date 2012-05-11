@@ -1,0 +1,10 @@
+====== Topics for Discussion ======
+
+[[topics_template|Template]]
+
+---- datatable ----
+cols    : %pageid%, name, status_tag
+headers : Location, Name, Status
+max     : 100
+filter  : %pageid% ~ topics:*
+----
