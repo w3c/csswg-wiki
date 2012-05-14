@@ -17,6 +17,7 @@ Action        : What does the WG need to do? # Or, if Pending, pending what?
 
 Issue_url     : 
 Proposal_url  : 
+Agenda_url    : # If this is part of an ordered series of related topics, e.g. LC issues, use this to link to the supertopic agenda
 ----
 
 === Background ===
