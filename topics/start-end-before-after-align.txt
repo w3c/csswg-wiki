@@ -1,4 +1,4 @@
-====== Alignment Values: before/after vs. start/end ======
+====== Alignment Keywords: start/start/end/end vs. before/start/after/end ======
 
 ---- dataentry  ----
 Spec_tags     : css3-flexbox, css3-align
