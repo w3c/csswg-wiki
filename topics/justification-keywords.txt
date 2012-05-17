@@ -42,13 +42,14 @@ Related prior art:
 
 Flexbox currently uses ''justify'' to mean "edges flush" and ''distribute'' to mean "equal margins". This has two problems:
   * It's unclear from the names which is which.
-  * The ''distribute'' value of ''text-justify'' means "edges flush", which is inconsistent with Flexbox.
+  * The ''distribute'' value of ''text-justify'' means "edges flush", which is inconsistent.
 
-We need keywords (or at least two, really) that clearly and unambiguously specify each of the three behaviors.
+We need keywords (or at least two, really, since only two are wanted) that clearly and unambiguously specify each of the behaviors.
 
 === Proposal(s) ===
 
-Could use ''distribute-flush'' (or just ''distribute'') for the first case, but no idea what to do for the others???
+  ; Proposal A : ''distribute'' vs. ''distribute-space''
+  ; Proposal B : ''distribute-flush'' vs. ''distribute-space''
 
 === Links to More Info ===
 
