@@ -47,6 +47,8 @@ We need keywords that clearly and unambiguously specify each of the behaviors (o
 
 === Proposal(s) ===
 
+There are several proposals for distinguishing "edges flush" vs. "equal margins" behavior:
+
   ; Proposal 0 (current spec) : ''justify'' vs. ''distribute''
   ; Proposal A : ''distribute'' vs. ''distribute-space''
   ; Proposal B : ''distribute-flush'' vs. ''distribute-space''
