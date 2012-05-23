@@ -95,7 +95,7 @@ Set 5: Self/Content/Items Inline/Stack
   outer-align; outer-justify;
   inner-align; inner-justify;
   child-outer-align; child-outer-justify;
-
+  
   However, I'm not completely sold to "child-outer-align" and "child-outer-justify".
   This case is better solved with a pseudo-class. 
 
@@ -135,16 +135,16 @@ Set 5: Self/Content/Items Inline/Stack
   sound like English phrases in the imperative mood, whereas ‘box-justify’/
   ‘box-align’ sound odder (to me as a non-native speaker) than
   ‘box-justification’/‘box-alignment’.
-
+  
   ‘default-*’ seems just wrong, not least because of the ‘default’ keyword.
-
+  
   I think ‘box’ and ‘content’ are good terms and without doing further
   reading (and thinking), I’m not sure why we need to be able to specify
   the default box alignment for items.
-
+  
   Regarding ‘outside’ and ‘inside’ (or maybe ‘outer’ and ‘inner’) I think
   the latter as proposed doesn’t match my mental model, which makes me prefer
-
+  
     +--------X--------------Y--------
   A | justify-outside  align-outside
   B | justify[-self]   align[-self]
