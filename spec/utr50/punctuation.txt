@@ -437,7 +437,7 @@ See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistl
 |[[http://www.fileformat.info/info/unicode/char/fe30/index.htm|U+FE30]]|PRESENTATION FORM FOR VERTICAL TWO DOT LEADER|︰|U|U|Vertical presentation forms are always upright|
 ==== Script-specific Other Punctuation (Po) ====
 
-^Code^Description^Char^Stack^Memo^
+^Code^Description^Char^Stack^Mix^Memo^
 |[[http://www.fileformat.info/info/unicode/char/037e/index.htm|U+037E]]|GREEK QUESTION MARK|;|U|R|
 |[[http://www.fileformat.info/info/unicode/char/0387/index.htm|U+0387]]|GREEK ANO TELEIA|·|U|R|
 |[[http://www.fileformat.info/info/unicode/char/055a/index.htm|U+055A]]|ARMENIAN APOSTROPHE|՚|U|R|
