@@ -29,7 +29,7 @@ Letters and script-specific (non-Common) numbers are classified by using their s
 |Ogam|Ogham|R|R| |
 |Orkh|Old Turkic|R|R| |
 |Phag|Phags Pa|V|V|Same as Mongolian.|
-|Yiii|Yi|:?:|:?:|Old documents show Yi rotated sideways (as vertical script), but one example of modern Yi (typeset horizontally) uses upright-stacked captions|
+|Yiii|Yi|U|U|Old documents show Yi rotated sideways (as vertical script), but one example of modern Yi (typeset horizontally) uses upright-stacked captions|
 |Arab|Arabic|:?:|R|Still debating how to handle cursive RTL in stacked mode|
 |Mand|Mandaic|:?:|R|Still debating how to handle cursive RTL in stacked mode|
 |Syrc|Syriac|:?:|R|Still debating how to handle cursive RTL in stacked mode|
