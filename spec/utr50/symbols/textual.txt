@@ -66,8 +66,8 @@ Two modes are presented: Stacking (''text-orientation: upright'') and Default (T
 ==== Specials ====
 
 ^Code^Description^Char^Stack^Memo^
-|[[http://www.fileformat.info/info/unicode/char/FFFC/index.htm|U+FFFC]]|OBJECT REPLACEMENT CHARACTER|''￼''|U|
-|[[http://www.fileformat.info/info/unicode/char/FFFD/index.htm|U+FFFD]]|REPLACEMENT CHARACTER|''�''|U|:?: DVO=|
+|[[http://www.fileformat.info/info/unicode/char/FFFC/index.htm|U+FFFC]]|OBJECT REPLACEMENT CHARACTER|''￼''|U|U|Replaced elements are upright in CSS|
+|[[http://www.fileformat.info/info/unicode/char/FFFD/index.htm|U+FFFD]]|REPLACEMENT CHARACTER|''�''|U|U| |
 
 ===== Script-specific =====
 
