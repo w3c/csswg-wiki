@@ -80,7 +80,9 @@ Since S* is a large set, they're split among pages:
 
 ===== Symbol, Modifier (Sk) =====
 
-^Code^Description^Char^Stack^Memo^
+Most Sk symbols in the common script are used with Latin transcriptions.
+
+^Code^Description^Char^Stack^Mix^Memo^
 |[[http://www.fileformat.info/info/unicode/char/005E/index.htm|U+005E]]|CIRCUMFLEX ACCENT|''^''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/0060/index.htm|U+0060]]|GRAVE ACCENT|''`''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/00A8/index.htm|U+00A8]]|DIAERESIS|''¨''|U|R|
