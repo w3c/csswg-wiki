@@ -30,9 +30,9 @@ Letters and script-specific (non-Common) numbers are classified by using their s
 |Orkh|Old Turkic|R|R| |
 |Phag|Phags Pa|V|V|Same as Mongolian.|
 |Yiii|Yi|U|U|Old documents show Yi rotated sideways (as vertical script), but one example of modern Yi (typeset horizontally) uses upright-stacked captions|
-|Arab|Arabic|:?:|R|Still debating how to handle cursive RTL in stacked mode|
-|Mand|Mandaic|:?:|R|Still debating how to handle cursive RTL in stacked mode|
-|Syrc|Syriac|:?:|R|Still debating how to handle cursive RTL in stacked mode|
+|Arab|Arabic|U|R|:?: Still debating how to handle cursive RTL in stacked mode|
+|Mand|Mandaic|U|R|:?: Still debating how to handle cursive RTL in stacked mode|
+|Syrc|Syriac|U|R|:?: Still debating how to handle cursive RTL in stacked mode|
 |--|Canadian_Aboriginal|U|R|:?: UTR#50 DVO has U|
 |--|All others|U|R|
 
