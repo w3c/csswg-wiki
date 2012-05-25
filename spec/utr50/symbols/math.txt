@@ -352,8 +352,8 @@ See also [[spec:utr50:symbols:arrows]]
 |[[http://www.fileformat.info/info/unicode/char/2309/index.htm|U+2309]]|RIGHT CEILING|''⌉''|U|
 |[[http://www.fileformat.info/info/unicode/char/230A/index.htm|U+230A]]|LEFT FLOOR|''⌊''|U|
 |[[http://www.fileformat.info/info/unicode/char/230B/index.htm|U+230B]]|RIGHT FLOOR|''⌋''|U|
-|[[http://www.fileformat.info/info/unicode/char/2320/index.htm|U+2320]]|TOP HALF INTEGRAL|''⌠''|U|
-|[[http://www.fileformat.info/info/unicode/char/2321/index.htm|U+2321]]|BOTTOM HALF INTEGRAL|''⌡''|U|
+|[[http://www.fileformat.info/info/unicode/char/2320/index.htm|U+2320]]|TOP HALF INTEGRAL|''⌠''|R|R|Stacked symbols are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/2321/index.htm|U+2321]]|BOTTOM HALF INTEGRAL|''⌡''|R|R|Stacked symbols are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/237C/index.htm|U+237C]]|RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW|''⍼''|U|
 |[[http://www.fileformat.info/info/unicode/char/239B/index.htm|U+239B]]|LEFT PARENTHESIS UPPER HOOK|''⎛''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/239C/index.htm|U+239C]]|LEFT PARENTHESIS EXTENSION|''⎜''|R|R|Brackets are always sideways|
