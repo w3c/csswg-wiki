@@ -266,12 +266,12 @@ Symbols marked ":!: Relational operator" belong to the relational operator tailo
 |[[http://www.fileformat.info/info/unicode/char/22AD/index.htm|U+22AD]]|NOT TRUE|''⊭''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/22AE/index.htm|U+22AE]]|DOES NOT FORCE|''⊮''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/22AF/index.htm|U+22AF]]|NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE|''⊯''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22B0/index.htm|U+22B0]]|PRECEDES UNDER RELATION|''⊰''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22B1/index.htm|U+22B1]]|SUCCEEDS UNDER RELATION|''⊱''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22B2/index.htm|U+22B2]]|NORMAL SUBGROUP OF|''⊲''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22B3/index.htm|U+22B3]]|CONTAINS AS NORMAL SUBGROUP|''⊳''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22B4/index.htm|U+22B4]]|NORMAL SUBGROUP OF OR EQUAL TO|''⊴''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22B5/index.htm|U+22B5]]|CONTAINS AS NORMAL SUBGROUP OR EQUAL TO|''⊵''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/22B0/index.htm|U+22B0]]|PRECEDES UNDER RELATION|''⊰''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22B1/index.htm|U+22B1]]|SUCCEEDS UNDER RELATION|''⊱''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22B2/index.htm|U+22B2]]|NORMAL SUBGROUP OF|''⊲''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22B3/index.htm|U+22B3]]|CONTAINS AS NORMAL SUBGROUP|''⊳''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22B4/index.htm|U+22B4]]|NORMAL SUBGROUP OF OR EQUAL TO|''⊴''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22B5/index.htm|U+22B5]]|CONTAINS AS NORMAL SUBGROUP OR EQUAL TO|''⊵''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/22B6/index.htm|U+22B6]]|ORIGINAL OF|''⊶''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/22B7/index.htm|U+22B7]]|IMAGE OF|''⊷''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/22B8/index.htm|U+22B8]]|MULTIMAP|''⊸''|U|R|
@@ -316,10 +316,10 @@ Symbols marked ":!: Relational operator" belong to the relational operator tailo
 |[[http://www.fileformat.info/info/unicode/char/22DF/index.htm|U+22DF]]|EQUAL TO OR SUCCEEDS|''⋟''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/22E0/index.htm|U+22E0]]|DOES NOT PRECEDE OR EQUAL|''⋠''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/22E1/index.htm|U+22E1]]|DOES NOT SUCCEED OR EQUAL|''⋡''|U|R|:!: Relational operator|
-|[[http://www.fileformat.info/info/unicode/char/22E2/index.htm|U+22E2]]|NOT SQUARE IMAGE OF OR EQUAL TO|''⋢''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22E3/index.htm|U+22E3]]|NOT SQUARE ORIGINAL OF OR EQUAL TO|''⋣''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22E4/index.htm|U+22E4]]|SQUARE IMAGE OF OR NOT EQUAL TO|''⋤''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/22E5/index.htm|U+22E5]]|SQUARE ORIGINAL OF OR NOT EQUAL TO|''⋥''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/22E2/index.htm|U+22E2]]|NOT SQUARE IMAGE OF OR EQUAL TO|''⋢''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22E3/index.htm|U+22E3]]|NOT SQUARE ORIGINAL OF OR EQUAL TO|''⋣''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22E4/index.htm|U+22E4]]|SQUARE IMAGE OF OR NOT EQUAL TO|''⋤''|U|R|:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/22E5/index.htm|U+22E5]]|SQUARE ORIGINAL OF OR NOT EQUAL TO|''⋥''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/22E6/index.htm|U+22E6]]|LESS-THAN BUT NOT EQUIVALENT TO|''⋦''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/22E7/index.htm|U+22E7]]|GREATER-THAN BUT NOT EQUIVALENT TO|''⋧''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/22E8/index.htm|U+22E8]]|PRECEDES BUT NOT EQUIVALENT TO|''⋨''|U|R|:!: Relational operator|
