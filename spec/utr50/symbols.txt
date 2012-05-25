@@ -150,8 +150,8 @@ Most Sk symbols in the common script are used with Latin transcriptions.
 |[[http://www.fileformat.info/info/unicode/char/1FEF/index.htm|U+1FEF]]|GREEK VARIA|''`''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/1FFD/index.htm|U+1FFD]]|GREEK OXIA|''´''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/1FFE/index.htm|U+1FFE]]|GREEK DASIA|''῾''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/309B/index.htm|U+309B]]|KATAKANA-HIRAGANA VOICED SOUND MARK|''゛''|U|U|Kana is upright|
-|[[http://www.fileformat.info/info/unicode/char/309C/index.htm|U+309C]]|KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK|''゜''|U|U|Kana is upright|
+|[[http://www.fileformat.info/info/unicode/char/309B/index.htm|U+309B]]|KATAKANA-HIRAGANA VOICED SOUND MARK|''゛''|T<sub>U</sub>|T<sub>U</sub>|Kana is upright|
+|[[http://www.fileformat.info/info/unicode/char/309C/index.htm|U+309C]]|KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK|''゜''|T<sub>U</sub>|T<sub>U</sub>|Kana is upright|
 |[[http://www.fileformat.info/info/unicode/char/A700/index.htm|U+A700]]|MODIFIER LETTER CHINESE TONE YIN PING|''꜀''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/A701/index.htm|U+A701]]|MODIFIER LETTER CHINESE TONE YANG PING|''꜁''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/A702/index.htm|U+A702]]|MODIFIER LETTER CHINESE TONE YIN SHANG|''꜂''|U|R|
@@ -197,4 +197,4 @@ Most Sk symbols in the common script are used with Latin transcriptions.
 |[[http://www.fileformat.info/info/unicode/char/FBC1/index.htm|U+FBC1]]|ARABIC SYMBOL SMALL TAH BELOW|''﯁''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/FF3E/index.htm|U+FF3E]]|FULLWIDTH CIRCUMFLEX ACCENT|''＾''|U|U|Fullwidth is upright|
 |[[http://www.fileformat.info/info/unicode/char/FF40/index.htm|U+FF40]]|FULLWIDTH GRAVE ACCENT|''｀''|U|U|Fullwidth is upright|
-|[[http://www.fileformat.info/info/unicode/char/FFE3/index.htm|U+FFE3]]|FULLWIDTH MACRON|''￣''|U|U|Fullwidth is upright|
+|[[http://www.fileformat.info/info/unicode/char/FFE3/index.htm|U+FFE3]]|FULLWIDTH MACRON|''￣''|T<sub>R</sub>|T<sub>R</sub>|Treated as fullwidth overline|
