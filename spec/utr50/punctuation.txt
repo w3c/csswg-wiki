@@ -438,280 +438,280 @@ See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistl
 ==== Script-specific Other Punctuation (Po) ====
 
 ^Code^Description^Char^Stack^Memo^
-|[[http://www.fileformat.info/info/unicode/char/037e/index.htm|U+037E]]|GREEK QUESTION MARK|;|U|
-|[[http://www.fileformat.info/info/unicode/char/0387/index.htm|U+0387]]|GREEK ANO TELEIA|·|U|
-|[[http://www.fileformat.info/info/unicode/char/055a/index.htm|U+055A]]|ARMENIAN APOSTROPHE|՚|U|
-|[[http://www.fileformat.info/info/unicode/char/055b/index.htm|U+055B]]|ARMENIAN EMPHASIS MARK|՛|U|
-|[[http://www.fileformat.info/info/unicode/char/055c/index.htm|U+055C]]|ARMENIAN EXCLAMATION MARK|՜|U|
-|[[http://www.fileformat.info/info/unicode/char/055d/index.htm|U+055D]]|ARMENIAN COMMA|՝|U|
-|[[http://www.fileformat.info/info/unicode/char/055e/index.htm|U+055E]]|ARMENIAN QUESTION MARK|՞|U|
-|[[http://www.fileformat.info/info/unicode/char/055f/index.htm|U+055F]]|ARMENIAN ABBREVIATION MARK|՟|U|
-|[[http://www.fileformat.info/info/unicode/char/0589/index.htm|U+0589]]|ARMENIAN FULL STOP|։|U|
-|[[http://www.fileformat.info/info/unicode/char/05c0/index.htm|U+05C0]]|HEBREW PUNCTUATION PASEQ|׀|U|
-|[[http://www.fileformat.info/info/unicode/char/05c3/index.htm|U+05C3]]|HEBREW PUNCTUATION SOF PASUQ|׃|U|
-|[[http://www.fileformat.info/info/unicode/char/05c6/index.htm|U+05C6]]|HEBREW PUNCTUATION NUN HAFUKHA|׆|U|
-|[[http://www.fileformat.info/info/unicode/char/05f3/index.htm|U+05F3]]|HEBREW PUNCTUATION GERESH|׳|U|
-|[[http://www.fileformat.info/info/unicode/char/05f4/index.htm|U+05F4]]|HEBREW PUNCTUATION GERSHAYIM|״|U|
-|[[http://www.fileformat.info/info/unicode/char/0609/index.htm|U+0609]]|ARABIC-INDIC PER MILLE SIGN|؉|U|
-|[[http://www.fileformat.info/info/unicode/char/060a/index.htm|U+060A]]|ARABIC-INDIC PER TEN THOUSAND SIGN|؊|U|
-|[[http://www.fileformat.info/info/unicode/char/060c/index.htm|U+060C]]|ARABIC COMMA|،|U|
-|[[http://www.fileformat.info/info/unicode/char/060d/index.htm|U+060D]]|ARABIC DATE SEPARATOR|؍|U|
-|[[http://www.fileformat.info/info/unicode/char/061b/index.htm|U+061B]]|ARABIC SEMICOLON|؛|U|
-|[[http://www.fileformat.info/info/unicode/char/061e/index.htm|U+061E]]|ARABIC TRIPLE DOT PUNCTUATION MARK|؞|U|
-|[[http://www.fileformat.info/info/unicode/char/061f/index.htm|U+061F]]|ARABIC QUESTION MARK|؟|U|
-|[[http://www.fileformat.info/info/unicode/char/066a/index.htm|U+066A]]|ARABIC PERCENT SIGN|٪|U|
-|[[http://www.fileformat.info/info/unicode/char/066b/index.htm|U+066B]]|ARABIC DECIMAL SEPARATOR|٫|U|
-|[[http://www.fileformat.info/info/unicode/char/066c/index.htm|U+066C]]|ARABIC THOUSANDS SEPARATOR|٬|U|
-|[[http://www.fileformat.info/info/unicode/char/066d/index.htm|U+066D]]|ARABIC FIVE POINTED STAR|٭|U|
-|[[http://www.fileformat.info/info/unicode/char/06d4/index.htm|U+06D4]]|ARABIC FULL STOP|۔|U|
-|[[http://www.fileformat.info/info/unicode/char/0700/index.htm|U+0700]]|SYRIAC END OF PARAGRAPH|܀|U|
-|[[http://www.fileformat.info/info/unicode/char/0701/index.htm|U+0701]]|SYRIAC SUPRALINEAR FULL STOP|܁|U|
-|[[http://www.fileformat.info/info/unicode/char/0702/index.htm|U+0702]]|SYRIAC SUBLINEAR FULL STOP|܂|U|
-|[[http://www.fileformat.info/info/unicode/char/0703/index.htm|U+0703]]|SYRIAC SUPRALINEAR COLON|܃|U|
-|[[http://www.fileformat.info/info/unicode/char/0704/index.htm|U+0704]]|SYRIAC SUBLINEAR COLON|܄|U|
-|[[http://www.fileformat.info/info/unicode/char/0705/index.htm|U+0705]]|SYRIAC HORIZONTAL COLON|܅|U|
-|[[http://www.fileformat.info/info/unicode/char/0706/index.htm|U+0706]]|SYRIAC COLON SKEWED LEFT|܆|U|
-|[[http://www.fileformat.info/info/unicode/char/0707/index.htm|U+0707]]|SYRIAC COLON SKEWED RIGHT|܇|U|
-|[[http://www.fileformat.info/info/unicode/char/0708/index.htm|U+0708]]|SYRIAC SUPRALINEAR COLON SKEWED LEFT|܈|U|
-|[[http://www.fileformat.info/info/unicode/char/0709/index.htm|U+0709]]|SYRIAC SUBLINEAR COLON SKEWED RIGHT|܉|U|
-|[[http://www.fileformat.info/info/unicode/char/070a/index.htm|U+070A]]|SYRIAC CONTRACTION|܊|U|
-|[[http://www.fileformat.info/info/unicode/char/070b/index.htm|U+070B]]|SYRIAC HARKLEAN OBELUS|܋|U|
-|[[http://www.fileformat.info/info/unicode/char/070c/index.htm|U+070C]]|SYRIAC HARKLEAN METOBELUS|܌|U|
-|[[http://www.fileformat.info/info/unicode/char/070d/index.htm|U+070D]]|SYRIAC HARKLEAN ASTERISCUS|܍|U|
-|[[http://www.fileformat.info/info/unicode/char/07f7/index.htm|U+07F7]]|NKO SYMBOL GBAKURUNEN|߷|U|
-|[[http://www.fileformat.info/info/unicode/char/07f8/index.htm|U+07F8]]|NKO COMMA|߸|U|
-|[[http://www.fileformat.info/info/unicode/char/07f9/index.htm|U+07F9]]|NKO EXCLAMATION MARK|߹|U|
-|[[http://www.fileformat.info/info/unicode/char/0830/index.htm|U+0830]]|SAMARITAN PUNCTUATION NEQUDAA|࠰|U|
-|[[http://www.fileformat.info/info/unicode/char/0831/index.htm|U+0831]]|SAMARITAN PUNCTUATION AFSAAQ|࠱|U|
-|[[http://www.fileformat.info/info/unicode/char/0832/index.htm|U+0832]]|SAMARITAN PUNCTUATION ANGED|࠲|U|
-|[[http://www.fileformat.info/info/unicode/char/0833/index.htm|U+0833]]|SAMARITAN PUNCTUATION BAU|࠳|U|
-|[[http://www.fileformat.info/info/unicode/char/0834/index.htm|U+0834]]|SAMARITAN PUNCTUATION ATMAAU|࠴|U|
-|[[http://www.fileformat.info/info/unicode/char/0835/index.htm|U+0835]]|SAMARITAN PUNCTUATION SHIYYAALAA|࠵|U|
-|[[http://www.fileformat.info/info/unicode/char/0836/index.htm|U+0836]]|SAMARITAN ABBREVIATION MARK|࠶|U|
-|[[http://www.fileformat.info/info/unicode/char/0837/index.htm|U+0837]]|SAMARITAN PUNCTUATION MELODIC QITSA|࠷|U|
-|[[http://www.fileformat.info/info/unicode/char/0838/index.htm|U+0838]]|SAMARITAN PUNCTUATION ZIQAA|࠸|U|
-|[[http://www.fileformat.info/info/unicode/char/0839/index.htm|U+0839]]|SAMARITAN PUNCTUATION QITSA|࠹|U|
-|[[http://www.fileformat.info/info/unicode/char/083a/index.htm|U+083A]]|SAMARITAN PUNCTUATION ZAEF|࠺|U|
-|[[http://www.fileformat.info/info/unicode/char/083b/index.htm|U+083B]]|SAMARITAN PUNCTUATION TURU|࠻|U|
-|[[http://www.fileformat.info/info/unicode/char/083c/index.htm|U+083C]]|SAMARITAN PUNCTUATION ARKAANU|࠼|U|
-|[[http://www.fileformat.info/info/unicode/char/083d/index.htm|U+083D]]|SAMARITAN PUNCTUATION SOF MASHFAAT|࠽|U|
-|[[http://www.fileformat.info/info/unicode/char/083e/index.htm|U+083E]]|SAMARITAN PUNCTUATION ANNAAU|࠾|U|
-|[[http://www.fileformat.info/info/unicode/char/085e/index.htm|U+085E]]|MANDAIC PUNCTUATION|࡞|U|:?: Mandaic :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/0964/index.htm|U+0964]]|DEVANAGARI DANDA|।|U|
-|[[http://www.fileformat.info/info/unicode/char/0965/index.htm|U+0965]]|DEVANAGARI DOUBLE DANDA|॥|U|
-|[[http://www.fileformat.info/info/unicode/char/0970/index.htm|U+0970]]|DEVANAGARI ABBREVIATION SIGN|॰|U|
-|[[http://www.fileformat.info/info/unicode/char/0af0/index.htm|U+0AF0]]|GUJARATI ABBREVIATION SIGN|૰|U|
-|[[http://www.fileformat.info/info/unicode/char/0df4/index.htm|U+0DF4]]|SINHALA PUNCTUATION KUNDDALIYA|෴|U|
-|[[http://www.fileformat.info/info/unicode/char/0e4f/index.htm|U+0E4F]]|THAI CHARACTER FONGMAN|๏|U|
-|[[http://www.fileformat.info/info/unicode/char/0e5a/index.htm|U+0E5A]]|THAI CHARACTER ANGKHANKHU|๚|U|
-|[[http://www.fileformat.info/info/unicode/char/0e5b/index.htm|U+0E5B]]|THAI CHARACTER KHOMUT|๛|U|
-|[[http://www.fileformat.info/info/unicode/char/0f04/index.htm|U+0F04]]|TIBETAN MARK INITIAL YIG MGO MDUN MA|༄|U|
-|[[http://www.fileformat.info/info/unicode/char/0f05/index.htm|U+0F05]]|TIBETAN MARK CLOSING YIG MGO SGAB MA|༅|U|
-|[[http://www.fileformat.info/info/unicode/char/0f06/index.htm|U+0F06]]|TIBETAN MARK CARET YIG MGO PHUR SHAD MA|༆|U|
-|[[http://www.fileformat.info/info/unicode/char/0f07/index.htm|U+0F07]]|TIBETAN MARK YIG MGO TSHEG SHAD MA|༇|U|
-|[[http://www.fileformat.info/info/unicode/char/0f08/index.htm|U+0F08]]|TIBETAN MARK SBRUL SHAD|༈|U|
-|[[http://www.fileformat.info/info/unicode/char/0f09/index.htm|U+0F09]]|TIBETAN MARK BSKUR YIG MGO|༉|U|
-|[[http://www.fileformat.info/info/unicode/char/0f0a/index.htm|U+0F0A]]|TIBETAN MARK BKA- SHOG YIG MGO|༊|U|
-|[[http://www.fileformat.info/info/unicode/char/0f0b/index.htm|U+0F0B]]|TIBETAN MARK INTERSYLLABIC TSHEG|་|U|
-|[[http://www.fileformat.info/info/unicode/char/0f0c/index.htm|U+0F0C]]|TIBETAN MARK DELIMITER TSHEG BSTAR|༌|U|
-|[[http://www.fileformat.info/info/unicode/char/0f0d/index.htm|U+0F0D]]|TIBETAN MARK SHAD|།|U|
-|[[http://www.fileformat.info/info/unicode/char/0f0e/index.htm|U+0F0E]]|TIBETAN MARK NYIS SHAD|༎|U|
-|[[http://www.fileformat.info/info/unicode/char/0f0f/index.htm|U+0F0F]]|TIBETAN MARK TSHEG SHAD|༏|U|
-|[[http://www.fileformat.info/info/unicode/char/0f10/index.htm|U+0F10]]|TIBETAN MARK NYIS TSHEG SHAD|༐|U|
-|[[http://www.fileformat.info/info/unicode/char/0f11/index.htm|U+0F11]]|TIBETAN MARK RIN CHEN SPUNGS SHAD|༑|U|
-|[[http://www.fileformat.info/info/unicode/char/0f12/index.htm|U+0F12]]|TIBETAN MARK RGYA GRAM SHAD|༒|U|
-|[[http://www.fileformat.info/info/unicode/char/0f14/index.htm|U+0F14]]|TIBETAN MARK GTER TSHEG|༔|U|
-|[[http://www.fileformat.info/info/unicode/char/0f85/index.htm|U+0F85]]|TIBETAN MARK PALUTA|྅|U|
-|[[http://www.fileformat.info/info/unicode/char/0fd0/index.htm|U+0FD0]]|TIBETAN MARK BSKA- SHOG GI MGO RGYAN|࿐|U|
-|[[http://www.fileformat.info/info/unicode/char/0fd1/index.htm|U+0FD1]]|TIBETAN MARK MNYAM YIG GI MGO RGYAN|࿑|U|
-|[[http://www.fileformat.info/info/unicode/char/0fd2/index.htm|U+0FD2]]|TIBETAN MARK NYIS TSHEG|࿒|U|
-|[[http://www.fileformat.info/info/unicode/char/0fd3/index.htm|U+0FD3]]|TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA|࿓|U|
-|[[http://www.fileformat.info/info/unicode/char/0fd4/index.htm|U+0FD4]]|TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA|࿔|U|
-|[[http://www.fileformat.info/info/unicode/char/0fd9/index.htm|U+0FD9]]|TIBETAN MARK LEADING MCHAN RTAGS|࿙|U|
-|[[http://www.fileformat.info/info/unicode/char/0fda/index.htm|U+0FDA]]|TIBETAN MARK TRAILING MCHAN RTAGS|࿚|U|
-|[[http://www.fileformat.info/info/unicode/char/104a/index.htm|U+104A]]|MYANMAR SIGN LITTLE SECTION|၊|U|
-|[[http://www.fileformat.info/info/unicode/char/104b/index.htm|U+104B]]|MYANMAR SIGN SECTION|။|U|
-|[[http://www.fileformat.info/info/unicode/char/104c/index.htm|U+104C]]|MYANMAR SYMBOL LOCATIVE|၌|U|
-|[[http://www.fileformat.info/info/unicode/char/104d/index.htm|U+104D]]|MYANMAR SYMBOL COMPLETED|၍|U|
-|[[http://www.fileformat.info/info/unicode/char/104e/index.htm|U+104E]]|MYANMAR SYMBOL AFOREMENTIONED|၎|U|
-|[[http://www.fileformat.info/info/unicode/char/104f/index.htm|U+104F]]|MYANMAR SYMBOL GENITIVE|၏|U|
-|[[http://www.fileformat.info/info/unicode/char/10fb/index.htm|U+10FB]]|GEORGIAN PARAGRAPH SEPARATOR|჻|U|
-|[[http://www.fileformat.info/info/unicode/char/1360/index.htm|U+1360]]|ETHIOPIC SECTION MARK|፠|U|
-|[[http://www.fileformat.info/info/unicode/char/1361/index.htm|U+1361]]|ETHIOPIC WORDSPACE|፡|U|
-|[[http://www.fileformat.info/info/unicode/char/1362/index.htm|U+1362]]|ETHIOPIC FULL STOP|።|U|
-|[[http://www.fileformat.info/info/unicode/char/1363/index.htm|U+1363]]|ETHIOPIC COMMA|፣|U|
-|[[http://www.fileformat.info/info/unicode/char/1364/index.htm|U+1364]]|ETHIOPIC SEMICOLON|፤|U|
-|[[http://www.fileformat.info/info/unicode/char/1365/index.htm|U+1365]]|ETHIOPIC COLON|፥|U|
-|[[http://www.fileformat.info/info/unicode/char/1366/index.htm|U+1366]]|ETHIOPIC PREFACE COLON|፦|U|
-|[[http://www.fileformat.info/info/unicode/char/1367/index.htm|U+1367]]|ETHIOPIC QUESTION MARK|፧|U|
-|[[http://www.fileformat.info/info/unicode/char/1368/index.htm|U+1368]]|ETHIOPIC PARAGRAPH SEPARATOR|፨|U|
-|[[http://www.fileformat.info/info/unicode/char/166d/index.htm|U+166D]]|CANADIAN SYLLABICS CHI SIGN|᙭|U|
-|[[http://www.fileformat.info/info/unicode/char/166e/index.htm|U+166E]]|CANADIAN SYLLABICS FULL STOP|᙮|U|
-|[[http://www.fileformat.info/info/unicode/char/16eb/index.htm|U+16EB]]|RUNIC SINGLE PUNCTUATION|᛫|U|
-|[[http://www.fileformat.info/info/unicode/char/16ec/index.htm|U+16EC]]|RUNIC MULTIPLE PUNCTUATION|᛬|U|
-|[[http://www.fileformat.info/info/unicode/char/16ed/index.htm|U+16ED]]|RUNIC CROSS PUNCTUATION|᛭|U|
-|[[http://www.fileformat.info/info/unicode/char/1735/index.htm|U+1735]]|PHILIPPINE SINGLE PUNCTUATION|᜵|U|
-|[[http://www.fileformat.info/info/unicode/char/1736/index.htm|U+1736]]|PHILIPPINE DOUBLE PUNCTUATION|᜶|U|
-|[[http://www.fileformat.info/info/unicode/char/17d4/index.htm|U+17D4]]|KHMER SIGN KHAN|។|U|
-|[[http://www.fileformat.info/info/unicode/char/17d5/index.htm|U+17D5]]|KHMER SIGN BARIYOOSAN|៕|U|
-|[[http://www.fileformat.info/info/unicode/char/17d6/index.htm|U+17D6]]|KHMER SIGN CAMNUC PII KUUH|៖|U|
-|[[http://www.fileformat.info/info/unicode/char/17d8/index.htm|U+17D8]]|KHMER SIGN BEYYAL|៘|U|
-|[[http://www.fileformat.info/info/unicode/char/17d9/index.htm|U+17D9]]|KHMER SIGN PHNAEK MUAN|៙|U|
-|[[http://www.fileformat.info/info/unicode/char/17da/index.htm|U+17DA]]|KHMER SIGN KOOMUUT|៚|U|
-|[[http://www.fileformat.info/info/unicode/char/1800/index.htm|U+1800]]|MONGOLIAN BIRGA|᠀|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1801/index.htm|U+1801]]|MONGOLIAN ELLIPSIS|᠁|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1802/index.htm|U+1802]]|MONGOLIAN COMMA|᠂|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1803/index.htm|U+1803]]|MONGOLIAN FULL STOP|᠃|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1804/index.htm|U+1804]]|MONGOLIAN COLON|᠄|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1805/index.htm|U+1805]]|MONGOLIAN FOUR DOTS|᠅|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1807/index.htm|U+1807]]|MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER|᠇|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1808/index.htm|U+1808]]|MONGOLIAN MANCHU COMMA|᠈|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1809/index.htm|U+1809]]|MONGOLIAN MANCHU FULL STOP|᠉|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/180a/index.htm|U+180A]]|MONGOLIAN NIRUGU|᠊|V|Match Mongolian letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/1944/index.htm|U+1944]]|LIMBU EXCLAMATION MARK|᥄|U|
-|[[http://www.fileformat.info/info/unicode/char/1945/index.htm|U+1945]]|LIMBU QUESTION MARK|᥅|U|
-|[[http://www.fileformat.info/info/unicode/char/1a1e/index.htm|U+1A1E]]|BUGINESE PALLAWA|᨞|U|
-|[[http://www.fileformat.info/info/unicode/char/1a1f/index.htm|U+1A1F]]|BUGINESE END OF SECTION|᨟|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa0/index.htm|U+1AA0]]|TAI THAM SIGN WIANG|᪠|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa1/index.htm|U+1AA1]]|TAI THAM SIGN WIANGWAAK|᪡|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa2/index.htm|U+1AA2]]|TAI THAM SIGN SAWAN|᪢|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa3/index.htm|U+1AA3]]|TAI THAM SIGN KEOW|᪣|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa4/index.htm|U+1AA4]]|TAI THAM SIGN HOY|᪤|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa5/index.htm|U+1AA5]]|TAI THAM SIGN DOKMAI|᪥|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa6/index.htm|U+1AA6]]|TAI THAM SIGN REVERSED ROTATED RANA|᪦|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa8/index.htm|U+1AA8]]|TAI THAM SIGN KAAN|᪨|U|
-|[[http://www.fileformat.info/info/unicode/char/1aa9/index.htm|U+1AA9]]|TAI THAM SIGN KAANKUU|᪩|U|
-|[[http://www.fileformat.info/info/unicode/char/1aaa/index.htm|U+1AAA]]|TAI THAM SIGN SATKAAN|᪪|U|
-|[[http://www.fileformat.info/info/unicode/char/1aab/index.htm|U+1AAB]]|TAI THAM SIGN SATKAANKUU|᪫|U|
-|[[http://www.fileformat.info/info/unicode/char/1aac/index.htm|U+1AAC]]|TAI THAM SIGN HANG|᪬|U|
-|[[http://www.fileformat.info/info/unicode/char/1aad/index.htm|U+1AAD]]|TAI THAM SIGN CAANG|᪭|U|
-|[[http://www.fileformat.info/info/unicode/char/1b5a/index.htm|U+1B5A]]|BALINESE PANTI|᭚|U|
-|[[http://www.fileformat.info/info/unicode/char/1b5b/index.htm|U+1B5B]]|BALINESE PAMADA|᭛|U|
-|[[http://www.fileformat.info/info/unicode/char/1b5c/index.htm|U+1B5C]]|BALINESE WINDU|᭜|U|
-|[[http://www.fileformat.info/info/unicode/char/1b5d/index.htm|U+1B5D]]|BALINESE CARIK PAMUNGKAH|᭝|U|
-|[[http://www.fileformat.info/info/unicode/char/1b5e/index.htm|U+1B5E]]|BALINESE CARIK SIKI|᭞|U|
-|[[http://www.fileformat.info/info/unicode/char/1b5f/index.htm|U+1B5F]]|BALINESE CARIK PAREREN|᭟|U|
-|[[http://www.fileformat.info/info/unicode/char/1b60/index.htm|U+1B60]]|BALINESE PAMENENG|᭠|U|
-|[[http://www.fileformat.info/info/unicode/char/1bfc/index.htm|U+1BFC]]|BATAK SYMBOL BINDU NA METEK|᯼|U|:?:|
-|[[http://www.fileformat.info/info/unicode/char/1bfd/index.htm|U+1BFD]]|BATAK SYMBOL BINDU PINARBORAS|᯽|U|:?:|
-|[[http://www.fileformat.info/info/unicode/char/1bfe/index.htm|U+1BFE]]|BATAK SYMBOL BINDU JUDUL|᯾|U|:?:|
-|[[http://www.fileformat.info/info/unicode/char/1bff/index.htm|U+1BFF]]|BATAK SYMBOL BINDU PANGOLAT|᯿|U|:?:|
-|[[http://www.fileformat.info/info/unicode/char/1c3b/index.htm|U+1C3B]]|LEPCHA PUNCTUATION TA-ROL|᰻|U|
-|[[http://www.fileformat.info/info/unicode/char/1c3c/index.htm|U+1C3C]]|LEPCHA PUNCTUATION NYET THYOOM TA-ROL|᰼|U|
-|[[http://www.fileformat.info/info/unicode/char/1c3d/index.htm|U+1C3D]]|LEPCHA PUNCTUATION CER-WA|᰽|U|
-|[[http://www.fileformat.info/info/unicode/char/1c3e/index.htm|U+1C3E]]|LEPCHA PUNCTUATION TSHOOK CER-WA|᰾|U|
-|[[http://www.fileformat.info/info/unicode/char/1c3f/index.htm|U+1C3F]]|LEPCHA PUNCTUATION TSHOOK|᰿|U|
-|[[http://www.fileformat.info/info/unicode/char/1c7e/index.htm|U+1C7E]]|OL CHIKI PUNCTUATION MUCAAD|᱾|U|
-|[[http://www.fileformat.info/info/unicode/char/1c7f/index.htm|U+1C7F]]|OL CHIKI PUNCTUATION DOUBLE MUCAAD|᱿|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc0/index.htm|U+1CC0]]|SUNDANESE PUNCTUATION BINDU SURYA|᳀|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc1/index.htm|U+1CC1]]|SUNDANESE PUNCTUATION BINDU PANGLONG|᳁|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc2/index.htm|U+1CC2]]|SUNDANESE PUNCTUATION BINDU PURNAMA|᳂|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc3/index.htm|U+1CC3]]|SUNDANESE PUNCTUATION BINDU CAKRA|᳃|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc4/index.htm|U+1CC4]]|SUNDANESE PUNCTUATION BINDU LEU SATANGA|᳄|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc5/index.htm|U+1CC5]]|SUNDANESE PUNCTUATION BINDU KA SATANGA|᳅|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc6/index.htm|U+1CC6]]|SUNDANESE PUNCTUATION BINDU DA SATANGA|᳆|U|
-|[[http://www.fileformat.info/info/unicode/char/1cc7/index.htm|U+1CC7]]|SUNDANESE PUNCTUATION BINDU BA SATANGA|᳇|U|
-|[[http://www.fileformat.info/info/unicode/char/1cd3/index.htm|U+1CD3]]|VEDIC SIGN NIHSHVASA|᳓|U|
-|[[http://www.fileformat.info/info/unicode/char/2cf9/index.htm|U+2CF9]]|COPTIC OLD NUBIAN FULL STOP|⳹|U|
-|[[http://www.fileformat.info/info/unicode/char/2cfa/index.htm|U+2CFA]]|COPTIC OLD NUBIAN DIRECT QUESTION MARK|⳺|U|
-|[[http://www.fileformat.info/info/unicode/char/2cfb/index.htm|U+2CFB]]|COPTIC OLD NUBIAN INDIRECT QUESTION MARK|⳻|U|
-|[[http://www.fileformat.info/info/unicode/char/2cfc/index.htm|U+2CFC]]|COPTIC OLD NUBIAN VERSE DIVIDER|⳼|U|
-|[[http://www.fileformat.info/info/unicode/char/2cfe/index.htm|U+2CFE]]|COPTIC FULL STOP|⳾|U|
-|[[http://www.fileformat.info/info/unicode/char/2cff/index.htm|U+2CFF]]|COPTIC MORPHOLOGICAL DIVIDER|⳿|U|
-|[[http://www.fileformat.info/info/unicode/char/2d70/index.htm|U+2D70]]|TIFINAGH SEPARATOR MARK|⵰|U|
-|[[http://www.fileformat.info/info/unicode/char/a4fe/index.htm|U+A4FE]]|LISU PUNCTUATION COMMA|꓾|U|
-|[[http://www.fileformat.info/info/unicode/char/a4ff/index.htm|U+A4FF]]|LISU PUNCTUATION FULL STOP|꓿|U|
-|[[http://www.fileformat.info/info/unicode/char/a60d/index.htm|U+A60D]]|VAI COMMA|꘍|U|
-|[[http://www.fileformat.info/info/unicode/char/a60e/index.htm|U+A60E]]|VAI FULL STOP|꘎|U|
-|[[http://www.fileformat.info/info/unicode/char/a60f/index.htm|U+A60F]]|VAI QUESTION MARK|꘏|U|
-|[[http://www.fileformat.info/info/unicode/char/a673/index.htm|U+A673]]|SLAVONIC ASTERISK|꙳|U|
-|[[http://www.fileformat.info/info/unicode/char/a67e/index.htm|U+A67E]]|CYRILLIC KAVYKA|꙾|U|
-|[[http://www.fileformat.info/info/unicode/char/a6f2/index.htm|U+A6F2]]|BAMUM NJAEMLI|꛲|U|
-|[[http://www.fileformat.info/info/unicode/char/a6f3/index.htm|U+A6F3]]|BAMUM FULL STOP|꛳|U|
-|[[http://www.fileformat.info/info/unicode/char/a6f4/index.htm|U+A6F4]]|BAMUM COLON|꛴|U|
-|[[http://www.fileformat.info/info/unicode/char/a6f5/index.htm|U+A6F5]]|BAMUM COMMA|꛵|U|
-|[[http://www.fileformat.info/info/unicode/char/a6f6/index.htm|U+A6F6]]|BAMUM SEMICOLON|꛶|U|
-|[[http://www.fileformat.info/info/unicode/char/a6f7/index.htm|U+A6F7]]|BAMUM QUESTION MARK|꛷|U|
-|[[http://www.fileformat.info/info/unicode/char/a874/index.htm|U+A874]]|PHAGS-PA SINGLE HEAD MARK|꡴|V|Match Phags-pa letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/a875/index.htm|U+A875]]|PHAGS-PA DOUBLE HEAD MARK|꡵|V|Match Phags-pa letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/a876/index.htm|U+A876]]|PHAGS-PA MARK SHAD|꡶|V|Match Phags-pa letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/a877/index.htm|U+A877]]|PHAGS-PA MARK DOUBLE SHAD|꡷|V|Match Phags-pa letters :?: DVO=U|
-|[[http://www.fileformat.info/info/unicode/char/a8ce/index.htm|U+A8CE]]|SAURASHTRA DANDA|꣎|U|
-|[[http://www.fileformat.info/info/unicode/char/a8cf/index.htm|U+A8CF]]|SAURASHTRA DOUBLE DANDA|꣏|U|
-|[[http://www.fileformat.info/info/unicode/char/a8f8/index.htm|U+A8F8]]|DEVANAGARI SIGN PUSHPIKA|꣸|U|
-|[[http://www.fileformat.info/info/unicode/char/a8f9/index.htm|U+A8F9]]|DEVANAGARI GAP FILLER|꣹|U|
-|[[http://www.fileformat.info/info/unicode/char/a8fa/index.htm|U+A8FA]]|DEVANAGARI CARET|꣺|U|
-|[[http://www.fileformat.info/info/unicode/char/a92e/index.htm|U+A92E]]|KAYAH LI SIGN CWI|꤮|U|
-|[[http://www.fileformat.info/info/unicode/char/a92f/index.htm|U+A92F]]|KAYAH LI SIGN SHYA|꤯|U|
-|[[http://www.fileformat.info/info/unicode/char/a95f/index.htm|U+A95F]]|REJANG SECTION MARK|꥟|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c1/index.htm|U+A9C1]]|JAVANESE LEFT RERENGGAN|꧁|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c2/index.htm|U+A9C2]]|JAVANESE RIGHT RERENGGAN|꧂|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c3/index.htm|U+A9C3]]|JAVANESE PADA ANDAP|꧃|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c4/index.htm|U+A9C4]]|JAVANESE PADA MADYA|꧄|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c5/index.htm|U+A9C5]]|JAVANESE PADA LUHUR|꧅|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c6/index.htm|U+A9C6]]|JAVANESE PADA WINDU|꧆|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c7/index.htm|U+A9C7]]|JAVANESE PADA PANGKAT|꧇|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c8/index.htm|U+A9C8]]|JAVANESE PADA LINGSA|꧈|U|
-|[[http://www.fileformat.info/info/unicode/char/a9c9/index.htm|U+A9C9]]|JAVANESE PADA LUNGSI|꧉|U|
-|[[http://www.fileformat.info/info/unicode/char/a9ca/index.htm|U+A9CA]]|JAVANESE PADA ADEG|꧊|U|
-|[[http://www.fileformat.info/info/unicode/char/a9cb/index.htm|U+A9CB]]|JAVANESE PADA ADEG ADEG|꧋|U|
-|[[http://www.fileformat.info/info/unicode/char/a9cc/index.htm|U+A9CC]]|JAVANESE PADA PISELEH|꧌|U|
-|[[http://www.fileformat.info/info/unicode/char/a9cd/index.htm|U+A9CD]]|JAVANESE TURNED PADA PISELEH|꧍|U|
-|[[http://www.fileformat.info/info/unicode/char/a9de/index.htm|U+A9DE]]|JAVANESE PADA TIRTA TUMETES|꧞|U|
-|[[http://www.fileformat.info/info/unicode/char/a9df/index.htm|U+A9DF]]|JAVANESE PADA ISEN-ISEN|꧟|U|
-|[[http://www.fileformat.info/info/unicode/char/aa5c/index.htm|U+AA5C]]|CHAM PUNCTUATION SPIRAL|꩜|U|
-|[[http://www.fileformat.info/info/unicode/char/aa5d/index.htm|U+AA5D]]|CHAM PUNCTUATION DANDA|꩝|U|
-|[[http://www.fileformat.info/info/unicode/char/aa5e/index.htm|U+AA5E]]|CHAM PUNCTUATION DOUBLE DANDA|꩞|U|
-|[[http://www.fileformat.info/info/unicode/char/aa5f/index.htm|U+AA5F]]|CHAM PUNCTUATION TRIPLE DANDA|꩟|U|
-|[[http://www.fileformat.info/info/unicode/char/aade/index.htm|U+AADE]]|TAI VIET SYMBOL HO HOI|꫞|U|
-|[[http://www.fileformat.info/info/unicode/char/aadf/index.htm|U+AADF]]|TAI VIET SYMBOL KOI KOI|꫟|U|
-|[[http://www.fileformat.info/info/unicode/char/aaf0/index.htm|U+AAF0]]|MEETEI MAYEK CHEIKHAN|꫰|U|
-|[[http://www.fileformat.info/info/unicode/char/aaf1/index.htm|U+AAF1]]|MEETEI MAYEK AHANG KHUDAM|꫱|U|
-|[[http://www.fileformat.info/info/unicode/char/abeb/index.htm|U+ABEB]]|MEETEI MAYEK CHEIKHEI|꯫|U|
-|[[http://www.fileformat.info/info/unicode/char/10100/index.htm|U+10100]]|AEGEAN WORD SEPARATOR LINE|𐄀|U|
-|[[http://www.fileformat.info/info/unicode/char/10101/index.htm|U+10101]]|AEGEAN WORD SEPARATOR DOT|𐄁|U|
-|[[http://www.fileformat.info/info/unicode/char/10102/index.htm|U+10102]]|AEGEAN CHECK MARK|𐄂|U|
-|[[http://www.fileformat.info/info/unicode/char/1039f/index.htm|U+1039F]]|UGARITIC WORD DIVIDER|𐎟|U|
-|[[http://www.fileformat.info/info/unicode/char/103d0/index.htm|U+103D0]]|OLD PERSIAN WORD DIVIDER|𐏐|U|
-|[[http://www.fileformat.info/info/unicode/char/10857/index.htm|U+10857]]|IMPERIAL ARAMAIC SECTION SIGN|𐡗|U|
-|[[http://www.fileformat.info/info/unicode/char/1091f/index.htm|U+1091F]]|PHOENICIAN WORD SEPARATOR|𐤟|U|
-|[[http://www.fileformat.info/info/unicode/char/1093f/index.htm|U+1093F]]|LYDIAN TRIANGULAR MARK|𐤿|U|
-|[[http://www.fileformat.info/info/unicode/char/10a50/index.htm|U+10A50]]|KHAROSHTHI PUNCTUATION DOT|𐩐|U|
-|[[http://www.fileformat.info/info/unicode/char/10a51/index.htm|U+10A51]]|KHAROSHTHI PUNCTUATION SMALL CIRCLE|𐩑|U|
-|[[http://www.fileformat.info/info/unicode/char/10a52/index.htm|U+10A52]]|KHAROSHTHI PUNCTUATION CIRCLE|𐩒|U|
-|[[http://www.fileformat.info/info/unicode/char/10a53/index.htm|U+10A53]]|KHAROSHTHI PUNCTUATION CRESCENT BAR|𐩓|U|
-|[[http://www.fileformat.info/info/unicode/char/10a54/index.htm|U+10A54]]|KHAROSHTHI PUNCTUATION MANGALAM|𐩔|U|
-|[[http://www.fileformat.info/info/unicode/char/10a55/index.htm|U+10A55]]|KHAROSHTHI PUNCTUATION LOTUS|𐩕|U|
-|[[http://www.fileformat.info/info/unicode/char/10a56/index.htm|U+10A56]]|KHAROSHTHI PUNCTUATION DANDA|𐩖|U|
-|[[http://www.fileformat.info/info/unicode/char/10a57/index.htm|U+10A57]]|KHAROSHTHI PUNCTUATION DOUBLE DANDA|𐩗|U|
-|[[http://www.fileformat.info/info/unicode/char/10a58/index.htm|U+10A58]]|KHAROSHTHI PUNCTUATION LINES|𐩘|U|
-|[[http://www.fileformat.info/info/unicode/char/10a7f/index.htm|U+10A7F]]|OLD SOUTH ARABIAN NUMERIC INDICATOR|𐩿|U|
-|[[http://www.fileformat.info/info/unicode/char/10b39/index.htm|U+10B39]]|AVESTAN ABBREVIATION MARK|𐬹|U|
-|[[http://www.fileformat.info/info/unicode/char/11047/index.htm|U+11047]]|BRAHMI DANDA|𑁇|U|
-|[[http://www.fileformat.info/info/unicode/char/11048/index.htm|U+11048]]|BRAHMI DOUBLE DANDA|𑁈|U|
-|[[http://www.fileformat.info/info/unicode/char/11049/index.htm|U+11049]]|BRAHMI PUNCTUATION DOT|𑁉|U|
-|[[http://www.fileformat.info/info/unicode/char/1104a/index.htm|U+1104A]]|BRAHMI PUNCTUATION DOUBLE DOT|𑁊|U|
-|[[http://www.fileformat.info/info/unicode/char/1104b/index.htm|U+1104B]]|BRAHMI PUNCTUATION LINE|𑁋|U|
-|[[http://www.fileformat.info/info/unicode/char/1104c/index.htm|U+1104C]]|BRAHMI PUNCTUATION CRESCENT BAR|𑁌|U|
-|[[http://www.fileformat.info/info/unicode/char/1104d/index.htm|U+1104D]]|BRAHMI PUNCTUATION LOTUS|𑁍|U|
-|[[http://www.fileformat.info/info/unicode/char/110bb/index.htm|U+110BB]]|KAITHI ABBREVIATION SIGN|𑂻|U|
-|[[http://www.fileformat.info/info/unicode/char/110bc/index.htm|U+110BC]]|KAITHI ENUMERATION SIGN|𑂼|U|
-|[[http://www.fileformat.info/info/unicode/char/110be/index.htm|U+110BE]]|KAITHI SECTION MARK|𑂾|U|
-|[[http://www.fileformat.info/info/unicode/char/110bf/index.htm|U+110BF]]|KAITHI DOUBLE SECTION MARK|𑂿|U|
-|[[http://www.fileformat.info/info/unicode/char/110c0/index.htm|U+110C0]]|KAITHI DANDA|𑃀|U|
-|[[http://www.fileformat.info/info/unicode/char/110c1/index.htm|U+110C1]]|KAITHI DOUBLE DANDA|𑃁|U|
-|[[http://www.fileformat.info/info/unicode/char/11140/index.htm|U+11140]]|CHAKMA SECTION MARK|𑅀|U|
-|[[http://www.fileformat.info/info/unicode/char/11141/index.htm|U+11141]]|CHAKMA DANDA|𑅁|U|
-|[[http://www.fileformat.info/info/unicode/char/11142/index.htm|U+11142]]|CHAKMA DOUBLE DANDA|𑅂|U|
-|[[http://www.fileformat.info/info/unicode/char/11143/index.htm|U+11143]]|CHAKMA QUESTION MARK|𑅃|U|
-|[[http://www.fileformat.info/info/unicode/char/111c5/index.htm|U+111C5]]|SHARADA DANDA|𑇅|U|
-|[[http://www.fileformat.info/info/unicode/char/111c6/index.htm|U+111C6]]|SHARADA DOUBLE DANDA|𑇆|U|
-|[[http://www.fileformat.info/info/unicode/char/111c7/index.htm|U+111C7]]|SHARADA ABBREVIATION SIGN|𑇇|U|
-|[[http://www.fileformat.info/info/unicode/char/111c8/index.htm|U+111C8]]|SHARADA SEPARATOR|𑇈|U|
-|[[http://www.fileformat.info/info/unicode/char/12470/index.htm|U+12470]]|CUNEIFORM PUNCTUATION SIGN OLD ASSYRIAN WORD DIVIDER|𒑰|U|
-|[[http://www.fileformat.info/info/unicode/char/12471/index.htm|U+12471]]|CUNEIFORM PUNCTUATION SIGN VERTICAL COLON|𒑱|U|
-|[[http://www.fileformat.info/info/unicode/char/12472/index.htm|U+12472]]|CUNEIFORM PUNCTUATION SIGN DIAGONAL COLON|𒑲|U|
-|[[http://www.fileformat.info/info/unicode/char/12473/index.htm|U+12473]]|CUNEIFORM PUNCTUATION SIGN DIAGONAL TRICOLON|𒑳|U|
+|[[http://www.fileformat.info/info/unicode/char/037e/index.htm|U+037E]]|GREEK QUESTION MARK|;|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0387/index.htm|U+0387]]|GREEK ANO TELEIA|·|U|R|
+|[[http://www.fileformat.info/info/unicode/char/055a/index.htm|U+055A]]|ARMENIAN APOSTROPHE|՚|U|R|
+|[[http://www.fileformat.info/info/unicode/char/055b/index.htm|U+055B]]|ARMENIAN EMPHASIS MARK|՛|U|R|
+|[[http://www.fileformat.info/info/unicode/char/055c/index.htm|U+055C]]|ARMENIAN EXCLAMATION MARK|՜|U|R|
+|[[http://www.fileformat.info/info/unicode/char/055d/index.htm|U+055D]]|ARMENIAN COMMA|՝|U|R|
+|[[http://www.fileformat.info/info/unicode/char/055e/index.htm|U+055E]]|ARMENIAN QUESTION MARK|՞|U|R|
+|[[http://www.fileformat.info/info/unicode/char/055f/index.htm|U+055F]]|ARMENIAN ABBREVIATION MARK|՟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0589/index.htm|U+0589]]|ARMENIAN FULL STOP|։|U|R|
+|[[http://www.fileformat.info/info/unicode/char/05c0/index.htm|U+05C0]]|HEBREW PUNCTUATION PASEQ|׀|U|R|
+|[[http://www.fileformat.info/info/unicode/char/05c3/index.htm|U+05C3]]|HEBREW PUNCTUATION SOF PASUQ|׃|U|R|
+|[[http://www.fileformat.info/info/unicode/char/05c6/index.htm|U+05C6]]|HEBREW PUNCTUATION NUN HAFUKHA|׆|U|R|
+|[[http://www.fileformat.info/info/unicode/char/05f3/index.htm|U+05F3]]|HEBREW PUNCTUATION GERESH|׳|U|R|
+|[[http://www.fileformat.info/info/unicode/char/05f4/index.htm|U+05F4]]|HEBREW PUNCTUATION GERSHAYIM|״|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0609/index.htm|U+0609]]|ARABIC-INDIC PER MILLE SIGN|؉|U|R|
+|[[http://www.fileformat.info/info/unicode/char/060a/index.htm|U+060A]]|ARABIC-INDIC PER TEN THOUSAND SIGN|؊|U|R|
+|[[http://www.fileformat.info/info/unicode/char/060c/index.htm|U+060C]]|ARABIC COMMA|،|U|R|
+|[[http://www.fileformat.info/info/unicode/char/060d/index.htm|U+060D]]|ARABIC DATE SEPARATOR|؍|U|R|
+|[[http://www.fileformat.info/info/unicode/char/061b/index.htm|U+061B]]|ARABIC SEMICOLON|؛|U|R|
+|[[http://www.fileformat.info/info/unicode/char/061e/index.htm|U+061E]]|ARABIC TRIPLE DOT PUNCTUATION MARK|؞|U|R|
+|[[http://www.fileformat.info/info/unicode/char/061f/index.htm|U+061F]]|ARABIC QUESTION MARK|؟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/066a/index.htm|U+066A]]|ARABIC PERCENT SIGN|٪|U|R|
+|[[http://www.fileformat.info/info/unicode/char/066b/index.htm|U+066B]]|ARABIC DECIMAL SEPARATOR|٫|U|R|
+|[[http://www.fileformat.info/info/unicode/char/066c/index.htm|U+066C]]|ARABIC THOUSANDS SEPARATOR|٬|U|R|
+|[[http://www.fileformat.info/info/unicode/char/066d/index.htm|U+066D]]|ARABIC FIVE POINTED STAR|٭|U|R|
+|[[http://www.fileformat.info/info/unicode/char/06d4/index.htm|U+06D4]]|ARABIC FULL STOP|۔|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0700/index.htm|U+0700]]|SYRIAC END OF PARAGRAPH|܀|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0701/index.htm|U+0701]]|SYRIAC SUPRALINEAR FULL STOP|܁|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0702/index.htm|U+0702]]|SYRIAC SUBLINEAR FULL STOP|܂|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0703/index.htm|U+0703]]|SYRIAC SUPRALINEAR COLON|܃|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0704/index.htm|U+0704]]|SYRIAC SUBLINEAR COLON|܄|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0705/index.htm|U+0705]]|SYRIAC HORIZONTAL COLON|܅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0706/index.htm|U+0706]]|SYRIAC COLON SKEWED LEFT|܆|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0707/index.htm|U+0707]]|SYRIAC COLON SKEWED RIGHT|܇|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0708/index.htm|U+0708]]|SYRIAC SUPRALINEAR COLON SKEWED LEFT|܈|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0709/index.htm|U+0709]]|SYRIAC SUBLINEAR COLON SKEWED RIGHT|܉|U|R|
+|[[http://www.fileformat.info/info/unicode/char/070a/index.htm|U+070A]]|SYRIAC CONTRACTION|܊|U|R|
+|[[http://www.fileformat.info/info/unicode/char/070b/index.htm|U+070B]]|SYRIAC HARKLEAN OBELUS|܋|U|R|
+|[[http://www.fileformat.info/info/unicode/char/070c/index.htm|U+070C]]|SYRIAC HARKLEAN METOBELUS|܌|U|R|
+|[[http://www.fileformat.info/info/unicode/char/070d/index.htm|U+070D]]|SYRIAC HARKLEAN ASTERISCUS|܍|U|R|
+|[[http://www.fileformat.info/info/unicode/char/07f7/index.htm|U+07F7]]|NKO SYMBOL GBAKURUNEN|߷|U|R|
+|[[http://www.fileformat.info/info/unicode/char/07f8/index.htm|U+07F8]]|NKO COMMA|߸|U|R|
+|[[http://www.fileformat.info/info/unicode/char/07f9/index.htm|U+07F9]]|NKO EXCLAMATION MARK|߹|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0830/index.htm|U+0830]]|SAMARITAN PUNCTUATION NEQUDAA|࠰|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0831/index.htm|U+0831]]|SAMARITAN PUNCTUATION AFSAAQ|࠱|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0832/index.htm|U+0832]]|SAMARITAN PUNCTUATION ANGED|࠲|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0833/index.htm|U+0833]]|SAMARITAN PUNCTUATION BAU|࠳|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0834/index.htm|U+0834]]|SAMARITAN PUNCTUATION ATMAAU|࠴|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0835/index.htm|U+0835]]|SAMARITAN PUNCTUATION SHIYYAALAA|࠵|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0836/index.htm|U+0836]]|SAMARITAN ABBREVIATION MARK|࠶|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0837/index.htm|U+0837]]|SAMARITAN PUNCTUATION MELODIC QITSA|࠷|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0838/index.htm|U+0838]]|SAMARITAN PUNCTUATION ZIQAA|࠸|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0839/index.htm|U+0839]]|SAMARITAN PUNCTUATION QITSA|࠹|U|R|
+|[[http://www.fileformat.info/info/unicode/char/083a/index.htm|U+083A]]|SAMARITAN PUNCTUATION ZAEF|࠺|U|R|
+|[[http://www.fileformat.info/info/unicode/char/083b/index.htm|U+083B]]|SAMARITAN PUNCTUATION TURU|࠻|U|R|
+|[[http://www.fileformat.info/info/unicode/char/083c/index.htm|U+083C]]|SAMARITAN PUNCTUATION ARKAANU|࠼|U|R|
+|[[http://www.fileformat.info/info/unicode/char/083d/index.htm|U+083D]]|SAMARITAN PUNCTUATION SOF MASHFAAT|࠽|U|R|
+|[[http://www.fileformat.info/info/unicode/char/083e/index.htm|U+083E]]|SAMARITAN PUNCTUATION ANNAAU|࠾|U|R|
+|[[http://www.fileformat.info/info/unicode/char/085e/index.htm|U+085E]]|MANDAIC PUNCTUATION|࡞|U|R|:?: Mandaic :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/0964/index.htm|U+0964]]|DEVANAGARI DANDA|।|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0965/index.htm|U+0965]]|DEVANAGARI DOUBLE DANDA|॥|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0970/index.htm|U+0970]]|DEVANAGARI ABBREVIATION SIGN|॰|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0af0/index.htm|U+0AF0]]|GUJARATI ABBREVIATION SIGN|૰|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0df4/index.htm|U+0DF4]]|SINHALA PUNCTUATION KUNDDALIYA|෴|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0e4f/index.htm|U+0E4F]]|THAI CHARACTER FONGMAN|๏|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0e5a/index.htm|U+0E5A]]|THAI CHARACTER ANGKHANKHU|๚|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0e5b/index.htm|U+0E5B]]|THAI CHARACTER KHOMUT|๛|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f04/index.htm|U+0F04]]|TIBETAN MARK INITIAL YIG MGO MDUN MA|༄|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f05/index.htm|U+0F05]]|TIBETAN MARK CLOSING YIG MGO SGAB MA|༅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f06/index.htm|U+0F06]]|TIBETAN MARK CARET YIG MGO PHUR SHAD MA|༆|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f07/index.htm|U+0F07]]|TIBETAN MARK YIG MGO TSHEG SHAD MA|༇|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f08/index.htm|U+0F08]]|TIBETAN MARK SBRUL SHAD|༈|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f09/index.htm|U+0F09]]|TIBETAN MARK BSKUR YIG MGO|༉|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f0a/index.htm|U+0F0A]]|TIBETAN MARK BKA- SHOG YIG MGO|༊|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f0b/index.htm|U+0F0B]]|TIBETAN MARK INTERSYLLABIC TSHEG|་|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f0c/index.htm|U+0F0C]]|TIBETAN MARK DELIMITER TSHEG BSTAR|༌|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f0d/index.htm|U+0F0D]]|TIBETAN MARK SHAD|།|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f0e/index.htm|U+0F0E]]|TIBETAN MARK NYIS SHAD|༎|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f0f/index.htm|U+0F0F]]|TIBETAN MARK TSHEG SHAD|༏|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f10/index.htm|U+0F10]]|TIBETAN MARK NYIS TSHEG SHAD|༐|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f11/index.htm|U+0F11]]|TIBETAN MARK RIN CHEN SPUNGS SHAD|༑|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f12/index.htm|U+0F12]]|TIBETAN MARK RGYA GRAM SHAD|༒|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f14/index.htm|U+0F14]]|TIBETAN MARK GTER TSHEG|༔|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0f85/index.htm|U+0F85]]|TIBETAN MARK PALUTA|྅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0fd0/index.htm|U+0FD0]]|TIBETAN MARK BSKA- SHOG GI MGO RGYAN|࿐|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0fd1/index.htm|U+0FD1]]|TIBETAN MARK MNYAM YIG GI MGO RGYAN|࿑|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0fd2/index.htm|U+0FD2]]|TIBETAN MARK NYIS TSHEG|࿒|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0fd3/index.htm|U+0FD3]]|TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA|࿓|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0fd4/index.htm|U+0FD4]]|TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA|࿔|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0fd9/index.htm|U+0FD9]]|TIBETAN MARK LEADING MCHAN RTAGS|࿙|U|R|
+|[[http://www.fileformat.info/info/unicode/char/0fda/index.htm|U+0FDA]]|TIBETAN MARK TRAILING MCHAN RTAGS|࿚|U|R|
+|[[http://www.fileformat.info/info/unicode/char/104a/index.htm|U+104A]]|MYANMAR SIGN LITTLE SECTION|၊|U|R|
+|[[http://www.fileformat.info/info/unicode/char/104b/index.htm|U+104B]]|MYANMAR SIGN SECTION|။|U|R|
+|[[http://www.fileformat.info/info/unicode/char/104c/index.htm|U+104C]]|MYANMAR SYMBOL LOCATIVE|၌|U|R|
+|[[http://www.fileformat.info/info/unicode/char/104d/index.htm|U+104D]]|MYANMAR SYMBOL COMPLETED|၍|U|R|
+|[[http://www.fileformat.info/info/unicode/char/104e/index.htm|U+104E]]|MYANMAR SYMBOL AFOREMENTIONED|၎|U|R|
+|[[http://www.fileformat.info/info/unicode/char/104f/index.htm|U+104F]]|MYANMAR SYMBOL GENITIVE|၏|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10fb/index.htm|U+10FB]]|GEORGIAN PARAGRAPH SEPARATOR|჻|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1360/index.htm|U+1360]]|ETHIOPIC SECTION MARK|፠|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1361/index.htm|U+1361]]|ETHIOPIC WORDSPACE|፡|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1362/index.htm|U+1362]]|ETHIOPIC FULL STOP|።|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1363/index.htm|U+1363]]|ETHIOPIC COMMA|፣|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1364/index.htm|U+1364]]|ETHIOPIC SEMICOLON|፤|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1365/index.htm|U+1365]]|ETHIOPIC COLON|፥|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1366/index.htm|U+1366]]|ETHIOPIC PREFACE COLON|፦|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1367/index.htm|U+1367]]|ETHIOPIC QUESTION MARK|፧|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1368/index.htm|U+1368]]|ETHIOPIC PARAGRAPH SEPARATOR|፨|U|R|
+|[[http://www.fileformat.info/info/unicode/char/166d/index.htm|U+166D]]|CANADIAN SYLLABICS CHI SIGN|᙭|U|R|
+|[[http://www.fileformat.info/info/unicode/char/166e/index.htm|U+166E]]|CANADIAN SYLLABICS FULL STOP|᙮|U|R|
+|[[http://www.fileformat.info/info/unicode/char/16eb/index.htm|U+16EB]]|RUNIC SINGLE PUNCTUATION|᛫|U|R|
+|[[http://www.fileformat.info/info/unicode/char/16ec/index.htm|U+16EC]]|RUNIC MULTIPLE PUNCTUATION|᛬|U|R|
+|[[http://www.fileformat.info/info/unicode/char/16ed/index.htm|U+16ED]]|RUNIC CROSS PUNCTUATION|᛭|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1735/index.htm|U+1735]]|PHILIPPINE SINGLE PUNCTUATION|᜵|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1736/index.htm|U+1736]]|PHILIPPINE DOUBLE PUNCTUATION|᜶|U|R|
+|[[http://www.fileformat.info/info/unicode/char/17d4/index.htm|U+17D4]]|KHMER SIGN KHAN|។|U|R|
+|[[http://www.fileformat.info/info/unicode/char/17d5/index.htm|U+17D5]]|KHMER SIGN BARIYOOSAN|៕|U|R|
+|[[http://www.fileformat.info/info/unicode/char/17d6/index.htm|U+17D6]]|KHMER SIGN CAMNUC PII KUUH|៖|U|R|
+|[[http://www.fileformat.info/info/unicode/char/17d8/index.htm|U+17D8]]|KHMER SIGN BEYYAL|៘|U|R|
+|[[http://www.fileformat.info/info/unicode/char/17d9/index.htm|U+17D9]]|KHMER SIGN PHNAEK MUAN|៙|U|R|
+|[[http://www.fileformat.info/info/unicode/char/17da/index.htm|U+17DA]]|KHMER SIGN KOOMUUT|៚|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1800/index.htm|U+1800]]|MONGOLIAN BIRGA|᠀|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1801/index.htm|U+1801]]|MONGOLIAN ELLIPSIS|᠁|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1802/index.htm|U+1802]]|MONGOLIAN COMMA|᠂|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1803/index.htm|U+1803]]|MONGOLIAN FULL STOP|᠃|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1804/index.htm|U+1804]]|MONGOLIAN COLON|᠄|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1805/index.htm|U+1805]]|MONGOLIAN FOUR DOTS|᠅|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1807/index.htm|U+1807]]|MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER|᠇|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1808/index.htm|U+1808]]|MONGOLIAN MANCHU COMMA|᠈|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1809/index.htm|U+1809]]|MONGOLIAN MANCHU FULL STOP|᠉|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/180a/index.htm|U+180A]]|MONGOLIAN NIRUGU|᠊|V|V|Match Mongolian letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/1944/index.htm|U+1944]]|LIMBU EXCLAMATION MARK|᥄|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1945/index.htm|U+1945]]|LIMBU QUESTION MARK|᥅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1a1e/index.htm|U+1A1E]]|BUGINESE PALLAWA|᨞|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1a1f/index.htm|U+1A1F]]|BUGINESE END OF SECTION|᨟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa0/index.htm|U+1AA0]]|TAI THAM SIGN WIANG|᪠|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa1/index.htm|U+1AA1]]|TAI THAM SIGN WIANGWAAK|᪡|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa2/index.htm|U+1AA2]]|TAI THAM SIGN SAWAN|᪢|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa3/index.htm|U+1AA3]]|TAI THAM SIGN KEOW|᪣|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa4/index.htm|U+1AA4]]|TAI THAM SIGN HOY|᪤|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa5/index.htm|U+1AA5]]|TAI THAM SIGN DOKMAI|᪥|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa6/index.htm|U+1AA6]]|TAI THAM SIGN REVERSED ROTATED RANA|᪦|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa8/index.htm|U+1AA8]]|TAI THAM SIGN KAAN|᪨|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aa9/index.htm|U+1AA9]]|TAI THAM SIGN KAANKUU|᪩|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aaa/index.htm|U+1AAA]]|TAI THAM SIGN SATKAAN|᪪|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aab/index.htm|U+1AAB]]|TAI THAM SIGN SATKAANKUU|᪫|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aac/index.htm|U+1AAC]]|TAI THAM SIGN HANG|᪬|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1aad/index.htm|U+1AAD]]|TAI THAM SIGN CAANG|᪭|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1b5a/index.htm|U+1B5A]]|BALINESE PANTI|᭚|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1b5b/index.htm|U+1B5B]]|BALINESE PAMADA|᭛|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1b5c/index.htm|U+1B5C]]|BALINESE WINDU|᭜|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1b5d/index.htm|U+1B5D]]|BALINESE CARIK PAMUNGKAH|᭝|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1b5e/index.htm|U+1B5E]]|BALINESE CARIK SIKI|᭞|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1b5f/index.htm|U+1B5F]]|BALINESE CARIK PAREREN|᭟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1b60/index.htm|U+1B60]]|BALINESE PAMENENG|᭠|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1bfc/index.htm|U+1BFC]]|BATAK SYMBOL BINDU NA METEK|᯼|U|R|:?:|
+|[[http://www.fileformat.info/info/unicode/char/1bfd/index.htm|U+1BFD]]|BATAK SYMBOL BINDU PINARBORAS|᯽|U|R|:?:|
+|[[http://www.fileformat.info/info/unicode/char/1bfe/index.htm|U+1BFE]]|BATAK SYMBOL BINDU JUDUL|᯾|U|R|:?:|
+|[[http://www.fileformat.info/info/unicode/char/1bff/index.htm|U+1BFF]]|BATAK SYMBOL BINDU PANGOLAT|᯿|U|R|:?:|
+|[[http://www.fileformat.info/info/unicode/char/1c3b/index.htm|U+1C3B]]|LEPCHA PUNCTUATION TA-ROL|᰻|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1c3c/index.htm|U+1C3C]]|LEPCHA PUNCTUATION NYET THYOOM TA-ROL|᰼|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1c3d/index.htm|U+1C3D]]|LEPCHA PUNCTUATION CER-WA|᰽|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1c3e/index.htm|U+1C3E]]|LEPCHA PUNCTUATION TSHOOK CER-WA|᰾|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1c3f/index.htm|U+1C3F]]|LEPCHA PUNCTUATION TSHOOK|᰿|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1c7e/index.htm|U+1C7E]]|OL CHIKI PUNCTUATION MUCAAD|᱾|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1c7f/index.htm|U+1C7F]]|OL CHIKI PUNCTUATION DOUBLE MUCAAD|᱿|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc0/index.htm|U+1CC0]]|SUNDANESE PUNCTUATION BINDU SURYA|᳀|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc1/index.htm|U+1CC1]]|SUNDANESE PUNCTUATION BINDU PANGLONG|᳁|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc2/index.htm|U+1CC2]]|SUNDANESE PUNCTUATION BINDU PURNAMA|᳂|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc3/index.htm|U+1CC3]]|SUNDANESE PUNCTUATION BINDU CAKRA|᳃|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc4/index.htm|U+1CC4]]|SUNDANESE PUNCTUATION BINDU LEU SATANGA|᳄|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc5/index.htm|U+1CC5]]|SUNDANESE PUNCTUATION BINDU KA SATANGA|᳅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc6/index.htm|U+1CC6]]|SUNDANESE PUNCTUATION BINDU DA SATANGA|᳆|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cc7/index.htm|U+1CC7]]|SUNDANESE PUNCTUATION BINDU BA SATANGA|᳇|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1cd3/index.htm|U+1CD3]]|VEDIC SIGN NIHSHVASA|᳓|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2cf9/index.htm|U+2CF9]]|COPTIC OLD NUBIAN FULL STOP|⳹|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2cfa/index.htm|U+2CFA]]|COPTIC OLD NUBIAN DIRECT QUESTION MARK|⳺|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2cfb/index.htm|U+2CFB]]|COPTIC OLD NUBIAN INDIRECT QUESTION MARK|⳻|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2cfc/index.htm|U+2CFC]]|COPTIC OLD NUBIAN VERSE DIVIDER|⳼|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2cfe/index.htm|U+2CFE]]|COPTIC FULL STOP|⳾|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2cff/index.htm|U+2CFF]]|COPTIC MORPHOLOGICAL DIVIDER|⳿|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2d70/index.htm|U+2D70]]|TIFINAGH SEPARATOR MARK|⵰|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a4fe/index.htm|U+A4FE]]|LISU PUNCTUATION COMMA|꓾|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a4ff/index.htm|U+A4FF]]|LISU PUNCTUATION FULL STOP|꓿|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a60d/index.htm|U+A60D]]|VAI COMMA|꘍|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a60e/index.htm|U+A60E]]|VAI FULL STOP|꘎|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a60f/index.htm|U+A60F]]|VAI QUESTION MARK|꘏|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a673/index.htm|U+A673]]|SLAVONIC ASTERISK|꙳|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a67e/index.htm|U+A67E]]|CYRILLIC KAVYKA|꙾|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a6f2/index.htm|U+A6F2]]|BAMUM NJAEMLI|꛲|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a6f3/index.htm|U+A6F3]]|BAMUM FULL STOP|꛳|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a6f4/index.htm|U+A6F4]]|BAMUM COLON|꛴|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a6f5/index.htm|U+A6F5]]|BAMUM COMMA|꛵|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a6f6/index.htm|U+A6F6]]|BAMUM SEMICOLON|꛶|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a6f7/index.htm|U+A6F7]]|BAMUM QUESTION MARK|꛷|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a874/index.htm|U+A874]]|PHAGS-PA SINGLE HEAD MARK|꡴|V|V|Match Phags-pa letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/a875/index.htm|U+A875]]|PHAGS-PA DOUBLE HEAD MARK|꡵|V|V|Match Phags-pa letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/a876/index.htm|U+A876]]|PHAGS-PA MARK SHAD|꡶|V|V|Match Phags-pa letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/a877/index.htm|U+A877]]|PHAGS-PA MARK DOUBLE SHAD|꡷|V|V|Match Phags-pa letters :?: DVO=U|
+|[[http://www.fileformat.info/info/unicode/char/a8ce/index.htm|U+A8CE]]|SAURASHTRA DANDA|꣎|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a8cf/index.htm|U+A8CF]]|SAURASHTRA DOUBLE DANDA|꣏|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a8f8/index.htm|U+A8F8]]|DEVANAGARI SIGN PUSHPIKA|꣸|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a8f9/index.htm|U+A8F9]]|DEVANAGARI GAP FILLER|꣹|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a8fa/index.htm|U+A8FA]]|DEVANAGARI CARET|꣺|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a92e/index.htm|U+A92E]]|KAYAH LI SIGN CWI|꤮|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a92f/index.htm|U+A92F]]|KAYAH LI SIGN SHYA|꤯|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a95f/index.htm|U+A95F]]|REJANG SECTION MARK|꥟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c1/index.htm|U+A9C1]]|JAVANESE LEFT RERENGGAN|꧁|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c2/index.htm|U+A9C2]]|JAVANESE RIGHT RERENGGAN|꧂|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c3/index.htm|U+A9C3]]|JAVANESE PADA ANDAP|꧃|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c4/index.htm|U+A9C4]]|JAVANESE PADA MADYA|꧄|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c5/index.htm|U+A9C5]]|JAVANESE PADA LUHUR|꧅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c6/index.htm|U+A9C6]]|JAVANESE PADA WINDU|꧆|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c7/index.htm|U+A9C7]]|JAVANESE PADA PANGKAT|꧇|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c8/index.htm|U+A9C8]]|JAVANESE PADA LINGSA|꧈|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9c9/index.htm|U+A9C9]]|JAVANESE PADA LUNGSI|꧉|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9ca/index.htm|U+A9CA]]|JAVANESE PADA ADEG|꧊|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9cb/index.htm|U+A9CB]]|JAVANESE PADA ADEG ADEG|꧋|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9cc/index.htm|U+A9CC]]|JAVANESE PADA PISELEH|꧌|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9cd/index.htm|U+A9CD]]|JAVANESE TURNED PADA PISELEH|꧍|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9de/index.htm|U+A9DE]]|JAVANESE PADA TIRTA TUMETES|꧞|U|R|
+|[[http://www.fileformat.info/info/unicode/char/a9df/index.htm|U+A9DF]]|JAVANESE PADA ISEN-ISEN|꧟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aa5c/index.htm|U+AA5C]]|CHAM PUNCTUATION SPIRAL|꩜|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aa5d/index.htm|U+AA5D]]|CHAM PUNCTUATION DANDA|꩝|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aa5e/index.htm|U+AA5E]]|CHAM PUNCTUATION DOUBLE DANDA|꩞|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aa5f/index.htm|U+AA5F]]|CHAM PUNCTUATION TRIPLE DANDA|꩟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aade/index.htm|U+AADE]]|TAI VIET SYMBOL HO HOI|꫞|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aadf/index.htm|U+AADF]]|TAI VIET SYMBOL KOI KOI|꫟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aaf0/index.htm|U+AAF0]]|MEETEI MAYEK CHEIKHAN|꫰|U|R|
+|[[http://www.fileformat.info/info/unicode/char/aaf1/index.htm|U+AAF1]]|MEETEI MAYEK AHANG KHUDAM|꫱|U|R|
+|[[http://www.fileformat.info/info/unicode/char/abeb/index.htm|U+ABEB]]|MEETEI MAYEK CHEIKHEI|꯫|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10100/index.htm|U+10100]]|AEGEAN WORD SEPARATOR LINE|𐄀|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10101/index.htm|U+10101]]|AEGEAN WORD SEPARATOR DOT|𐄁|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10102/index.htm|U+10102]]|AEGEAN CHECK MARK|𐄂|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1039f/index.htm|U+1039F]]|UGARITIC WORD DIVIDER|𐎟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/103d0/index.htm|U+103D0]]|OLD PERSIAN WORD DIVIDER|𐏐|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10857/index.htm|U+10857]]|IMPERIAL ARAMAIC SECTION SIGN|𐡗|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1091f/index.htm|U+1091F]]|PHOENICIAN WORD SEPARATOR|𐤟|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1093f/index.htm|U+1093F]]|LYDIAN TRIANGULAR MARK|𐤿|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a50/index.htm|U+10A50]]|KHAROSHTHI PUNCTUATION DOT|𐩐|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a51/index.htm|U+10A51]]|KHAROSHTHI PUNCTUATION SMALL CIRCLE|𐩑|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a52/index.htm|U+10A52]]|KHAROSHTHI PUNCTUATION CIRCLE|𐩒|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a53/index.htm|U+10A53]]|KHAROSHTHI PUNCTUATION CRESCENT BAR|𐩓|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a54/index.htm|U+10A54]]|KHAROSHTHI PUNCTUATION MANGALAM|𐩔|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a55/index.htm|U+10A55]]|KHAROSHTHI PUNCTUATION LOTUS|𐩕|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a56/index.htm|U+10A56]]|KHAROSHTHI PUNCTUATION DANDA|𐩖|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a57/index.htm|U+10A57]]|KHAROSHTHI PUNCTUATION DOUBLE DANDA|𐩗|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a58/index.htm|U+10A58]]|KHAROSHTHI PUNCTUATION LINES|𐩘|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10a7f/index.htm|U+10A7F]]|OLD SOUTH ARABIAN NUMERIC INDICATOR|𐩿|U|R|
+|[[http://www.fileformat.info/info/unicode/char/10b39/index.htm|U+10B39]]|AVESTAN ABBREVIATION MARK|𐬹|U|R|
+|[[http://www.fileformat.info/info/unicode/char/11047/index.htm|U+11047]]|BRAHMI DANDA|𑁇|U|R|
+|[[http://www.fileformat.info/info/unicode/char/11048/index.htm|U+11048]]|BRAHMI DOUBLE DANDA|𑁈|U|R|
+|[[http://www.fileformat.info/info/unicode/char/11049/index.htm|U+11049]]|BRAHMI PUNCTUATION DOT|𑁉|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1104a/index.htm|U+1104A]]|BRAHMI PUNCTUATION DOUBLE DOT|𑁊|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1104b/index.htm|U+1104B]]|BRAHMI PUNCTUATION LINE|𑁋|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1104c/index.htm|U+1104C]]|BRAHMI PUNCTUATION CRESCENT BAR|𑁌|U|R|
+|[[http://www.fileformat.info/info/unicode/char/1104d/index.htm|U+1104D]]|BRAHMI PUNCTUATION LOTUS|𑁍|U|R|
+|[[http://www.fileformat.info/info/unicode/char/110bb/index.htm|U+110BB]]|KAITHI ABBREVIATION SIGN|𑂻|U|R|
+|[[http://www.fileformat.info/info/unicode/char/110bc/index.htm|U+110BC]]|KAITHI ENUMERATION SIGN|𑂼|U|R|
+|[[http://www.fileformat.info/info/unicode/char/110be/index.htm|U+110BE]]|KAITHI SECTION MARK|𑂾|U|R|
+|[[http://www.fileformat.info/info/unicode/char/110bf/index.htm|U+110BF]]|KAITHI DOUBLE SECTION MARK|𑂿|U|R|
+|[[http://www.fileformat.info/info/unicode/char/110c0/index.htm|U+110C0]]|KAITHI DANDA|𑃀|U|R|
+|[[http://www.fileformat.info/info/unicode/char/110c1/index.htm|U+110C1]]|KAITHI DOUBLE DANDA|𑃁|U|R|
+|[[http://www.fileformat.info/info/unicode/char/11140/index.htm|U+11140]]|CHAKMA SECTION MARK|𑅀|U|R|
+|[[http://www.fileformat.info/info/unicode/char/11141/index.htm|U+11141]]|CHAKMA DANDA|𑅁|U|R|
+|[[http://www.fileformat.info/info/unicode/char/11142/index.htm|U+11142]]|CHAKMA DOUBLE DANDA|𑅂|U|R|
+|[[http://www.fileformat.info/info/unicode/char/11143/index.htm|U+11143]]|CHAKMA QUESTION MARK|𑅃|U|R|
+|[[http://www.fileformat.info/info/unicode/char/111c5/index.htm|U+111C5]]|SHARADA DANDA|𑇅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/111c6/index.htm|U+111C6]]|SHARADA DOUBLE DANDA|𑇆|U|R|
+|[[http://www.fileformat.info/info/unicode/char/111c7/index.htm|U+111C7]]|SHARADA ABBREVIATION SIGN|𑇇|U|R|
+|[[http://www.fileformat.info/info/unicode/char/111c8/index.htm|U+111C8]]|SHARADA SEPARATOR|𑇈|U|R|
+|[[http://www.fileformat.info/info/unicode/char/12470/index.htm|U+12470]]|CUNEIFORM PUNCTUATION SIGN OLD ASSYRIAN WORD DIVIDER|𒑰|U|R|
+|[[http://www.fileformat.info/info/unicode/char/12471/index.htm|U+12471]]|CUNEIFORM PUNCTUATION SIGN VERTICAL COLON|𒑱|U|R|
+|[[http://www.fileformat.info/info/unicode/char/12472/index.htm|U+12472]]|CUNEIFORM PUNCTUATION SIGN DIAGONAL COLON|𒑲|U|R|
+|[[http://www.fileformat.info/info/unicode/char/12473/index.htm|U+12473]]|CUNEIFORM PUNCTUATION SIGN DIAGONAL TRICOLON|𒑳|U|R|
 
 ===== Symbols =====
 
