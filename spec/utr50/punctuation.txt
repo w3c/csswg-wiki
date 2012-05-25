@@ -394,7 +394,7 @@ See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistl
 
 ==== Small/Fullwidth/Halfwidth/Vertical Other Punctuation (Po) ====
 
-^Code^Description^Char^Stack^Memo^
+^Code^Description^Char^Stack^Mix^Memo^
 |[[http://www.fileformat.info/info/unicode/char/fe50/index.htm|U+FE50]]|SMALL COMMA|﹐|T<sub>U</sub>|T<sub>U</sub>|Small variants upright; comma needs shifting :?: DVO=U|
 |[[http://www.fileformat.info/info/unicode/char/fe51/index.htm|U+FE51]]|SMALL IDEOGRAPHIC COMMA|﹑|T<sub>U</sub>|T<sub>U</sub>|Small variants upright; comma needs shifting :?: DVO=U|
 |[[http://www.fileformat.info/info/unicode/char/fe52/index.htm|U+FE52]]|SMALL FULL STOP|﹒|T<sub>U</sub>|T<sub>U</sub>|Small variants upright; full stop needs shifting :?: DVO=U|
