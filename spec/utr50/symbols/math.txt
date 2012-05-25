@@ -622,7 +622,7 @@ Symbols marked ":!: Relational operator" belong to the relational operator tailo
 |[[http://www.fileformat.info/info/unicode/char/2A40/index.htm|U+2A40]]|INTERSECTION WITH DOT|''⩀''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A41/index.htm|U+2A41]]|UNION WITH MINUS SIGN|''⩁''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A42/index.htm|U+2A42]]|UNION WITH OVERBAR|''⩂''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/2A43/index.htm|U+2A43]]|INTERSECTION WITH OVERBAR|''⩃''|U|R|R|
+|[[http://www.fileformat.info/info/unicode/char/2A43/index.htm|U+2A43]]|INTERSECTION WITH OVERBAR|''⩃''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A44/index.htm|U+2A44]]|INTERSECTION WITH LOGICAL AND|''⩄''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A45/index.htm|U+2A45]]|UNION WITH LOGICAL OR|''⩅''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A46/index.htm|U+2A46]]|UNION ABOVE INTERSECTION|''⩆''|U|R|
@@ -657,7 +657,7 @@ Symbols marked ":!: Relational operator" belong to the relational operator tailo
 |[[http://www.fileformat.info/info/unicode/char/2A63/index.htm|U+2A63]]|LOGICAL OR WITH DOUBLE UNDERBAR|''⩣''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A64/index.htm|U+2A64]]|Z NOTATION DOMAIN ANTIRESTRICTION|''⩤''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A65/index.htm|U+2A65]]|Z NOTATION RANGE ANTIRESTRICTION|''⩥''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/2A66/index.htm|U+2A66]]|EQUALS SIGN WITH DOT BELOW|''⩦''|U|R||:!: Relational operator|
+|[[http://www.fileformat.info/info/unicode/char/2A66/index.htm|U+2A66]]|EQUALS SIGN WITH DOT BELOW|''⩦''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/2A67/index.htm|U+2A67]]|IDENTICAL WITH DOT ABOVE|''⩧''|U|R|:!: Relational operator|
 |[[http://www.fileformat.info/info/unicode/char/2A68/index.htm|U+2A68]]|TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE|''⩨''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2A69/index.htm|U+2A69]]|TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE|''⩩''|U|R|
