@@ -347,7 +347,7 @@ See also [[spec:utr50:symbols:arrows]]
 
 ==== Miscellaneous Technical ====
 
-^Code^Description^Char^Stack^Memo^
+^Code^Description^Char^Stack^Mix^Memo^
 |[[http://www.fileformat.info/info/unicode/char/2308/index.htm|U+2308]]|LEFT CEILING|''⌈''|U|
 |[[http://www.fileformat.info/info/unicode/char/2309/index.htm|U+2309]]|RIGHT CEILING|''⌉''|U|
 |[[http://www.fileformat.info/info/unicode/char/230A/index.htm|U+230A]]|LEFT FLOOR|''⌊''|U|
@@ -355,31 +355,31 @@ See also [[spec:utr50:symbols:arrows]]
 |[[http://www.fileformat.info/info/unicode/char/2320/index.htm|U+2320]]|TOP HALF INTEGRAL|''⌠''|U|
 |[[http://www.fileformat.info/info/unicode/char/2321/index.htm|U+2321]]|BOTTOM HALF INTEGRAL|''⌡''|U|
 |[[http://www.fileformat.info/info/unicode/char/237C/index.htm|U+237C]]|RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW|''⍼''|U|
-|[[http://www.fileformat.info/info/unicode/char/239B/index.htm|U+239B]]|LEFT PARENTHESIS UPPER HOOK|''⎛''|U|
-|[[http://www.fileformat.info/info/unicode/char/239C/index.htm|U+239C]]|LEFT PARENTHESIS EXTENSION|''⎜''|U|
-|[[http://www.fileformat.info/info/unicode/char/239D/index.htm|U+239D]]|LEFT PARENTHESIS LOWER HOOK|''⎝''|U|
-|[[http://www.fileformat.info/info/unicode/char/239E/index.htm|U+239E]]|RIGHT PARENTHESIS UPPER HOOK|''⎞''|U|
-|[[http://www.fileformat.info/info/unicode/char/239F/index.htm|U+239F]]|RIGHT PARENTHESIS EXTENSION|''⎟''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A0/index.htm|U+23A0]]|RIGHT PARENTHESIS LOWER HOOK|''⎠''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A1/index.htm|U+23A1]]|LEFT SQUARE BRACKET UPPER CORNER|''⎡''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A2/index.htm|U+23A2]]|LEFT SQUARE BRACKET EXTENSION|''⎢''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A3/index.htm|U+23A3]]|LEFT SQUARE BRACKET LOWER CORNER|''⎣''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A4/index.htm|U+23A4]]|RIGHT SQUARE BRACKET UPPER CORNER|''⎤''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A5/index.htm|U+23A5]]|RIGHT SQUARE BRACKET EXTENSION|''⎥''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A6/index.htm|U+23A6]]|RIGHT SQUARE BRACKET LOWER CORNER|''⎦''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A7/index.htm|U+23A7]]|LEFT CURLY BRACKET UPPER HOOK|''⎧''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A8/index.htm|U+23A8]]|LEFT CURLY BRACKET MIDDLE PIECE|''⎨''|U|
-|[[http://www.fileformat.info/info/unicode/char/23A9/index.htm|U+23A9]]|LEFT CURLY BRACKET LOWER HOOK|''⎩''|U|
+|[[http://www.fileformat.info/info/unicode/char/239B/index.htm|U+239B]]|LEFT PARENTHESIS UPPER HOOK|''⎛''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/239C/index.htm|U+239C]]|LEFT PARENTHESIS EXTENSION|''⎜''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/239D/index.htm|U+239D]]|LEFT PARENTHESIS LOWER HOOK|''⎝''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/239E/index.htm|U+239E]]|RIGHT PARENTHESIS UPPER HOOK|''⎞''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/239F/index.htm|U+239F]]|RIGHT PARENTHESIS EXTENSION|''⎟''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A0/index.htm|U+23A0]]|RIGHT PARENTHESIS LOWER HOOK|''⎠''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A1/index.htm|U+23A1]]|LEFT SQUARE BRACKET UPPER CORNER|''⎡''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A2/index.htm|U+23A2]]|LEFT SQUARE BRACKET EXTENSION|''⎢''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A3/index.htm|U+23A3]]|LEFT SQUARE BRACKET LOWER CORNER|''⎣''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A4/index.htm|U+23A4]]|RIGHT SQUARE BRACKET UPPER CORNER|''⎤''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A5/index.htm|U+23A5]]|RIGHT SQUARE BRACKET EXTENSION|''⎥''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A6/index.htm|U+23A6]]|RIGHT SQUARE BRACKET LOWER CORNER|''⎦''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A7/index.htm|U+23A7]]|LEFT CURLY BRACKET UPPER HOOK|''⎧''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A8/index.htm|U+23A8]]|LEFT CURLY BRACKET MIDDLE PIECE|''⎨''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23A9/index.htm|U+23A9]]|LEFT CURLY BRACKET LOWER HOOK|''⎩''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/23AA/index.htm|U+23AA]]|CURLY BRACKET EXTENSION|''⎪''|U|
-|[[http://www.fileformat.info/info/unicode/char/23AB/index.htm|U+23AB]]|RIGHT CURLY BRACKET UPPER HOOK|''⎫''|U|
-|[[http://www.fileformat.info/info/unicode/char/23AC/index.htm|U+23AC]]|RIGHT CURLY BRACKET MIDDLE PIECE|''⎬''|U|
-|[[http://www.fileformat.info/info/unicode/char/23AD/index.htm|U+23AD]]|RIGHT CURLY BRACKET LOWER HOOK|''⎭''|U|
-|[[http://www.fileformat.info/info/unicode/char/23AE/index.htm|U+23AE]]|INTEGRAL EXTENSION|''⎮''|U|
-|[[http://www.fileformat.info/info/unicode/char/23AF/index.htm|U+23AF]]|HORIZONTAL LINE EXTENSION|''⎯''|U|
-|[[http://www.fileformat.info/info/unicode/char/23B0/index.htm|U+23B0]]|UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION|''⎰''|U|
-|[[http://www.fileformat.info/info/unicode/char/23B1/index.htm|U+23B1]]|UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION|''⎱''|U|
-|[[http://www.fileformat.info/info/unicode/char/23B2/index.htm|U+23B2]]|SUMMATION TOP|''⎲''|U|
-|[[http://www.fileformat.info/info/unicode/char/23B3/index.htm|U+23B3]]|SUMMATION BOTTOM|''⎳''|U|
+|[[http://www.fileformat.info/info/unicode/char/23AB/index.htm|U+23AB]]|RIGHT CURLY BRACKET UPPER HOOK|''⎫''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23AC/index.htm|U+23AC]]|RIGHT CURLY BRACKET MIDDLE PIECE|''⎬''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23AD/index.htm|U+23AD]]|RIGHT CURLY BRACKET LOWER HOOK|''⎭''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23AE/index.htm|U+23AE]]|INTEGRAL EXTENSION|''⎮''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23AF/index.htm|U+23AF]]|HORIZONTAL LINE EXTENSION|''⎯''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23B0/index.htm|U+23B0]]|UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION|''⎰''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23B1/index.htm|U+23B1]]|UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION|''⎱''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23B2/index.htm|U+23B2]]|SUMMATION TOP|''⎲''|R|R|Brackets are always sideways|
+|[[http://www.fileformat.info/info/unicode/char/23B3/index.htm|U+23B3]]|SUMMATION BOTTOM|''⎳''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/23DC/index.htm|U+23DC]]|TOP PARENTHESIS|''⏜''|U|
 |[[http://www.fileformat.info/info/unicode/char/23DD/index.htm|U+23DD]]|BOTTOM PARENTHESIS|''⏝''|U|
 |[[http://www.fileformat.info/info/unicode/char/23DE/index.htm|U+23DE]]|TOP CURLY BRACKET|''⏞''|U|
