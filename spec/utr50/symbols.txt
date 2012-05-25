@@ -71,12 +71,12 @@ Since S* is a large set, they're split among pages:
 |[[http://www.fileformat.info/info/unicode/char/20B9/index.htm|U+20B9]]|INDIAN RUPEE SIGN|''₹''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/A838/index.htm|U+A838]]|NORTH INDIC RUPEE MARK|''꠸''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/FDFC/index.htm|U+FDFC]]|RIAL SIGN|''﷼''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/FE69/index.htm|U+FE69]]|SMALL DOLLAR SIGN|''﹩''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/FF04/index.htm|U+FF04]]|FULLWIDTH DOLLAR SIGN|''＄''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/FFE0/index.htm|U+FFE0]]|FULLWIDTH CENT SIGN|''￠''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/FFE1/index.htm|U+FFE1]]|FULLWIDTH POUND SIGN|''￡''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/FFE5/index.htm|U+FFE5]]|FULLWIDTH YEN SIGN|''￥''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/FFE6/index.htm|U+FFE6]]|FULLWIDTH WON SIGN|''￦''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/FE69/index.htm|U+FE69]]|SMALL DOLLAR SIGN|''﹩''|U|U|Small matches fullwidth|
+|[[http://www.fileformat.info/info/unicode/char/FF04/index.htm|U+FF04]]|FULLWIDTH DOLLAR SIGN|''＄''|U|U|Fullwidth always upright|
+|[[http://www.fileformat.info/info/unicode/char/FFE0/index.htm|U+FFE0]]|FULLWIDTH CENT SIGN|''￠''|U|U|Fullwidth always upright|
+|[[http://www.fileformat.info/info/unicode/char/FFE1/index.htm|U+FFE1]]|FULLWIDTH POUND SIGN|''￡''|U|U|Fullwidth always upright|
+|[[http://www.fileformat.info/info/unicode/char/FFE5/index.htm|U+FFE5]]|FULLWIDTH YEN SIGN|''￥''|U|U|Fullwidth always upright|
+|[[http://www.fileformat.info/info/unicode/char/FFE6/index.htm|U+FFE6]]|FULLWIDTH WON SIGN|''￦''|U|U|Fullwidth always upright|
 
 ===== Symbol, Modifier (Sk) =====
 
