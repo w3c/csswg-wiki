@@ -370,7 +370,7 @@ See also [[spec:utr50:symbols:arrows]]
 |[[http://www.fileformat.info/info/unicode/char/23A7/index.htm|U+23A7]]|LEFT CURLY BRACKET UPPER HOOK|''⎧''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/23A8/index.htm|U+23A8]]|LEFT CURLY BRACKET MIDDLE PIECE|''⎨''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/23A9/index.htm|U+23A9]]|LEFT CURLY BRACKET LOWER HOOK|''⎩''|R|R|Brackets are always sideways|
-|[[http://www.fileformat.info/info/unicode/char/23AA/index.htm|U+23AA]]|CURLY BRACKET EXTENSION|''⎪''|U|
+|[[http://www.fileformat.info/info/unicode/char/23AA/index.htm|U+23AA]]|CURLY BRACKET EXTENSION|''⎪''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/23AB/index.htm|U+23AB]]|RIGHT CURLY BRACKET UPPER HOOK|''⎫''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/23AC/index.htm|U+23AC]]|RIGHT CURLY BRACKET MIDDLE PIECE|''⎬''|R|R|Brackets are always sideways|
 |[[http://www.fileformat.info/info/unicode/char/23AD/index.htm|U+23AD]]|RIGHT CURLY BRACKET LOWER HOOK|''⎭''|R|R|Brackets are always sideways|
