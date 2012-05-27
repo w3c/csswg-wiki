@@ -3,6 +3,7 @@
   * Script-specific (non-Common) numbers are classified by using their script property (including Script Extensions property). See [[letters]].
   * Fullwidth Common digits (Nd) are upright in both modes.
   * All other Common digits (Nd) are upright in stacked mode and sideways in mixed.
+  * Note: Roman numerals fall under the first category. This may be an issue.
 
 ===== Latin 1 =====
 ^Code^Description^Char^Stack^Mix^Memo^
