@@ -369,7 +369,7 @@
 |[[http://www.fileformat.info/info/unicode/char/27BC/index.htm|U+27BC]]|WEDGE-TAILED RIGHTWARDS ARROW|''➼''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/27BD/index.htm|U+27BD]]|HEAVY WEDGE-TAILED RIGHTWARDS ARROW|''➽''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/27BE/index.htm|U+27BE]]|OPEN-OUTLINED RIGHTWARDS ARROW|''➾''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/27BF/index.htm|U+27BF]]|DOUBLE CURLY LOOP|''➿''|U|R|
+
 
 ==== Miscellaneous Symbols and Arrows ====
 
