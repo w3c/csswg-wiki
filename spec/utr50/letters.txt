@@ -18,6 +18,7 @@ Letters and script-specific (non-Common) numbers are classified by using their s
 
 ^Code^Name^Stack^Mixed^Memo^
 |Bopo|Bopomofo|U|U| |
+|Brai|Braille|U|U|:?:|
 |Egyp|Egyptian Hieroglyphs|U|U| |
 |Hira|Hiragana|U|U| |
 |Kana|Katakana|U|U|Unclear whether halfwidth katakana should be upright or sideways; voice marks are broken if set upright.|
