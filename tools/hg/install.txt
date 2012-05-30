@@ -225,4 +225,4 @@ Mercurial Distributed SCM (version 2.2.1)
 As long as the version number you see is 2.1 or higher, you have a new enough version of Mercurial.
 
 ====== Return to hg setup ======
-Return to [[tools/hg]].
+Continue with [[tools/hg#setting-up-mercurial-preferences|Setting up Mercurial Preferences]].
