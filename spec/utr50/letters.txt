@@ -53,3 +53,51 @@ Some interesting cases:
 
 ===== Letterlike Symbols Block Letters ======
 
+See also [[symbols:textual|Symbols from this block]] and [[symbols:math|Math symbols from this block]]
+
+|U+2102|DOUBLE-STRUCK CAPITAL C|ℂ|U|R|Part of mathematical double-struck set|
+|U+2107|EULER CONSTANT|ℇ|U|R|Match PLANCK CONSTANT|
+|U+210A|SCRIPT SMALL G|ℊ|U|R|Part of mathematical script set|
+|U+210B|SCRIPT CAPITAL H|ℋ|U|R|Part of mathematical script set|
+|U+210C|BLACK-LETTER CAPITAL H|ℌ|U|R|Match other math letters|
+|U+210D|DOUBLE-STRUCK CAPITAL H|ℍ|U|R|Part of mathematical double-struck set|
+|U+210E|PLANCK CONSTANT|ℎ|U|R|Part of mathematical italic set|
+|U+210F|PLANCK CONSTANT OVER TWO PI|ℏ|U|R|Match PLANCK CONSTANT|
+|U+2110|SCRIPT CAPITAL I|ℐ|U|R|Part of mathematical script set|
+|U+2111|BLACK-LETTER CAPITAL I|ℑ|U|R|Match other math letters|
+|U+2112|SCRIPT CAPITAL L|ℒ|U|R|Part of mathematical script set|
+|U+2113|SCRIPT SMALL L|ℓ|U|R|EA compatibility unit is upright.|
+|U+2115|DOUBLE-STRUCK CAPITAL N|ℕ|U|R|Part of mathematical double-struck set|
+|U+2119|DOUBLE-STRUCK CAPITAL P|ℙ|U|R|Part of mathematical double-struck set|
+|U+211A|DOUBLE-STRUCK CAPITAL Q|ℚ|U|R|Part of mathematical double-struck set|
+|U+211B|SCRIPT CAPITAL R|ℛ|U|R|Part of mathematical script set|
+|U+211C|BLACK-LETTER CAPITAL R|ℜ|U|R|Match other math letters|
+|U+211D|DOUBLE-STRUCK CAPITAL R|ℝ|U|R|Part of mathematical double-struck set|
+|U+2124|DOUBLE-STRUCK CAPITAL Z|ℤ|U|R|Part of mathematical double-struck set|
+|U+2126|OHM SIGN|Ω|U|R|EA compatibility unit is upright. :!: NFC-folds to omega|
+|U+2128|BLACK-LETTER CAPITAL Z|ℨ|U|R|Match other math letters|
+|U+212A|KELVIN SIGN|K|U|U|EA compatibility unit is upright. :!: NFC-folds to K|
+|U+212B|ANGSTROM SIGN|Å|U|U|EA compatibility unit is upright. :!: NFC-folds to Aring|
+|U+212C|SCRIPT CAPITAL B|ℬ|U|R|Part of mathematical script set|
+|U+212D|BLACK-LETTER CAPITAL C|ℭ|U|R|Match other math letters|
+|U+212F|SCRIPT SMALL E|ℯ|U|R|Part of mathematical script set|
+|U+2130|SCRIPT CAPITAL E|ℰ|U|R|Part of mathematical script set|
+|U+2131|SCRIPT CAPITAL F|ℱ|U|R|Part of mathematical script set|
+|U+2132|TURNED CAPITAL F|Ⅎ|U|R|Claudian must match Latin|
+|U+2133|SCRIPT CAPITAL M|ℳ|U|R|Part of mathematical script set|
+|U+2134|SCRIPT SMALL O|ℴ|U|R|Part of mathematical script set|
+|U+2139|INFORMATION SOURCE|ℹ|U|U|Symbolic, not math|
+|U+213C|DOUBLE-STRUCK SMALL PI|ℼ|U|R|Match double-struck Latin|
+|U+213D|DOUBLE-STRUCK SMALL GAMMA|ℽ|U|R|Match double-struck Latin|
+|U+213E|DOUBLE-STRUCK CAPITAL GAMMA|ℾ|U|R|Match double-struck Latin|
+|U+213F|DOUBLE-STRUCK CAPITAL PI|ℿ|U|R|Match double-struck Latin|
+|U+2135|ALEF SYMBOL|ℵ|U|R|Math symbol|
+|U+2136|BET SYMBOL|ℶ|U|R|Math symbol|
+|U+2137|GIMEL SYMBOL|ℷ|U|R|Math symbol|
+|U+2138|DALET SYMBOL|ℸ|U|R|Math symbol|
+|U+2145|DOUBLE-STRUCK ITALIC CAPITAL D|ⅅ|U|R|Math symbol, match double-struck Latin|
+|U+2146|DOUBLE-STRUCK ITALIC SMALL D|ⅆ|U|R|Math symbol, match double-struck Latin|
+|U+2147|DOUBLE-STRUCK ITALIC SMALL E|ⅇ|U|R|Math symbol, match double-struck Latin|
+|U+2148|DOUBLE-STRUCK ITALIC SMALL I|ⅈ|U|R|Math symbol, match double-struck Latin|
+|U+2149|DOUBLE-STRUCK ITALIC SMALL J|ⅉ|U|R|Math symbol, match double-struck Latin|
+|U+214E|TURNED SMALL F|ⅎ|U|R|Claudian must match Latin|
