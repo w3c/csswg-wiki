@@ -47,3 +47,7 @@ What are the best initial values for flex?
     * Easy for use cases where free space is distributed to e.g. only one item
   * Cons
     * Inconsistent with 'stretch' default in cross-dimension
+
+=== Resolution ===
+
+The WG resolved on Proposal C.
