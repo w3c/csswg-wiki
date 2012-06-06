@@ -26,10 +26,10 @@ Symbols without fullwidth variants can be either consistent with DOLLAR SIGN or 
 |[[http://www.fileformat.info/info/unicode/char/20A6/index.htm|U+20A6]]|NAIRA SIGN|''₦''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/20A7/index.htm|U+20A7]]|PESETA SIGN|''₧''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/20A8/index.htm|U+20A8]]|RUPEE SIGN|''₨''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/20A9/index.htm|U+20A9]]|WON SIGN|''₩''|U|R|Has fullwidth equivalent.|
+|[[http://www.fileformat.info/info/unicode/char/20A9/index.htm|U+20A9]]|WON SIGN|''₩''|U|R|Has fullwidth equivalent, and EAW=H.|
 |[[http://www.fileformat.info/info/unicode/char/20AA/index.htm|U+20AA]]|NEW SHEQEL SIGN|''₪''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/20AB/index.htm|U+20AB]]|DONG SIGN|''₫''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/20AC/index.htm|U+20AC]]|EURO SIGN|''€''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/20AC/index.htm|U+20AC]]|EURO SIGN|''€''|U|R|EAW=A|
 |[[http://www.fileformat.info/info/unicode/char/20AD/index.htm|U+20AD]]|KIP SIGN|''₭''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/20AE/index.htm|U+20AE]]|TUGRIK SIGN|''₮''|U|R|
 |[[http://www.fileformat.info/info/unicode/char/20AF/index.htm|U+20AF]]|DRACHMA SIGN|''₯''|U|R|
