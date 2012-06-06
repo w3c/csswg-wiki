@@ -11,9 +11,9 @@
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#small-form-variants|Errors in small forms variants]]
   * Geometric Shapes block (mixed Sm and So)
 
-=== Low Priority ===
+=== Lower Priority ===
 
+  * [[http://wiki.csswg.org/spec/utr50/diff20120605#spacing-modifier-letters|Spacing modifier letters]], most should be U/R, since used with Latin and variations thereupon
   * Egyptian should all be U
   * Canadian Syllabics?
-  * Low lines in Pc, as well as DOUBLE LOW LINE
   * Musical symbols Cf should be R, not U, since they're connectors
