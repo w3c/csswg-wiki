@@ -312,7 +312,7 @@ See [[http://www.unicode.org/mail-arch/unicode-ml/y2012-m03/0065.html|Ken Whistl
 |[[http://www.fileformat.info/info/unicode/char/2038/index.htm|U+2038]]|CARET|‸|U|R|
 |[[http://www.fileformat.info/info/unicode/char/203b/index.htm|U+203B]]|REFERENCE MARK|※|U|U|
 |[[http://www.fileformat.info/info/unicode/char/203c/index.htm|U+203C]]|DOUBLE EXCLAMATION MARK|‼|U|U|
-|[[http://www.fileformat.info/info/unicode/char/203d/index.htm|U+203D]]|INTERROBANG|‽|U|R|:?:|
+|[[http://www.fileformat.info/info/unicode/char/203d/index.htm|U+203D]]|INTERROBANG|‽|U|U|:?:|
 |[[http://www.fileformat.info/info/unicode/char/203e/index.htm|U+203E]]|OVERLINE|‾|U|R|Match LOW LINE|
 |[[http://www.fileformat.info/info/unicode/char/2041/index.htm|U+2041]]|CARET INSERTION POINT|⁁|U|R|
 |[[http://www.fileformat.info/info/unicode/char/2042/index.htm|U+2042]]|ASTERISM|⁂|U|U|:?: In JIS0213|
