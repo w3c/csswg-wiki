@@ -1,6 +1,6 @@
 ===== Symbol, Currency (Sc) by Codepoint =====
 
-Symbols without fullwidth variants can be either consistent with DOLLAR SIGN or FULLWIDTH DOLLAR SIGN. UTR50 seems to prefer upright, MS puts sideways by default.
+Symbols without fullwidth variants can be either consistent with DOLLAR SIGN or FULLWIDTH DOLLAR SIGN. UTR50 seems to prefer upright for Common script signs, MS puts sideways by default. Should be consistent as a category, question is which way.
 
 ^Code^Description^Char^Stack^Mix^Memo^
 |[[http://www.fileformat.info/info/unicode/char/0024/index.htm|U+0024]]|DOLLAR SIGN|''$''|U|R|
