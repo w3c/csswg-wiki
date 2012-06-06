@@ -9,7 +9,7 @@
     * SVO should be Tu
     * U+30xx -> MVO=Tu
     * U+20xx -> MVO=R?
-  * Halfwidth Kana Etc. as R
+  * Halfwidth Kana Etc. as R =>[[http://www.unicode.org/forum/viewtopic.php?f=35&t=321|Unicode Forum]]
   * [[http://wiki.csswg.org/spec/utr50/symbols/currency|Currency symbols]]
   * Bullets should be MVO=R U+2022/2023
   * Primes should be MVO=R
