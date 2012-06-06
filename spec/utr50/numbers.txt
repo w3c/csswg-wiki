@@ -7,32 +7,32 @@
 
 ===== Latin 1 =====
 ^Code^Description^Char^Stack^Mix^Memo^
-|[[http://www.fileformat.info/info/unicode/char/00B2/index.htm|U+00B2]]|SUPERSCRIPT TWO|²|R|R|
-|[[http://www.fileformat.info/info/unicode/char/00B3/index.htm|U+00B3]]|SUPERSCRIPT THREE|³|R|R|
-|[[http://www.fileformat.info/info/unicode/char/00B9/index.htm|U+00B9]]|SUPERSCRIPT ONE|¹|R|R|
+|[[http://www.fileformat.info/info/unicode/char/00B2/index.htm|U+00B2]]|SUPERSCRIPT TWO|²|U|R|
+|[[http://www.fileformat.info/info/unicode/char/00B3/index.htm|U+00B3]]|SUPERSCRIPT THREE|³|U|R|
+|[[http://www.fileformat.info/info/unicode/char/00B9/index.htm|U+00B9]]|SUPERSCRIPT ONE|¹|U|R|
 |[[http://www.fileformat.info/info/unicode/char/00BC/index.htm|U+00BC]]|VULGAR FRACTION ONE QUARTER|¼|U|U|
 |[[http://www.fileformat.info/info/unicode/char/00BD/index.htm|U+00BD]]|VULGAR FRACTION ONE HALF|½|U|U|
 |[[http://www.fileformat.info/info/unicode/char/00BE/index.htm|U+00BE]]|VULGAR FRACTION THREE QUARTERS|¾|U|U|
 
 ===== Superscripts And Subscripts =====
 ^Code^Description^Char^Stack^Mix^Memo^
-|[[http://www.fileformat.info/info/unicode/char/2070/index.htm|U+2070]]|SUPERSCRIPT ZERO|⁰|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2074/index.htm|U+2074]]|SUPERSCRIPT FOUR|⁴|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2075/index.htm|U+2075]]|SUPERSCRIPT FIVE|⁵|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2076/index.htm|U+2076]]|SUPERSCRIPT SIX|⁶|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2077/index.htm|U+2077]]|SUPERSCRIPT SEVEN|⁷|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2078/index.htm|U+2078]]|SUPERSCRIPT EIGHT|⁸|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2079/index.htm|U+2079]]|SUPERSCRIPT NINE|⁹|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2080/index.htm|U+2080]]|SUBSCRIPT ZERO|₀|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2081/index.htm|U+2081]]|SUBSCRIPT ONE|₁|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2082/index.htm|U+2082]]|SUBSCRIPT TWO|₂|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2083/index.htm|U+2083]]|SUBSCRIPT THREE|₃|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2084/index.htm|U+2084]]|SUBSCRIPT FOUR|₄|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2085/index.htm|U+2085]]|SUBSCRIPT FIVE|₅|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2086/index.htm|U+2086]]|SUBSCRIPT SIX|₆|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2087/index.htm|U+2087]]|SUBSCRIPT SEVEN|₇|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2088/index.htm|U+2088]]|SUBSCRIPT EIGHT|₈|R|R|
-|[[http://www.fileformat.info/info/unicode/char/2089/index.htm|U+2089]]|SUBSCRIPT NINE|₉|R|R|
+|[[http://www.fileformat.info/info/unicode/char/2070/index.htm|U+2070]]|SUPERSCRIPT ZERO|⁰|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2074/index.htm|U+2074]]|SUPERSCRIPT FOUR|⁴|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2075/index.htm|U+2075]]|SUPERSCRIPT FIVE|⁵|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2076/index.htm|U+2076]]|SUPERSCRIPT SIX|⁶|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2077/index.htm|U+2077]]|SUPERSCRIPT SEVEN|⁷|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2078/index.htm|U+2078]]|SUPERSCRIPT EIGHT|⁸|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2079/index.htm|U+2079]]|SUPERSCRIPT NINE|⁹|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2080/index.htm|U+2080]]|SUBSCRIPT ZERO|₀|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2081/index.htm|U+2081]]|SUBSCRIPT ONE|₁|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2082/index.htm|U+2082]]|SUBSCRIPT TWO|₂|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2083/index.htm|U+2083]]|SUBSCRIPT THREE|₃|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2084/index.htm|U+2084]]|SUBSCRIPT FOUR|₄|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2085/index.htm|U+2085]]|SUBSCRIPT FIVE|₅|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2086/index.htm|U+2086]]|SUBSCRIPT SIX|₆|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2087/index.htm|U+2087]]|SUBSCRIPT SEVEN|₇|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2088/index.htm|U+2088]]|SUBSCRIPT EIGHT|₈|U|R|
+|[[http://www.fileformat.info/info/unicode/char/2089/index.htm|U+2089]]|SUBSCRIPT NINE|₉|U|R|
 ===== Fractions =====
 ^Code^Description^Char^Stack^Mix^Memo^
 |[[http://www.fileformat.info/info/unicode/char/2150/index.htm|U+2150]]|VULGAR FRACTION ONE SEVENTH|⅐|U|U|
