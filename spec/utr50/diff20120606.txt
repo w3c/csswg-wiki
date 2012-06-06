@@ -5,7 +5,7 @@
   * CSS = Current table as we have in this wiki
   * [[diff20120605|Previous diff]]
 
-
+===== By Category =====
 
 ==== Cc ====
 
@@ -96,57 +96,7 @@
 |[[http://www.fileformat.info/info/unicode/char/A500/index.htm|U+A500]]|ꔀ|VAI SYLLABLE EE|Vai|R|U|R|
 |...|||||||
 |[[http://www.fileformat.info/info/unicode/char/A840/index.htm|U+A840]]|ꡀ|PHAGS-PA LETTER KA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A841/index.htm|U+A841]]|ꡁ|PHAGS-PA LETTER KHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A842/index.htm|U+A842]]|ꡂ|PHAGS-PA LETTER GA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A843/index.htm|U+A843]]|ꡃ|PHAGS-PA LETTER NGA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A844/index.htm|U+A844]]|ꡄ|PHAGS-PA LETTER CA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A845/index.htm|U+A845]]|ꡅ|PHAGS-PA LETTER CHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A846/index.htm|U+A846]]|ꡆ|PHAGS-PA LETTER JA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A847/index.htm|U+A847]]|ꡇ|PHAGS-PA LETTER NYA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A848/index.htm|U+A848]]|ꡈ|PHAGS-PA LETTER TA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A849/index.htm|U+A849]]|ꡉ|PHAGS-PA LETTER THA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A84A/index.htm|U+A84A]]|ꡊ|PHAGS-PA LETTER DA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A84B/index.htm|U+A84B]]|ꡋ|PHAGS-PA LETTER NA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A84C/index.htm|U+A84C]]|ꡌ|PHAGS-PA LETTER PA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A84D/index.htm|U+A84D]]|ꡍ|PHAGS-PA LETTER PHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A84E/index.htm|U+A84E]]|ꡎ|PHAGS-PA LETTER BA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A84F/index.htm|U+A84F]]|ꡏ|PHAGS-PA LETTER MA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A850/index.htm|U+A850]]|ꡐ|PHAGS-PA LETTER TSA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A851/index.htm|U+A851]]|ꡑ|PHAGS-PA LETTER TSHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A852/index.htm|U+A852]]|ꡒ|PHAGS-PA LETTER DZA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A853/index.htm|U+A853]]|ꡓ|PHAGS-PA LETTER WA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A854/index.htm|U+A854]]|ꡔ|PHAGS-PA LETTER ZHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A855/index.htm|U+A855]]|ꡕ|PHAGS-PA LETTER ZA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A856/index.htm|U+A856]]|ꡖ|PHAGS-PA LETTER SMALL A|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A857/index.htm|U+A857]]|ꡗ|PHAGS-PA LETTER YA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A858/index.htm|U+A858]]|ꡘ|PHAGS-PA LETTER RA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A859/index.htm|U+A859]]|ꡙ|PHAGS-PA LETTER LA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A85A/index.htm|U+A85A]]|ꡚ|PHAGS-PA LETTER SHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A85B/index.htm|U+A85B]]|ꡛ|PHAGS-PA LETTER SA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A85C/index.htm|U+A85C]]|ꡜ|PHAGS-PA LETTER HA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A85D/index.htm|U+A85D]]|ꡝ|PHAGS-PA LETTER A|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A85E/index.htm|U+A85E]]|ꡞ|PHAGS-PA LETTER I|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A85F/index.htm|U+A85F]]|ꡟ|PHAGS-PA LETTER U|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A860/index.htm|U+A860]]|ꡠ|PHAGS-PA LETTER E|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A861/index.htm|U+A861]]|ꡡ|PHAGS-PA LETTER O|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A862/index.htm|U+A862]]|ꡢ|PHAGS-PA LETTER QA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A863/index.htm|U+A863]]|ꡣ|PHAGS-PA LETTER XA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A864/index.htm|U+A864]]|ꡤ|PHAGS-PA LETTER FA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A865/index.htm|U+A865]]|ꡥ|PHAGS-PA LETTER GGA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A866/index.htm|U+A866]]|ꡦ|PHAGS-PA LETTER EE|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A867/index.htm|U+A867]]|ꡧ|PHAGS-PA SUBJOINED LETTER WA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A868/index.htm|U+A868]]|ꡨ|PHAGS-PA SUBJOINED LETTER YA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A869/index.htm|U+A869]]|ꡩ|PHAGS-PA LETTER TTA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A86A/index.htm|U+A86A]]|ꡪ|PHAGS-PA LETTER TTHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A86B/index.htm|U+A86B]]|ꡫ|PHAGS-PA LETTER DDA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A86C/index.htm|U+A86C]]|ꡬ|PHAGS-PA LETTER NNA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A86D/index.htm|U+A86D]]|ꡭ|PHAGS-PA LETTER ALTERNATE YA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A86E/index.htm|U+A86E]]|ꡮ|PHAGS-PA LETTER VOICELESS SHA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A86F/index.htm|U+A86F]]|ꡯ|PHAGS-PA LETTER VOICED HA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A870/index.htm|U+A870]]|ꡰ|PHAGS-PA LETTER ASPIRATED FA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A871/index.htm|U+A871]]|ꡱ|PHAGS-PA SUBJOINED LETTER RA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A872/index.htm|U+A872]]|ꡲ|PHAGS-PA SUPERFIXED LETTER RA|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A873/index.htm|U+A873]]|ꡳ|PHAGS-PA LETTER CANDRABINDU|Phags-pa|R|R|V|
+|...|||||||
 |[[http://www.fileformat.info/info/unicode/char/FF66/index.htm|U+FF66]]|ｦ|HALFWIDTH KATAKANA LETTER WO|Halfwidth and Fullwidth Forms|U|U|R|
 |[[http://www.fileformat.info/info/unicode/char/FF67/index.htm|U+FF67]]|ｧ|HALFWIDTH KATAKANA LETTER SMALL A|Halfwidth and Fullwidth Forms|Tu|TU|R|
 |[[http://www.fileformat.info/info/unicode/char/FF68/index.htm|U+FF68]]|ｨ|HALFWIDTH KATAKANA LETTER SMALL I|Halfwidth and Fullwidth Forms|Tu|TU|R|
@@ -473,9 +423,7 @@
 |[[http://www.fileformat.info/info/unicode/char/A60D/index.htm|U+A60D]]|꘍|VAI COMMA|Vai|R|U|R|
 |...|||||||
 |[[http://www.fileformat.info/info/unicode/char/A874/index.htm|U+A874]]|꡴|PHAGS-PA SINGLE HEAD MARK|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A875/index.htm|U+A875]]|꡵|PHAGS-PA DOUBLE HEAD MARK|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A876/index.htm|U+A876]]|꡶|PHAGS-PA MARK SHAD|Phags-pa|R|R|V|
-|[[http://www.fileformat.info/info/unicode/char/A877/index.htm|U+A877]]|꡷|PHAGS-PA MARK DOUBLE SHAD|Phags-pa|R|R|V|
+|...|||||||
 |[[http://www.fileformat.info/info/unicode/char/FE49/index.htm|U+FE49]]|﹉|DASHED OVERLINE|CJK Compatibility Forms|U|U|R|
 |[[http://www.fileformat.info/info/unicode/char/FE4A/index.htm|U+FE4A]]|﹊|CENTRELINE OVERLINE|CJK Compatibility Forms|U|U|R|
 |[[http://www.fileformat.info/info/unicode/char/FE4B/index.htm|U+FE4B]]|﹋|WAVY OVERLINE|CJK Compatibility Forms|U|U|R|
@@ -633,7 +581,74 @@
 |[[http://www.fileformat.info/info/unicode/char/2334/index.htm|U+2334]]|⌴|COUNTERBORE|Miscellaneous Technical|R|U|U|
 |[[http://www.fileformat.info/info/unicode/char/2335/index.htm|U+2335]]|⌵|COUNTERSINK|Miscellaneous Technical|R|U|U|
 |[[http://www.fileformat.info/info/unicode/char/2336/index.htm|U+2336]]|⌶|APL FUNCTIONAL SYMBOL I-BEAM|Miscellaneous Technical|R|U|U|
-|...|||||||
+|[[http://www.fileformat.info/info/unicode/char/2337/index.htm|U+2337]]|⌷|APL FUNCTIONAL SYMBOL SQUISH QUAD|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2338/index.htm|U+2338]]|⌸|APL FUNCTIONAL SYMBOL QUAD EQUAL|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2339/index.htm|U+2339]]|⌹|APL FUNCTIONAL SYMBOL QUAD DIVIDE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/233A/index.htm|U+233A]]|⌺|APL FUNCTIONAL SYMBOL QUAD DIAMOND|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/233B/index.htm|U+233B]]|⌻|APL FUNCTIONAL SYMBOL QUAD JOT|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/233C/index.htm|U+233C]]|⌼|APL FUNCTIONAL SYMBOL QUAD CIRCLE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/233D/index.htm|U+233D]]|⌽|APL FUNCTIONAL SYMBOL CIRCLE STILE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/233E/index.htm|U+233E]]|⌾|APL FUNCTIONAL SYMBOL CIRCLE JOT|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/233F/index.htm|U+233F]]|⌿|APL FUNCTIONAL SYMBOL SLASH BAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2340/index.htm|U+2340]]|⍀|APL FUNCTIONAL SYMBOL BACKSLASH BAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2341/index.htm|U+2341]]|⍁|APL FUNCTIONAL SYMBOL QUAD SLASH|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2342/index.htm|U+2342]]|⍂|APL FUNCTIONAL SYMBOL QUAD BACKSLASH|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2343/index.htm|U+2343]]|⍃|APL FUNCTIONAL SYMBOL QUAD LESS-THAN|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2344/index.htm|U+2344]]|⍄|APL FUNCTIONAL SYMBOL QUAD GREATER-THAN|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2345/index.htm|U+2345]]|⍅|APL FUNCTIONAL SYMBOL LEFTWARDS VANE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2346/index.htm|U+2346]]|⍆|APL FUNCTIONAL SYMBOL RIGHTWARDS VANE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2347/index.htm|U+2347]]|⍇|APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2348/index.htm|U+2348]]|⍈|APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2349/index.htm|U+2349]]|⍉|APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/234A/index.htm|U+234A]]|⍊|APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/234B/index.htm|U+234B]]|⍋|APL FUNCTIONAL SYMBOL DELTA STILE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/234C/index.htm|U+234C]]|⍌|APL FUNCTIONAL SYMBOL QUAD DOWN CARET|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/234D/index.htm|U+234D]]|⍍|APL FUNCTIONAL SYMBOL QUAD DELTA|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/234E/index.htm|U+234E]]|⍎|APL FUNCTIONAL SYMBOL DOWN TACK JOT|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/234F/index.htm|U+234F]]|⍏|APL FUNCTIONAL SYMBOL UPWARDS VANE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2350/index.htm|U+2350]]|⍐|APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2351/index.htm|U+2351]]|⍑|APL FUNCTIONAL SYMBOL UP TACK OVERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2352/index.htm|U+2352]]|⍒|APL FUNCTIONAL SYMBOL DEL STILE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2353/index.htm|U+2353]]|⍓|APL FUNCTIONAL SYMBOL QUAD UP CARET|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2354/index.htm|U+2354]]|⍔|APL FUNCTIONAL SYMBOL QUAD DEL|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2355/index.htm|U+2355]]|⍕|APL FUNCTIONAL SYMBOL UP TACK JOT|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2356/index.htm|U+2356]]|⍖|APL FUNCTIONAL SYMBOL DOWNWARDS VANE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2357/index.htm|U+2357]]|⍗|APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2358/index.htm|U+2358]]|⍘|APL FUNCTIONAL SYMBOL QUOTE UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2359/index.htm|U+2359]]|⍙|APL FUNCTIONAL SYMBOL DELTA UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/235A/index.htm|U+235A]]|⍚|APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/235B/index.htm|U+235B]]|⍛|APL FUNCTIONAL SYMBOL JOT UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/235C/index.htm|U+235C]]|⍜|APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/235D/index.htm|U+235D]]|⍝|APL FUNCTIONAL SYMBOL UP SHOE JOT|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/235E/index.htm|U+235E]]|⍞|APL FUNCTIONAL SYMBOL QUOTE QUAD|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/235F/index.htm|U+235F]]|⍟|APL FUNCTIONAL SYMBOL CIRCLE STAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2360/index.htm|U+2360]]|⍠|APL FUNCTIONAL SYMBOL QUAD COLON|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2361/index.htm|U+2361]]|⍡|APL FUNCTIONAL SYMBOL UP TACK DIAERESIS|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2362/index.htm|U+2362]]|⍢|APL FUNCTIONAL SYMBOL DEL DIAERESIS|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2363/index.htm|U+2363]]|⍣|APL FUNCTIONAL SYMBOL STAR DIAERESIS|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2364/index.htm|U+2364]]|⍤|APL FUNCTIONAL SYMBOL JOT DIAERESIS|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2365/index.htm|U+2365]]|⍥|APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2366/index.htm|U+2366]]|⍦|APL FUNCTIONAL SYMBOL DOWN SHOE STILE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2367/index.htm|U+2367]]|⍧|APL FUNCTIONAL SYMBOL LEFT SHOE STILE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2368/index.htm|U+2368]]|⍨|APL FUNCTIONAL SYMBOL TILDE DIAERESIS|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2369/index.htm|U+2369]]|⍩|APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/236A/index.htm|U+236A]]|⍪|APL FUNCTIONAL SYMBOL COMMA BAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/236B/index.htm|U+236B]]|⍫|APL FUNCTIONAL SYMBOL DEL TILDE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/236C/index.htm|U+236C]]|⍬|APL FUNCTIONAL SYMBOL ZILDE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/236D/index.htm|U+236D]]|⍭|APL FUNCTIONAL SYMBOL STILE TILDE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/236E/index.htm|U+236E]]|⍮|APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/236F/index.htm|U+236F]]|⍯|APL FUNCTIONAL SYMBOL QUAD NOT EQUAL|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2370/index.htm|U+2370]]|⍰|APL FUNCTIONAL SYMBOL QUAD QUESTION|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2371/index.htm|U+2371]]|⍱|APL FUNCTIONAL SYMBOL DOWN CARET TILDE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2372/index.htm|U+2372]]|⍲|APL FUNCTIONAL SYMBOL UP CARET TILDE|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2373/index.htm|U+2373]]|⍳|APL FUNCTIONAL SYMBOL IOTA|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2374/index.htm|U+2374]]|⍴|APL FUNCTIONAL SYMBOL RHO|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2375/index.htm|U+2375]]|⍵|APL FUNCTIONAL SYMBOL OMEGA|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2376/index.htm|U+2376]]|⍶|APL FUNCTIONAL SYMBOL ALPHA UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2377/index.htm|U+2377]]|⍷|APL FUNCTIONAL SYMBOL EPSILON UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2378/index.htm|U+2378]]|⍸|APL FUNCTIONAL SYMBOL IOTA UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/2379/index.htm|U+2379]]|⍹|APL FUNCTIONAL SYMBOL OMEGA UNDERBAR|Miscellaneous Technical|R|U|U|
+|[[http://www.fileformat.info/info/unicode/char/237A/index.htm|U+237A]]|⍺|APL FUNCTIONAL SYMBOL ALPHA|Miscellaneous Technical|R|U|U|
 |[[http://www.fileformat.info/info/unicode/char/237B/index.htm|U+237B]]|⍻|NOT CHECK MARK|Miscellaneous Technical|R|U|U|
 |[[http://www.fileformat.info/info/unicode/char/23B7/index.htm|U+23B7]]|⎷|RADICAL SYMBOL BOTTOM|Miscellaneous Technical|R|U|U|
 |[[http://www.fileformat.info/info/unicode/char/23B8/index.htm|U+23B8]]|⎸|LEFT VERTICAL BOX LINE|Miscellaneous Technical|R|U|U|
