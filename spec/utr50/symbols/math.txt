@@ -392,16 +392,16 @@ Symbols marked ":!: Relational operator" belong to the relational operator tailo
 ==== Geometric Shapes ====
 
 ^Code^Description^Char^Stack^Mix^Memo^
-|[[http://www.fileformat.info/info/unicode/char/25B7/index.htm|U+25B7]]|WHITE RIGHT-POINTING TRIANGLE|''▷''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25C1/index.htm|U+25C1]]|WHITE LEFT-POINTING TRIANGLE|''◁''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25F8/index.htm|U+25F8]]|UPPER LEFT TRIANGLE|''◸''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25F9/index.htm|U+25F9]]|UPPER RIGHT TRIANGLE|''◹''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25FA/index.htm|U+25FA]]|LOWER LEFT TRIANGLE|''◺''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25FB/index.htm|U+25FB]]|WHITE MEDIUM SQUARE|''◻''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25FC/index.htm|U+25FC]]|BLACK MEDIUM SQUARE|''◼''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25FD/index.htm|U+25FD]]|WHITE MEDIUM SMALL SQUARE|''◽''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25FE/index.htm|U+25FE]]|BLACK MEDIUM SMALL SQUARE|''◾''|U|R|
-|[[http://www.fileformat.info/info/unicode/char/25FF/index.htm|U+25FF]]|LOWER RIGHT TRIANGLE|''◿''|U|R|
+|[[http://www.fileformat.info/info/unicode/char/25B7/index.htm|U+25B7]]|WHITE RIGHT-POINTING TRIANGLE|''▷''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25C1/index.htm|U+25C1]]|WHITE LEFT-POINTING TRIANGLE|''◁''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25F8/index.htm|U+25F8]]|UPPER LEFT TRIANGLE|''◸''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25F9/index.htm|U+25F9]]|UPPER RIGHT TRIANGLE|''◹''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25FA/index.htm|U+25FA]]|LOWER LEFT TRIANGLE|''◺''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25FB/index.htm|U+25FB]]|WHITE MEDIUM SQUARE|''◻''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25FC/index.htm|U+25FC]]|BLACK MEDIUM SQUARE|''◼''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25FD/index.htm|U+25FD]]|WHITE MEDIUM SMALL SQUARE|''◽''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25FE/index.htm|U+25FE]]|BLACK MEDIUM SMALL SQUARE|''◾''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
+|[[http://www.fileformat.info/info/unicode/char/25FF/index.htm|U+25FF]]|LOWER RIGHT TRIANGLE|''◿''|U|U|Opted for consistency with [[http://wiki.csswg.org/spec/utr50/symbols/drawing#geometric-shapes|other geometric shapes]]|
 
 ==== Miscellaneous Symbols ====
 
