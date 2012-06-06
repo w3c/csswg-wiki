@@ -53,7 +53,7 @@ Some interesting cases:
 
 ===== Letterlike Symbols Block Letters ======
 
-See also [[symbols:textual|Symbols from this block]] and [[symbols:math|Math symbols from this block]]
+See also [[:spec:utr50:symbols:textual|Symbols from this block]] and [[:spec:utr50:symbols:math|Math symbols from this block]]
 
 |U+2102|DOUBLE-STRUCK CAPITAL C|ℂ|U|R|Part of mathematical double-struck set|
 |U+2107|EULER CONSTANT|ℇ|U|R|Match PLANCK CONSTANT|
