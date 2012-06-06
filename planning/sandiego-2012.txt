@@ -20,9 +20,11 @@ TBD
 
 ===== Participants =====
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
-| Peter Linss | HP | local | – | – | – | |
+| Tantek Çelik | Mozilla | – | – | – | | 
 | John Daggett | Mozilla | August 12 | August 15 | AirBnB | ?? | |
 | Molly Holzschlag | W3C Invited Experts | ?? | ?? | ?? | ?? | Let's go to LegoLand! |
+| Peter Linss  | HP | local | – | – | – | |
+
 ===== Agenda =====
 
   * TBD
