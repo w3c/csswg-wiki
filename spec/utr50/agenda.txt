@@ -9,6 +9,7 @@
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=314|FULLWIDTH HYPHEN-MINUS]]
   * Primes should be MVO=R
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#small-form-variants|Errors in small forms variants]]
+  * Geometric Shapes block (mixed Sm and So)
 
 === Low Priority ===
 
