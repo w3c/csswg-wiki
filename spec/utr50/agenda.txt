@@ -4,7 +4,7 @@
 
   * [[http://wiki.csswg.org/spec/utr50/symbols/math#halfwidth-and-fullwidth-forms|Fullwidth math symbols]] (and small) =>[[http://www.unicode.org/forum/viewtopic.php?f=35&t=315|U+FF1C/FF1D/FF1E at Unicode Forum]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=314|FULLWIDTH HYPHEN-MINUS]]
-  * Geometric Shapes block (mixed Sm and So) should be U
+  * Geometric Shapes block (mixed Sm and So) should be U =>[[http://www.unicode.org/forum/viewtopic.php?f=35&t=307&sid=8e3c580f52edf233a11648f1a62aa69e|Unicode Forum]]
   * Quotation marks =>[[http://www.unicode.org/forum/viewtopic.php?f=35&t=227&start=16|Unicode Forum]]
     * SVO should be Tu
     * U+30xx -> MVO=Tu
@@ -18,7 +18,6 @@
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#small-form-variants|Errors in small forms variants]]
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#dingbats|Errors in dingbats]]
   * [[http://wiki.csswg.org/spec/utr50/symbols/textual?&#letterlike-symbols|Letterlike Symbols]]
-
 ==== Lower Priority ====
 
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#cjk-compatibility-forms|overlines and low lines]] and DOUBLE LOW LINE
