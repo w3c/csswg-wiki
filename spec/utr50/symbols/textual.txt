@@ -16,6 +16,8 @@ Two modes are presented: Stacking (''text-orientation: upright'') and Default (T
 
 ==== Letterlike Symbols ====
 
+See also [[:spec:utr50:letters|Letters from this block]] and [[:spec:utr50:symbols:math|Math symbols from this block]]
+
 ^Code^Description^Char^Stack^Mix^Memo^
 |[[http://www.fileformat.info/info/unicode/char/2100/index.htm|U+2100]]|ACCOUNT OF|''℀''|U|U|Same as ℅|
 |[[http://www.fileformat.info/info/unicode/char/2101/index.htm|U+2101]]|ADDRESSED TO THE SUBJECT|''℁''|U|U|Same as ℅|
