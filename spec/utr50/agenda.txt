@@ -1,6 +1,9 @@
 ====== UTR50 List of Issues ======
 
-  * Quotation marks MVO
+  * Quotation marks
+    * SVO should be Tu
+    * U+30xx -> MVO=Tu
+    * U+20xx -> MVO=R?
   * Halfwidth Kana Etc. as R
   * [[http://wiki.csswg.org/spec/utr50/symbols/math#halfwidth-and-fullwidth-forms|Fullwidth math symbols]] (and small)
   * [[http://wiki.csswg.org/spec/utr50/symbols/math|Math symbols]]
