@@ -18,7 +18,7 @@ Letters and script-specific (non-Common) numbers are classified by using their s
 
 ^Code^Name^Stack^Mixed^Memo^UTR^MS^
 |Bopo|Bopomofo|U|U| |
-|Brai|Braille|U|R|:?: Checking with DAISY but haven't got back yet. Most resources say Braille cannot flow vertical. [[http://www.design-thinking.jp/2011/04/blog-post.html|This page]] indicates [[http://en.wikipedia.org/wiki/Sanada_Yukimura|Yukimura Sanada]] developed vertical Braille as R in 16th century, but this is probably different from the today's Braille. [[http://www6.ocn.ne.jp/~takut/tenjiehon.html|This book]] has vertical modern Braille, but can't identify if it's U or R from the picture.|
+|Brai|Braille|U|R|:?: Checking with DAISY but haven't got back yet. Most resources say Braille cannot flow vertical. [[http://www.design-thinking.jp/2011/04/blog-post.html|This page]] indicates [[http://en.wikipedia.org/wiki/Sanada_Yukimura|Yukimura Sanada]] developed vertical Braille as R in 16th century, but this is probably different from the today's Braille. [[http://www6.ocn.ne.jp/~takut/tenjiehon.html|This book]] has vertical modern Braille, but can't identify if it's U or R from the picture. A definite scan of Mongolian Braille, however, shows that it is R.|
 |Egyp|Egyptian Hieroglyphs|U|U|Egypgian hieroglyhs are upright when written in columns|
 |Hira|Hiragana|U|U| |
 |Kana|Katakana|U|U|Unclear whether halfwidth katakana should be upright or sideways; voice marks are broken if set upright.|
