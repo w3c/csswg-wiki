@@ -1,9 +1,12 @@
 ===== Diff as of 2012/06/08 =====
 
+[[diff20120609|OBSOLETE, see newer diffs]]
+
   * MVO = UTR#50 draft #5 + [[http://www.unicode.org/forum/viewtopic.php?f=35&t=305|Consolidated feedback, rev 5]]
   * MS = Proposal from MS
   * CSS = Current table as we have in this wiki
   * [[diff20120606|Previous]]
+
 ===== By Categories =====
 
 ==== Cc ====
