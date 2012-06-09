@@ -16,6 +16,9 @@
     * Kozuka Gothic Pro Regular
     * Morisawa Gothic MB101 Pr6 Regular
     * Morisawa Ryumin Pr6 Regular
+    * SimSun (Simplified Chinese)
+    * MS JhengHei (Traditional Chinese)
+    * MS YaHei (Simplified Chinese)
 
 ===== Notes on Windows Standard Fonts =====
 
