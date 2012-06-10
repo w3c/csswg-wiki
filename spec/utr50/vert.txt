@@ -4,7 +4,7 @@
   * vert column consists of one code per font:
     * "V" means the font has both horizontal and vertical glyphs for the code point
     * "H" menas the font has a horizontal glyph only for the code point.
-    * "-" or a space means the font does not have a glyph.
+    * "n" or a space means the font does not have a glyph.
   * Note that "V" does not necessarily mean the glyph is rotated:
     * Some has other transforms than rotation.
     * Some has different layout within the glyph.
