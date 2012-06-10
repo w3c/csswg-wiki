@@ -31,7 +31,9 @@
   * Vista added East Asian ClearType fonts. But for the reasons below, new fonts are not simple replacement of old fonts, and MS Mincho is still the primary document font today in Japanese for instance. Not sure if the situation is similar in Traditional/Simplified Chinese.
     * Meiryo is designed for use in UI and therefore has its metrics set for UI to look better without changing code. This sometimes cause problems to use in documents.
     * They don't have its serif-version counterpart. Authors tend to prefer self for documents, and more so in vertical flow.
-  * MingLiu doesn't have vert at all. Chinese doesn't require as many code points to be transformed as Japanese does, so they used to rely on [[http://www.unicode.org/charts/PDF/UFE10.pdf|vertical presentation forms]] in [[http://www.unicode.org/charts/PDF/UFE10.pdf|FE10-FE1F]] and [[http://www.unicode.org/charts/PDF/UFE30.pdf|FE30-FE44/FE47-FE48]] rather then vert.
+  * Fonts may have different vert table depends on its versions.
+    * MingLiu was known not to have vert table, but one in Windows 8 RP does.
+    * Chinese doesn't require as many code points to be transformed as Japanese does, so they used to rely on vertical presentation forms in [[http://www.unicode.org/charts/PDF/UFE10.pdf|FE10-FE1F]] and [[http://www.unicode.org/charts/PDF/UFE30.pdf|FE30-FE44/FE47-FE48]] rather then vert.
   * [[http://en.wikipedia.org/wiki/List_of_Microsoft_Windows_fonts|Full list of Windows standard fonts is available in wikipedia]]
 ===== Filtered by where MVO=T* =====
 
