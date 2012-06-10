@@ -16,7 +16,7 @@
     * Kozuka Gothic Pro Regular
     * Morisawa Gothic MB101 Pr6 Regular
     * Morisawa Ryumin Pr6 Regular
-    * MingLiu (Tranditional Chinese)
+    * MingLiu (Traditional Chinese)
     * MS JhengHei (Traditional Chinese)
     * SimSun (Simplified Chinese)
     * MS YaHei (Simplified Chinese)
