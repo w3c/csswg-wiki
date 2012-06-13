@@ -1,5 +1,25 @@
 ===== vert =====
 
+  * MVO values are draft#5 + [[http://www.unicode.org/forum/viewtopic.php?f=35&t=305|Consolidated feedback, rev 5]]
+  * vert column consists of one code per font:
+    * "V" means the font has both horizontal and vertical glyphs for the code point
+    * "H" menas the font has a horizontal glyph only for the code point.
+    * "n" or a space means the font does not have a glyph.
+  * Note that "V" does not necessarily mean the glyph is rotated:
+    * Some has other transforms than rotation.
+    * Some has different layout within the glyph.
+    * Some has the same glyph? U+FF01 for instance looks identical, but may have slightly different offset.
+  * Fonts are:
+    * MS Gothic
+    * Meiryo
+    * Hiragino Sans GB W3 Regular (OS X)
+    * Kozuka Gothic Pro Regular
+    * Morisawa Gothic MB101 Pr6 Regular
+    * Morisawa Ryumin Pr6 Regular
+    * MingLiu (Traditional Chinese)
+    * MS JhengHei (Traditional Chinese)
+    * SimSun (Simplified Chinese)
+    * MS YaHei (Simplified Chinese)
 ===== a =====
 
 ==== T ====
