@@ -1,6 +1,6 @@
 ===== vert =====
 
-  * MVO values are as of 2012/6/9
+  * MVO values are draft#5 + [[http://www.unicode.org/forum/viewtopic.php?f=35&t=305|Consolidated feedback, rev 5]] + CSS
   * vert column consists of one code per font:
     * "V" means the font has both horizontal and vertical glyphs for the code point
     * "H" menas the font has a horizontal glyph only for the code point.
@@ -20,7 +20,6 @@
     * MS JhengHei (Traditional Chinese)
     * SimSun (Simplified Chinese)
     * MS YaHei (Simplified Chinese)
-
 ===== Notes on Windows Standard Fonts =====
 
 ^Script^Pre-Vista^ClearType^
