@@ -6,7 +6,6 @@
     * SVO should be Tu
     * U+30xx -> MVO=Tu
     * U+20xx -> MVO=R or Tu for Japanese, Tr or T for Chinese.
-  * [[http://wiki.csswg.org/spec/utr50/diff20120605#dingbats|Errors in dingbats]]
   * [[http://wiki.csswg.org/spec/utr50/symbols/textual?&#letterlike-symbols|Letterlike Symbols]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=330|per-mille]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=332|Small forms parens]] Tr vs R
@@ -32,3 +31,4 @@
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#small-form-variants|Errors in small forms variants]]
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#spacing-modifier-letters|Spacing modifier letters]], most should be U/R, since used with Latin and variations thereupon
   * Fraction slash -- shouldn't it be U, since fractions are all U?
+  * [[http://wiki.csswg.org/spec/utr50/diff20120605#dingbats|Errors in dingbats]]
