@@ -268,7 +268,7 @@
 |[[http://www.fileformat.info/info/unicode/char/101D0/index.htm|U+101D0]]|𐇐|PHAISTOS DISC SIGN PEDESTRIAN|Phaistos Disc|R|U|U|||
 |  ...  |||||||||
 
-===== By Blocks =====
+===== MVO By Blocks =====
 
 ==== Unified Canadian Aboriginal Syllabics ====
 
