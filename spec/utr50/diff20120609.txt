@@ -561,7 +561,6 @@
 
 ===== SVO By Categories =====
 
-
 ==== Cc ====
 
 ^Unicode^Char^Name^Block^MVO^MS^CSS^SVO^MS^CSS^vert^CSSnote^
@@ -569,72 +568,22 @@
 |[[http://www.fileformat.info/info/unicode/char/0001/index.htm|U+0001]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
 |[[http://www.fileformat.info/info/unicode/char/0002/index.htm|U+0002]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHHH||
 |[[http://www.fileformat.info/info/unicode/char/0003/index.htm|U+0003]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0004/index.htm|U+0004]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0005/index.htm|U+0005]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0006/index.htm|U+0006]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0007/index.htm|U+0007]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0008/index.htm|U+0008]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0009/index.htm|U+0009]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
+|  ...  ||||||||||||
 |[[http://www.fileformat.info/info/unicode/char/000A/index.htm|U+000A]]|
 |<control>|Basic Latin|R|BR|R|U|BR||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/000B/index.htm|U+000B]]||<control>|Basic Latin|R|BR|R|U|BR||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/000C/index.htm|U+000C]]||<control>|Basic Latin|R|BR|R|U|BR||nnHHHHH||
+|  ...  ||||||||||||
 |[[http://www.fileformat.info/info/unicode/char/000D/index.htm|U+000D]]|
 |<control>|Basic Latin|R|BR|R|U|BR||HnHHHHHH||
 |[[http://www.fileformat.info/info/unicode/char/000E/index.htm|U+000E]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/000F/index.htm|U+000F]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0010/index.htm|U+0010]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0011/index.htm|U+0011]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0012/index.htm|U+0012]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0013/index.htm|U+0013]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0014/index.htm|U+0014]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0015/index.htm|U+0015]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0016/index.htm|U+0016]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0017/index.htm|U+0017]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0018/index.htm|U+0018]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/0019/index.htm|U+0019]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/001A/index.htm|U+001A]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/001B/index.htm|U+001B]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/001C/index.htm|U+001C]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/001D/index.htm|U+001D]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/001E/index.htm|U+001E]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
-|[[http://www.fileformat.info/info/unicode/char/001F/index.htm|U+001F]]||<control>|Basic Latin|R|R|R|U|R||nnHHHHH||
+|  ...  ||||||||||||
 |[[http://www.fileformat.info/info/unicode/char/007F/index.htm|U+007F]]||<control>|Basic Latin|R|R|R|U|R||nnnnnnHnHH||
 |[[http://www.fileformat.info/info/unicode/char/0080/index.htm|U+0080]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0081/index.htm|U+0081]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0082/index.htm|U+0082]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0083/index.htm|U+0083]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0084/index.htm|U+0084]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
+|  ...  ||||||||||||
 |[[http://www.fileformat.info/info/unicode/char/0085/index.htm|U+0085]]||<control>|Latin-1 Supplement|R|BR|R|U|BR||nnnnnnH||
 |[[http://www.fileformat.info/info/unicode/char/0086/index.htm|U+0086]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0087/index.htm|U+0087]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0088/index.htm|U+0088]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0089/index.htm|U+0089]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/008A/index.htm|U+008A]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/008B/index.htm|U+008B]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/008C/index.htm|U+008C]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/008D/index.htm|U+008D]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/008E/index.htm|U+008E]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/008F/index.htm|U+008F]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0090/index.htm|U+0090]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0091/index.htm|U+0091]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0092/index.htm|U+0092]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0093/index.htm|U+0093]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0094/index.htm|U+0094]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0095/index.htm|U+0095]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0096/index.htm|U+0096]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0097/index.htm|U+0097]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0098/index.htm|U+0098]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/0099/index.htm|U+0099]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/009A/index.htm|U+009A]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/009B/index.htm|U+009B]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/009C/index.htm|U+009C]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/009D/index.htm|U+009D]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/009E/index.htm|U+009E]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
-|[[http://www.fileformat.info/info/unicode/char/009F/index.htm|U+009F]]||<control>|Latin-1 Supplement|R|R|R|U|R||nnnnnnH||
+|  ...  ||||||||||||
 
-==== 
-Cf ====
+==== Cf ====
 
 ^Unicode^Char^Name^Block^MVO^MS^CSS^SVO^MS^CSS^vert^CSSnote^
 |[[http://www.fileformat.info/info/unicode/char/00AD/index.htm|U+00AD]]|­|SOFT HYPHEN|Latin-1 Supplement|R|R|R|U|R||HHnHHHHHHH||
