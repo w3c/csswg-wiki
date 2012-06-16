@@ -27,7 +27,7 @@ Please make sure submissions follow the [[http://www.w3.org/Style/CSS/Test/guide
 ===== How to Report a Problem in the Test Suite =====
 
   * In most cases, you can file the problem directly in [[http://test.csswg.org/shepherd/|Shepherd]].
-  * If you believe the issue needs further discussion, or the test suite in question is not loaded into Shepherd (e.g. Media Queries), post to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] describing the problem
+  * If you believe the issue needs further discussion, if it affects a large number of tests, or the test suite in question is not loaded into Shepherd (e.g. Media Queries), post to [[http://lists.w3.org/Archives/Public/public-css-testsuite/|public-css-testsuite@w3.org]] describing the problem.
 
 ===== How to Contribute a Fix to an Existing Test =====
 
