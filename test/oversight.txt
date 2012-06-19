@@ -1,6 +1,6 @@
 ====== Test Suite Oversight ======
 
-The W3C CSS Testing project is governed on a module ownership model. Each test suite has an Owner, and potentially some Peers, who are responsible for maintaining the integrity of the test suite. Currently all test suites follow the CSS2.1 [[test:css2.1:review|CSS2.1 review process]]; however the Selectors and Media Queries test suites use a different test format.
+The W3C CSS Testing project is governed on a module ownership model. Each test suite has an Owner, and potentially some Peers, who are responsible for maintaining the integrity of the test suite. Currently all test suites follow the CSS2.1 [[review|CSS2.1 review process]]; however the Selectors and Media Queries test suites use a different test format.
 
 ===== Owners and Peers =====
 
@@ -28,7 +28,7 @@ The overall Owner for the W3C CSS Testing efforts is Elika J. Etemad (fantasai).
 
 ===== Approvers =====
 
-An Approver is someone who has demonstrated a very strong understanding of the CSS specs and test methodology and an active commitment to working on the test suite but who hasn't quite racked up enough experience points to become a full test suite Peer. An Approver has write access to the repository and can [[test:css2.1:review|approve]] tests but may only review his own company's tests under the Owner's oversight.
+An Approver is someone who has demonstrated a very strong understanding of the CSS specs and test methodology and an active commitment to working on the test suite but who hasn't quite racked up enough experience points to become a full test suite Peer. An Approver has write access to the repository and can [[review|approve]] tests but may only review his own company's tests under the Owner's oversight.
 
 Currently the following people are Approvers:
 
