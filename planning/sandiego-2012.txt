@@ -25,6 +25,7 @@ TBD
 | Molly Holzschlag | W3C Invited Experts | ?? | ?? | ?? | ?? | Let's go to LegoLand! |
 | Peter Linss  | HP | local | – | – | – | |
 | Edward O'Connor | Apple | - | - | - | - | - |
+| Bert | W3C | TBD | TBD | TBD | TBD | |
 ===== Agenda =====
 
   * TBD
