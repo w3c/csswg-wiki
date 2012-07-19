@@ -30,6 +30,7 @@ A partial listing of alternate hotels in the area is [[http://goo.gl/maps/FU1t|a
 
 ===== Participants =====
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+| Glenn Adams | Cox | August 12 | August 16 | Marriott | TBD | 
 | Tantek Çelik | Mozilla | – | – | – | | 
 | John Daggett | Mozilla | August 12 | August 15 | AirBnB | ?? | |
 | Molly Holzschlag | W3C Invited Experts | ?? | ?? | ?? | ?? | Let's go to LegoLand! |
