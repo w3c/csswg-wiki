@@ -35,7 +35,7 @@ A partial listing of alternate hotels in the area is [[http://goo.gl/maps/FU1t|a
 | John Daggett | Mozilla | August 12 | August 15 | AirBnB | ?? | |
 | Molly Holzschlag | W3C Invited Experts | ?? | ?? | ?? | ?? | Let's go to LegoLand! |
 | Peter Linss  | HP | local | – | – | – | |
-| Edward O'Connor | Apple | - | - | - | - | - |
+| Edward O'Connor | Apple | 11th | 19th | - | - | - |
 | Bert | W3C | TBD | TBD | TBD | TBD | |
 | Florian Rivoal | Opera | August 12 | August 15 |?|?| |
 | Alan Stearns | Adobe | Aug 12 | Aug 17 | Marriott | Alaska 472/487 | |
