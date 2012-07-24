@@ -1,0 +1,38 @@
+====== FIXME !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Title/Summary of Discussion Topic ======
+
+---- dataentry ----
+Spec_tags     : css3-flexbox
+Owner_tags    : fantasai, TabAtkins
+Status_tags   : Open, Urgent
+Added_dt      : 2012-07-23
+
+Action        : Discuss and pick A, B, or C!
+Issue_urls    : http://dev.w3.org/csswg/css3-flexbox/issues-lc-2012#issue-18
+Proposal_urls : http://lists.w3.org/Archives/Public/www-style/2012Jul/0419.html
+Agenda_urls   : # If this is part of an ordered series of related topics, e.g. LC issues, use this to link to the supertopic agenda
+----
+
+=== Background ===
+
+  * The impact of absolutely-positioned elements on surrounding content is intended to be nothing; as if the element were not there.
+  * The auto position of an absolutely-positioned element is intended to be its position if it were not positioned.
+  * There is a tension resulting from these two intentions, with the following options:
+    * A. Prioritize the first (invisibility) over the second (static-position accuracy).
+    * B. Prioritize the second (static-position accuracy) over the first (invisibility).
+    * C. Do something more complicated that tries to satisfy both.
+
+=== Problem Statement ===
+
+In the Flexbox model, should placeholders be invisible to layout, should they have their hypothetical position be perfectly accurate, or should they be invisible to layout //and// (mostly) accurate?
+
+=== Proposal(s) ===
+
+  ; Proposal A : The static position of the abspos item is the head start corner of the flex container. It has no impact on flex layout.
+  ; Proposal B : The static position of the abspos item is given by a placeholder anonymous flex item, which impacts layout during justification (space-around/space-between).
+  ; Proposal C : The static position of an abspos item is centered between the margin edges of the previous and next flex items in the line (using the padding edge of the flex container instead where there is no item), and has no impact on flex layout such as justification.
+
+=== Links to More Info ===
+
+  - http://lists.w3.org/Archives/Public/www-style/2012Jul/0419.html (Kenny's original summary of proposals)
+  - http://lists.w3.org/Archives/Public/www-style/2012Jul/0430.html (Brad's reply)
+
