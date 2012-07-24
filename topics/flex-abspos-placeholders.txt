@@ -32,11 +32,6 @@ Note: This does not affect absolutely-positioned children of a flex item.
   ; Proposal A : The static position of the abspos item is the head start corner of the flex container. It has no impact on flex layout.
   ; Proposal B : The static position of an abspos item is centered between the margin edges of the previous and next flex items in the line (need to define edge behavior), and has no impact on flex layout such as justification.
   ; Proposal C : The static position of the abspos item is given by a placeholder anonymous flex item, which impacts layout during justification (space-around/space-between).
-  
-Possible edge behavior for B:
-  - Use container's padding edge in place of no item on that side
-  - Use adjacent item's margin edge in place of centering if no item on other side
-  - ???
 
 === Use Cases to Consider ===
 
