@@ -32,10 +32,11 @@ Note: This does not affect absolutely-positioned children of a flex item.
   ; Proposal A : The static position of the abspos item is the head start corner of the flex container. It has no impact on flex layout.
   ; Proposal B : The static position of an abspos item is centered between the margin edges of the previous and next flex items in the line (need to define edge behavior), and has no impact on flex layout such as justification.
   ; Proposal C : The static position of the abspos item is given by a placeholder anonymous flex item, which impacts layout during justification (space-around/space-between).
+  ; Proposal D : The static position of an abspos item is a placeholder anonymous flex item whose position coincides with the margin edge of the subsequent flex item (if any, else the preceding flex item, if any, else the main-start cross-start corner) and has no impact on flex layout such as justification.
 
 === Use Cases to Consider ===
 
-????
+Nobody's come up with a use case for using the static position of an absolutely-positioned flex item. There might be reasons to absolutely-position such a child explicitly and have it not affect layout, however.
 
 === Links to More Info ===
 
@@ -43,3 +44,4 @@ Note: This does not affect absolutely-positioned children of a flex item.
   - http://lists.w3.org/Archives/Public/www-style/2012Jul/0419.html (Kenny's original summary of proposals)
   - http://lists.w3.org/Archives/Public/www-style/2012Jul/0430.html (Brad's reply)
   - http://lists.w3.org/Archives/Public/www-style/2012Jul/0547.html (fantasai's summary/request for information)
+  - http://lists.w3.org/Archives/Public/www-style/2012Jul/0558.html (origin of proposal D)
