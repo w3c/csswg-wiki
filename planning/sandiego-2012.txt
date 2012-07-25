@@ -37,7 +37,7 @@ A partial listing of alternate hotels in the area is [[http://goo.gl/maps/FU1t|a
 | Peter Linss  | HP | local | – | – | – | |
 | Edward O'Connor | Apple | 11th | 19th | - | - | - |
 | Bert | W3C | TBD | TBD | TBD | TBD | |
-| Florian Rivoal | Opera | August 12 | August 15 |in:AA3105 / out:BA272|?| |
+| Florian Rivoal | Opera | August 12 | August 15 |? |in:AA3105 / out:BA272| |
 | Alan Stearns | Adobe | Aug 12 | Aug 17 | Marriott | Alaska 472/487 | |
 | fantasai | Mozilla | ? | ? | Marriott | TBD | |
 | Daniel Glazman | Disruptive Innovations | Aug 12 | Aug 16 | Marriott | TBD | |
