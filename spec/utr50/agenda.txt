@@ -44,6 +44,6 @@
 |U+FF0D|Tr=>R|Tr=>R| :!: | [[http://www.unicode.org/forum/viewtopic.php?f=35&t=324|Minutes]] [[http://www.unicode.org/forum/viewtopic.php?f=35&t=314|Forum]]|Dashes sideways|
 |U+FF1C--U+FF1E|Tr=>R|Tr=>R| :!: | [[http://www.unicode.org/forum/viewtopic.php?f=35&t=324|Minutes]] [[http://www.unicode.org/forum/viewtopic.php?f=35&t=315|Forum]]|Math operators sideways; fonts don't support vert rotation|
 |U+FF61--U+FFDF,U+FFE8--U+FFEF| |?=>R| :!: |[[http://www.unicode.org/forum/viewtopic.php?f=35&t=324|Minutes]] [[http://www.unicode.org/forum/viewtopic.php?f=35&t=321|Forum]]| Halfwidth sideways|
-|U+1D200--U+1D24F| | |U=>R|[[http://www.unicode.org/forum/viewtopic.php?f=35&t=334|Minutes]]|Ancient Greek Musical Notation|
+|U+1D200--U+1D24F| |U=>R| :!: |[[http://www.unicode.org/forum/viewtopic.php?f=35&t=334|Minutes]]|Ancient Greek Musical Notation|
 
 :!: Not yet reflected in draft :-(
