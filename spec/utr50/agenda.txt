@@ -11,6 +11,19 @@ This is a list of issues with [[http://www.unicode.org/reports/tr50/|Unicode Tec
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=332|Small forms parens]] Tr vs R
   * Ideographic space U+3000 SVO=MVO=>U
   * Brackets U+2329, U+232A MVO=>U
+
+==== Lower Priority ====
+
+  * [[http://wiki.csswg.org/spec/utr50/diff20120605#cjk-compatibility-forms|overlines and low lines]] and DOUBLE LOW LINE (SVO)
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=328|Egyptian should all be U]]
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=284|Canadian Syllabics MVO error?]]
+  * Musical symbols Cf should be R, not U, since they're connectors
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=344|Musical Symbols]]
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=337|Old Turkic]]
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=295|This needs triage]]
+
+==== Tyamamot's Feedback ====
+
   * Breakdown of MVO feedback from [[http://blogs.adobe.com/CCJKType/files/2012/07/TaroUTR50SortedList112.pdf|Yamamoto-san's proposal]]
      * IPR symbols should be sideways:
        * U+00A9 © COPYRIGHT SIGN
@@ -49,15 +62,7 @@ This is a list of issues with [[http://www.unicode.org/reports/tr50/|Unicode Tec
      * Geometric Shapes (U+25A0--U+25FF) should be sideways :!:
      * Small forms (U+FE54--U+FE57,U+FE5F--U+FE62,U+FF68--U+FF6B) should be sideways :!:
      * Musical symbols (U+1D000--U+1D1FF) should be sideways [[http://www.unicode.org/forum/viewtopic.php?f=35&t=344|Forum post]]
-==== Lower Priority ====
 
-  * [[http://wiki.csswg.org/spec/utr50/diff20120605#cjk-compatibility-forms|overlines and low lines]] and DOUBLE LOW LINE (SVO)
-  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=328|Egyptian should all be U]]
-  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=284|Canadian Syllabics MVO error?]]
-  * Musical symbols Cf should be R, not U, since they're connectors
-  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=344|Musical Symbols]]
-  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=337|Old Turkic]]
-  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=295|This needs triage]]
 ==== Resolved Issues ====
   * [[http://unicode.org/cldr/utility/list-unicodeset.jsp?a=[%3AGeneral_Category%3D%2FLo%7CLl%7CLu%2F%3A]%26[%3AScript%3DCommon%3A]&g=|Math letters]] are MVO=R (sideways)
   * [[http://wiki.csswg.org/spec/utr50/symbols/math|Math symbols]] are MVO=R (sideways)
