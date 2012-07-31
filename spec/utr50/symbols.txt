@@ -2,16 +2,6 @@
 
 This page is intended to help analyze troublesome characters like punctuation and symbols. It is not comprehensive at all yet.
 
-Category Codes:
-
-^Code^Meaning^
-^U|Upright; translates between horizontal and vertical|
-^R|Sideways; rotates between horizontal and vertical|
-^T<sub>U</sub>|Typeset upright with alternate glyph. Best fallback is just upright.|
-^T<sub>R</sub>|Typeset upright with alternate glyph. Best fallback is just sideways.|
-
-Two modes are presented: Stacking (''text-orientation: upright'') and Default (TBD).
-
 Since S* is a large set, they're split among pages:
   * [[#Symbol, Currency (Sc)]] and [[#Symbol, Modifier (Sk)]] are in this page.
   * [[spec:utr50:symbols:math|Symbol, Math (Sm)]]
