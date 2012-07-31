@@ -2,12 +2,10 @@
 
 ==== Higher Priority =====
 
-  * Quotation marks =>[[http://www.unicode.org/forum/viewtopic.php?f=35&t=227&start=16|Unicode Forum]]
-    * SVO should be Tu
-    * U+30xx -> MVO=Tu
-    * U+20xx -> MVO=R or Tu for Japanese, Tr or T for Chinese.
-  * [[http://wiki.csswg.org/spec/utr50/symbols/textual?&#letterlike-symbols|Letterlike Symbols]]
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=227&start=16|Quotation marks]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=330|per-mille]]
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=327|Letterlike Symbols]]
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=326|Letterlike Letters]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=332|Small forms parens]] Tr vs R
 
 ==== Lower Priority ====
