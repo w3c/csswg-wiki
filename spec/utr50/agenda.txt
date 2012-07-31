@@ -1,5 +1,7 @@
 ======= UTR50 List of Issues =======
 
+This is a list of issues with [[http://www.unicode.org/reports/tr50/|Unicode Technical Report #50]]. It exists because afaict Unicode doesn't track its own issues very well. :-/
+
 ==== Higher Priority =====
 
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=227&start=16|Quotation marks]]
