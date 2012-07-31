@@ -11,6 +11,7 @@ This is a list of issues with [[http://www.unicode.org/reports/tr50/|Unicode Tec
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=332|Small forms parens]] Tr vs R
   * Ideographic space U+3000 SVO=MVO=>U
   * Brackets U+2329, U+232A MVO=>U
+  * Need to break down feedback from tyamamot
 ==== Lower Priority ====
 
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#cjk-compatibility-forms|overlines and low lines]] and DOUBLE LOW LINE (SVO)
