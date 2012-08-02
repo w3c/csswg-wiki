@@ -18,9 +18,9 @@ This guide will focus on the command-line Mercurial client hg, but there are GUI
   
   $ sudo apt-get install mercurial
   
-  That way, you will install the latest stable version of Mercurial and such version will be updated on an automatic basis.
+That way, you will install the latest stable version of Mercurial and such version will be updated on an automatic basis.
   
-  https://launchpad.net/~mercurial-ppa/+archive/releases Mercurial PPA Packagers: Releases
+[[https://launchpad.net/~mercurial-ppa/+archive/releases | Mercurial PPA Packagers: Releases]]
 ===== Linux (Fedora-based) =====
   # yum install mercurial
 
