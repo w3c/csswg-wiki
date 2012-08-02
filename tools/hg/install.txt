@@ -10,7 +10,7 @@ This guide will focus on the command-line Mercurial client hg, but there are GUI
 
   $ sudo apt-get install mercurial
   
-  or
+or
   
   $ sudo add-apt-repository ppa:mercurial-ppa/releases
   
