@@ -40,7 +40,7 @@ Breakdown of MVO feedback from [[http://lundestudio.com/UTR50/TaroUTR50SortedLis
        * U+2021 ‡ DOUBLE DAGGER
        * U+2042 ⁂ ASTERISM
        * U+2051 ⁑ TWO ASTERISKS ALIGNED VERTICALLY
-     * Curly quotes requested to be sideways:
+     * **Curly quotes requested to be sideways** because primarily used within Western snippets. Since double quotes are already sideways, affected codepoints are:
        * U+2018 ‘ LEFT SINGLE QUOTATION MARK
        * U+2019 ’ RIGHT SINGLE QUOTATION MARK
      * **[[http://www.unicode.org/forum/viewtopic.php?f=35&t=326|Letterlike Letters]] requested to be sideways** EXCEPT
@@ -57,7 +57,7 @@ Breakdown of MVO feedback from [[http://lundestudio.com/UTR50/TaroUTR50SortedLis
        * U+2031 ‱ PER TEN THOUSANDS
      * **Interrobang requested to be sideways** because originated in Western typography and uncommon in East Asian
        * U+203D ‽ INTERROBANG
-     * Musical symbols (U+1D000--U+1D1FF) should be sideways [[http://www.unicode.org/forum/viewtopic.php?f=35&t=344|Forum post]]
+     * **Musical symbols (U+1D000--U+1D1FF) requested be sideways** because proportional, see [[http://www.unicode.org/forum/viewtopic.php?f=35&t=344|Forum post]]
      * Canadian Syllabics (U+1401--U+167F,U+18B0--U+18FF) requested to be sideways because this appears to be a UTR50 error.
 
 ==== Resolved Issues ====
