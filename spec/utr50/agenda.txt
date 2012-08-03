@@ -1,38 +1,38 @@
 ======= UTR50 List of Issues =======
 
-This is a list of issues with [[http://www.unicode.org/reports/tr50/|Unicode Technical Report #50]]. It exists because afaict Unicode doesn't track its own issues very well. :-/
+This is a list of issues with [[http://www.unicode.org/reports/tr50/|Unicode Technical Report #50]]. It exists because afaict Unicode doesn't issues in public (if at all?). :-/
 
-==== Higher Priority =====
+==== Major / Controversial =====
 
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=227&start=16|Quotation marks]]
-  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=330|per-mille]]
+  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=330|Per-mille / Per-ten-thousand]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=327|Letterlike Symbols]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=326|Letterlike Letters]]
+
+
+==== Minor / Lower Priority ====
+
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=332|Small forms parens]] Tr vs R
   * Ideographic space U+3000 SVO=MVO=>U
   * Brackets U+2329, U+232A MVO=>U
-
-==== Lower Priority ====
-
   * [[http://wiki.csswg.org/spec/utr50/diff20120605#cjk-compatibility-forms|overlines and low lines]] and DOUBLE LOW LINE (SVO)
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=328|Egyptian should all be U]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=284|Canadian Syllabics MVO error?]]
   * Musical symbols Cf should be R, not U, since they're connectors
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=344|Musical Symbols]]
   * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=337|Old Turkic]]
-  * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=295|This needs triage]]
 
 ==== Tyamamot's Feedback ====
 
-Breakdown of MVO feedback from [[http://blogs.adobe.com/CCJKType/files/2012/07/TaroUTR50SortedList112.pdf|Yamamoto-san's proposal]]
+Breakdown of MVO feedback from [[http://lundestudio.com/UTR50/TaroUTR50SortedList112.pdf|Yamamoto-san's proposal]].
 
-     * IPR symbols should be sideways:
+     * **IPR symbols requested to be sideways**, due to being derived from Western letters:
        * U+00A9 © COPYRIGHT SIGN
        * U+00AE ® REGISTERED SIGN
        * U+2117 ℗ SOUND RECORDING COPYRIGHT
        * U+2120 ℠ SERVICE MARK
        * U+2122 ™ TRADE MARK SIGN
-     * Footnote symbols and related should be sideways:
+     * **Footnote symbols and related requested to be sideways**, due to being more commonly Western. (Also: asterisk (*) is sideways by default, double vertical line (‖) is drawn rotated by vertical fonts, and section (§) is used with numbers, which are usually sideways.)
        * U+00A7 § SECTION SIGN
        * U+00B6 ¶ PILCROW SIGN
        * U+2016 ‖ DOUBLE VERTICAL LINE
@@ -40,28 +40,25 @@ Breakdown of MVO feedback from [[http://blogs.adobe.com/CCJKType/files/2012/07/T
        * U+2021 ‡ DOUBLE DAGGER
        * U+2042 ⁂ ASTERISM
        * U+2051 ⁑ TWO ASTERISKS ALIGNED VERTICALLY
-       * Asterisk (*) is sideways, section (§) is used with numbers, and double vertical line (‖) has rotated vert glyph
-     * Curly quotes should be sideways:
+     * Curly quotes requested to be sideways:
        * U+2018 ‘ LEFT SINGLE QUOTATION MARK
        * U+2019 ’ RIGHT SINGLE QUOTATION MARK
-     * [[http://www.unicode.org/forum/viewtopic.php?f=35&t=326|Letterlike Letters]] (except INFORMATION SOURCE) should be sideways
-     * Letterlike Symbols block should be sideways **EXCEPT**
+     * **[[http://www.unicode.org/forum/viewtopic.php?f=35&t=326|Letterlike Letters]] requested to be sideways** EXCEPT
+       * U+2139 ℹ INFORMATION SOURCE
+     * **[[http://www.unicode.org/forum/viewtopic.php?f=35&t=327|Letterlike Symbols]] requested be sideways** EXCEPT
        * U+2103 ℃ DEGREE CELSIUS
        * U+2109 ℉ DEGREE FAHRENHEIT
        * U+2116 № NUMERO SIGN
        * U+2121 ℡ TELEPHONE SIGN
-       * U+2139 ℹ INFORMATION SOURCE
        * U+213A ℺ ROTATED CAPITAL Q
        * U+213B ℻ FACSIMILE SIGN
-     * Canadian Syllabics (U+1401--U+167F,U+18B0--U+18FF) should be sideways
-     * Per mille / per ten-thousand sign should be sideways
+     * **Per mille / per ten-thousand sign requested to be sideways** because too wide to fit upright in lines and often used with digits (sideways)
        * U+2030 ‰ PER MILLE
        * U+2031 ‱ PER TEN THOUSANDS
-     * Interrobang should be sideways
-       * U+203D ⸘ INTERROBANG
+     * **Interrobang requested to be sideways** because originated in Western typography and uncommon in East Asian
+       * U+203D ‽ INTERROBANG
      * Musical symbols (U+1D000--U+1D1FF) should be sideways [[http://www.unicode.org/forum/viewtopic.php?f=35&t=344|Forum post]]
-
-:!: Conflicts with UTR50 resolutions.
+     * Canadian Syllabics (U+1401--U+167F,U+18B0--U+18FF) requested to be sideways because this appears to be a UTR50 error.
 
 ==== Resolved Issues ====
   * [[http://unicode.org/cldr/utility/list-unicodeset.jsp?a=[%3AGeneral_Category%3D%2FLo%7CLl%7CLu%2F%3A]%26[%3AScript%3DCommon%3A]&g=|Math letters]] are MVO=R (sideways)
