@@ -1,4 +1,4 @@
-====== Planning Pages ======
+====== Meeting Planning Pages ======
 
 This is the CSS Working Group's planning space.
 
