@@ -1,4 +1,17 @@
 ====== TPAC 2012 ======
 
-CSS will probably meet during [[http://www.w3.org/2012/10/TPAC/|TPAC 2012]], which runs from Monday 29 October through Friday 2 November, in Lyon, France.  (Have we figured out yet if we'll want additional days in addition to the Monday-Tuesday or Thursday-Friday that we'd get within the TPAC structure?)
+CSS will meet during [[http://www.w3.org/2012/10/TPAC/|TPAC 2012]], which runs from Monday 29 October through Friday 2 November, in Lyon, France.  The CSS working group will be meeting on **Sunday**, Monday, and Tuesday, October 28-30.
 
+**Logistics**: [[http://www.w3.org/2012/10/TPAC/|TPAC 2012]] (including registration)
+
+===== Participants =====
+Sorted by family name:
+^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+
+Regrets:
+
+===== Agenda =====
+
+  * TBD
+
+=== Proposed Topics ===
