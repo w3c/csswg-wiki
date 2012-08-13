@@ -55,6 +55,7 @@ Sorted by family name:
 | Sylvain Galineau | Microsoft | Aug 12 | Aug 15 | Marriott | in:AS482 / out:AS485| |
 | Koji Ishii | Rakuten | Aug 12| Aug 16 | Marriott | DL156+DL7677/DL4807+DL283 | |
 | Rossen Atanassov | Microsoft | Aug 12 | Aug 15 | Marriott | in:TBD / out:TBD | |
+| Molly Holzschlag | W3C Invited Experts | August 13 | August 15 | Marriott | TBD |
 
 Regrets:
   * Anton Prowse
@@ -65,7 +66,7 @@ Regrets:
   * Håkon
   * John Jansen (I too thought I was going to make it, but the timing is off)
   * Arron Eicholz (I unfortunately can't make it but I will be on IRC the whole time as usual)
-  * Molly Holzschlag (Would love to be there, just didn't work out this time)
+
 ===== Agenda =====
 
 ==== Mon ====
