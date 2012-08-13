@@ -47,7 +47,7 @@ Sorted by family name:
 | Daniel Glazman | Disruptive Innovations | Aug 12 21:45 | Aug 16 11:37 | Marriott | in:DL2205 / out:UA5608 | |
 | Peter Linss  | HP | local | – | – | – | |
 | Luke Macpherson | Google | Aug 13 | Aug 16 | Marriott | | Arriving monday afternoon. |
-| Edward O'Connor | Apple | 11th | 19th | - | - | - |
+| Edward O'Connor | Apple | 11th | 19th | Hilton Bayfront | - | - |
 | Florian Rivoal | Opera | August 12 | August 15 |Marriott |in:AA3105 / out:BA272| |
 | Alan Stearns | Adobe | Aug 12 | Aug 17 | Marriott | Alaska 472/487 | |
 | Leif Arne Storset | Opera | August 12 | August 15 |Marriott |in:AA3105 / out:BA272| |
