@@ -1,0 +1,160 @@
+====== css4-ui features list ======
+
+The [[http://dev.w3.org/csswg/css3-ui/|CSS Basic User Interface Module Level 3]] (CSS3-UI, latest Editor's draft) defines user interface related selectors, properties and values.
+
+CSS3-UI is deliberately scoped to what's been interoperably implemented, so it's a firm stake in the ground that implementers and authors can depend on.
+
+CSS4-UI is for new features above and beyond CSS3-UI.
+
+In somewhat order of priority:
+
+===== extensions to css3-ui features =====
+
+See also 'nav-index' ideas in [[:ideas:nav-index]]
+
+==== implementation extensions ====
+Implementations may have found it useful to extend existing CSS3-UI features, but perhaps they are only experimental extensions or single implementations.
+
+As these are most likely to be practical and minimal (and supported by a second implementation), these are the first features we'll consider.
+
+  * new 'cursor' values:
+    * 'grab' - supported by Mozilla as [[https://developer.mozilla.org/en/CSS/-moz-grab|-moz-grab]]
+    * 'grabbing' - supported by Mozilla as [[https://developer.mozilla.org/En/CSS/-moz-grabbing|-moz-grabbing]]
+    * see [[https://developer.mozilla.org/en/CSS/cursor#Mozilla_extensions|CSS cursor Mozilla extensions]] for more
+    * consider more from: http://www.gtalbot.org/DHTMLSection/Cursors.html#Proprietary
+
+==== real world author extension needs ====
+Second, users and authors may have found that they wanted a CSS3-UI feature to work a certain way in their sites, and these real world needs are a second consideration.
+
+  * http://lists.w3.org/Archives/Public/www-style/2012Apr/0337.html
+
+==== theoretical extension requests ====
+Third, there are hypothetical requests for extensions to CSS3-UI features. As these are not real world proven (only theoretical) demands, they are purely tertiary. We may consider them optimistically and include them in working drafts to solicit feedback and additional interest.
+
+  * ...
+
+===== new css4-ui features =====
+Brand new features fo CSS4-UI. We'll follow the same prioritization as above.
+==== focusable property ====
+Consider incorporating a 'focusable' property (like in SVG)
+
+http://www.w3.org/TR/SVGTiny12/interact.html#focusable-attr
+
+Alternate syntax suggestion (because boolean properties are the devil):
+
+<code>
+nav-focus: _normal_ | ignore | focus
+</code>
+
+==== more selectors ====
+  * [[https://developer.mozilla.org/en/CSS/%3a-moz-placeholder|:placeholder]] pseudo-class for when an input element is in the state of showing its placeholder text
+  * [[https://wiki.mozilla.org/CSS/:autofill|:autofill]] pseudo-class for when an input element is in the state of showing an autofilled value. Related implementer bugs:
+    * [[https://bugzilla.mozilla.org/show_bug.cgi?id=740979|:-moz-autofill]]
+    * [[https://bugs.webkit.org/show_bug.cgi?id=66032|:-webkit-autofill]]
+  * [[https://developer.mozilla.org/en/CSS/%3a%3a-moz-progress-bar|::progress-bar]] pseudo-element for selecting and styling the area of an HTML progress element that represents the amount of progress that has happened so far. This lets you, for example, change the color of progress bars.
+  *  :valid-drop-zone, :invalid-drop-zone - a drop-zone (as Mozilla implements [[https://developer.mozilla.org/en/CSS/:-moz-drag-over|:-moz-drag-over]]) that is valid/invalid.
+    * :valid-drop-zone - a drop zone that accepts the type of data being dragged
+    * :invalid-drop-zone - a drop zone that doesn't accept the type of data being dragged
+  * see http://wiki.csswg.org/spec/selectors4#ideas-to-consider for more.
+  * [[http://lists.w3.org/Archives/Public/www-style/2011Nov/0705.html|::backdrop-of(selector)]] - a pseudo-element that matches the backdrop of a fullscreened element, a modal dialog, or other platform features with similar needs. 
+==== pointer-events ====
+Moved from CSS3-UI editor's draft because it was the top source of issues for the 2nd CSS3-UI LCWD, and because it requires documenting previously undocumented web platform hit-testing model.
+
+Incorporate spec text from:
+  * [[http://www.w3.org/wiki/User:Tantekelik/pointer-events|pointer-events spec text]]
+
+Consider just specifying pointer-events:none, and reserving the other keywords as undefined in CSS (at this level of spec.
+  * input from zewt, wilto asking for pointer-events:none in particular (#whatwg 2012-227)
+
+Consider use-cases, in particular for pointer-events:none;
+  * make sure things that use CSS opacity:0 transitions aren't clickable when they're hidden. (zewt on #whatwg 2012-227)
+  * disable clicks on elements that are transitioning on/off screens (zewt on #whatwg 2012-227)
+  * prevent transparent elements that overlap clickable ones from getting in the way (zewt on #whatwg 2012-227)
+
+===== dropped css3 features =====
+Features that were dropped from CSS3-UI (e.g. the 2004 CR) are eligible to be considered for CSS4-UI, but they will need a strong justification as having been ignored by implementations for 6+ years means there was likely something wrong with them and they need major revising. In addition, features dropped from other CSS3 specs or trimmed when bringing over to CSS3-UI are also considered here.
+
+==== appearance ====
+The System Appearance feature, including the appearance property, was in the 2004 CSS3-UI CR but never implemented as designed. It likely needs a complete rethink and redesign, perhaps even a reframing/reexploration of the problems it was designed to solve.
+
+In practice, "appearance:none" is occasionally required in some UAs (like Gecko, WebKit) to turn off the native rendering of some controls and allow full CSS styling.
+
+Some form of "appearance:none" may be worth exploring as a CSS4-UI feature.
+
+At the time of the introduction and development of the 'appearance' property, it appeared that the limited set of specific UI elements in HTML were not going to be extended, and thus we tried going so (in a limited capacity) with CSS.
+
+Since new input elements etc. have been added to HTML5, and there is clearly opportunity to add more as deemed practically necessary, it makes more sense now to pursue new specific UI elements in HTML5 first, and then design any new related CSS features subsequently.
+
+I've archived the 2004 System Appearance feature spec source on the W3C wiki (it seems to support better escaping of embedded markup).
+  * http://www.w3.org/wiki/User:Tantekelik/CR-css3-ui-20040511-appearance
+
+==== text-overflow string plus ====
+The string value for text-overflow should have the same syntax as the content rule.
+
+Real-world use-cases:
+  * none.
+
+Theoretical use-cases:
+  * author might want to use an image
+  * author might want to use css counters
+  * author might want to use an attribute contents for the ellipsis
+
+==== text-overflow block hint ====
+text-overflow: second <string> as an overflow visual hint after the element box. The visual hint after the element box only appears if there is content which is clipped because of the block-progression dimension of the block, not because the last line cannot fit. If the visual hint after the element box is enabled and would appear at the same location as the visual hint at the end of the element box, only the visual hint after the element box is rendered. 
+
+Originally text-overflow: second <string> was [[http://www.w3.org/TR/2003/CR-css3-text-20030514/#text-overflow-ellipsis|defined in CSS3 Text CR 2003-05-14]] for the start in addition to the end of the text being overflowed - but no one implemented it. Thus any request for including this MUST include some justification as to why/how implementations would consider it differently than they did (and reject) for CSS3 Text CR 2003.
+
+Real world use-cases:
+  * what iTunes App Store does for its app descriptions (more details needed).
+  * ...
+
+==== text-overflow start end values ====
+Originally text-overflow permitted an optional second value [[http://www.w3.org/TR/2003/CR-css3-text-20030514/#text-overflow-ellipsis|defined in CSS3 Text CR 2003-05-14]] "	<ellipsis>{1,2} "
+
+Status:
+  * in CSS3-UI editor's draft "at risk"
+
+Real-world use-cases:
+  * none.
+
+Theoretical use-cases: 
+  * none.
+
+Hypothetical reasoning:
+  * Since the spec calls for overflow markers on both sides, it seems reasonable to give the author control over each side separately.
+    * Given that the clipping is visual rather than logical, it makes sense that the two-value form should also be visual left/right rather than logical start/end. - Mats
+    * Note that the previous CSS3-Text CR defined two values as: "If two <ellipsis> values area provided, they determine the overflow visual hint at the end and the overflow visual hint after the element box respectively."
+
+==== user-select ====
+Last seen in the [[http://www.w3.org/TR/2000/WD-css3-userint-20000216#user-select|2000 era draft of User Interface for CSS3]], the 'user-select' property controls the selection model and granularity of an element.
+
+Implementation Status:
+  * some interoperability across 3 implementations (Gecko, Trident, Webkit)
+  * http://lists.w3.org/Archives/Public/www-style/2012Jul/0541.html
+
+Spec Status:
+  * not in any current draft.
+
+Last publication: 
+  * http://www.w3.org/TR/2000/WD-css3-userint-20000216#user-select
+
+Issues:
+  * all vs. atomic
+    * Gecko implementation of the 'all' value does not reflect last specified definition (2000).
+    * WebKit wants a 'atomic' value that acts as 'all' was specified in 2000.
+    * Might be possible to get Gecko to change its 'all' behavior to as specified and avoid introducing a new 'atomic' value.
+
+For CSS4-UI:
+  * Minimum: spec the interoperable values among existing implementations (excluding 'all')
+  * Possibly: minimum plus keep 'all' as specified, and get Gecko fixed to be compliant
+  * Maximum: spec all values, including 'toggle' and 'elements' and file bugs accordingly with existing implementations to get those values implemented.
+
+=====
+= css4-ui issues list ======
+
+===== 
+Current Issues =====
+There is no editor's draft of CSS4-UI yet - so there's nothing to have issues against!
+
+The editor's draft will eventually be here:
+  * http://dev.w3.org/csswg/css4-ui/
