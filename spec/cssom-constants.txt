@@ -24,7 +24,7 @@ This page lists all standardized CSSOM constants in CSS to avoid the creation of
 | 17 ... 999 | - | reserved for future standardization |
 
 
-====== CSSOM experimental Constants ======
+====== CSSOM Experimental Constants ======
 
 Constants for proposals that have yet to be accepted by the working group are listed below.
 
