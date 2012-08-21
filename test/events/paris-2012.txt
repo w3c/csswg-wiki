@@ -16,7 +16,7 @@ Venue: TBD - under investigation
 
 ^ Testing Category      ^ Experts       ^ Technical support (first line of defense)          ^
 | Background and borders    | x     | y        |
-| DOM 4    | x |
+| DOM 4    | x | y |
 | JSOM    | x     | y        |
 | XHR | x     | y       |
 
