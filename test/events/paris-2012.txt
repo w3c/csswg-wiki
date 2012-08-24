@@ -27,38 +27,50 @@ Venue: TBD - under investigation
 ==== Event Preparation ====
 
 == Google groups (DL) / email ==
+google group - short term, private
 
 == Talks/Speakers ==
+Rebecca
 
-== Video? ==
+== Experts ==
+Rebecca
 
-== Contacted Experts ==
-
-== Public Agenda/Presentations ==
+== Public Agenda ==
+Israel
 
 == Internal Agenda ==
+Israel
 
 == Reaching out to the community ==
+Liz, Daniel Glassman, Christie Fidura
 
 == Documentation ==
+Sample tests - 
 Specs
 Guidelines
 Must install tools
 How to file a bug...
 
 == Registration ==
+Liz
 
 == Tools to make test case submission easier ==
+Rebecca
 
 == Logo ==
+Israel: Contact Christian - see if CJ is available
+
+== Video ==
 
 ==== Plan to follow up with the community after event ====
+Israel/Liz - W3C community group
 
 ==== Website ====
 
 == Redesing ==
 
 == Translation? ==
+Website: Alan: Ask Daniel Glassman, do we need a translator? do we need to translate the website?
 
 ==== Logistics ====
 
