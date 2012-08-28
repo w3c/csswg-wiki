@@ -10,14 +10,8 @@
   * Jin Long Zhang (Oupeng/Opera, Web compatibility engineer)
 
 ===== Specs =====
-Some of the specs that were discussed during the local meeting.
-
-  * CSSOM
-  * Canvas2DContext - We would like to include this, but let's discuss it.
-  * <del>CSS Transitions</del> - too hard to write tests
-  * <del>CSS3 Text, Writing Modes</del> - albeit relating to Chinese layout. It is often not really something Web developers are interested in.
-  * DOM4 
-
-
+  * CSSOM-view - Expert: Jinks Zhao (Mathon, is this decided?)
+  * CSS Backgrounds and Borders Module Level 3 - Expert: fantasai
+  * CSS Flexible Box Layout Module - Expert: TBD (fantasai mentioned Kenny in the teleconference, but this is not yet determined.)
 ===== Note =====
   * I(Kenny)'d note that the Adobe China team suggests that we enroll as many local speakers/reviewers as possible. I personally find that reasonable given previous experience (some people just dislike English, and it often happens that these speakers end up having very little interaction with local people, etc. etc.), but I should note that it's not easy to find relevant people.
