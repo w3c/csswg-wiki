@@ -1,7 +1,7 @@
 ====== Test the Web Forward, Beijing 2012 ======
 
 ===== Agenda =====
-^ Saturday ^ Activity ^ Speaker ^ Co-Presenter(Interpreter /Teaching Assistant /Backup) ^
+^ Saturday ^ Activity ^ Speaker ^ Co-Presenter \\ (Interpreter /Teaching Assistant /Backup) ^
 | 2:00 pm - 2:30 pm | Register/SWAG | -- |
 | 2:30 pm - 3:00 pm | Welcome and introduction: better tests for a better web | Arno, Ethan | Ping Huang |
 | 3:00 pm - 3:20 pm | An introduction to the CSSOM View spec | Candidate1: JianNing Ding  from  Google China \\  Candidate2: ZhanHongTao from  Maxthon  | None | 
