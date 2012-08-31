@@ -1,7 +1,7 @@
 ====== Test the Web Forward, Beijing 2012 ======
 
 ===== Agenda =====
-^ Saturday ^ Activity ^ Content ^ Speaker ^ Co-Presenter \\ (Interpreter /Teaching Assistant /Backup) ^
+^ Saturday ^ Activity ^ Content ^ Speaker ^ Co-Speaker \\ (Interpreter /Teaching Assistant /Backup) ^
 | 2:00 pm - 2:30 pm | Register/SWAG | -- | -- |
 | 2:30 pm - 3:00 pm | Welcome and introduction: better tests for a better web |  | Arno, Ethan from Adobe | Ping Huang |
 | 3:00 pm - 3:20 pm | An introduction to the CSSOM View spec | * Get an overall understanding of the web features under test\\ * How to read spec effectively |JianNing Ding  from  Google China   |ZhanHongTao from  Maxthon| 
@@ -10,7 +10,9 @@
 | 4:00 pm - 4:30 pm | Snacks/Drinks/Buffer time | -- | -- |
 | 4:30 pm - 5:00 pm | How to create W3C tests | * W3C test case structure\\ * How to create W3C JS and Ref tests | Jian Zhang from Adobe | None |
 | 5:00 pm - 5:30 pm | Testing Frameworks Deep-Dive: CSS | * The structure of the test case repository\\ * Check in process and how to use hg\\ * How to use online CSS Test Suite Manager | Elika from CSS Working Group | Elva Fu from Intel China |
-| 5:30 pm - 6:10 pm | File the best bug | * Bug lifecycle\\ * How to file a bug with high quality\\ * How to file bugs for different browser vendors | Yunlong Zhang from Mozilla China ?  Maxthon ? Baidu ? Tencent ? |
+| 5:30 pm - 6:00 pm | File the best bug | * Bug lifecycle\\ * How to file a bug with high quality\\ * How to file bugs for different browser vendors | Yunlong Zhang from Mozilla China ?  Maxthon ? Baidu ? Tencent ? |
+| 6:00 pm | Dinner |   |   |
+
 \\
 
 ^ Sunday ^ Activity ^
@@ -22,15 +24,19 @@
 | 3:30 pm - 5:30 pm | Hack |
 | 5:30 pm - 6:00 pm | Demos\\ Prizes\\ Wrap up |
 | 6:00 pm | Dinner |
-===== Schedule =====
-^ Date ^ Action^
-| 9/7 (Friday) | Send out materials to reviewers |
-| 9/14 (Friday) | Website with documentation for outbound communication |
-| 9/17 (Monday) | Go live with registration |
-| 10/12 (Friday) | Presentation slides ready |
-| 10/15 (Monday) | Team sync up |
-| 10/19 (Friday) | Team rehearsal |
-| 10/20 ~ 10/21 | Hackathon |
+===== Speaker, Co-Speaker, Test Reviewer Schedule =====
+^ Date ^ Action^ Who ^
+| 9/7 (Friday) | Send out materials to reviewers | |
+| 9/14 (Friday) | Website with documentation for outbound communication | |
+| 9/17 (Monday) | Go live with registration | |
+| 10/12 (Friday) | Presentation slides ready | |
+| 10/15 (Monday) | Team sync up | |
+| 10/19 (Friday) | Team rehearsal | |
+| 10/20 ~ 10/21 | Hackathon | |
+
+
+===== Event Location =====
+北京市海淀区学清路38号金码大厦 金码大酒店 (010)62328899
 
 
 ===== People =====
