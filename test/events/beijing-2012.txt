@@ -26,14 +26,13 @@
 | 5:30 pm - 6:00 pm | Demos\\ Prizes\\ Wrap up |
 | 6:00 pm | Dinner |
 ===== Speaker, Co-Speaker, Test Reviewer Schedule =====
-^ Date ^ Action^ Who ^
-| 9/7 (Friday) | Send out all materials to reviewers | Jian and all test reviewers |
-| 9/14 (Friday) |Public training for reviewers  | Jian and all test reviewers |
-| 9/21 (Friday) |Presentation material ready (slide deck, scripts);\\ Speaker share it to Co-speaker; \\ Co-speaker review and translate  |All speakers |
-| 10/8 (Friday) |Presentation material (Chinese version) ready | All speakers, co-speakers |
-| 10/19 (Friday) |Team rehearsal | All speakers, co-speakers |
-| 10/20 ~ 10/21 | Hackathon | |
-
+^ Date ^ Action^ Who ^ Status ^ 
+| 9/7 (Friday) | Send out all materials to reviewers | Jian and all test reviewers | |
+| 9/14 (Friday) |Public training for reviewers  | Jian and all test reviewers | |
+| 9/21 (Friday) |Presentation material ready (slide deck, scripts);\\ Speaker share it to Co-speaker; \\ Co-speaker review and translate  |All speakers | |
+| 10/8 (Friday) |Presentation material (Chinese version) ready | All speakers, co-speakers | |
+| 10/19 (Friday) |Team rehearsal | All speakers, co-speakers | |
+| 10/20 ~ 10/21 | Hackathon | | |
 ===== Event Location =====
 北京市海淀区学清路38号金码大厦 金码大酒店 (010)62328899
 
