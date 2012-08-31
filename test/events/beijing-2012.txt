@@ -43,7 +43,7 @@ TODO: Add English version and map
 
 In addition to speakers/Co-speakers, we have invited people from China community who have expertise in standard, web development, web engine development. They will contribute to test case reviewer work on 10/21.  
 
-Please see the latest information on web page http://testthewebforward.org/beijing-2012.html
+Please see the latest information on web page http://testthewebforward.org/beijing-2012.html  (Not published yet)
 
 
 
