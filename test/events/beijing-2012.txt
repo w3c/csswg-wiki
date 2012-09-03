@@ -4,7 +4,7 @@
 
 ^ 10/20/2012 Saturday ^ Activity ^ Content ^ Speaker ^ Co-Speaker \\ (Interpreter /Teaching Assistant /Backup) ^
 | 2:00 pm - 2:30 pm | Register/SWAG | -- | -- |
-| 2:30 pm - 3:00 pm | Welcome and introduction: better tests for a better web |  | Arno, Ethan from Adobe | Ping from Adobe |
+| 2:30 pm - 3:00 pm | Welcome and introduction: better tests for a better web |  | Arno, Ethan from Adobe | Ping from Adobe China |
 | 3:00 pm - 3:20 pm | An introduction to the CSSOM View spec | * Get an overall understanding of the web features under test\\ * How to read spec effectively |JianNing Ding  from  Google China   |ZhanHongTao from  Maxthon| 
 | 3:20 pm - 3:40 pm | An introduction to the CSS Backgrounds and Borders spec | ditto | Elika from CSS working group | Mark Dong from Adobe China |
 | 3:40 pm - 4:00 pm | An introduction to the CSS Flexible Box spec | ditto | Kenny from Opera China | None |
