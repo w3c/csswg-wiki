@@ -47,10 +47,9 @@ http://testthewebforward.org/beijing-2012.html (Not published yet)
 
 ===== Event Contacts =====
 
-Feel free to contact orgnizors 
+Feel free to contact  event organizers 
 
-phuang@adobe.com , zjian@adobe.com 
-
+Ping Huang (phuang@adobe.com) ; Jian Zhang(zjian@adobe.com); Fiona Duan(dfiona@adobe.com)
 ===== Test Reviewer Name list =====
 
 In addition to speakers/Co-speakers, we have invited people from China community who have expertise in web standards, web development, web engine development. They will contribute to test case reviewer work on 10/21.  
