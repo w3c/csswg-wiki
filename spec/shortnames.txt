@@ -29,3 +29,11 @@ Follow ''cssN-foo'' pattern. Fix Level 1 specs by
 Follow ''css-fooN'' pattern. Fix all specs by
   * Moving all specs to ''css-fooN''
   * Setting up permanent redirects from ''css3-foo'' to ''css-fooN''
+  * This model is already used by Selectors, and several WebApps specs.
+
+== Option C ==
+
+Slight variation on Option B: follow ''css-foo-N'' pattern. Fix all specs by
+  * Moving all specs to ''css-foo-N''
+  * Setting up permanent redirects from ''css3-foo'' to ''css-foo-N''
+  * This might be more readable.
