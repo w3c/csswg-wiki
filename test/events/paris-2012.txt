@@ -44,14 +44,14 @@ on www.testthewebforward.com
 Israel
 
 == Reach out plan ==
-- in charge: Marie
-- Announcement
-- Registration
-- List of deliverables:
--- Badges
--- Registration site
--- Text for registration site
-- Contributors: W3C folks, all experts, Daniel Glazman, Christie Fidura
+  * in charge: Marie
+  * Announcement
+  * Registration
+  * List of deliverables:
+  ** Badges
+  ** Registration site
+  ** Text for registration site
+  * Contributors: W3C folks, all experts, Daniel Glazman, Christie Fidura
 
 == Documentation ==
 Sample tests - 
