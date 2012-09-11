@@ -12,6 +12,29 @@ This page is to track specifically the remaining work on the CSS Box module. Ple
 
 This section is for describing general problems that the CSS Box module must solve, e.g. concepts that need defining or refining, or spec areas that should be rewritten to improve clarity.
 
+=====Containing blocks=====
+
+We have seen frequent cases of spec authors using incorrect terminology or awkward constructions when referring to containing blocks, due to the lack of clarity and suitable hooks in CSS21:
+
+  * "each element that is a containing block for the given element"
+Problem: a containing block is a rectangle, not an element or box \\
+Problem: a containing block is associated to a box, not to an element \\
+Problem: a containing block is established by a box, not by an element
+
+  * "Some values of these properties result in the creation of a containing block"
+  * "Note that such an element is always a containing block."
+Problem: not every rectangle that could //potentially// be a containing block for some box is actually a containing block for an actual box in the formatting structure
+
+  * "The containing block of an element with 'position: absolute' is determined as specified in CSS 2.1, except that an ancestor element with 'transform' other than 'none' is treated the same as one with a 'position' of 'absolute', 'fixed', or 'relative'."
+Problem: difficulty in inserting new rules to modify how the containing block of a box with particular properties is determined
+
+  * "Flex containers form a containing block for their contents exactly like block containers do"
+  * "Column boxes act as the containing block for their content. That is, column boxes behave like block-level, table cell, and inline-block boxes as per CSS 2.1, section 10.1, item 2 [CSS21]. However, column boxes do not establish containing blocks for elements with ‘position: fixed’ or ‘position: absolute’."
+Problem: difficulty in restricting attention to only those boxes for whom the container will establish the containing block \\
+Problem: difficulty in removing boxes from the set of potential containing block–establishing boxes for a given kind of box.
+
+
+
 ====== Spec Issues ======
 
 This section is for listing errors in the spec and mismatches against CSS2.1.
