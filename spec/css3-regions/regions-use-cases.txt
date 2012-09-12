@@ -339,50 +339,6 @@ This works only if the class="segment" elements have no direct content, because 
     <div id="region2" class="region"></div>
     <div id="region3" class="region"></div>
 </code>
-==== Flowing content into arbitrary areas ====
-
-The following image illustrates flowing content into an arbitrarily shaped area (e.g., a heart).
-
-{{:spec:css3-regions:simple_shape.png?600|}}
-
-<code css>
-/* extract the content of #source into a named flow - 'article' */
-#source {
-  flow-into: article;
-}                             
-/* render the content from the 'article' named flow into .region */
-.region {
-  flow-from: article; 
-}
-#circle, 
-#heart {
-  position: absolute;
-  width:  40%;
-  height: 40%;
-} 
-#circle {
-  /* notation from CSS Exclusions and Shapes Module */
-  shape-inside: circle(50%, 50%, 30%); 
-  left: 0;
-}
-#heart {
-  shape-inside: polygon(x1, y1, x2, y2, x3, y3, ... xn, yn);
-  right: 0;    
-}
-/* region-styling to change the color of paragraph text that flows into #heart */
-@region #heart {
-  p {
-    color: red;
-  }
-}
-</code>
-<code html>
-<div id="source">
-  <p>Lorem ipsum dolor sit amet ...</p>
-</div>  
-<div id="circle" class="region"></div>
-<div id="heart" class="region"></div> 
-</code>
 
 ==== Flowing content *around* arbitrary areas ====
 
