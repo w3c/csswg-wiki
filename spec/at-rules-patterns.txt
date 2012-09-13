@@ -32,18 +32,47 @@ Here's some example text for @counter-style, a category 4 rule:
 > Each @counter-style rule specifies a value for every counter-style descriptor, either implicitly or explicitly. Those not given explicit value in the rule take the initial value listed with each descriptor in this specification. These descriptors apply solely within the context of the @counter-style rule in which they are defined, and do not apply to document language elements. There is no notion of which elements the descriptors apply to or whether the values are inherited by child elements. When a given descriptor occurs multiple times in a given @counter-style rule, only the last specified value is used; all prior values for that descriptor must be ignored.
 ===== CSSOM =====
 
-All new at-rules need to add a few things to the CSSOM: a new constant (coordinated at the [[CSSOM Constants]] page) and a new interface that inherits from CSSRule.
+When creating a new at-rule, you need to add some CSSOM stuff as well:
 
-For category 1 rules, the interface should have attributes exposing all of the information they contain, like [[http://dev.w3.org/csswg/cssom/#css-import-rule|the @import rule]].
+**A new constant** (coordinated at the [[CSSOM Constants]] page), added to the CSSRule interface like:
 
-For category 2 rules, the interface should expose a ''cssRules'' or ''childRules'' (which?) attribute containing the child rules, and attributes for any other information they contain, like the selector in an @region.  
+    partial interface CSSRule {
+        const unsigned short FOO_RULE = [number];
+    };
 
-For category 3 and 4 rules, the interface should expose a ''style'' attribute containing all the descriptors, and attributes for any other information they contain, like the name of a @counter-style.
+**A new interface:**
 
-There is no need to define the ''cssText'', ''parentRule'', or ''parentStylesheet'' for your interface; these are defined by CSSRule.
+For category 1 rules, the interface should inherit from CSSRule, and have attributes exposing all the information they contain.  For example, here's the @import rule:
+
+    interface CSSImportRule : CSSRule {
+        readonly attribute DOMString href;
+        readonly attribute MediaList media;
+        readonly attribute CSSStyleSheet styleSheet;
+    };
+
+For category 2 rules, the interface should inherit from CSSGroupingRule, and have attributes for any other information they contain.  For example, here's the @media rule:
+
+    interface CSSMediaRule : CSSConditionRule {
+        readonly attribute MediaList media;
+    }
+
+(CSSConditionRule inherits from CSSGroupingRule, so it still satisfies the above criteria.)
+
+For category 3 and 4 rules, the interface should expose attributes for all the descriptors, and attributes for any other information they contain, like the name of a @counter-style.  For example, here's the @counter-style rule.
+
+    interface CSSCounterStyleRule : CSSRule {
+        readonly attribute DOMString name;
+        readonly attribute DOMString type;
+        readonly attribute DOMString symbols;
+        readonly attribute DOMString additiveSymbols;
+        readonly attribute DOMString negative;
+        readonly attribute DOMString prefix;
+        readonly attribute DOMString suffix;
+        readonly attribute DOMString range;
+        readonly attribute DOMString fallback;
+    }
 
 If you don't understand how to write WebIDL for the interfaces, just ask.
-
 ===== Grammar =====
 
 TODO
