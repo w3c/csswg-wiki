@@ -58,25 +58,5 @@ In addition to speakers/Co-speakers, we have invited people from China community
 
 Please see the latest information on web page http://testthewebforward.org/beijing-2012.html  (Not published yet)
 
-
-\\
-
-
-\\
-
-
-===== People =====
-
-
-==== who are interested in participating as speakers ====
-  * Kang-Hao (Kenny) Lu (Oupeng/Opera, regular www-style participant) - I can talk about whatever that's assigned to me. The topics I proposed to Dyvia were around "How are specs proses like? How to read specs? How to game the specs with corner cases? Example. Example. Example." I will be speaking in Mandarin.
-
-==== who are interested in participating as reviewers ====
-  * Jin Long Zhang (Oupeng/Opera, Web compatibility engineer)
-
-===== Specs =====
-  * CSSOM-view - Expert: Jinks Zhao (Mathon, is this decided?)
-  * CSS Backgrounds and Borders Module Level 3 - Expert: fantasai
-  * CSS Flexible Box Layout Module - Expert: TBD (fantasai mentioned Kenny in the teleconference, but this is not yet determined.)
 ===== Note =====
   * I(Kenny)'d note that the Adobe China team suggests that we enroll as many local speakers/reviewers as possible. I personally find that reasonable given previous experience (some people just dislike English, and it often happens that these speakers end up having very little interaction with local people, etc. etc.), but I should note that it's not easy to find relevant people.
