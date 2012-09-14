@@ -58,5 +58,7 @@ In addition to speakers/Co-speakers, we have invited people from China community
 
 Please see the latest information on web page http://testthewebforward.org/beijing-2012.html  (Not published yet)
 
-===== Note =====
-  * I(Kenny)'d note that the Adobe China team suggests that we enroll as many local speakers/reviewers as possible. I personally find that reasonable given previous experience (some people just dislike English, and it often happens that these speakers end up having very little interaction with local people, etc. etc.), but I should note that it's not easy to find relevant people.
+===== Random Notes =====
+  * Ms2ger [[http://lists.w3.org/Archives/Public/public-css-testsuite/2012Aug/0049|mentioned]] that CSSOM tests submitted last time often disagreed with the specification. Reviewers targeting this spec should probably spend some time getting familiar with [[http://dev.w3.org/2006/webapi/WebIDL/|WebIDL]] (and perhaps some concepts in ECMAScript5). If anyone can help with [[http://www.w3.org/html/ig/zh/wiki/WebIDL|the translation effort]], it will be much appreciated!
+  * Reviewers targeting css3-flexbox might want to spend some time on [[http://www.w3.org/TR/CSS2/visudet.html|Chapter 10 of CSS 2.1]] (Visual formatting model details) too ([[http://www.w3.org/html/ig/zh/wiki/CSS2/visudet|translation available]]).
+  * For presenting "File the best bug", Zhiqiang is welcome to use any parts from fantasai's [[http://fantasai.inkedblade.net/style/talks/filing-good-bugs/|slides]] (or so I think. I am certainly fine with my translation reused. I am almost sure fantasai's fine but you might want to check with here). It's language negotiated (to /en, /zh-hant or /zh-hans).
