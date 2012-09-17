@@ -40,11 +40,7 @@
 ===== Event Location =====
 北京市海淀区学清路38号金码大厦 金码大酒店 (010)62328899
 
-TODO: Add English version
-
-<html>
-<iframe src="http://www.map-generator.org/fa837014-b552-4e52-8e40-b4e003c04848/iframe-map.aspx" scrolling="no" height="250px" width="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-</html>
+TODO: Add English version and map
 
 
 ===== Event Website =====
