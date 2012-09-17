@@ -44,7 +44,7 @@ TODO: Add English version and map
 
 
 ===== Event Website =====
-http://testthewebforward.org/beijing-2012.html (Not published yet)
+http://testthewebforward.org/beijing-2012.html
 
 
 ===== Event Contacts =====
@@ -56,7 +56,7 @@ Ping Huang (phuang@adobe.com) ; Jian Zhang(zjian@adobe.com); Fiona Duan(dfiona@a
 
 In addition to speakers/Co-speakers, we have invited people from China community who have expertise in web standards, web development, web engine development. They will contribute to test case reviewer work on 10/21.  
 
-Please see the latest information on web page http://testthewebforward.org/beijing-2012.html  (Not published yet)
+Please see the latest information on web page http://testthewebforward.org/beijing-2012.html
 
 ===== Random Notes =====
   * Ms2ger [[http://lists.w3.org/Archives/Public/public-css-testsuite/2012Aug/0049|mentioned]] that CSSOM tests submitted last time often disagreed with the specification. Reviewers targeting this spec should probably spend some time getting familiar with [[http://dev.w3.org/2006/webapi/WebIDL/|WebIDL]] (and perhaps some concepts in ECMAScript5). If anyone can help with [[http://www.w3.org/html/ig/zh/wiki/WebIDL|the translation effort]], it will be much appreciated!
