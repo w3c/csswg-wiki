@@ -6,7 +6,7 @@
 
 ^ 10/20/2012 Saturday ^ Activity ^ Content ^ Speaker ^ Co-Speaker \\ (Interpreter /Teaching Assistant /Backup) ^
 | 2:00 pm - 2:30 pm | Register/SWAG | -- | -- |
-| 2:30 pm - 2:50 pm | Welcome and introduction: better tests for a better web |  | Arno, Ethan from Adobe | Ping Huang from Adobe China |
+| 2:30 pm - 2:50 pm | Welcome and introduction: better tests for a better web |  | Arno & Ethan from Adobe | Ping Huang from Adobe China |
 |**Session I - Specs under test (one hour)**|||||
 | 2:50 pm - 3:10 pm | An introduction to the CSSOM View spec | * Get an overall understanding of the web features under test\\ * How to read spec effectively\\ * How to break down a section of the spec into test assertions |JianNing Ding  from  Google China   |ZhanHongTao from  Maxthon| 
 | 3:10 pm - 3:40 pm | An introduction to the CSS Backgrounds and Borders spec | ditto | Elika from CSS working group | Mark Dong from Adobe China |
@@ -57,23 +57,23 @@ Ping Huang (phuang@adobe.com) ; Jian Zhang(zjian@adobe.com); Fiona Duan(dfiona@a
 In addition to speakers/Co-speakers, we have invited people from China community who have expertise in web standards, web development, web engine development. They will contribute to test case reviewer work on 10/21.  
 
 CSS3 Backgrounds and Borders
-  * Zhiqiang Zhang
-  * Jinlong Zhang
-  * Jian Wang
-  * Lei Hu
-  * Tao Yu
+  * Zhiqiang Zhang (Intel China)
+  * Jinlong Zhang (Oupeng)
+  * Jian Wang (UC)
+  * Lei Hu (Baidu)
+  * Tao Yu (Tencent)
 
 CSS Flexible Box
-  * Tie Sun
-  * Hanrui Gao
-  * Dayang Shen
+  * Tie Sun (Baidu)
+  * Hanrui Gao (360)
+  * Dayang Shen (Baidu)
 
 CSSOM View
-  * Yunlong Zhang
-  * Hongtao Zhan
-  * Pengchen Guo
-  * Liping Zhao
-  * Ke Jing
+  * Yunlong Zhang (Mozilla China)
+  * Hongtao Zhan (Maxthon)
+  * Pengchen Guo (Baidu)
+  * Liping Zhao (Adobe China)
+  * Ke Jing (Huawei)
 
 Please see the latest information on web page http://testthewebforward.org/beijing-2012.html
 
