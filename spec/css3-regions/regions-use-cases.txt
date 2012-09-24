@@ -421,7 +421,8 @@ See this real-life example of an airline magazine with english/french side by si
 
 The spec includes more than the usual amount of CSSOM, as the basic capabilities of named flows and region chains are very well suited to being extended via script. Here are some use cases for the scripting access included in the spec.
 
-  - Modifying the region chain based on content changes or window resizing. This could involve adding or removing CSS Regions, or changing region geometry.
-  - Handing events on named flow contents - using the OM to determine the CSS Region(s) that contain the content.
-  - Layout extensions implemented via script (script-based layout constraints can adapt region chain geometry).
-  - Paginated views that use script to navigate or search (use the OM to determine the page to display).
+  - Modifying the region chain based on content changes or window resizing. This could involve adding or removing CSS Regions, or changing region geometry. This case makes use of the regionLayoutUpdate event for noticing when changes may be required Then the NamedFlow.overset, NamedFlow.firstEmptyRegionIndex, and Region.regionOverset properties are used to determine what needs done.
+  - Modifying the content based on the region chain. This is the reverse of the first use case. If the size and position of the region chain is fixed, script can modify the contents (usually through font-size) to make it fit. This can take the form of enlarging headlines to fill the available space, or slightly reducing body text size to bring in a few lines of overset text. NamedFlow.overset is particularly useful here.
+  - Handing events on named flow contents - using the OM to determine the CSS Region(s) that contain the content. NamedFlow.getRegionsByContent() allows you to move from the contents to the containers.
+  - Layout extensions implemented via script (script-based layout constraints). If you have a script-based layout system that uses a different set of constraints than existing CSS layout modes, script access to the region chain through NamedFlow.getRegions() and NamedFlow.getRegionsByContent() is required to solve the layout puzzle. 
+  - Paginated views. Until pagination has an agreed-upon solution, script-based paginated views will need OM access to named flow contents and region chains. And the eventual agreed-upon pagination solution will likely have some voids that can be filled by script, so OM access will continue to be useful (for a smaller set of requirements).
