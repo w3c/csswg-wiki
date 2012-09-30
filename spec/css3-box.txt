@@ -117,7 +117,7 @@ CSS has "normal flow", "in-flow" and "out of flow", but never really explains wh
 From CSS21:
   * "normal flow includes block formatting of block-level boxes, inline formatting of inline-level boxes"
   * "An element is called out of flow if it is floated, absolutely positioned, or is the root element. An element is called in-flow if it is not out-of-flow."
-  * "The flow of an element A is the set consisting of A and all in-flow elements whose nearest out-of-flow ancestor is A." ...hence the flow of an in-flow element is the singleton consisting of itself.
+  * "The flow of an element A is the set consisting of A and all in-flow elements whose nearest out-of-flow ancestor is A." ...hence the flow of an in-flow element is the singleton consisting of itself... which seems nonsensical; presumably this sentence is assuming that A is an out-of-flow element.
   * "Boxes in the normal flow belong to a formatting context, which in CSS 2.1 may be table, block or inline. In future levels of CSS, other types of formatting context will be introduced. Block-level boxes participate in a block formatting context. Inline-level boxes participate in an inline formatting context." (wording taken from errata)
   * "The baseline of an 'inline-block' is the baseline of its last line box in the normal flow, unless it has either no in-flow line boxes or [...]"
   * "User Agents must apply these properties to block-level elements in the normal flow of the root element" ('page-break-*')
