@@ -156,7 +156,16 @@ From regions:
 
 ===Current thinking===
 
-I question that a region establishes a BFC or even establishes any kind of formatting context.  If a table or flex container is fragmented across multiple regions so that one of the regions in the middle receives only a part of the table layout or the flexbox layout, can that layout really be said to be obeying the rules of some formatting context established by the region?  Indeed, if one region is set to be "display:block" and another is set to be "display:flex" and flow runs through them, what is the expected behaviour?  Is the fragmented flow rendered as flex layout inside the flex region?  Need to review the css3-break spec
+In CSS21, a flow root establishes a block formatting context (and everything which establishes a block formatting context is a flow root).  This implies that if its flow consists entirely of inline-level boxes, an anonymous block box is induced which establishes the inline formatting context in which the inline-level boxes participate.
+
+For css3-box, a flow root establishes a formatting context of some kind.
+
+Formatting contexts can also be induced anonymously: for example, a misparented table-cell induces box fixup resulting in the usual table wrapper formatting context and table formatting context.
+
+Regions are flow roots.  Column boxes are flow roots.  Page boxes are flow roots.  Currently in CSS, all these things necessarily establish //block// formatting contexts.  That might change in future.
+
+Recall that the scope of float behaviour and clearance behaviour is restricted to the block formatting context in which the float and clearing element participates.
+
 ====== Spec Issues ======
 
 This section is for listing errors in the spec and mismatches against CSS2.1.
