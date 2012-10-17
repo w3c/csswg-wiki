@@ -1,22 +1,28 @@
 ====== Tucson F2F 2013 ======
 
-**When**: February ??-?? 2013
+**When**: February 4-6 (PROPOSED) 2013
 
-**Where**: 
+**Where**: Tucson, Arizona USA - Locations under discussion - Hotel Congress (Funky Tucson Downtown Charm); The Biosphere (It's set up as a conference center with casitas now, so we'd do this on-location. It's outside of Tucson but could be really awesome to have our meeting there: http://www.b2science.org/
 
-**Host**: Molly Holzschlag
+**Host**: Molly E. Holzschlag | City of Tucson | University of Arizona | Add'l Sponsors TBD
 
 Weather Forecast: [[http://forecast.weather.gov/MapClick.php?lat=32.222&lon=-110.971&unit=1|°C]] or [[http://forecast.weather.gov/MapClick.php?lat=32.222&lon=-110.971|°F]]
 
 ===== Lodging =====
 
+TBD
+
 
 ===== Transport to/from Airport =====
+
+TBD - Airport or arranged shuttles. Be advised Tucson is very spread out and public transportation is really difficult. Shared rental cars might well be in order.
 
 
 ===== Participants =====
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+| Holzschlag, Molly | W3C Invited Experts | | | | 
+
 
 Regrets:
 
@@ -25,3 +31,5 @@ Regrets:
   * TBD
 
 === Proposed Topics ===
+
+  * TBD
