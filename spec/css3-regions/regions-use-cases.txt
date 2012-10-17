@@ -417,6 +417,10 @@ See this real-life example of an airline magazine with english/french side by si
 
 {{:spec:css3-regions:multi-lingual.png?700|}}
 
+==== Content re-ordering on the client ====
+
+There are content management systems that assemble markup on demand, but have limited options for changing the markup (and therefore the layout) based on the capabilities of the client that requests a page. One not-so-good solution is to offer a separate 'mobile' page using a different URL if there are layout considerations that require re-ordering the markup to achieve the layout desired on mobile. Using named flows and region chains allows you to define radically different layouts based on media queries in your CSS without changing the underlying markup.
+
 ==== CSSOM use cases ====
 
 The spec includes more than the usual amount of CSSOM, as the basic capabilities of named flows and region chains are very well suited to being extended via script. Here are some use cases for the scripting access included in the spec.
