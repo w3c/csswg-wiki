@@ -25,7 +25,7 @@
 | 12:00 pm - 1:00 pm | Lunch | -- | -- | -- |
 | 1:00 pm - 3:00 pm | Hack | -- | -- | -- |
 | 3:00 pm - 3:30 pm | Snacks/Drinks | -- | -- | -- |
-| 3:30 pm - 4:00 pm | File the best bug | * Bug lifecycle\\ * How to file a bug with high quality\\ * How to file bugs for different browser vendors | Jenny Cao from Intel China | None |
+| 3:30 pm - 4:00 pm | File the best bug | * Bug lifecycle\\ * How to file a bug with high quality\\ * How to file bugs for different browser vendors | Zhiqiang Zhang from Intel China | None |
 | 4:00 pm - 5:30 pm | Hack | -- | -- | -- |
 | 5:30 pm - 6:00 pm | Demos\\ Prizes\\ Wrap up | -- | -- | -- |
 | 6:00 pm | Dinner | -- | -- | -- |
