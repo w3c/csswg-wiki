@@ -54,3 +54,8 @@ Regrets: John Daggett, Molly Holzschlag
   * CSS Masking publish FPWD? Discuss open issues (expected 30min discussion)
     * Issue 1: add new keywords to mask-clip [[http://lists.w3.org/Archives/Public/www-style/2012Oct/0557.html]]
     * Issue 2: 'clip' as shorthand for 'clip-path' or deprecated but mandatory? [[http://lists.w3.org/Archives/Public/www-style/2012Oct/0643.html]]
+  * HTML5 challenges:
+    * SVG: 'display: svg'? 'display: foreign'? (The latter signals Namespace-dependent rendering)
+    * Math: add math boxes? or 'display: foreign'? (But in that case, how to handle baselines and line breaking?)
+    * <details>: two pseudo-classes, ':normal' and ':alt'?
+    * seamless: 'height: complex' (same as 'auto', but for a replaced element whose height depends on its width in more complicated ways than via an aspect ratio)?
