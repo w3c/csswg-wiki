@@ -25,6 +25,7 @@ Sorted by family name:
 | Sylvain Galineau | Microsoft | 25 Oct | 1 Nov | Hilton (Lyon) | | +TTWF |
 | Rossen Atanassov | Microsoft | 27 Oct | 1 Nov | Hilton (Lyon) | | |
 | Lea Verou | W3C | 27 Oct | 3 Nov | La Rene Astrid | | +TTWF |
+| Jet Villegas | Mozilla | Oct 27 | Nov 1 | Hôtel de la Cité Concorde | TGV | +TTWF |
 
 Regrets: John Daggett, Molly Holzschlag
 ===== Agenda =====
