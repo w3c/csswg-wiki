@@ -2,6 +2,8 @@
 
 **When**: February 4-6 (PROPOSED) 2013
 
+//Issue:// If possible, February 5-7 would be preferred. That way it seems doable to attend FOSDEM in Brussels on 2-3, travel on the 4th and arrive in the evening.
+
 **Where**: Tucson, Arizona USA - Locations under discussion 
 
   * Hotel Congress (Funky Tucson Downtown Charm) 
