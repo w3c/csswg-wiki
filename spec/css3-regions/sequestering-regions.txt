@@ -73,7 +73,6 @@ Using custom elements, you could put the presentational elements in a separate H
 Or you could use decorators. Again, I chose to add a class to the img element, but you could decorate the body element if that's your preference.
 
 <code html contents.html>
-<link rel="decorators" href="region-layout.html">
 <style>
   article {
     flow-into: article_flow;
@@ -88,7 +87,7 @@ Or you could use decorators. Again, I chose to add a class to the img element, b
   }
 
   .bar {
-    decorator: url(#region-layout);
+    decorator: url(region-layout.html/#region-layout);
   }
 </style>
 
