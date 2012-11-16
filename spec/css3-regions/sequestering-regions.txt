@@ -32,7 +32,7 @@ Here's the starting point with empty presentational elements in the content mark
 </body>
 </code>
 
-Using custom elements, you could put the presentational elements in a separate HTML file:
+Using custom elements, you could put the presentational elements in a separate HTML file. I have extended the img element here, but you could instead extend the body element.
 
 <code html content.html>
 <link rel="components" href="article-splitter.html">
@@ -70,7 +70,7 @@ Using custom elements, you could put the presentational elements in a separate H
 </body>
 </code>
 
-Or you could use decorators:
+Or you could use decorators. Again, I chose to add a class to the img element, but you could decorate the body element if that's your preference.
 
 <code html contents.html>
 <link rel="decorators" href="region-layout.html">
