@@ -1,0 +1,13 @@
+The Values & Units spec already defines that, when a property restricts a value to a particular range, setting a value outside of that range is a syntax error and must cause the property to be ignored. ([[http://www.w3.org/TR/css3-values/#numeric-types|Here]], and in the other type categories.)
+
+When specifying other types of constructs which have a limited range for some value, follow the same principle: exceeding the range makes the construct invalid.  
+
+For example, the "@keyframes" rule specifies that keyframe blocks must only specify keyframe locations between 0% and 100% (inclusive).  If a keyframe is below 0% or above 100%, it's thrown away.
+
+However, if it can't be determined whether the author is exceeding a range at parse-time, but only at some later time, it should *not* make the construct invalid.  Instead, try to honor the author's intent as much as possible.
+
+For example, implementations place impl-defined limits on the maximum ranges of various properties.  These maximums vary across properties, across browsers, and across time.  Authors can't predict what the maximum value should be, so when they do exceed the range, the value should instead be clamped to the maximum.
+
+Some cases skirt the line - for example, the 'cursor' property allows authors to specify a "hotspot", the actual location in the image where a "click" should originate from.  This hotspot should be restricted to the bounds of the image.  We can tell that a negative position is invalid at parse time, but the validity of a positive position can't be known until we download and parse the image.  Theoretically, the author knows the bounds of their image, and so this should fall into the first category and become invalid, but we can't use the same type of invalidity (falling back to a previous declaration), because this happens long after the cascade has finished.  Our choices are to either ignore the author's declaration (resetting the hotspot to its default position) or clamp it to the image's bounds.  The latter respects the author's intent better, and is easy to do, so it should be chosen. 
+
+In other cases, it's hard (or impossible!) or expensive to respect the author's intent, and so ignoring is better.  For example, when a reference cycle in Custom Properties is detected, we have no way of knowing what the author intended.  We could make an arbitrary decision, but it's cleaner and easier to just ignore the entire cycle.
