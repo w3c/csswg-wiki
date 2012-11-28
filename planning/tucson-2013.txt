@@ -33,6 +33,7 @@ TBD - Airport or arranged shuttles. Be advised Tucson is very spread out and pub
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Adams, Glenn | Cox | | | | 
+| Baron, L. David | Mozilla | ? | ? | ? | ? | |
 | Holzschlag, Molly | W3C Invited Experts | | | | 
 
 
