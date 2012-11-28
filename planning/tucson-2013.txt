@@ -35,6 +35,7 @@ Sorted by family name:
 | Adams, Glenn | Cox | | | | 
 | Baron, L. David | Mozilla | ? | ? | ? | ? | |
 | Holzschlag, Molly | W3C Invited Experts | | | | 
+| Linss, Peter | HP | ? | ? | ? | ? | |
 
 
 Regrets:
