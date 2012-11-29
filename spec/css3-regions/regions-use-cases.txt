@@ -123,7 +123,7 @@ blockquote {
   /* exclude surrounding content */
   wrap-flow: both; 
   /* prevent the content from touching the edges of the box */
-  wrap-padding: 20px;
+  shape-padding: 20px;
   color: lightblue;
   font-size: 2em;
 }
@@ -234,8 +234,8 @@ With CSS Regions I can filter the content and surface it. Possible use cases: "b
 .stories::before{  
     flow-from: breaking-news;
     
-    /* allow scrolling when content overflows the region */
-    region-overflow: auto;
+    /* allow scrolling when content overflows the last region in the named flow */
+    region-fragment: auto;
     overflow: auto;
 }    
 </code>
@@ -317,8 +317,8 @@ This works only if the class="segment" elements have no direct content, because 
     height:60%;
     margin-top:10%;
 
-    /* This region will catch all the overflow content */
-    region-overflow:auto;
+    /* Control the overflow behavior of the last region in the named flow */
+    region-fragment:auto;
     overflow:auto;
 } 
 </code>
