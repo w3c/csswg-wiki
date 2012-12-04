@@ -2,5 +2,188 @@
 
 The current list of CSS 2.1 tests that are flagged as NeedsWork=Incorrect can be found in Shepherd [[http://test.csswg.org/shepherd/search/testcase/spec/CSS21/status/issue/whiteboard/Precision/|here]]
 
-(placeholder for more details)
-
+^ Test ^Proposed Change ^
+|[[http://test.csswg.org/shepherd/testcase/active-selector-002/|active-selector-002]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/active-selector-002.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/active-selector-002.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/background-color-049/|background-color-049]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-052/|background-color-052]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-053/|background-color-053]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-054/|background-color-054]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-070/|background-color-070]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-073/|background-color-073]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-074/|background-color-074]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-075/|background-color-075]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-090/|background-color-090]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-093/|background-color-093]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-094/|background-color-094]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-095/|background-color-095]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-110/|background-color-110]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-113/|background-color-113]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-color-115/|background-color-115]] |  |
+|[[http://test.csswg.org/shepherd/testcase/background-position-019/|background-position-019]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/background-position-019-GT.xht |http://www.gtalbot.org/BrowserBugsSection/css21testsuite/background-position-019-GT.xht ]] |
+|[[http://test.csswg.org/shepherd/testcase/background-position-020/|background-position-020]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-031/|background-position-031]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-032/|background-position-032]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-043/|background-position-043]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-044/|background-position-044]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-055/|background-position-055]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-056/|background-position-056]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-067/|background-position-067]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-068/|background-position-068]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-079/|background-position-079]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-080/|background-position-080]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-091/|background-position-091]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-092/|background-position-092]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-103/|background-position-103]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/background-position-104/|background-position-104]] | 019 fix can be applied to this one |
+|[[http://test.csswg.org/shepherd/testcase/before-after-images-001/|before-after-images-001]] |  |
+|[[http://test.csswg.org/shepherd/testcase/before-after-table-whitespace-001/|before-after-table-whitespace-001]] |  |
+|[[http://test.csswg.org/shepherd/testcase/block-replaced-width-001/|block-replaced-width-001]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-049/|border-bottom-color-049]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-052/|border-bottom-color-052]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-053/|border-bottom-color-053]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-054/|border-bottom-color-054]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-070/|border-bottom-color-070]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-073/|border-bottom-color-073]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-074/|border-bottom-color-074]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-075/|border-bottom-color-075]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-090/|border-bottom-color-090]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-093/|border-bottom-color-093]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-094/|border-bottom-color-094]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-095/|border-bottom-color-095]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-110/|border-bottom-color-110]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-113/|border-bottom-color-113]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-114/|border-bottom-color-114]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-color-115/|border-bottom-color-115]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-bottom-width-014/|border-bottom-width-014]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-049/|border-left-color-049]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-052/|border-left-color-052]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-053/|border-left-color-053]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-054/|border-left-color-054]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-070/|border-left-color-070]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-073/|border-left-color-073]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-074/|border-left-color-074]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-075/|border-left-color-075]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-090/|border-left-color-090]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-093/|border-left-color-093]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-094/|border-left-color-094]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-095/|border-left-color-095]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-110/|border-left-color-110]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-113/|border-left-color-113]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-114/|border-left-color-114]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-left-color-115/|border-left-color-115]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-049/|border-right-color-049]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-052/|border-right-color-052]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-053/|border-right-color-053]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-054/|border-right-color-054]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-070/|border-right-color-070]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-073/|border-right-color-073]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-074/|border-right-color-074]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-075/|border-right-color-075]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-090/|border-right-color-090]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-093/|border-right-color-093]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-094/|border-right-color-094]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-095/|border-right-color-095]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-110/|border-right-color-110]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-113/|border-right-color-113]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-114/|border-right-color-114]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-right-color-115/|border-right-color-115]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-049/|border-top-color-049]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-052/|border-top-color-052]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-053/|border-top-color-053]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-054/|border-top-color-054]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-070/|border-top-color-070]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-073/|border-top-color-073]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-074/|border-top-color-074]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-075/|border-top-color-075]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-090/|border-top-color-090]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-093/|border-top-color-093]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-094/|border-top-color-094]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-095/|border-top-color-095]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-110/|border-top-color-110]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-113/|border-top-color-113]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-114/|border-top-color-114]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-color-115/|border-top-color-115]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-top-width-014/|border-top-width-014]] |  |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-001/|border-width-applies-to-001]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-001.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-001.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-002/|border-width-applies-to-002]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-002.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-002.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-003/|border-width-applies-to-003]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-003.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-003.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-004/|border-width-applies-to-004]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-004.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-004.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-005/|border-width-applies-to-005]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-005.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-005.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-006/|border-width-applies-to-006]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-006.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-006.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-007/|border-width-applies-to-007]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-007.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-007.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-013/|border-width-applies-to-013]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-013.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-013.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/border-width-applies-to-014/|border-width-applies-to-014]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-014.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/border-width-applies-to-014.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/c21-pseud-link-002/|c21-pseud-link-002]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/c21-pseud-link-003/|c21-pseud-link-003]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/c414-flt-ln-000/|c414-flt-ln-000]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/c414-flt-ln-000.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/c414-flt-ln-000.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/c414-flt-ln-001/|c414-flt-ln-001]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/c414-flt-ln-001.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/c414-flt-ln-001.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/c414-flt-ln-003/|c414-flt-ln-003]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/c414-flt-ln-003.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/c414-flt-ln-003.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/c5525-fltwidth-002/|c5525-fltwidth-002]] |  |
+|[[http://test.csswg.org/shepherd/testcase/c5526c-display-000/|c5526c-display-000]] |  |
+|[[http://test.csswg.org/shepherd/testcase/clear-applies-to-013/|clear-applies-to-013]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/color-070/|color-070]] |  |
+|[[http://test.csswg.org/shepherd/testcase/color-075/|color-075]] |  |
+|[[http://test.csswg.org/shepherd/testcase/color-090/|color-090]] |  |
+|[[http://test.csswg.org/shepherd/testcase/color-110/|color-110]] |  |
+|[[http://test.csswg.org/shepherd/testcase/color-115/|color-115]] |  |
+|[[http://test.csswg.org/shepherd/testcase/columns-001/|columns-001]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/content-178/|content-178]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/content-attr-002/|content-attr-002]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/content-attr-002-GT.htm|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/content-attr-002-GT.htm]] |
+|[[http://test.csswg.org/shepherd/testcase/data-alignment-003/|data-alignment-003]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/display-005/|display-005]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-005a.html|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/display-005a.html]] |
+|[[http://test.csswg.org/shepherd/testcase/first-letter-selector-015/|first-letter-selector-015]] | "This one looks like Arron put in a fix but it somehow got flipped back to NW" |
+|[[http://test.csswg.org/shepherd/testcase/fixed-table-layout-009/|fixed-table-layout-009]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/fixed-table-layout-009.html|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/fixed-table-layout-009.html]] |
+|[[http://test.csswg.org/shepherd/testcase/fixed-table-layout-012/|fixed-table-layout-012]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/floats-037/|floats-037]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/floats-110/|floats-110]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/font-144/|font-144]] | Suggestion here is to remove the test |
+|[[http://test.csswg.org/shepherd/testcase/font-145/|font-145]] | Suggestion here is to remove the test |
+|[[http://test.csswg.org/shepherd/testcase/font-family-applies-to-008/|font-family-applies-to-008]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/font-family-applies-to-009/|font-family-applies-to-009]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/inline-formatting-context-016/|inline-formatting-context-016]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/line-height-003/|line-height-003]] |  |
+|[[http://test.csswg.org/shepherd/testcase/line-height-014/|line-height-014]] |  |
+|[[http://test.csswg.org/shepherd/testcase/list-style-003/|list-style-003]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/list-style-005/|list-style-005]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/list-style-008/|list-style-008]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/ltr-borders-001/|ltr-borders-001]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/ltr-borders-001.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/ltr-borders-001.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/margin-collapse-154/|margin-collapse-154]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/max-width-109/|max-width-109]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-049/|outline-color-049]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-052/|outline-color-052]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-053/|outline-color-053]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-054/|outline-color-054]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-070/|outline-color-070]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-073/|outline-color-073]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-074/|outline-color-074]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-075/|outline-color-075]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-090/|outline-color-090]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-093/|outline-color-093]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-094/|outline-color-094]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-095/|outline-color-095]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-110/|outline-color-110]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-113/|outline-color-113]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-114/|outline-color-114]] |  |
+|[[http://test.csswg.org/shepherd/testcase/outline-color-115/|outline-color-115]] |  |
+|[[http://test.csswg.org/shepherd/testcase/pseudo-009/|pseudo-009]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/table-columns-example-001/|table-columns-example-001]] |  |
+|[[http://test.csswg.org/shepherd/testcase/table-footer-group-004/|table-footer-group-004]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/table-header-group-004/|table-header-group-004]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/table-layer-transparency-011/|table-layer-transparency-011]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/table-layer-transparency-011.html|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/table-layer-transparency-011.html]] |
+|[[http://test.csswg.org/shepherd/testcase/table-visual-layout-002/|table-visual-layout-002]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/test-synthetic-bold/|test-synthetic-bold]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/test-synthetic-italic/|test-synthetic-italic]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/vertical-align-113/|vertical-align-113]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/vertical-align-114/|vertical-align-114]] | [[http://www.gtalbot.org/BrowserBugsSection/css21testsuite/vertical-align-114-GT.xht|http://www.gtalbot.org/BrowserBugsSection/css21testsuite/vertical-align-114-GT.xht]] |
+|[[http://test.csswg.org/shepherd/testcase/vertical-align-119/|vertical-align-119]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/vertical-align-120/|vertical-align-120]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/vertical-align-baseline-004/|vertical-align-baseline-004]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/vertical-align-baseline-005/|vertical-align-baseline-005]] |  |
+|[[http://test.csswg.org/shepherd/testcase/vertical-align-baseline-006/|vertical-align-baseline-006]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/white-space-001/|white-space-001]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/white-space-002/|white-space-002]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/white-space-003/|white-space-003]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/white-space-005/|white-space-005]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/white-space-collapsing-003/|white-space-collapsing-003]] | See comments in Shepherd |
+|[[http://test.csswg.org/shepherd/testcase/white-space-processing-051/|white-space-processing-051]] | See comments in Shepherd |
+ 
