@@ -34,9 +34,9 @@ Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Adams, Glenn | Cox | | | | 
 | Baron, L. David | Mozilla | ? | ? | ? | ? | |
+| Bos, Bert | W3C  | ? | ? | ? | ? | |
 | Holzschlag, Molly | W3C Invited Experts | | | | 
 | Linss, Peter | HP | ? | ? | ? | ? | |
-| Bos, Bert | W3C  | ? | ? | ? | ? | |
 
 
 Regrets:
