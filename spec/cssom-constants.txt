@@ -29,7 +29,7 @@ This page lists all standardized CSSOM constants in CSS to avoid the creation of
 Constants for proposals that have yet to be accepted by the working group are listed below.
 
 |1000| TEXT_TRANSFORM_RULE | proposed for css3-text|
-
+|1001| HOST_RULE | proposed for Shadow DOM|
 
 ====== CSSOM Vendor Constants ======
 
