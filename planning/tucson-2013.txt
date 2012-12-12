@@ -39,6 +39,7 @@ I'll post specific vendors for these resources as they are available.
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Adams, Glenn | Cox | | | | 
+| Atkins, Tab | Google | ? | ? | ? | ? | |
 | Baron, L. David | Mozilla | ? | ? | ? | ? | |
 | Bos, Bert | W3C  | ? | ? | ? | ? | |
 | Çelik, Tantek | Mozilla | 2013-??? | 2013-??? | ? | ? | foodpref: pescatarian[[http://tantek.com/w/FoodPreferences|*]]  |
