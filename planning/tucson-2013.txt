@@ -1,19 +1,12 @@
 ====== Tucson F2F 2013 ======
 
-**When**: February 4-6 (PROPOSED) 2013
+**When**: February 4-6 (CONFIRMED) 2013
 
-//Issue:// If possible, February 5-7 would be preferred. That way it seems doable to attend FOSDEM in Brussels on 2-3, travel on the 4th and arrive in the evening.
+**Where**: Tucson, Arizona USA
 
-**Where**: Tucson, Arizona USA - Locations under discussion 
+  * Meeting location: University of Arizona Campus, room TBA
+  * Hotel: Doubletree Reid Park Tucson
 
-  * Hotel Congress (Funky Tucson Downtown Charm) 
-  * Biosphere 2 - Has a conference center with casitas now, so we'd do this all on-location in Catalina/Oro Valley. It's a bit north of Tucson but could be really awesome to have our meeting there: Please see http://www.b2science.org/ and http://www.b2science.org/confcenter for details 
-  * On-Site University of Arizona - Two current options under examination: Meetings could take place in Gould-Simpson Building, http://www.arizona.edu/buildings/gould-simpson or the awesome Keating Building, http://www.bio5.org/about-bio5/thomas-w-keating-bioresearch-building
-  * Other options include co-location spaces
-
-With Biosphere2, University of Arizona would sponsor the meeting room and daily food service, but of course lodging will have to be covered by members. It's really affordable, around 80 a night per person/room in the casitas, which look well-appointed with full kitchens and common areas. 
-
-With a University on-site lodging will likely be at the University Marriott or possibly the Arizona Inn. It just depends what kind of deals we can get.
 
 **Host**: Molly E. Holzschlag | City of Tucson | University of Arizona, SISTA http://www.sista.arizona.edu/ | Add'l Corporate/Other Sponsors TBD
 
@@ -21,13 +14,26 @@ Weather Forecast: [[http://forecast.weather.gov/MapClick.php?lat=32.222&lon=-110
 
 ===== Lodging =====
 
-TBD
+Doubletree Reid Park Tucson. Rate - 179.00 p/night. Link and toll-free reservation number will be available soon. 
 
 
 ===== Transport to/from Airport =====
 
-TBD - Airport or arranged shuttles. Be advised Tucson is very spread out and public transportation is really difficult. Shared rental cars might well be in order.
+Volunteer Van - we will have a 8-12 seat shuttle van with volunteer drivers from the community. If you would like an airport pick-up, this can be arranged. Please add pick up requests to your note section in the participation section of this document.
 
+Shuttles and Taxis - both a shared-ride shuttle and Taxis are available at the airport. With advanced notice, the Doubletree also offers pickup at no additional cost (please tip your driver, however)
+
+Be advised Tucson is very spread out and public transportation is really limited. Shared rental cars might well be in order for some.
+
+===== Transport to/from Meeting and Evening Event Locations =====
+
+Volunteer van - we will run a volunteer van each evening of the event. 
+
+If you want to explore on your own, a rental car or taxi is best.
+
+If you are an avid cyclist, renting a bike might be a good choice. The hotel is directly across from a beautiful park, and if you don't mind biking a few miles, you can bike to and from the University. The main issue with that is while we have good bicycle lanes, you're in traffic the majority of the ride. 
+
+I'll post specific vendors for these resources as they are available.
 
 ===== Participants =====
 Sorted by family name:
@@ -36,7 +42,7 @@ Sorted by family name:
 | Baron, L. David | Mozilla | ? | ? | ? | ? | |
 | Bos, Bert | W3C  | ? | ? | ? | ? | |
 | Çelik, Tantek | Mozilla | 2013-??? | 2013-??? | ? | ? | foodpref: pescatarian[[http://tantek.com/w/FoodPreferences|*]]  |
-| Holzschlag, Molly | W3C Invited Experts | | | | 
+| Holzschlag, Molly | W3C Invited Experts | n/a | n/a | Doubletree | n/a | 
 | Linss, Peter | HP | ? | ? | ? | ? | |
 | O'Connor, Edward | Apple | ? | ? | ? | ? | |
 | Zilles, Steve | Adobe | 2/5 | 2/7 | ? | ? | Likely to arrive morning of 2/5, fly out late 2/7; Low Carbs diet |
