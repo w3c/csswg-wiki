@@ -47,7 +47,7 @@ Where >>future date<< is a Tuesday or Thursday giving the Webmaster enough time 
 
 The www-style message is your chance to update WG and www-style members who haven't been reading all of your module's deeply involved threads as to what's happening with your module.
 
-Replace >>marked<< items. Here's an [[http://lists.w3.org/Archives/Public/www-style/2011Nov/0790.html|example]]:
+Replace >>marked<< items. Here's an [[http://lists.w3.org/Archives/Public/www-style/2011Nov/0790.html|example WD announcement]] and here's an [[http://lists.w3.org/Archives/Public/www-style/2013Jan/0013.html|example LCWD announcement]]:
 
   ; To : www-style@
   ; Subject : [CSSWG]>>[css3-foo]<< Updated WD of >>CSSN Foo<<
