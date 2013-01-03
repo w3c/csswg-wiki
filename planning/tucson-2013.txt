@@ -14,7 +14,7 @@ Weather Forecast: [[http://forecast.weather.gov/MapClick.php?lat=32.222&lon=-110
 
 ===== Lodging =====
 
-Doubletree Reid Park Tucson. Rate - 179.00 p/night. [[https://lists.w3.org/Archives/Member/w3c-css-wg/2012OctDec/0328.html|Reservation Information (member only)]]. 
+Doubletree Reid Park Tucson. Rate - 179.00 p/night. [[https://lists.w3.org/Archives/Member/w3c-css-wg/2013JanMar/0007.html|Reservation Information (member only)]]. 
 
 
 ===== Transport to/from Airport =====
