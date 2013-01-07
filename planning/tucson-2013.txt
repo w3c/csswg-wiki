@@ -62,6 +62,7 @@ Regrets:
   * Leif Arne Storset (Something came up that makes the timing really unfortunate)
   * Chris Lilley (Sorry)
   * John Jansen
+  * Jet Villegas 
 ===== Agenda =====
 
   * TBD
