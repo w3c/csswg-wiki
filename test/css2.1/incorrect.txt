@@ -1,6 +1,5 @@
 ==== NeedsWork=Incorrect ====
 //Note: This is a static list that will be updated periodically in the CSS2.1 Test Suite 2.0 timeframe. The most up-to-date list of CSS 2.1 tests that are flagged as NeedsWork=Incorrect can be found in Shepherd [[http://test.csswg.org/shepherd/search/spec/CSS21/status/issue/whiteboard/Incorrect%20-%20Precision/|here]]//
-
 ^ Test ^Proposed Change ^
 |[[http://test.csswg.org/shepherd/testcase/background-iframes-001/|background-iframes-001]] | See comments in Shepherd |
 |[[http://test.csswg.org/shepherd/testcase/bidi-display-block-001/|bidi-display-block-001]] |  |
@@ -57,6 +56,4 @@
 |[[http://test.csswg.org/shepherd/testcase/units-005/|units-005]] |  |
 |[[http://test.csswg.org/shepherd/testcase/viewport-001/|viewport-001]] | See comments in Shepherd |
 |[[http://test.csswg.org/shepherd/testcase/width-replaced-element-001/|width-replaced-element-001]] |  |
-|[[http://test.csswg.org/shepherd/testcase/word-spacing-043/|word-spacing-043]] |  |
-|[[http://test.csswg.org/shepherd/testcase/word-spacing-044/|word-spacing-044]] |  |
 |[[http://test.csswg.org/shepherd/testcase/z-index-abspos-009/|z-index-abspos-009]] | See comments in Shepherd |
