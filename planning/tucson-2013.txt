@@ -55,7 +55,7 @@ Sorted by family name:
 | Glazman, Daniel | Disruptive Innovations | ? | ? | ? | ? | spicy food forbidden |
 | Ishii, Koji | Rakuten  | ? | ? | ? | ? | |
 | Taichi, Kawabata| NTT  | ? | ? | ? | ? | |
-| Atanassov, Rossen | Microsoft | Sun 3 | Wed 6 | Doubletree | foodpred: same as Tantek | | 
+| Atanassov, Rossen | Microsoft | Sun 3 | Wed 6 | Doubletree | ? | foodpred: same as Tantek | 
 
 
 Regrets:
