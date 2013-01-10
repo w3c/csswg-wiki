@@ -46,7 +46,7 @@ Sorted by family name:
 | Daggett, John | Mozilla  | ? | ? | ? | ? | |
 | Eicholz, Arron | Microsoft | ? | ? | ? | ? | | 
 | fantasai | Mozilla | ? | ? | ? | ? | |
-| Fraser, Simon | Apple | ? | ? | ? | ? | |
+| Fraser, Simon | Apple | Sun 3, 17:25 | Wed 6, 17:55 | Doubletree | SWA 539 / SWA 1337, SWA 2051 | |
 | Holzschlag, Molly | W3C Invited Experts | n/a | n/a | Doubletree | n/a | 
 | Linss, Peter | HP | 2/3 | 2/8 | Doubletree | ? | |
 | O'Connor, Edward | Apple | ? | ? | ? | ? | |
