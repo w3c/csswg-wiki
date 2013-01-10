@@ -46,6 +46,7 @@ Sorted by family name:
 | Daggett, John | Mozilla  | ? | ? | ? | ? | |
 | Eicholz, Arron | Microsoft | ? | ? | ? | ? | | 
 | fantasai | Mozilla | ? | ? | ? | ? | |
+| Fraser, Simon | Apple | ? | ? | ? | ? | |
 | Holzschlag, Molly | W3C Invited Experts | n/a | n/a | Doubletree | n/a | 
 | Linss, Peter | HP | 2/3 | 2/8 | Doubletree | ? | |
 | O'Connor, Edward | Apple | ? | ? | ? | ? | |
