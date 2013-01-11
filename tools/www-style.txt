@@ -4,7 +4,7 @@ The [[http://lists.w3.org/Archives/Public/www-style/|www-style mailing list]] is
 
 Note: This does not mean development //with// CSS; for help with using CSS, see [[http://www.css-discuss.org/|css-discuss]] for that.
 
-==== Start Subjects with Bracketed Topics/Specs ====
+===== Start Subjects with Bracketed Topics/Specs =====
 
 When writing an email to www-style about a particular spec, please summarize the topic in the subject line and start the subject with the spec code in brackets, e.g.
   * [css3-ui] text-overflow - what happens to overflow when you scroll
@@ -12,15 +12,15 @@ When writing an email to www-style about a particular spec, please summarize the
 
 The spec codes allow editors to more reliably track and address feedback on their specs, and help direct other interested people to the thread.
 
-==== Interleave Replies ====
+===== Interleave Replies =====
 
 Interleave or bottom-post replies, and trim quotations to quote only relevant parts. Previous discussion is always available in full in the [[http://lists.w3.org/Archives/Public/www-style/|archive]].
 
-==== Don't reply to announcements  ====
+===== Don't reply to announcement threads  =====
 
 Occasionally a CSSWG member will post meeting minutes, a draft publication announcement, or a meeting agenda to the list. If you want to discuss one of the topics in the message, quote the relevant part and start a new thread with a new subject line. Only reply to the announcement thread if you're offering a correction or missing background info.
 
-==== Change the subject when a starting new discussion ====
+===== Change the subject when a starting new discussion =====
 
 A lot of emails get posted to www-style which can spark new / specific discussions in subthreads. When replying any such email and following-up on a specific aspect or subject, please start a *new* subject with the particular topic in brackets. This helps people notice the topic change.
 
