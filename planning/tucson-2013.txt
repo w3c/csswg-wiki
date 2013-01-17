@@ -74,3 +74,4 @@ Regrets:
 === Proposed Topics ===
 
   * [[http://www.w3.org/mid/AFDF40EF-A5C9-45B0-8F74-082A461939FF@adobe.com|rotating fragmented blocks]]
+  * Top layer rendering http://lists.w3.org/Archives/Public/www-style/2013Jan/0223.html
