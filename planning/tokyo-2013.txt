@@ -26,3 +26,5 @@ Regrets:
   * TBD
 
 === Proposed Topics ===
+
+  * Joint discussions with the SVG WG
