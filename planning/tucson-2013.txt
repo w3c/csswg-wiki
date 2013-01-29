@@ -84,3 +84,5 @@ Regrets:
   * case sensitivity of user identifiers
   * css3-fonts: font loader object, font matching details
   * css3-text: text-justify, letter and word spacing, defining consistent behavior for line-break, word-break
+  * Placeholder styling
+  * Viewport units
