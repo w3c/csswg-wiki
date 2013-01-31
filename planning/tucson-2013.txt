@@ -14,11 +14,12 @@ Weather Forecast: [[http://forecast.weather.gov/MapClick.php?lat=32.215&lon=-110
 
 ===== Lodging =====
 
-DoubleTree by Hilton Hotel Tucson - Reid Park
-445 S. Alvernon Way, Tucson, Arizona, 85711-4198, USA
-TEL: 1-520-881-4200
+DoubleTree by Hilton Hotel Tucson Reid Park \\ 
+445 S. Alvernon Way, \\ 
+Tucson, Arizona, 85711-4198, USA \\ 
+TEL: 1-520-881-4200 \\ 
 
-- Reservations are now closed. If you need assistance at this point, let Molly know.
+  * Reservations are now closed. If you need assistance at this point, let Molly know.
 
 
 ===== Transport to/from Airport =====
