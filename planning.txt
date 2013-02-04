@@ -10,7 +10,7 @@ This is the CSS Working Group's planning space.
   * [[planning:2013]]
     * [[planning:tucson-2013]]
     * [[planning:tokyo-2013]]
-    * August/September meeting?
+    * September 9/10/11 Europe
     * TPAC (18-22 November in Shenzhen, China)
 
 ===== Past Meetings =====
