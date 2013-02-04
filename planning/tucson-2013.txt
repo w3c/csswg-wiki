@@ -97,6 +97,7 @@ Regrets:
   * case sensitivity of user identifiers
   * css3-syntax: [[http://lists.w3.org/Archives/Public/www-style/2013Feb/0040.html|Have some parse errors make rules invalid without error recovery]] eg. ''@media ], all {…}''
   * css3-transitions issues ([[http://lists.w3.org/Archives/Public/www-style/2013Feb/0124.html|round 1 of proposals]], [[https://www.w3.org/Bugs/Public/show_bug.cgi?id=14621|proposal 2]])
+  * F2F schedule: decide dates for Tokyo F2F, decide date/location for summer F2F (Europe?), confirm whether meeting at TPAC in Shenzhen
 
 == PM ==
   * Text Decoration
@@ -107,7 +108,6 @@ Regrets:
 
 === Tue ===
 == AM ==
-  * F2F schedule: decide dates for Tokyo F2F, decide date/location for summer F2F (Europe?), confirm whether meeting at TPAC in Shenzhen
 
 == PM ==
   * css3-fonts: font loader object, font matching details, remaining spec issues
