@@ -66,6 +66,7 @@ nav-focus: _normal_ | ignore | focus
     * :invalid-drop-zone - a drop zone that doesn't accept the type of data being dragged
   * see http://wiki.csswg.org/spec/selectors4#ideas-to-consider for more.
   * [[http://lists.w3.org/Archives/Public/www-style/2011Nov/0705.html|::backdrop-of(selector)]] - a pseudo-element that matches the backdrop of a fullscreened element, a modal dialog, or other platform features with similar needs. 
+
 ==== pointer-events ====
 Moved from CSS3-UI editor's draft because it was the top source of issues for the 2nd CSS3-UI LCWD, and because it requires documenting previously undocumented web platform hit-testing model.
 
@@ -80,6 +81,28 @@ Consider use-cases, in particular for pointer-events:none;
   * disable clicks on elements that are transitioning on/off screens (zewt on #whatwg 2012-227)
   * prevent transparent elements that overlap clickable ones from getting in the way (zewt on #whatwg 2012-227)
 
+==== touch-action ====
+The Pointer Events WD introduced a "touch-action" property.
+  * http://www.w3.org/TR/2013/WD-pointerevents-20130115/#the-touch-action-css-property
+
+Microsoft has shipped support for "touch-action" in prefixed form in IE10:
+  * [[http://msdn.microsoft.com/en-us/library/windows/apps/hh767313.aspx|-ms-touch-action property (Windows)]]
+
+The CSSWG discussed "touch-action" in the 2013-01-16 telcon:
+  * http://lists.w3.org/Archives/Public/www-style/2013Jan/0220.html
+
+Issues from the telcon:
+  * The touch-action property might be overly-specific to touch interfaces
+  * Discussed whether touch-action property is necessary.
+  * Spec should show examples of how 'touch-action' is used in an all-declarative use case. (If it is only useful when JS is invoked, maybe its behavior should likewise be handled by JS, not by introducing a declarative property that's only useful when mixed with JS.)
+
+There's a subsequent discussion thread on the "public-pointer-events" list about "touch-action":
+  * http://lists.w3.org/Archives/Public/public-pointer-events/2013JanMar/thread.html#msg18
+
+Issues from the mailing list discussion:
+  * ... 
+
+Once the issues from the mailing list discussions are documented, and those plus the issues raised in the telcon are resolved, we should draft a definition of "touch-action" (or equivalent functionality) in CSS4-UI.
 ===== dropped css3 features =====
 Features that were dropped from CSS3-UI (e.g. the 2004 CR) are eligible to be considered for CSS4-UI, but they will need a strong justification as having been ignored by implementations for 6+ years means there was likely something wrong with them and they need major revising. In addition, features dropped from other CSS3 specs or trimmed when bringing over to CSS3-UI are also considered here.
 
