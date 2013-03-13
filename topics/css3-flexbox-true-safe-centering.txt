@@ -3,7 +3,7 @@
 ---- dataentry  ----
 Spec_tags     : css3-align
 Owner_tags    : tabatkins, fantasai
-Status_tags   : Open
+Status_tags   : Resolved
 Added_dt      : 2012-05-16
 Action        : Decide between safe and true centering
 Issue_urls    : 
@@ -25,3 +25,7 @@ A. (Current draft) "Safe" center by default.  Authors can opt into true centerin
 B. "True" center by default.  Authors can opt into safe centering by adding the "safe" keyword alongside their alignment value. (This doesn't match how Block layout usually works.)
 
 C. Assuming the alignment property is generalized, make it default to centering being layout-mode defined.  Flexbox keeps its current behavior of "true" centering.
+
+=== Resolved ===
+
+Flexbox is true alignment. Other layout modes should be consistent if possible.
