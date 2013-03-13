@@ -49,3 +49,7 @@ Various options:
   Python it is tempting to use the 'lower' or 'upper' method of Unicode 
   objects, but these only map codepoints one-to-one and are not proper 
   case folding.)
+
+=== Resolution ===
+
+Resolved on #3.
