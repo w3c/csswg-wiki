@@ -30,18 +30,18 @@ Tests must be //valid//, so please [[http://validator.w3.org/|validate your test
 When using any characters beyond the ASCII set, in any encoding, the character encoding must be specified properly per the specification of the source format.
 
 **If the test uses the Ahem font, make sure its computed font-size is a multiple of 5px**, otherwise baseline alignment may be rendered inconsistently (due to rounding errors introduced by certain platforms' font APIs). We suggest to use a minimum computed font-size of 20px.
-  * Eg. Bad: {font: 1in/1em Ahem;} 
+  * Eg. Bad: {font: 1in/1em Ahem;} /* computed font-size is 96px */
   * Eg. Bad: {font: 1in Ahem;}
   * Eg. Bad: {font: 1em/1em Ahem} /* with computed 1em font-size being 16px */
   * Eg. Bad: {font: 1em Ahem;} /* with computed 1em font-size being 16px */
   * Eg. Good: {font: 100px/1 Ahem;}
   * Eg. Good: {font: 1.25em/1 Ahem;} /* with computed 1.25em font-size being 20px */
 
-**If the test uses the Ahem font, make sure the computed line-height on block elements is specified; avoid 'line-height: normal'**. Also, for absolute reliability, the difference between computed line-height and computed font-size should be dividable by 2. 
+**If the test uses the Ahem font, make sure the line-height on block elements is specified; avoid 'line-height: normal'**. Also, for absolute reliability, the difference between computed line-height and computed font-size should be dividable by 2. 
   * Eg. Bad: {font: 1.25em Ahem;} /* computed line-height value is 'normal' */
   * Eg. Bad: {font: 20px Ahem;} /* computed line-height value is 'normal' */
-  * Eg. Bad: {font-size: 25px; line-height: 50px;}
-  * Eg. Good: {font-size: 25px; line-height: 51px;}
+  * Eg. Bad: {font-size: 25px; line-height: 50px;} /* the difference between computed line-height and computed font-size is **not** dividable by 2. */
+  * Eg. Good: {font-size: 25px; line-height: 51px;} /* the difference between computed line-height and computed font-size is dividable by 2. */
 
 ===== Template for New Tests =====
 
@@ -52,10 +52,10 @@ A template for new tests follows. Copy and paste the code below into a new file 
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head>
   <title>CSS Test: [Title/Scope of Test]</title>
-  <link rel="author" title="[Name of Author]" href="[mailto: or http: contact address]"/>
-  <link rel="help" href="http://www.w3.org/TR/[direct link to tested spec section]"/>
+  <link rel="author" title="[Name of Author]" href="[mailto: or http: contact address]" />
+  <link rel="help" href="http://www.w3.org/TR/[direct link to tested spec section]" />
   <meta name="flags" content="[requirement flags]" />
-  <meta name="assert" content="Test checks that [explanation of what you're trying to test]."/>
+  <meta name="assert" content="Test checks that [explanation of what you're trying to test]." />
   <style type="text/css"><![CDATA[
    [CSS for test]
   ]]></style>
@@ -284,7 +284,7 @@ Example 1 (one token applies):
 
 Example 2 (multiple tokens apply):
 <code html>
-<meta name="flags" content="ahem scroll image" />
+<meta name="flags" content="ahem image scroll" />
 </code>
 
 Example 3 (no tokens apply):
@@ -317,10 +317,10 @@ The test assertion is **optional**. It helps the reviewer understand the goal of
 
 <note>
 Examples of good test assertions:
-  * "A background image with no intrinsic size covers the entire padding box."
-  * "Word-spacing affects each space (U+0020) and non-breaking space (U+00A0)."
-  * "If 'top' and 'bottom' are specified on an absolutely-positioned replaced element, then any remaining space is split amongst the 'auto' vertical margins."
-  * "text-indent affects only the first line of a block container if that line is also the first formatted line of an element
+  * "This test checks that a background image with no intrinsic size covers the entire padding box."
+  * "This test checks that 'word-spacing' affects each space (U+0020) and non-breaking space (U+00A0)."
+  * "This test checks that if 'top' and 'bottom' offsets are specified on an absolutely-positioned replaced element, then any remaining space is split amongst the 'auto' vertical margins."
+  * "This test checks that 'text-indent' affects only the first line of a block container if that line is also the first formatted line of an element."
 </note>
 
 ==== Style Element (embedded styles) ====
@@ -374,6 +374,8 @@ The new file name format is ''test-topic-###.ext'' where ''test-topic'' somewhat
 ''###'' is a zero-filled number used to keep the file names unique.
 
 The file name is no longer restricted to 31 characters, but please try to keep them short.
+
+The file name should not use the underscore ("_") character; please use the hyphen ("-") character instead.
 
 **test-topic**\\
 A short identifier that describes the test. The ''test-topic'' should avoid
