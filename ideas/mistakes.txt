@@ -11,5 +11,5 @@ That should be corrected if anyone invents a time machine. :P
   * ''background-size'' with one value should duplicate its value, not default the second one to ''auto''.
   * ''z-index'' should be called ''z-order''
   * ''word-wrap'' should have been called ''overflow-wrap'' from the beginning
-  * The top and bottom margins of a box should never have been allowed to collapse together as this is the root of all margin-collapsing evil.
+  * The top and bottom margins of a box should never have been allowed to collapse together as this is the **root of all margin-collapsing evil**.
   * Partial collapsing of margins instead of weird rules to handle min/max-heights.
