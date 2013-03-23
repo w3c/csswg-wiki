@@ -4,7 +4,7 @@
 
 **Where**: Tokyo, Japan
 
-  * Meeting location: Mozilla Japan office, near Roppongi
+  * Meeting location: [[http://maps.google.co.jp/maps/ms?msid=108519885773425157194.000468f5c22d7456b8934&msa=0&z=17&lci=transit&hl=en|Mozilla Japan office]], near Roppongi
 
 **Host**: Mozilla Japan
 
