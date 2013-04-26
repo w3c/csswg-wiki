@@ -23,13 +23,13 @@ For flights arriving at Narita, the [[http://www.jreast.co.jp/e/nex/index.html|N
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Atkins, Tab | Google |  |  |  |  |  |
-| Baron, L. David | Mozilla | June 1 | June 12 | ? | ANA1186/ANA8 | arriving from Taipei |
-| Daggett, John | Mozilla  | n/a | n/a | local |  | |
-| fantasai | Mozilla | 6/4 | 6/19 | [[http://www.sawanoya.com/eigo.html|Sawanoya Ryokan]] | UA79/UA852 | |
+| Baron, L. David | Mozilla | June 1 | June 12 |  | ANA1186/ANA8 | arriving from Taipei |
+| Daggett, John | Mozilla  |  |  | local |  | |
+| fantasai | Mozilla | June 4 | June 19 | [[http://www.sawanoya.com/eigo.html|Sawanoya Ryokan]] | UA79/UA852 | |
 | Glazman, Daniel | Disruptive Innovations | June 4 | June 12 | [[http://www.celestinehotel.com/en/index.html|Celestine Hotel]] | JL42/JL41 | also eBooks WS and AC meeting |
-| Ishii, Koji | Rakuten | n/a | n/a | local | | |
-| Linss, Peter | HP | 6/2 | 6/12 | | LH710/ UA838 | also eBooks WS, TTWF, and AC meeting |
-| Stearns, Alan | Adobe  | 5/30 | 6/9 | Roppongi Hills apartment |  | |
+| Ishii, Koji | Rakuten | | | local | | |
+| Linss, Peter | HP | June 2 | June 12 | | LH710/ UA838 | also eBooks WS, TTWF, and AC meeting |
+| Stearns, Alan | Adobe  | May 30 | June 9 | Roppongi Hills apartment |  | |
 Regrets:
 
 ===== Agenda =====
