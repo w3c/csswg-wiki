@@ -53,13 +53,24 @@ Regrets:
 === Proposed Topics ===
 
   * Joint discussions with the SVG WG
-  * case sensitivity will not be discussed (so don't try...)
+
+== Suggested at Higher Priority ==
+
   * CSS3 Cascade, close out following things:
     * Animations/Transitions cascading order
     * Is 'default' keyword acceptably specified?
     * Is scoped rules ordering acceptably specified?
     * If all three things are done, publish LC, possibly with extended comment period
-  * Variables CR
-  * Counter Styles LC/CR?
-  * Text Decoration CR
+  * [[http://dev.w3.org/csswg/css-grid/|Grid Layout (Lots of Issues, see draft)]]
+  * [[http://dev.w3.org/csswg/css-align/|Alignment]] Detailed review of spec with whiteboarding, to make sure we all understand what it's doing and like that.
+  * [[http://dev.w3.org/csswg/css-variables/|Variables CR]]
+  * [[http://dev.w3.org/csswg/css-counter-styles-3/|Counter Styles LC/CR?]]
+  * [[http://dev.w3.org/csswg/css-text-decor/|Text Decoration CR]]
+  * [[http://dev.w3.org/csswg/selectors4/|Selectors 4]] Collect any remaining issues, prepare for LC.
+  * [[http://dev.w3.org/csswg/css-text-3/|CSS3 Text]] Solve open issues, prep first LC?
   * [[ideas:naming]]
+
+== Suggested as Lower Priority ==
+
+  * CSS4 Color
+  * Syntax Level 3
