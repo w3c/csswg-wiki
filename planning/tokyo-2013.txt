@@ -22,7 +22,7 @@ For flights arriving at Narita, the [[http://www.jreast.co.jp/e/nex/index.html|N
 ===== Participants =====
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
-| Adams, Glenn | CoxCom |  |  |  |  |  |
+| Adams, Glenn | CoxCom | June 3 | June 9 | B Roppongi | UA875/838 | TTWG  |
 | Atanassov, Rossen | Microsoft | June 2 | June 12 | TBD | TBD | |
 | Atkins, Tab | Google |  |  |  |  |  |
 | Baron, L. David | Mozilla | June 1 | June 12 |  | ANA1186/ANA8 | arriving from Taipei |
