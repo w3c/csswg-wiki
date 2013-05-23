@@ -256,17 +256,17 @@ All flags documented elsewhere are deprecated except the following:
 |  dom  | Requires support for JavaScript and the Document Object Model (DOM) |
 |  font  | Requires a specific font to be installed. (Details must be provided and/or the font linked to in the test description) |
 |  history  | User agent session history is required. Testing '':visited'' is a good example where this may be used. |
-|  http  | Requires HTTP headers |
 |  HTMLonly  | Test case is only valid for HTML |
+|  http  | Requires HTTP headers |
 |  image  | Requires support for bitmap graphics and the graphic to load |
 |  interact  | Requires human interaction (such as for testing scrolling behavior) |
 |  invalid  | Tests handling of invalid CSS. Note: This case contains CSS properties and syntax that may not validate. |
+|  may  | Behavior tested is //preferred// but OPTIONAL. %%[%%[[http://www.ietf.org/rfc/rfc2119.txt|RFC2119]]] (These tests must be reviewed by a test suite owner or peer.) |
 |  namespace  | Requires support for XML Namespaces |
 |  nonHTML  | Test case is only valid for formats besides HTML (e.g. XHTML or arbitrary XML) |
-|  may  | Behavior tested is //preferred// but OPTIONAL. %%[%%[[http://www.ietf.org/rfc/rfc2119.txt|RFC2119]]] (These tests must be reviewed by a test suite owner or peer.) |
 |  paged  | Only valid for paged media |
-|  should  | Behavior tested is RECOMMENDED, but not REQUIRED. %%[%%[[http://www.ietf.org/rfc/rfc2119.txt|RFC2119]]] |
 |  scroll  | Only valid for continuous (scrolling) media |
+|  should  | Behavior tested is RECOMMENDED, but not REQUIRED. %%[%%[[http://www.ietf.org/rfc/rfc2119.txt|RFC2119]]] |
 |  speech  | Device supports audio output. Text-to-speech (TTS) engine installed | 
 |  svg  | Requires support for vector graphics (SVG) |
 |  userstyle  | Requires a user style sheet to be set |
