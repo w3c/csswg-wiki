@@ -96,6 +96,7 @@ Regrets: Steve Zilles
   * [[http://lists.w3.org/Archives/Public/www-style/2013May/0664.html|how do the close-constructs-at-EOF rules interact with the values of variables]] (both when the contstructs are tokens and when they're parsing matching of parentheses, brackets, or braces) (from May 29 telecon)
   * [[http://lists.w3.org/Archives/Public/www-style/2013May/0668.html|principles behind outline properties]]
   * [[http://lists.w3.org/Archives/Public/www-style/2013May/0652.html|CSS escapes (or lack of them) in attribute values with attr(foo string) and attr(foo url).]] Should be quick.
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Jun/0010.html|Require whitespace around Media Queries operators]], like in @supports
   * Syntax Level 3
 
 == Suggested as Lower Priority ==
