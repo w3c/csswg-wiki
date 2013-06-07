@@ -13,3 +13,4 @@ The intent is for the shape-inside property and defining shapes with SVG element
   * Referencing SVG shapes. The <uri> value for shape-inside can reference an SVG shape.
 
   * Adding path() to Basic Shapes. A path() function could be added to the Basic Shapes section.
+  * Creating a shape from rendered content https://www.w3.org/Bugs/Public/show_bug.cgi?id=16716
