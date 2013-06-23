@@ -266,11 +266,21 @@ and the second value for the left edge.
   ; Status : Resolved. Need to edit editor's draft.
 
 ==== Issue 25 ====
-  ; Summary : nav-* properties are not well implemented, nor expected to be. also, they're problematic. 
+  ; Summary : nav-index properties are not well implemented, nor expected to be. also, they're problematic. 
   ; Raised by : Tantek Çelik
   ; URL : here's one: http://lists.w3.org/Archives/Public/www-style/2012Oct/thread.html#msg468
-  ; Proposed Resolution : drop all nav-* properties from CSS3-UI in next CR draft, move current text to a workspace page like I did for pointer-events: http://www.w3.org/wiki/User:Tantekelik#CSSWG 
+  ; URL : http://wiki.csswg.org/spec/css4-ui#nav-properties
+  ; Proposed Resolution : drop nav-index property from CSS3-UI in next CR draft, move current text to a workspace page like I did for pointer-events: http://www.w3.org/wiki/User:Tantekelik#CSSWG , mark directional nav-* properties at risk.
   ; Status : Need to edit editor's draft.
+
+==== Issue 26 ====
+  ; Summary : add 'cursor' values 'grab' and 'grabbing' per existing interop prefixed support by Gecko and WebKit
+  ; Raised by : Frank Yan / Tantek Çelik
+  ; URL : http://frankyan.com/labs/cursor/
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0058.html
+  ; URL : https://bugzilla.mozilla.org/show_bug.cgi?id=880672
+  ; Proposed Resolution : edit the spec, add the values
+  ; Status : Need to edit editor's draft
 
 ==== Issue 27 ====
   ; Summary : specify that 'cursor' propagates from the root to the viewport
@@ -280,7 +290,7 @@ and the second value for the left edge.
   ; Proposed Resolution : Edit definition of 'cursor' to state (similar to how 'background' does in CSS3 Backgrounds) that it propagates from the root element to the viewport.
   ; Status : Need to edit editor's draft
 
-
+  
 ...
 
 
