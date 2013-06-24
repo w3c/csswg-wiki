@@ -8,8 +8,6 @@ This is the CSS Working Group's planning space.
 
 ===== Upcoming Meetings =====
   * [[planning:2013]]
-    * [[planning:tucson-2013]]
-    * [[planning:tokyo-2013]]
     * [[planning:paris-2013]] 2013-09-11..13. FYI adjacent meetings/conferences:
       * before: [[http://2013.dconstruct.org|2013-09-06 dConstruct]], and [[http://indiewebcamp.com/2013/UK|2013-09-08 IndieWebCampUK]] - both in Brighton, UK.
       * after: [[http://www.w3.org/2012/12/global-publisher/|W3C Publishing Workshop, Paris, 2013-09-16..17]]
@@ -42,3 +40,7 @@ This is the CSS Working Group's planning space.
   * [[planning:hamburg-2012]]
   * [[planning:sandiego-2012]]
   * [[planning:tpac-2012]]
+
+==== 2013 ====
+  * [[planning:tucson-2013]]
+  * [[planning:tokyo-2013]]
