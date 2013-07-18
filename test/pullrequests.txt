@@ -14,6 +14,7 @@ The steps for merging the pull requests back into Mercurial are as follows:
   - Create a second local clone of the test repository: <code>cd <the directory that contains 'test-master'></code><code> hg clone test-master test-github</code>
   - In the test-github repository, pull from the repository listed in the Pull Request:<code>cd test-github</code><code>hg pull git://github.com/<git_user>/csswg-test.git</code>
     * The first time you do this will take a loooong time as it exports the hg data to git format (long as in 3-4 hours, the progress extension helps you see what's going on). This is a one-time operation; subsequent pull requests happen quickly. 
+    * :!: Note: You may see a message like: <code>creating bookmarks failed, do you have bookmarks enabled? </code> This can be safely ignored.
   - (Optional) To confirm you've pulled the changes from Github, compare your two local clones. <code>hg out</code> You should see all of the commits that are in the Pull Request
   - Merge those commits <code>hg merge</code>
   - Commit the merge <code>hg commit -m "Merging PR #XX - https://github.com/w3c/csswg-test/pull/XX"</code>
