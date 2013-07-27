@@ -1,5 +1,13 @@
 ====== Paris F2F 2013 ======
 
-Dates: Sep 11 - 13
+Dates: 2013-09-11…13
 
 Location: Mozilla Paris
+
+===== Adjacent Events =====
+before:
+  * 2013-09-06 dConstruct, Brighton, UK.
+  * 2013-09-07…08 IndieWebCampUK, Brighton, UK.
+after:
+  * 2013-09-16…17 W3C Publishing Workshop, Paris, 
+  * 2013-09-17…18 W3C AB, Cambridge, MA, USA
