@@ -1,8 +1,8 @@
 ====== Paris F2F 2013 ======
 
-Dates: 2013-09-11…13
+**Dates**: 2013 September 11-13
 
-Location: Mozilla Paris
+**Location**: Mozilla Paris
 
 ===== Adjacent Events =====
 before:
@@ -11,3 +11,8 @@ before:
 after:
   * 2013-09-16…17 [[http://www.w3.org/2012/12/global-publisher/|W3C Publishing Workshop]], Paris, 
   * 2013-09-17…18 [[https://www.w3.org/Member/Board/|W3C AB]], Cambridge, MA, USA
+
+===== Participants =====
+Sorted by family name:
+^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+| Baron, L. David | Mozilla | ? | ? | ? | ? |  |
