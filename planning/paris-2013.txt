@@ -18,3 +18,4 @@ Sorted by family name:
 | Baron, L. David | Mozilla | ? | ? | ? | ? |  |
 | Çelik, Tantek | Mozilla | ? | ? | ? | ? |  |
 | Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
+| Stearns, Alan | Adobe | ? | ? | ? | ? |  |
