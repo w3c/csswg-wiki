@@ -12,7 +12,7 @@ Below are the tests that correspond to sections changed and included in the [[ht
 
 == Changes ==
 ^ Change ^ Section ^ Proposed By ^ Existing Tests ^ Test Owners ^
-| **s.6.2.1** | [[http://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html#value-def-inherit | 6.2.1 The 'inherit' value]] | Tab & Elika | [[http://test.csswg.org/shepherd/search/spec/css21/section/6.2.1| 23]]|bzbarsky, dbaron, fantasai, arronei, gtalbot |
+| **s.6.2.1** | [[http://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html#value-def-inherit | 6.2.1 The 'inherit' value]] | Tab & Elika | [[http://test.csswg.org/shepherd/search/spec/css21/section/6.2.1/content/computed%20value/| 10]]|bzbarsky, dbaron, fantasai, arronei, gtalbot |
 | **s.8.3.1.c** | [[http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#collapsing-margins | 8.3.1 Collapsing margins]] | Anton | [[http://test.csswg.org/shepherd/search/spec/css21/section/8.3.1 | 122]] | fantasai, gtalbot, arronei |
 | **s.4.3.1** | [[http://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html#numbers| 4.3.1 Integers and real numbers]]| Tab | [[http://test.csswg.org/shepherd/search/spec/css21/section/4.3.1 | 10]] | gtalbot, arronei |
 | **s.10.1a** | [[http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#containing-block-details |10.1 “Definition of "containing block]] | Bert Bos | [[http://test.csswg.org/shepherd/search/spec/css21/section/10.1 | 58]] | fantasia, gtalbot, arronei, megra, bzbarsky |
@@ -25,7 +25,7 @@ Below are the tests that correspond to sections changed and included in the [[ht
 | **s4.4** | [[ http://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html#charset| 4.4 CSS style sheet representation]]| Henri Sivonen | [[http://test.csswg.org/shepherd/search/spec/css21/section/4.4/load/t48/#t16| 111]] | fantasai, arronei |
 | **s.G.1a** | [[http://www.w3.org/TR/2011/REC-CSS2-20110607/grammar.html#scanner| G.2 Lexical scanner]] | Tab | [[http://test.csswg.org/shepherd/search/spec/css21/section/G.1 | 2]] | megra | 
 | **s.10.5a** | [[http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#the-height-property | 10.5 Content height: the 'height' property]] | fantasai | [[http://test.csswg.org/shepherd/search/spec/css21/section/10.5 | 100]] | fantasai, gtalbot, arronei, megra |
-| | ^Total | **894** | |
+| | ^Total | **881** | |
 
 
 == Clarifications ==
