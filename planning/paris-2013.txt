@@ -30,5 +30,6 @@ Sorted by family name:
 | Sapin, Simon | Mozilla | ? | ? | ? | ? |  |
 | Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
 | Stearns, Alan | Adobe | ? | ? | ? | ? |  |
+| Storset, Leif Arne | Opera | ? | ? | ? | ? |  |
 | Villegas, Jet | Mozilla | ? | ? | ? | ? |  |
 | Zilles, Steve | Adobe| 9/10/2013 | 9/16/2013 | ? | ? |  |
