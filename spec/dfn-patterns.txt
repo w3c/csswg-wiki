@@ -44,7 +44,7 @@ And finally, a catch-all category for general terms and phrases, and anything th
 
 In many cases, the definition type can be automatically inferred.  In others, you may have to manually mark up the type using any of several methods, whichever is most convenient.
 
-The following methods are listed in order of convenience to use, but in *reverse* order of power.  That is, the very last method (manually specifying the type) wins out over everything else, and the very first method (inferring type from contents) will only be used if all the others fail.
+The following methods are listed in order of convenience to use, but in **reverse** order of power.  That is, the very last method (manually specifying the type) wins out over everything else, and the very first method (inferring type from contents) will only be used if all the others fail.
 
 ==== Inferring <dfn> Type From Contents ====
 
