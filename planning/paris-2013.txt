@@ -32,6 +32,7 @@ Sorted by family name:
 | Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
 | Stearns, Alan | Adobe | ? | ? | ? | ? |  |
 | Storset, Leif Arne | Opera | ? | ? | ? | ? |  |
+| Verou, Lea | Invited Expert | 2013-09-09 | 2013-09-13 | ? | ? |  |
 | Villegas, Jet | Mozilla | ? | ? | ? | ? |  |
 | Zilles, Steve | Adobe| 9/10/2013 | 9/16/2013 | ? | ? |  |
 | Ishii, Koji | Rakuten | ? | ? | ? | ? |  |
