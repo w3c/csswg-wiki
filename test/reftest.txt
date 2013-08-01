@@ -56,6 +56,7 @@ Like the format for the test file, the reftest reference format is also XHTML or
  <head>
   <title>CSS Reftest Reference</title>
   <link rel="author" title="NAME_OF_AUTHOR" href="mailto:EMAIL OR http://CONTACT_PAGE"/>
+  <meta name="flags" content="[requirement flags]" />
   <style type="text/css"><![CDATA[
    CSS FOR REFERENCE
   ]]></style>
