@@ -1,4 +1,8 @@
 ====== css3-ui ======
+See also:
+  * http://www.w3.org/wiki/CSSWG#css3-ui
+
+
 FAQ:
 ===== text-overflow for non-latin scripts =====
 Q: Many non latin scripts use something else than 3 dots for the same effect as an ellipsis. How does this work?
