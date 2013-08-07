@@ -15,7 +15,7 @@ after:
 
 ===== Participants =====
 Sorted by family name:
-^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^ Wine-Testing ^
 | Adams, Glenn | CoxCom | ? | ? | ? | ? | |
 | Atkins, Tab | Google | ? | ? | ? | ? | |
 | Baron, L. David | Mozilla | ? | ? | ? | ? |  |
@@ -23,7 +23,7 @@ Sorted by family name:
 | Çelik, Tantek | Mozilla | ? | ? | ? | ? |  |
 | fantasai | Mozilla | ? | ? | ? | ? | |
 | Galineau, Sylvain | Adobe | 09/09/2013 | ? | ? | ? | 75% 
-| Glazman, Daniel | Disruptive Innovations | N/A | N/A | home | N/A |
+| Glazman, Daniel | Disruptive Innovations | N/A | N/A | home | N/A | | yes |
 | Linss, Peter | HP | ? | ? | ? | ? |  |
 | O'Connor, Edward | Apple | ? | ? | ? | ? |  |
 | Pieters, Simon | Opera | 2013-09-09 | 2013-09-13 | Regetel Corona Opera Hotel | ? | Also going to Workshop |
