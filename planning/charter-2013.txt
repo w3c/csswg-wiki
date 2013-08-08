@@ -2,7 +2,7 @@
 
 Editors, please, fill in for your drafts what level you think the drafts will reach within the next two years, REC, CR, WD, NOTE or RSCND (Rescinded REC), and by when.
 
-Once the WG is happy with the list, all the drafts that reach a level different from their current one will become //deliverables// in the charter and the others will be mentioned as items that are //in scope.// (Mentioning them helps to reduce possible patent problems.)
+Once the WG is happy with the list, all the drafts that reach a level different from their current one will become //deliverables// in the charter and the others will be mentioned as items that are //in scope.// (Mentioning them explicitly helps to reduce possible patent problems.)
 
 Use the Notes column for notes to ourselves. They won't be in the charter.
 
