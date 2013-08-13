@@ -24,6 +24,7 @@ Sorted by family name:
 | fantasai | Mozilla | ? | ? | ? | ? | |
 | Galineau, Sylvain | Adobe | 09/09/2013 | ? | ? | ? | 75% 
 | Glazman, Daniel | Disruptive Innovations | N/A | N/A | home | N/A | | yes |
+| Kilpatrick, Ian | Google | ? | ? | ? | ? | Observer | |
 | Linss, Peter | HP | ? | ? | ? | ? |  |
 | O'Connor, Edward | Apple | ? | ? | ? | ? |  |
 | Pieters, Simon | Opera | 2013-09-09 | 2013-09-13 | TRYP Paris Francois | ? | Also going to Workshop |
@@ -32,7 +33,7 @@ Sorted by family name:
 | Sapin, Simon | Mozilla | ? | ? | ? | ? |  |
 | Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
 | Stearns, Alan | Adobe | 2013-09-09 | 2013-09-18 | 3rd Ar. BnB | Delta 615/614 | Also going to Images/Workshop | yes |
-| Stephens, Shane | Google | 2013-09-10 | 2013-09-14 | ? | ? | | If I'm in town |
+| Stephens, Shane | Google | 2013-09-10 | 2013-09-14 | Concorde Opera Paris Hotel | MH20 | | If I'm in town |
 | Storset, Leif Arne | Opera | ? | ? | ? | ? |  |
 | Verou, Lea | Invited Expert | 2013-09-09 | 2013-09-13 | ? | ? |  | yes, unless it’s on/after the 13th |
 | Villegas, Jet | Mozilla | ? | ? | ? | ? |  |
