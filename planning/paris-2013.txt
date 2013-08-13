@@ -45,3 +45,4 @@ Regrets: John Daggett
 
 ===== Proposed Agenda Items =====
   * Discuss creation of a Fonts TF
+  * Resolve Masking shorthand syntax
