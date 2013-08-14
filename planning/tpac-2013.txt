@@ -15,6 +15,7 @@
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Baron, L. David | Mozilla | ? | ? | ? | ? | |
+| fantasai | Mozilla | 8 Nov | 15 Nov | ? | SQ1/SQ2 | |
 | Linss, Peter | HP | ? | ? | ? | ? |  |
 | Rivoal, Florian| Invited Expert | ? | ? | ? | ? | Not confirmed yet |
 | Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
