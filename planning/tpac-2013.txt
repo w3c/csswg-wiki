@@ -17,6 +17,9 @@ Sorted by family name:
 | Baron, L. David | Mozila | ? | ? | ? | ? | |
 | Linss, Peter | HP | ? | ? | ? | ? |  |
 | Rivoal, Florian| Invited Expert | ? | ? | ? | ? | Not confirmed yet |
+| Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
+| Galineau, Sylvain | Adobe | ? | ? | ? | ? |  |
+| Stearns, Alan | Adobe | ? | ? | ? | ? |  |
 
 ===== Regrets =====
 
