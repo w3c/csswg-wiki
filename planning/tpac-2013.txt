@@ -8,6 +8,7 @@
 
 ===== Adjacent Events =====
   * Saturday, November 9: [[http://testthewebforward.org/|Test The Web Forward]], Shenzhen, China
+  * Wednesday, November 13: Plenary Day (at TPAC)
   * Thursday-Friday, November 14-15: SVG Working Group Meeting (at TPAC)
 
 ===== Participants =====
