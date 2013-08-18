@@ -18,7 +18,7 @@ Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^ Wine-Testing ^
 | Adams, Glenn | CoxCom | 2013-09-10 | 2013-09-14 | Hotel Aston | FI542/541 | | yes |
 | Atkins, Tab | Google | ? | ? | ? | ? | |
-| Baron, L. David | Mozilla | ? | ? | ? | ? |  |
+| Baron, L. David | Mozilla | 2013-09-08 | 2013-09-14 | ? | Eurostar/UA991 |  |
 | Bos, Bert | W3C | ? | ? | ? | ? | 50% (ftf + workshop) | yes |
 | Çelik, Tantek | Mozilla | ? | ? | ? | ? |  |
 | fantasai | Mozilla | ? | ? | ? | ? | |
