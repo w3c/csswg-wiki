@@ -25,6 +25,7 @@ Sorted by family name:
 | Galineau, Sylvain | Adobe | 09/09/2013 | ? | ? | ? | 75% 
 | Glazman, Daniel | Disruptive Innovations | N/A | N/A | home | N/A | | yes |
 | Kilpatrick, Ian | Google | ? | ? | ? | ? | Observer | |
+| Lie, Håkon Wium | Opera | ? | ? | ? | ? | ? 
 | Linss, Peter | HP | 2013-09-09 | 2013-09-18 | Pullman Paris Montparnasse | UA 987 / UA 55 | Also going to workshop |
 | O'Connor, Edward | Apple | 2013-09-08 | 2013-09-21 | Hôtel Les Jardins du Marais | UA990/UA991 | Also images/workshop |
 | Pieters, Simon | Opera | 2013-09-09 | 2013-09-13 | TRYP Paris Francois | ? | Also going to Workshop |
