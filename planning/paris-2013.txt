@@ -49,3 +49,5 @@ Regrets: John Daggett
   * Discuss creation of a Fonts TF
   * Resolve Masking shorthand syntax
   * Charter renewal
+  * Multicol: assess test suite, resolve last remaining issues -- move to PR?
+  * GCPM: publish WD
