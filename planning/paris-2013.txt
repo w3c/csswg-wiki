@@ -17,6 +17,7 @@ after:
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^ Wine-Testing ^
 | Adams, Glenn | CoxCom | 2013-09-10 | 2013-09-14 | Hotel Aston | FI542/541 | | yes |
+| Atanassov, Rossen | Microsoft | 2013-09-09 | 2013-09-14 | ? | ? | Going to Images/Workshop | yes |
 | Atkins, Tab | Google | 2013-09-10 | 2013-09-14 | ? | In=LX39/LX656 Out=LX633/LX38 | | Yes |
 | Baron, L. David | Mozilla | 2013-09-08 | 2013-09-14 | ? | Eurostar/UA991 |  |
 | Bos, Bert | W3C | ? | ? | ? | ? | 50% (ftf + workshop) | yes |
@@ -24,6 +25,9 @@ Sorted by family name:
 | fantasai | Mozilla | ? | ? | ? | ? | |
 | Galineau, Sylvain | Adobe | 09/09/2013 | ? | ? | ? | 75% 
 | Glazman, Daniel | Disruptive Innovations | N/A | N/A | home | N/A | | yes |
+| Hilerio, Israel | Microsoft | 2013-09-09 | 2013-09-14 | ? | ? | Going to Images/Workshop |  |
+| Ishii, Koji | Rakuten | ? | ? | ? | ? |  |
+| Kazutaka, Yamamoto | NTT | 2013-09-10 | ? | ? | ? |  |
 | Kilpatrick, Ian | Google | ? | ? | ? | ? | Observer | |
 | Lie, Håkon Wium | Opera | ? | ? | ? | ? | ? 
 | Linss, Peter | HP | 2013-09-09 | 2013-09-18 | Pullman Paris Montparnasse | UA 987 / UA 55 | Also going to workshop |
@@ -36,14 +40,10 @@ Sorted by family name:
 | Stearns, Alan | Adobe | 2013-09-09 | 2013-09-18 | 3rd Ar. BnB | Delta 615/614 | Also going to Images/Workshop | yes |
 | Stephens, Shane | Google | 2013-09-10 | 2013-09-14 | Concorde Opera Paris Hotel | MH20 | | If I'm in town |
 | Storset, Leif Arne | Opera | 2013-09-10 | 2013-09-14 | ? | DY1496 / DY1491 | | yes  |
+| Taichi, Kawabata | NTT | 2013-09-10 | 2013-09-18 | Meridienne | JL041/JL414 |  |
 | Verou, Lea | Invited Expert | 2013-09-09 | 2013-09-13 | ? | ? |  | yes, unless it’s on/after the 13th |
 | Villegas, Jet | Mozilla | ? | ? | ? | ? |  |
 | Zilles, Steve | Adobe| 9/10/2013 | 9/16/2013 | ? | ? |  |
-| Ishii, Koji | Rakuten | ? | ? | ? | ? |  |
-| Kazutaka, Yamamoto | NTT | 2013-09-10 | ? | ? | ? |  |
-| Taichi, Kawabata | NTT | 2013-09-10 | 2013-09-18 | Meridienne | JL041/JL414 |  |
-| Atanassov, Rossen | Microsoft | 2013-09-09 | 2013-09-14 | ? | ? | Going to Images/Workshop | yes |
-| Hilerio, Israel | Microsoft | 2013-09-09 | 2013-09-14 | ? | ? | Going to Images/Workshop |  |
 
 Regrets: John Daggett
 ===== Proposed Agenda Items =====
