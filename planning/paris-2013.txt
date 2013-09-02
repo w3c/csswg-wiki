@@ -54,4 +54,4 @@ Regrets: John Daggett
   * Charter renewal
   * Multicol: assess test suite, resolve last remaining issues -- move to PR?
   * GCPM: publish WD
-  * CSS3 Writing Modes: issues, publish WD?
+  * CSS3 Writing Modes: issues, UTR50 status, publish WD?
