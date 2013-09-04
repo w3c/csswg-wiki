@@ -45,7 +45,7 @@ Use the Notes column for notes to ourselves. They won't be in the charter.
 | [[http://www.w3.org/TR/css3-align/|CSS Box Alignment Module Level 3]] | | | | | | | | | likely to make it to CR |
 | CSS Backgrounds and Borders Level 4 | | | | | | | | | likely FPWD |
 | [[http://www.w3.org/TR/compositing/|Compositing and Blending]] |
-| [[http://www.w3.org/TR/css-device-adapt|CSS Device Adaptation]] |
+| [[http://www.w3.org/TR/css-device-adapt|CSS Device Adaptation]] | | | | | | | | | likely CR |
 | [[http://www.w3.org/TR/css3-exclusions/|CSS Exclusions]] | | | | | | | | | likely CR |
 | [[http://www.w3.org/TR/css-shapes/|CSS Shapes]] | | | | | | | | | expect CR |
 | [[http://www.w3.org/TR/filter-effects/|Filter Effects]] |
