@@ -27,7 +27,7 @@ Sorted by family name:
 | Galineau, Sylvain | Adobe | 09/09/2013 | ? | ? | ? | 75% 
 | Glazman, Daniel | Disruptive Innovations | N/A | N/A | home | N/A | | yes |
 | Hilerio, Israel | Microsoft | 2013-09-09 | 2013-09-14 | ? | ? | Going to Images/Workshop |  |
-| Ishii, Koji | Rakuten | ? | ? | ? | ? |  |
+| Ishii, Koji | Rakuten | 2013-09-10 | 2013-09-14 | AF275 | AF276 | Faubourg |
 | Kazutaka, Yamamoto | NTT | 2013-09-10 | 2013-09-18  | LE MERIDIEN | LH1028／NH0206 | Also going to Workshop | yes |
 | Kilpatrick, Ian | Google | ? | ? | ? | ? | Observer | |
 | Lie, Håkon Wium | Opera | ? | ? | ? | ? | ? 
