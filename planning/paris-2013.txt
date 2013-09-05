@@ -22,7 +22,7 @@ Sorted by family name:
 | Balan, Mihai | Adobe | 2013-09-10 | 2013-09-14 | Vendome Saint Germain | AF1889 / AF1588 | | |
 | Baron, L. David | Mozilla | 2013-09-08 | 2013-09-14 | ? | Eurostar/UA991 |  |
 | Bos, Bert | W3C | 2013-09-10 | 2013-09-18 | at a friend's | TGV | also workshop | yes |
-| Çelik, Tantek | Mozilla | ? | ? | ? | ? |  |
+| Çelik, Tantek | Mozilla | 2013-09-10 | 2013-09-13 | airbnb apt | Eurostar TBD |  |  |
 | fantasai | Mozilla | 2013-09-10 11:10 | 2013-09-17 16:10 | Mozilla apt | AF83/AF80 | no |
 | Galineau, Sylvain | Adobe | 09/09/2013 | ? | ? | ? | 75% 
 | Glazman, Daniel | Disruptive Innovations | N/A | N/A | home | N/A | | yes |
