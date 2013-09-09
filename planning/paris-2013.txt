@@ -67,3 +67,6 @@ Regrets: John Daggett, Anton Prowse
   * **Compositing & Blending**: Resolve issue 2, or why background-blend-mode is more author-friendly than creating n elements and positioning them in the background.
   * **CSS Shapes**: New WD (last WD before LC?)
   * Any interest in working out selection/editing based on display tree rather than DOM?
+  * **CSS Font Load Events** briefly discuss new Promises-based proposal from Tab
+  * **F2F Planning** Sunday at TPAC, 2014 dates/places
+  * **Spec preprocessor** Bert's scripts, Tab's thingy, status and plan
