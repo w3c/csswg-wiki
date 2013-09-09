@@ -13,7 +13,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
   * [[planning:2014]]
     * Feb 2014 New York City?
     * May 2014 Taiwan?
-    * Sept 2014 Berlin?
+    * Sept 2014 Berlin/Zurich/London?
     * Nov 2014 TPAC (US?)
   * [[planning:hosting]]
 
