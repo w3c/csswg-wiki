@@ -26,3 +26,8 @@ Sorted by family name:
 ===== Regrets =====
 
   * Anton Prowse
+
+===== Proposed Agenda Topics =====
+
+  * Meeting with DigiPub IG
+  * Meeting with SVG WG
