@@ -301,6 +301,13 @@ and the second value for the left edge.
   ; Proposed Resolution : Edit spec accordingly, note that Opera/Presto desktop supports nav-* directional navigation with "shift+arrow".
   ; Status : Resolved. Need to edit editor's draft
 
+==== Issue 29 ====
+  ; Summary : nav-* directional navigation properties definition prose fixes
+  ; Raised by : Simon Sapin
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Oct/0102.html
+  ; Proposed Resolution : Edit spec accordingly, explicitly say what happens if ID selector does not match any elements.
+  ; Status : Resolved. Need to edit editor's draft
+
 ...
 
 
