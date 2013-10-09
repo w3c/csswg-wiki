@@ -20,6 +20,7 @@ Sorted by family name:
 | Linss, Peter | HP | 7 Nov | 18 Nov | Futian Shangri-La | UA869 / UA862 | Also TTWF |
 | Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
 | Galineau, Sylvain | Adobe | ? | ? | ? | ? |  |
+| Sapin, Simon | Mozilla | 7 Nov | 17 Nov | Futian Shangri-La | BA25/BA28 | Also TTWF |
 | Stearns, Alan | Adobe | ? | ? | ? | ? |  |
 | Villegas, Jet | Mozilla | ? | ? | ? | ? |  |
 | Atanassov, Rossen | Microsoft | ? | ? | ? | ? |  |
