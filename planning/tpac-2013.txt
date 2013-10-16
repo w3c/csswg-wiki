@@ -15,19 +15,20 @@
 Sorted by family name:
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Adams, Glenn | Cox | 10 Nov | 16 Nov | 五洲宾馆 | UA869/UA862 | Tuesday Only |
+| Atanassov, Rossen | Microsoft | ? | ? | ? | ? |  |
 | Baron, L. David | Mozilla | ? | ? | ? | ? | |
 | Bos, Bert | W3C | 8 Nov | 17 Nov | Wuzhou Guest House | LH796/LH797 | Also TTWF |
 | Cramer, Dave | Hachette | 10 Nov | 15 Nov | ? | ? | Overlap with DPIG |
 | Daggett, John | Mozilla | 9 Nov | 14 Nov | Marco Polo |  | |
 | fantasai | Mozilla | 8 Nov | 15 Nov | ? | SQ1/SQ2 | |
+| Hilerio, Israel | Microsoft | ? | ? | ? | ? |  |
 | Linss, Peter | HP | 7 Nov | 18 Nov | Futian Shangri-La | UA869 / UA862 | Also TTWF |
 | Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
 | Galineau, Sylvain | Adobe | ? | ? | ? | ? |  |
 | Sapin, Simon | Mozilla | 7 Nov | 17 Nov | Futian Shangri-La | BA25/BA28 | Also TTWF |
 | Stearns, Alan | Adobe | ? | ? | ? | ? |  |
 | Villegas, Jet | Mozilla | ? | ? | ? | ? |  |
-| Atanassov, Rossen | Microsoft | ? | ? | ? | ? |  |
-| Hilerio, Israel | Microsoft | ? | ? | ? | ? |  |
+
 ===== Regrets =====
 
   * Anton Prowse
