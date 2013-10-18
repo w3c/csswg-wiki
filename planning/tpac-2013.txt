@@ -1,0 +1,43 @@
+====== TPAC 2013 ======
+  * [[http://www.w3.org/2013/11/TPAC/|TPAC 2013]] (note: you may need an invitation letter to get a visa)
+  * Shēnzhèn (深圳), Guǎngdōng (广东), China (中国)
+  * Venue: 五洲宾馆, 中国深圳市深南大道6001号
+  * Venue: Shenzhen Wuzhou Guest House, No. 6001, Shennan Road, Shenzhen, China
+  * CSS Dates: Sunday-Tuesday, November 10-12, 2013 (Sunday unconfirmed; Monday-Tuesday confirmed)
+  * TPAC Dates: Monday-Friday, November 11-15, 2013
+
+===== Adjacent Events =====
+  * Saturday, November 9: [[http://testthewebforward.org/|Test The Web Forward]], Shenzhen, China
+  * Wednesday, November 13: Plenary Day (at TPAC)
+  * Thursday-Friday, November 14-15: SVG Working Group Meeting (at TPAC)
+
+===== Participants =====
+Sorted by family name:
+^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
+| Adams, Glenn | Cox | 10 Nov | 16 Nov | 五洲宾馆 | UA869/UA862 | Tuesday Only |
+| Atanassov, Rossen | Microsoft | ? | ? | ? | ? |  |
+| Baron, L. David | Mozilla | ? | ? | ? | ? | |
+| Bos, Bert | W3C | 8 Nov | 17 Nov | Wuzhou Guest House | LH796/LH797 | Also TTWF |
+| Cramer, Dave | Hachette | 9 Nov | 14 Nov | Pavilion Century Tower | UA895 | Overlap with DPIG |
+| Daggett, John | Mozilla | 9 Nov | 14 Nov | Marco Polo |  | |
+| fantasai | Mozilla | 8 Nov | 15 Nov | ? | SQ1/SQ2 | |
+| Galineau, Sylvain | Adobe | ? | ? | ? | ? |  |
+| Hilerio, Israel | Microsoft | ? | ? | ? | ? |  |
+| Linss, Peter | HP | 7 Nov | 18 Nov | Futian Shangri-La | UA869 / UA862 | Also TTWF |
+| Schulze, Dirk | Adobe | ? | ? | ? | ? |  |
+| Sapin, Simon | Mozilla | 7 Nov | 17 Nov | Futian Shangri-La | BA25/BA28 | Also TTWF |
+| Stearns, Alan | Adobe | 7 Nov | 16 Nov | Wuzhou Guest House | Delta 155/156 | Also TTWF |
+| Verou, Lea | Invited Expert | 8 Nov | 16 Nov | Futian Shangri-La | ZH9792 | Also TTWF |
+| Villegas, Jet | Mozilla | ? | ? | ? | ? |  |
+===== Regrets =====
+
+  * Anton Prowse
+  * Florian Rivoal
+===== Proposed Agenda Topics =====
+
+  * CSS Writing Modes issues: Tr fallback (with I18N folks)
+  * Meeting with DigiPub IG. Some documents with discussion topics:
+    * [[https://docs.google.com/document/d/1VWrdPjW5O6UQoFXUmQacJuQ68mji2wMkm-u8PMFJZik/edit?usp=sharing|Pagination requirements]] by Dave Cramer (Hachette) for DPub IG
+    * [[http://www.w3.org/Style/2013/paged-media-tasks|List of CSS features required for paged media]] by Bert Bos
+    * [[http://www.w3.org/dpub/IG/wiki/UseCase_Directory|Use cases directory]] by DPub IG (not all of them require CSS)
+  * Meeting with SVG WG
