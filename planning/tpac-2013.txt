@@ -38,6 +38,7 @@ Sorted by family name:
 | Verou, Lea | Invited Expert | 8 Nov | 16 Nov | Futian Shangri-La | ZH9792 | Also TTWF |
 | Villegas, Jet | Mozilla | 10 Nov | 16 Nov | Futian Shangri-La | ? |  |
 | Yamamoto, Kazutaka | NTT | 9 Nov | 16 Nov | Futian Shangri-La | NH1171/NH1172 | |
+| Zilles, Steve | Adobe | 10 Nov | 16 Nov | Futian Shangri-la | | | |
 ===== Regrets =====
 
   * Anton Prowse
