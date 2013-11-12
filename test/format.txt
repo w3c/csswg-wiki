@@ -1,3 +1,14 @@
+<html>
+<strong>
+<div style="color: red; font-size: 20px; border: 2px solid red; padding: 10px; line-height: 1.5; text-align: center;">
+This page has been deprecated and is no longer being maintained. 
+<br>For up to date information on CSS test format guidelines and test templates, see: 
+<br><a href="http://testthewebforward.org/docs/test-format-guidelines.html">http://testthewebforward.org/docs/test-format-guidelines.html</a>
+<br><a href="http://testthewebforward.org/docs/test-templates.html">http://testthewebforward.org/docs/test-templates.html</a>
+</strong>
+</div>
+</html>
+
 ====== Test Format ======
 
 This page describes the standard test format for CSSWG [[test:selftest|self-describing tests]], [[test:reftest|reftests]] and [[test:scripttest|script tests]]. The requirements are explained below; to make things easier we've also provided a template that you can copy.
