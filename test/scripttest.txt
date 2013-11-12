@@ -1,3 +1,13 @@
+<html>
+<strong>
+<div style="color: red; font-size: 20px; border: 2px solid red; padding: 10px; line-height: 1.5; text-align: center;">
+This page has been deprecated and is no longer being maintained. 
+<br>For up to date information on contributing and authoring CSS Test suites, see: 
+<br><a href="http://testthewebforward.org/docs/testharness-tutorial.html">http://testthewebforward.org/docs/testharness-tutorial.html</a>
+</strong>
+</div>
+</html>
+
 ====== Script Tests ======
 
 A //script test// is a test that uses JavaScript to programmatically verify one or more specific functionalities.  Unlike [[test:selftest|self-describing tests]] and [[test:reftest|reftests]], script tests do not verify rendering.
