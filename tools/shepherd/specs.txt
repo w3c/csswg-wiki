@@ -58,7 +58,7 @@ Shepherd classifies definition anchors according to the following logic (first m
     * ‘interface-‘ -> ‘interface’
     * ‘dom-‘ -> some IDL construct - WebIDL found in the specification will be searched for a construct having the same name as the text contents of the <dfn>, if not found, then use the heuristics:
       - if the <dfn> content starts with an uppercase letter -> ‘interface’
-      - if it looks like a function (match '^[^ ]+\([^\(]*\)$’) -> ‘method’
+      - if it looks like a function <nowiki>(match '^[^ ]+\([^\(]*\)$’)</nowiki> -> ‘method’
       - otherwise -> ‘attribute’
   - Search WebIDL found in the specification for a construct having the same name as the text, if found, use that type
   - Look for the nearest ancestor with a valid ‘data-dfn-type’ attribute, or one of the following classes:
@@ -90,11 +90,11 @@ Shepherd classifies definition anchors according to the following logic (first m
     * 'constdef' -> 'const'
     * 'typedefdef' -> 'typedef'
   - Look at the text content of the <dfn> and use the following heuristics:
-    - If the <dfn> content starts with ‘@‘ -> ‘at-rule’
-    - If the <dfn> content is quoted, e.g.: "foo", 'foo', “foo”,  “foo”, or ‘foo’ -> ‘value’
-    - If the <dfn> content starts with ‘<‘ and ends with ‘>’, e.g.: &lt;foo&gt; -> ‘type’
-    - If the <dfn> content starts with ‘:’ -> ‘selector’
-    - If the <dfn> content looks like a function and the ‘id’ does not start with ‘dom-‘ -> ‘function’
+    - If the <dfn> content starts with ‘@‘ -> ‘at-rule’ <code><dfn>@foo</dfn></code>
+    - If the <dfn> content is quoted, e.g.: <nowiki>"foo", 'foo', “foo”, or ‘foo’</nowiki> -> ‘value’ <code><dfn>"foo"</dfn></code>
+    - If the <dfn> content starts with ‘<‘ and ends with ‘>’ -> ‘type’ <code><dfn>&lt;foo&gt;</dfn></code>
+    - If the <dfn> content starts with ‘:’ -> ‘selector’ <code><dfn>:foo</dfn></code>
+    - If the <dfn> content looks like a function and the ‘id’ does not start with ‘dom-‘ -> ‘function’ <code><dfn>foo(bar)</dfn></code>
 
 ==== Anchor Relationships ====
 
