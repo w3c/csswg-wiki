@@ -13,7 +13,7 @@ Meeting room: Adobe U, first floor straight through the double doors after the r
 ===== Participants =====
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
 | Sylvain Galineau | Adobe | (host) | (host) | home | N/A |
-
+| Alan Stearns | Adobe | (host) | (host) | home | N/A |
 ===== Transport to/from Airport =====
 
 Traveling options to/from [[http://www.portseattle.org/sea-tac/Pages/default.aspx|Sea-Tac Airport]] include: 
