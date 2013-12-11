@@ -15,10 +15,13 @@ Meeting room: Adobe U, first floor straight through the double doors after the r
 ===== Participants =====
 
 ===== Participants =====
+(Alphabetical by first name.)
+
 ^ Name ^ Representing ^ Arrive ^ Leave ^ Hotel ^ Flight Info ^ Notes ^
-| Sylvain Galineau | Adobe | (host) | (host) | home | N/A |
 | Alan Stearns | Adobe | (host) | (host) | home | N/A |
 | Daniel Glazman | Samsung | 26-jan | 29-jan | TBD | AF3622 12:40pm / AS226 08:30pm |
+| Sylvain Galineau | Adobe | (host) | (host) | home | N/A |
+| Tab Atkins | Google | ? | ? | Courtyard Marriott | ? |
 ===== Transport to/from Airport =====
 
 Traveling options to/from [[http://www.portseattle.org/sea-tac/Pages/default.aspx|Sea-Tac Airport]] include: 
