@@ -34,6 +34,8 @@ Meeting room: Adobe U, first floor straight through the double doors after the r
 | Rik Cabanier | Adobe | (host) | (host) | home | N/A| observer |
 | Rossen Atanassov | Microsoft | | | home | N/A | pescaterian |
 | Israel Hilerio | Microsoft | | | home | N/A |
+| Taichi KAWABATA | NTT | | | | N/A |
+| Kazutaka YAMAMOTO | NTT | | | | N/A |
 | Matt Rakow | Microsoft | | | home | N/A |
 ===== Transport to/from Airport =====
 
