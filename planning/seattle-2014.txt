@@ -46,7 +46,7 @@ Weather Forecast: [[http://forecast.weather.gov/MapClick.php?lat=47.648&lon=-122
 | Taichi KAWABATA | NTT | | | | N/A |
 | Kazutaka YAMAMOTO | NTT | | | | N/A |
 | Matt Rakow | Microsoft | | | home | N/A |
-| Simon Fraser | Apple | 26-Jan | 29-Jan | Courtyard Marriott | AA227  | AA226 |
+| Simon Fraser | Apple | 26-Jan | 29-Jan | Courtyard Marriott | AA227 /AA226 | |
 | Cameron McCormack | Mozilla | 28-Jan | 01-Feb | Courtyard Marriott | AS223 22:58 / AS460 10:45 | Low carbohydrate options preferred (i.e. meats, cheeses, salads, most veggies good), but don't make too much special effort. |
 
 Regrets: Anton Prowse
