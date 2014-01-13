@@ -50,7 +50,7 @@ Weather Forecast: [[http://forecast.weather.gov/MapClick.php?lat=47.648&lon=-122
 | Sylvain Galineau | Adobe | (host) | (host) | home | N/A |
 | Tab Atkins | Google | ? | ? | Courtyard Marriott | ? |
 | Taichi KAWABATA | NTT | | | | N/A |
-| Tantek Çelik | Mozilla | 026 | 029 | Courtyard Marriott | VA748 20:05 / VA759 19:05 | Pescetarian. No goat cheese (Intolerance only, not an allergy. As Leif said.)
+| Tantek Çelik | Mozilla | 026 | 029 | Courtyard Marriott | VA748 20:05 / VA759 19:05 | Pescetarian. No goat cheese (Intolerance only, not an allergy. As Leif said.) |
 
 Regrets: 
   * Anton Prowse
