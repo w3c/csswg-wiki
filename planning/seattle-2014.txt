@@ -112,3 +112,10 @@ Traveling options to/from [[http://www.portseattle.org/sea-tac/Pages/default.asp
   * Elements as Regions: http://lists.w3.org/Archives/Public/www-style/2014Jan/0090.html
   * [[http://lists.w3.org/Archives/Public/www-style/2014Jan/0122.html|Issue tracking]]
   * [[http://lists.w3.org/Archives/Public/www-style/2013Dec/0402.html|Merging Animatable and Computed Value lines]]
+  * Masking - remaining issues, LC/CR
+  * Shapes - remaining issues, LC/CR
+  * Flexbox - remaining issues, LC
+  * Grid - open issues, initial value of grid-auto-flow
+  * TTA - status, what's left?, get it done
+  * Update on Shadow DOM Styling spec
+  * Display spec - FPWD, naming display-extras and box, use fantasai's run-in model
