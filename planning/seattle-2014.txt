@@ -106,6 +106,7 @@ Regrets:
   * CSS3 Color and currentColor erratum
   * Reversed lists
   * Standardize "-webkit-print-color-adjust: exact;" See https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-print-color-adjust, or option 7 in http://wiki.csswg.org/ideas/print-backgrounds
+  * Transforms Issues
 
 === PM ===
 
