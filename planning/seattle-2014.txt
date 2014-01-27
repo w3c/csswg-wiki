@@ -76,12 +76,12 @@ Regrets:
     * mask-box or 9-sliced-image function
   * Syntax 3 CR
     * http://lists.w3.org/Archives/Public/www-style/2014Jan/0537.html
+    * Move environment encoding for @import to Cascade, for <?xml-stylesheet into CSSOM
   * Flexbox - remaining issues, LC
   * Shapes - remaining issues, LC/CR
 
 === PM ===
 
-  * Move environment encoding for @import to Cascade, for <?xml-stylesheet into CSSOM
   * [[http://lists.w3.org/Archives/Public/www-style/2013Dec/0402.html|Merging Animatable and Computed Value lines]]
   * Grid - open issues, initial value of grid-auto-flow
   * [[http://lists.w3.org/Archives/Public/www-style/2014Jan/0122.html|Issue tracking]]
