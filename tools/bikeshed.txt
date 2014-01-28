@@ -6,3 +6,20 @@ Bikeshed is a pre-processor for the source documents the CSSWG produces their sp
 The processor can be easily installed and run locally (requiring no network access unless you're updating), or accessed as a CGI without any installation at all: https://api.csswg.org/bikeshed/
 
 See https://github.com/tabatkins/bikeshed#bikeshed-a-spec-preprocessor for more details.
+
+===== Troubleshooting =====
+==== blank page ====
+If you get a blank page from submitting the bikeshed webform, then 
+  * go back to the Bikeshed web form - https://api.csswg.org/bikeshed/
+  * change the "Output" radio button to "Errors & Warnings"
+  * resubmit to get actual specific errors
+
+==== requires metadata ====
+If you get an error:
+
+<code>
+Error running preprocessor, returned code: 1.
+[1;31mFATAL ERROR:[0m The document requires at least one metadata block.
+</code>
+
+See https://github.com/tabatkins/bikeshed/blob/master/docs/metadata.md for how to create a metadata block for your spec. 
