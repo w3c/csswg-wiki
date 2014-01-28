@@ -100,11 +100,11 @@ Regrets:
 === AM ===
 
   * Mediaqueries
-    * MQ4 review changes and FPWD?
     * http://lists.w3.org/Archives/Public/www-style/2013Nov/0122.html
     * http://lists.w3.org/Archives/Public/www-style/2013Nov/0125.html
-    * Add Tab as an editor
+    * MQ4 review changes and FPWD?
     * deprecate device-width, device-height, device-aspect-ratio?
+    * Add Tab as an editor
   * Baseline grid
   * CSS3 Color and currentColor erratum
   * Reversed lists
