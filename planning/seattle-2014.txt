@@ -140,7 +140,11 @@ Regrets:
   * fill/stroke with background syntax (FX day)
   * Proposal: ability to specify gradient midpoints (Rik)
   * Custom media features
-
+  * Tab's topics:
+    * Selector and MQ aliases, bringing the power of custom properties to more of CSS: http://tabatkins.github.io/specs/css-aliases/
+    * Layout Transition Primitives, three small JS primitives for addressing the problem of transitioning between different layouts. (That is, "when I switch the 'grid' property, everything should fly to its new place!".) http://tabatkins.github.io/specs/layout-transitions/
+    * An initial sketch of an object-based OM: http://www.xanthir.com/b4UD0
+    * A proposal for nesting CSS rules (revived from an older discussion!): http://tabatkins.github.io/specs/css-nesting/
 
 ===== Transport to/from Airport =====
 
