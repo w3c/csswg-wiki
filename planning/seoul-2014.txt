@@ -44,6 +44,17 @@ Click on the map of the hotel/venu area below to see a larger version of it:
 It takes between 60 to 80 minutes (yes...) from Incheon or Gimpo International Airports to the Hotel Gallery by Airport Limousine Bus. Expect an hour if you take a taxi. VISA cards are accepted just everywhere, you don't have to care about having korean money with you.
 
    * By Airport Limousine Bus
+      * At Incheon International Airport Gate 8A Bus Stop Station, Limousine bus No.5300 and 5400 runs to Seohyeon Bus Station, the first stop, every 20/30 minutes from 05:20 to 22:40. It costs KRW 12,000 one way. 
+         * [[http://www.airport.kr/airport/traffic/bus/busView.iia?seq=103&flag=E|Detailed information on Limousine bus No. 5300]]
+         * [[http://www.airport.kr/airport/traffic/bus/busView.iia?seq=102&flag=E|Detailed information on Limousine bus No. 5400]]
+         * Incheon Airport map with exit for Airport Limo Buses: {{:planning:seoul2014-incheon-airport.png?direct&100|Incheon Airport map with exit for Airport Limo Buses}}
+      * At Gimpo International Airport Gate 1 Bus Stop Station, Limousine bus No. 5100 and 5200 runs to Seohyeon Station, the first stop, every 30 minutes from 06:00 to 22:00. It costs KRW 6000.
+         * [[http://www.airport.co.kr/doc/gimpo_eng/info/RE03010101.jsp|Detailed information on Limousine bus No. 5100 and 5200]] (see numbers 37 and 39)
+         * Gimpo Airport map with exit for Airport Limo Buses: {{:planning:seoul2014-gimpo-airport.png?direct&100|Gimpo Airport map with exit for Airport Limo Buses}}
+   * By Taxi
+      * Taxi is always available from the Incheon International Airport, whose fare (one way) will be approximately KRW 120,000~140,000 for deluxe taxi and KRW 80,000~100,000 for normal taxi( tall gate fee will be added). Again, all taxis accept VISA for payment.
+      * Taxi fare (one way) from the Gimpo International Airport will be approximately KRW 100,000 for deluxe taxi and KRW 60,000~80,000 for normal taxi (tall gate fee will be added).
+      * Taxi fares are of course subject to traffic condition...
 ===== Travel to/from Hotel/TTA Office =====
 
 
