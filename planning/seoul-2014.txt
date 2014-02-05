@@ -36,7 +36,7 @@ Warning: the limousine bus mentioned on the reservation form is for people landi
       * Standard room, breakfast included (double bed, wired high speed internet and VAT): KRW 162,800 per night (at today's rate that's roughly $151 or 112€)
       * Same without breakfast: KRW 143,000 ($133 or 98€)
 
-Click on the map of the hotel/venu area below to see a larger version of it:
+Click on the map of the hotel/venue area below to see a larger version of it:
 
 {{:planning:seoul2014-venue-map.png?direct&200|Map of the hotel and venue area}}
 ===== Transport to/from Airport =====
