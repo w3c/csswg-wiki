@@ -55,6 +55,8 @@ It takes between 60 to 80 minutes (yes...) from Incheon or Gimpo International A
       * Taxi is always available from the Incheon International Airport, whose fare (one way) will be approximately KRW 120,000~140,000 for deluxe taxi and KRW 80,000~100,000 for normal taxi( tall gate fee will be added). Again, all taxis accept VISA for payment.
       * Taxi fare (one way) from the Gimpo International Airport will be approximately KRW 100,000 for deluxe taxi and KRW 60,000~80,000 for normal taxi (tall gate fee will be added).
       * Taxi fares are of course subject to traffic condition...
+      * Here is something you can print and show to the taxi driver...
+      * {{:planning:seoul2014-message-for-taxis.png?direct&200|Take me to Hotel Gallery please}}
 ===== Travel to/from Hotel/TTA Office =====
 
 
