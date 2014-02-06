@@ -51,7 +51,7 @@ Click on the map of the hotel/venue area below to see a larger version of it:
 It takes between 60 to 80 minutes (yes...) from Incheon or Gimpo International Airports to the Hotel Gallery by Airport Limousine Bus. Expect an hour if you take a taxi. VISA cards are accepted just everywhere, you don't have to care about having korean money with you.
 
    * By Airport Limousine Bus
-      * At Incheon International Airport Gate 8A Bus Stop Station, Limousine bus No.5300 and 5400 runs to Seohyeon Bus Station, the first stop, every 20/30 minutes from 05:20 to 22:40. It costs KRW 12,000 one way. 
+      * At Incheon International Airport Gate 8A (1st floor) Bus Stop Station, Limousine bus No.5300 and 5400 runs to Seohyeon Bus Station, the first stop, every 20/30 minutes from 05:20 to 22:40. It costs KRW 12,000 one way. 
          * [[http://www.airport.kr/airport/traffic/bus/busView.iia?seq=103&flag=E|Detailed information on Limousine bus No. 5300]]
          * [[http://www.airport.kr/airport/traffic/bus/busView.iia?seq=102&flag=E|Detailed information on Limousine bus No. 5400]]
          * Incheon Airport map with exit for Airport Limo Buses: {{:planning:seoul2014-incheon-airport.png?direct&100|Incheon Airport map with exit for Airport Limo Buses}}
