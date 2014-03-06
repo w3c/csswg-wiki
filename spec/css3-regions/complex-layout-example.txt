@@ -2,6 +2,10 @@ This large example served as the motivational example in the introduction of the
 
 === Intro ===
 
+{{:spec:css3-regions:intro-example-layout.png?nolink&300|}}
+
+{{:spec:css3-regions:regions-intro-rendering.png?nolink&300|}}
+
 === Code ===
 
 This was originally included in Appendix A with this note:
