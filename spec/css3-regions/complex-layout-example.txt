@@ -1,5 +1,15 @@
 This large example served as the motivational example in the introduction of the spec for a few years. It shows a complex layout using a lot of features, in some cases in a forced way just to include a feature. The example will be replaced in the spec with smaller, more focused examples.
 
+=== Intro ===
+
+=== Code ===
+
+This was originally included in Appendix A with this note:
+
+A multi-column element is used for #region2, which is a bit gratuitous here (because grid cells could be used). The reason to use a multi-column element is to illustrate that regions can be multi-column.
+
+Similarly, the last region breaks out of the grid in this example merely to show that regions in a region chain do not need to share a single parent. 
+
 <code css>
 <style>
   #grid {
