@@ -5,6 +5,9 @@
 Host: [[http://www.samsung.com/|Samsung Electronics]], [[http://www.tta.or.kr/|TTA]] (Telecommunications Technology Association) and the [[http://www.w3c.or.kr/|W3C Korean Office]]
 
 Organizer: Daniel Glazman, Samsung Research America, Open Source Group
+
+See also the Korean Meetup, TTWF and WWW 2014 events at the bottom of this page.
+
 ===== Arrival in Korea =====
 
 **IMPORTANT WARNING**: Korean immigration rules require your passport to be valid at least 6 months after return date. Entry in Korea can be refused if you're not meeting this requirement.
