@@ -126,7 +126,7 @@ The venue is at walking distance (150 meters) from the hotel. Please see the map
    * CSS3 Text //[Is it possible to phone in? If so, please, late in the afternoon. Bert]//
        * [[http://dev.w3.org/csswg/css-text-3/issues-lc-2013#issue-24|text-align shorthanding]]
        * grapheme cluster terminology
-       * Defining 'text-justify: auto'
+       * Defining 'text-justify: auto' [can phone in for this? - Liam]
        * [[http://dev.w3.org/csswg/css-text-3/issues-lc-2013#issue-70|Arabic letters connecting between elements with display: inline]]
        * [[http://dev.w3.org/csswg/css-text-3/issues-lc-2013#issue-72|Control characters]]
    * Split CSS Text 3
@@ -139,12 +139,12 @@ The venue is at walking distance (150 meters) from the hotel. Please see the map
    * CSS Line Layout
        * SVG spec (a REC) defines most properties already. SVG WG would like to reference CSS Line Layout instead. Since there hasn't been progress for two years, how should SVG WG proceed?
        * Specify heuristics for fonts/font systems without enough font metric information.
-       * Initial caps
+       * Initial caps [would like to participate remotely - Liam]
    * CSS Transforms
        * Change matrix decomposition algorithm?
    * CSS Transitions and CSS Animations status
      * More discussion of T/A cascading behavior, weighing impl difficulty against user usefulness
-   * Footnotes in GCPM
+   * Footnotes in GCPM [would like to attend remotely - Liam]
    * font load events to LC
    * CSS Grid to PR (last call ended, CR exit criteria met)
    * Test results script hosted on w3.org for /TR publications
