@@ -12,6 +12,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
       * workshop following on morning of Thursday, May 22, 2014
     * Sept 8-10, 2014 Sophia-Antipolis (was Berlin/Zurich/London?) (dates not yet final)
     * Oct 27-31, 2014 TPAC (Santa Clara) (not yet confirmed)
+  * [[planning:2015]]
   * [[planning:hosting]]
 
 ===== Past Meetings =====
