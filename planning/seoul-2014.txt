@@ -119,7 +119,7 @@ The venue is at walking distance (150 meters) from the hotel. Please see the map
    * Image Values 3
      * Dropping features from image()
      * Deprecating/dropping image-orientation
-     * 2-value image-resolution
+     * [[http://lists.w3.org/Archives/Public/www-style/2013Jul/0568.html|2-value image-resolution]]
 
 === PM ===
 
@@ -129,6 +129,9 @@ The venue is at walking distance (150 meters) from the hotel. Please see the map
        * publish update
    * Counter Styles
      * Review changes
+       * [[http://lists.w3.org/Archives/Public/www-style/2014May/0146.html|Allow reading out counter styles, somehow]]
+       * [[http://lists.w3.org/Archives/Public/www-style/2014Apr/0434.html|How to do padding between counter and list item]]
+       * [[http://lists.w3.org/Archives/Public/www-style/2014Apr/0400.html|Which applies first - pad or negative?]]
      * Align with decision on custom-ident rules
    * CSS3 Text //[Is it possible to phone in? If so, please, late in the afternoon. Bert]//
        * [[http://dev.w3.org/csswg/css-text-3/issues-lc-2013#issue-24|text-align shorthanding]]
@@ -137,7 +140,6 @@ The venue is at walking distance (150 meters) from the hotel. Please see the map
        * [[http://dev.w3.org/csswg/css-text-3/issues-lc-2013#issue-70|Arabic letters connecting between elements with display: inline]]
        * [[http://dev.w3.org/csswg/css-text-3/issues-lc-2013#issue-72|Control characters]]
    * Split CSS Text 3
-
 ==== Tuesday ====
 
 === AM ===
