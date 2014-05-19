@@ -137,6 +137,7 @@ The venue is at walking distance (150 meters) from the hotel. Please see the map
    * CSS3 for formatting books
    * font load events to LC
    * September f2f location / dates
+   * CSS Syntax - unpaired surrogates
    * MediaQueryListener - decide to switch to events
 
 ==== Tuesday ====
