@@ -1,0 +1,90 @@
+===== CSS WG ftf September 2014 =====
+
+==== Date ====
+
+September 8–10, 2014
+
+==== Place ====
+
+INRIA\\
+2004, route des Lucioles\\
+Sophia-Antipolis\\
+France
+([[http://www.openstreetmap.org/?mlat=43.616;mlon=7.068|on OSM]])
+
+(For correspondance:\\
+INRIA\\
+BP 93\\
+06902 Sophia-Antipolis\\
+France)
+
+=== Contacts ====
+
+Bert Bos (see member Web site or mailing list for phone numbers)
+
+==== Participants ====
+
+Please, put your name in this table if you plan to participate:
+
+^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
+| Bert | n/a | n/a | n/a | n/a |
+
+==== Travel ====
+
+=== Airport ===
+
+Nearest airport is [[http://en.nice.aeroport.fr/|Nice-Côte-d'Azur]] ([[http://www.openstreetmap.org/?mlat=43.66;mlon=7.22|on OSM]])
+
+=== Taxi ===
+
+Taxis are expensive, typical rates are € 51–57 (from airport to Antibes or Sophia Antipolis). The airport publishes this list of [[http://en.nice.aeroport.fr/Passengers/DIRECTIONS-PARKING/Getting-to-the-airport/Taxis#prix|typical prices.]]
+
+**Note: taxis don't take credit cards!**
+
+=== Train ===
+
+...
+
+=== Bus ===
+
+...
+
+=== Rental cars ===
+
+...
+
+== Hotels ==
+
+=== Sophia-Antipolis ===
+
+There are some hotels at walking distance from INRIA
+
+=== Antibes ===
+
+=== Other ===
+
+== Network ==
+
+Wifi only. You will get a personal login, so make sure you register in the table above!
+
+There is also an Eduroam network, for those who have such an account.
+
+== Money ==
+
+== Electricity ==
+
+== Touristic tips ==
+
+== Food ==
+
+* Breakfast: We're still checking our budget...
+* Morning break outside the meeting room
+* Buffet lunch in the INRIA restaurant
+* Afternoon break outside the meeting room
+* For the moment, W3C does not plan to offer a dinner (sponsors welcome!)
+
+== Agenda topics ==
+
+== Agenda ==
+
+== Scribes ==
