@@ -28,7 +28,7 @@ Authors can define their own color formats by adding a fromFoo() to RGBAColor, a
     double b = 0;
     double a = 1;
   };
-
+  
   dictionary HSLAColorInit {
     double h = 0;
     double s = 1;
