@@ -1,4 +1,4 @@
-===== CSS WG ftf September 2014 =====
+===== Sophia-Antipolis F2F September 2014 =====
 
 ==== Date ====
 
@@ -27,9 +27,11 @@ Bert Bos (see member Web site or mailing list for phone numbers)
 Please, put your name in this table if you plan to participate:
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
-| Bert | n/a | n/a | n/a | n/a |
+| Bert Bos| n/a | n/a | n/a | n/a |
+| Peter Linss | 6 Sept | 10 Sept | tbd | tbd |
 | Alan Stearns | 6 Sept | 10 Sept |  |  |
 | Steve Zilles | 8 Sept | 16 Sept | Appt in Antibes | LH 1058; will rent car |
+
 ==== Travel ====
 
 === Airport ===
