@@ -8,7 +8,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
 
 ===== Upcoming Meetings =====
   * [[planning:2014]]
-    * Sept 8-10, 2014 Sophia-Antipolis (possibly Zurich or Paris) 
+    * [[planning:sophia-2014]]
     * Oct 27-31, 2014 TPAC (Santa Clara)
   * [[planning:2015]]
   * [[planning:hosting]]
