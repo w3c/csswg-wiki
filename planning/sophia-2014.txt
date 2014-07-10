@@ -87,7 +87,7 @@ Hotels at walking distance:
   * [[http://www.ibis.com/gb/hotel-0711-ibis-antibes-sophia-antipolis/index.shtml|Ibis]] %%***%% (1.26 km)
 
 
-=== Other ===
+==== Other ====
 
 == Network ==
 
@@ -110,15 +110,15 @@ value="EUR"> <input type=submit value="convert">
 
 == Electricity ==
 
-Electricity in France is 230 V, 50 Hz. Laptops normally come with a power supply that handles everything from 110 V to 230 V. That may not be the case for other devices.
+Electricity in France is 230<html>&nbsp;</html>V, 50<html>&nbsp;</html>Hz. Laptops normally come with a power supply that handles everything from 110<html>&nbsp;</html>V to 230<html>&nbsp;</html>V. That may not be the case for other devices.
 
 Power plugs:
-[[http://electricaloutlet.org/type-c|type C ("Europlug")]] and
-[[http://electricaloutlet.org/type-e|type E (grounded)]]
+[[http://electricaloutlet.org/type-c|type<html>&nbsp;</html>C ("Europlug")]] and
+[[http://electricaloutlet.org/type-e|type<html>&nbsp;</html>E (grounded)]]
 
 == Touristic tips ==
 
-=== Food ====
+==== Food ====
 
   * Morning break outside the meeting room
   * Buffet lunch in the INRIA restaurant
