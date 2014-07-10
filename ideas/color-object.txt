@@ -44,10 +44,9 @@ Authors can define their own color formats by adding a fromFoo() to RGBAColor, a
   };
   
   partial interface CSS {
-    CSSColor parseColor(DOMString color, optional Element el);
+    RGBAColor parseColor(DOMString color, optional Element el);
   };
 
-If parseColor is called with a color that depends on the element on which it is used,
-such as ''currentcolor'' or ''inherit'',
-but no el argument was passed,
-throw a XXX error.
+parseColor() takes a string containing any CSS color, and returns an RGBAColor for it.  If the string isn't parseable as a color, throw a SyntaxError exception.
+
+The optional second argument is used to resolve colors that vary based on the element, such as ''currentcolor''.  If such a color is parsed but the second argument is not provided, throw a XXX exception.
