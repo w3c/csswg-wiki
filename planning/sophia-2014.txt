@@ -37,11 +37,11 @@ Please, put your name in this table if you plan to participate:
 
 === Airport ===
 
-Nearest airport is [[http://en.nice.aeroport.fr/|Nice-Côte-d'Azur]] ([[http://www.openstreetmap.org/?mlat=43.66;mlon=7.22|on OSM]])
+Nearest airport is [[http://en.nice.aeroport.fr/|Nice-Côte-d'Azur]] (location [[http://www.openstreetmap.org/?mlat=43.66;mlon=7.22|on OSM]])
 
 === Taxi ===
 
-Taxis are expensive, typical rates are € 51–57 (from airport to Antibes or Sophia Antipolis). The airport publishes this list of [[http://en.nice.aeroport.fr/Passengers/DIRECTIONS-PARKING/Getting-to-the-airport/Taxis#prix|typical prices.]]
+Taxis are expensive, typical rates are €<html>&nbsp;</html>51–57 (from airport to Antibes or Sophia Antipolis). The airport publishes this list of [[http://en.nice.aeroport.fr/Passengers/DIRECTIONS-PARKING/Getting-to-the-airport/Taxis#prix|typical prices.]]
 
 **Note: taxis don't take credit cards!**
 
@@ -49,15 +49,21 @@ Taxis are expensive, typical rates are € 51–57 (from airport to Antibes or S
 
 The nearest train station is Antibes.
 
-The nearest station to the airport is Nice Saint-Augustin: about 1 km on foot from Terminal 1, or one stop with bus 23. However, it is currently not signposted at the airport at all. (The town of Nice has promised to integrate the train better in the transport around the airport, when the tram line from the airport to the center is ready, in a few years...)
+The nearest station to the airport is Nice Saint-Augustin: about 1 km on foot from Terminal<html>&nbsp;</html>1, or one stop with bus<html>&nbsp;</html>23. However, it is currently not signposted at the airport at all. (The town of Nice has promised to integrate the train better in the transport around the airport, when the tram line from the airport to the center is ready, in a few years…)
 
 === Bus ===
 
-...
+== Airport ==
+
+Bus<html>&nbsp;</html>230 **only on weekdays** ([[https://www.cg06.fr/documents/Import/servir-les-habitants/230.pdf|PDF schedule]]) goes from the airport to Sophia Antipolis via the motorway. It stops right in front of INRIA. (Use stop “Caquot" for hotels Ibis and Mercure; stop “Skema” for hotels Novotel and Oméga). Price: €<html>&nbsp;</html>1.50
+
+Bus<html>&nbsp;</html>250 ([[https://www.cg06.fr/documents/Import/servir-les-habitants/250.pdf|PDF schedule]]) goes from the airport to Antibes via the motorway. Price: €<html>&nbsp;</html>10.
+
+Bus<html>&nbsp;</html>200 ([[https://www.cg06.fr/documents/Import/servir-les-habitants/200.pdf|PDF schedule]]), cheaper but slower, goes from the airport to Antibes (45 min) and Cannes (75 min) and everywhere in between. **It stops [[http://www.openstreetmap.org/?mlat=43.66645;mlon=7.2113|on the road in front of the airport]], not at the airport bus station**  Price: €<html>&nbsp;</html>1.50
 
 === Rental cars ===
 
-...
+[[http://en.nice.aeroport.fr/Passengers/SHOPS-SERVICES/Car-rental/Car-Rental|Rental car companies at the airport]] have desks at both terminals. The cars themselves are located in front of Terminal<html>&nbsp;</html>2.
 
 ==== INRIA Campus ====
 
