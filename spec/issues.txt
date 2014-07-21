@@ -103,4 +103,4 @@ Despite its much-maligned downsides, this process has some benefits:
   * It helps you to engage with people who cannot keep up with your lightning speed of progress, such as the i18nWG, the authoring community, implementors who are currently paying attention to their other projects, and members of the CSSWG who aren't following your every brilliant typo fix. Slackers.
   * It makes sure you fixed all those markup errors you accidentally introduced since the last publication. (Oops.)
   * Gives you an opportunity to distill your progress and present it (via the CSSWG Blog and other news outlets) as exciting updates for which the authoring community can provide feedback.
-  * It helps with spec archaeology by providing easily-searchable major revisions.
+  * It helps with spec archaeology by providing easily-findable major revisions.
