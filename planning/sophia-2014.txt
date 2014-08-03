@@ -24,18 +24,18 @@ Bert Bos (see member Web site or mailing list for phone numbers)
 
 ==== Participants ====
 
-Please, put your name in this table if you plan to participate:
+Please, put your name in this table if you plan to participate (alphabetic order):
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
 | Alan Stearns | 6 Sept | 10 Sept |  |  |
 | Bert Bos| n/a | n/a | n/a | n/a |
 | Dave Cramer| 7 Sept | TBD | TBD |  |
-| Peter Linss | 6 Sept | 10 Sept | tbd | tbd |
-| Steve Zilles | 8 Sept | 16 Sept | Appt in Antibes | LH 1058; will rent car |
 | Florian Rivoal | 3 Sept | 11 Sept | Appt in Antibes | DY1404 - DY1405 |
-| Tab Atkins | | | | |
 | Glenn Adams | TBD | TBD | TBD | TBD |
+| Peter Linss | 6 Sept | 10 Sept | tbd | tbd |
 | Simon Sapin | 7 Sept | 10 Sept | | |
+| Steve Zilles | 8 Sept | 16 Sept | Appt in Antibes | LH 1058; will rent car |
+| Tab Atkins | | | | |
 
 ==== Travel ====
 
