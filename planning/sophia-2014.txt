@@ -60,6 +60,7 @@ Regrets:
   * Shinyu Murakami
   * Dael Jackson
   * Michael Miller
+  * Lea Verou
 ==== Travel ====
 
 === Airport ===
