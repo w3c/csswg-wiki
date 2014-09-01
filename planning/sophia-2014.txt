@@ -263,7 +263,8 @@ Vallauris (see [[http://www.vallauris-golfe-juan.fr/-Tourism-.html?lang=en|touri
     *  2003-08-13 // CSS3 module: Presentation Levels // Working Draft 
     *  2003-05-14 // CSS3 Generated and Replaced Content Module // Working Draft 
     *  2002-05-15 // CSS3 module: line // Working Draft
-  * New WD for Geometry interfaces after TAG input
+  * New WD for Geometry interfaces after TAG input (krit)
+  * Stacking contexts on SVG (krit)
  
 ==== Agenda ====
 
