@@ -310,6 +310,7 @@ Approximate daily schedule:
   * randomize() function (krit)
   * <shape-radius> closest-side/furthest-side and calc() (krit)
   * Presentation of Motion Path proposal (if time; no resolutions, krit)
+  * All WDs that are older than 6 months
 
 === Tue ===
 
@@ -323,7 +324,6 @@ Approximate daily schedule:
 == PM ==
 
   * Inline: i18n issues for initial letters; split into separate module? (30min?)
-  * All WDs that are older than 6 months
   * Media Queries
 
   * css-animations:
