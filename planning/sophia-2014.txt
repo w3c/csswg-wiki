@@ -339,6 +339,8 @@ Approximate daily schedule:
 
 == PM ==
 
+  * CSS Text: justification
+
 
 
 
