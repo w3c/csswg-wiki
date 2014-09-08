@@ -300,6 +300,7 @@ Approximate daily schedule:
   * Display Module: removing 'display' longhands (1hr estimate)
   * We didn't yet formally approve the [[http://lists.w3.org/Archives/Public/www-style/2014Jul/0312.html|errata text for the background of the canvas.]]
   * Line Grid: publish new draft?
+  * caret-color, ::selection, outline-radius
 
 == PM ==
 
