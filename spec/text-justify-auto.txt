@@ -46,4 +46,4 @@ Letters represent quality of results
 |Korean (Han only, 1-10%)|B/W|Same|-2|-1|
 |:::|G/T|+2|Same|+1|
 
-  * "+" indicates better, "-" worse, and the number indicates the level
+  * "+" indicates better, "-" worse, and the number indicates the level of the change
