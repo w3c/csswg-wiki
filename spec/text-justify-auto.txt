@@ -22,14 +22,14 @@ Tests: [[http://software.hixie.ch/utilities/js/live-dom-viewer/?%3C!DOCTYPE%20ht
 
 ====== Future Possibilities ======
 
-^Documents^a^b^c^
-|text-justify: inter-ideograph (for IE5+)|A|D for B/T/W, - (D) for G<sup>*1</sup>|B<sup>*1</sup>|
-|CJ (100%)|A|D for B/W, - (D) for G/T|B|
-|K (Hangul only, 70-80% of K)|- (A)|- (A)|B|
-|K (Hangul+Han, 20-30% of K)|C|A|B|
-|K (Han only, 1-10% of K)|A|D for B/W, - (D) for G/T|B|
+^Document Type^Option 1^Option 2^Option 3^
+|text-justify: inter-ideograph (for IE5+)|A|D|B*|
+|Chinese/Japanese (100%)|A|D|B|
+|Korean (Hangul only, 70-80%)|A|A|B|
+|Korean (Hangul+Han, 20-30%)|C|A|B|
+|Korean (Han only, 1-10%)|A|D|B|
 
-  * B is worse than A, C is worse and B, D is worse than C, and so forth
+  * Letters represent quality of results
   * "- (x)" means no changes from current implementations, but evaluates to “x"
   * for B=Blink, G=Gecko, T=Trident, W=WebKit
   * <sup>*1</sup> Option x can make this to “A"
