@@ -11,6 +11,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * 2014-09-08..10 [[planning:sophia-2014]]
     * 2014-10-27..31 TPAC (Santa Clara)
       * 2014-10-27..28 CSS WG f2f during TPAC
+      * 2014-10-27 possible joint meeting with DPUB sometime during 11:00–15:00 break
       * 2014-10-30 AM joint meeting with SVG WG
   * [[planning:2015]]
     * 2015-02-09..11 Sydney, Australia (with SVG on Wednesday or at least Wednesday morning) (Google)
