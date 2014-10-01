@@ -14,5 +14,5 @@
 Please, put your name in this table if you plan to participate (alphabetical order):
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
-
+| Peter Linss | 26-oct | 01-nov | Marriott | YZF-R1 |
 ==== Proposed Topics ====
