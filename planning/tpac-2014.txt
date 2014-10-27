@@ -159,6 +159,7 @@ Regrets: jdaggett
     * Clean up pseudos
     * Add Florian as editor
     * content:icon? Apply to pseudos only? (and why is it called icon?)
+  * status of selectors4 (especially for :dir())
 ==== Social ====
 
 Saturday Oct 25 Board Games with Tab:
