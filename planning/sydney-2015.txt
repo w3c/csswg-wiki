@@ -49,7 +49,7 @@ The GoogleGuest network will be available throughout the building. No password i
 
 Its plastic. No, not that sort of plastic. Being able to swim and paper money are fundamentally incompatible. Side note: **do not iron the money**
 
-More seriously, it's the [[http://en.wikipedia.org/wiki/Australian_dollar|Australian dollar (AUD)]].  See [[http://www.oanda.com/currency/table?exch=AUD&sel_list=USD_EUR_GBP_JPY_NOK_SEK_NZD_CNY_TWD_KRW&value=1&format=HTML&redirected=1|exchange ra
+More seriously, it's the [[http://en.wikipedia.org/wiki/Australian_dollar|Australian dollar (AUD)]].  See [[http://www.oanda.com/currency/table?exch=AUD&sel_list=USD_EUR_GBP_JPY_NOK_SEK_NZD_CNY_TWD_KRW&value=1&format=HTML&redirected=1|exchange rates]].
 
 === Electricity ===
 
