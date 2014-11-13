@@ -1,37 +1,30 @@
 ====== css3-ui ======
-See also:
-  * http://www.w3.org/wiki/CSSWG#css3-ui
+Latest edits/resolutions, see the editors draft:
+  * http://dev.w3.org/csswg/css3-ui/
+
+Closed issues, see:
+  * https://www.w3.org/wiki/CSS3-UI
+
+Postponed issues:
   * http://wiki.csswg.org/spec/css4-ui (for new and postponed CSS UI features)
 
+See also:
+  * http://www.w3.org/wiki/CSSWG#css3-ui
+  * http://www.w3.org/TR/css3-ui/ - latest public TR version
 
-FAQ:
-===== text-overflow for non-latin scripts =====
-Q: Many non latin scripts use something else than 3 dots for the same effect as an ellipsis. How does this work?
-
-A: The current editor's draft allows implementations to use something other than 3 dots:
-
-"Implementations may substitute a more language/script-appropriate ellipsis character."
-
-from http://dev.w3.org/csswg/css3-ui/#text-overflow
-
-===== text-overflow atomic inlines that would overlap the ellipsis =====
-
-Q: What should an implementation do when an atomic inline element would overlap the ellipsis marker?
-
-A: Remove it (the atomic inline element(s)) to make room for the ellipsis marker per the CSS3-UI spec (and Opera and IE9 appear to do this already).
-
-
-====== css3-ui issues list ======
-
-The [[http://www.w3.org/TR/css3-ui/|CSS Basic User Interface Module Level 3]] (CSS3-UI, latest public TR version) defines user interface related selectors, properties and values.
+===== Work Mode =====
+This issues page is key to the work mode of CSS3-UI. Here are next steps:
+  * Move closed issues (resolved issues which have edits completed in the draft) to
+    * https://www.w3.org/wiki/CSS3-UI
+  * Make spec edits for resolved issues, then move them to https://www.w3.org/wiki/CSS3-UI
+  * Collect new issues from www-style emails e.g.
+    * http://lists.w3.org/Archives/Public/www-style/2014Oct/0260.html
+      * RESOLVED: add 'caret-color' to css3-ui - mark it at risk
+    * Continue until www-style "[CSS3-UI]" "[CSS-UI]" emails since last draft have been processed.
 
 ===== Current Issues =====
 
 The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 CSS3-UI Candidate Recommendation]].
-
-For latest edits/resolutions, see the editors draft:
-  * http://dev.w3.org/csswg/css3-ui/
-
 ==== Issue 1 ====
   ; Summary : css3-ui should have a test suite
   ; Raised by : Tantek Çelik
@@ -343,6 +336,24 @@ and the second value for the left edge.
   ; URL : 
   ; Proposed Resolution : 
   ; Status : 
+
+====== FAQ ======
+* Consider moving to https://www.w3.org/wiki/CSS3-UI/FAQ
+
+===== text-overflow for non-latin scripts =====
+Q: Many non latin scripts use something else than 3 dots for the same effect as an ellipsis. How does this work?
+
+A: The current editor's draft allows implementations to use something other than 3 dots:
+
+"Implementations may substitute a more language/script-appropriate ellipsis character."
+
+from http://dev.w3.org/csswg/css3-ui/#text-overflow
+
+===== text-overflow atomic inlines that would overlap the ellipsis =====
+
+Q: What should an implementation do when an atomic inline element would overlap the ellipsis marker?
+
+A: Remove it (the atomic inline element(s)) to make room for the ellipsis marker per the CSS3-UI spec (and Opera and IE9 appear to do this already).
 
 ====== css3-ui additional spec improvements ======
 
