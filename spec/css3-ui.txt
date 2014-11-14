@@ -36,13 +36,6 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 
 
-==== Issue 3 ====
-  ; Summary : ::value needs to specify which properties are allowed on that pseudo-element
-  ; Raised by : Tab Atkins
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2010Mar/0158.html
-  ; URL : http://www.w3.org/TR/css3-selectors/#first-line
-  ; Proposed Resolution : specify the same properties (by listing them explicitly) that apply to ::first-line as applying to ::value: 'font-*', 'color', 'background-*', ‘word-spacing’, ‘letter-spacing’, ‘text-decoration’, ‘vertical-align’, ‘text-transform’, ‘line-height’. 
-  ; Status : resolved in editor's draft. pending publication of public draft. 
 
 ==== Issue 4 ====
   ; Summary : computed value of 'pointer-events' vs initial value vs SVG vs CSS3-UI conflict. A quick test shows that IE9 and Opera return 'visiblePainted', while WebKit and Firefox return 'auto'.
