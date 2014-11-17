@@ -25,31 +25,6 @@ This issues page is key to the work mode of CSS3-UI. Here are next steps:
 ===== Current Issues =====
 
 The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 CSS3-UI Candidate Recommendation]].
-==== Issue 1 ====
-  ; Summary : css3-ui should have a test suite
-  ; Raised by : Tantek Çelik
-  ; URL : eventually http://www.w3.org/Style/CSS/Test/#css3-ui
-  ; Proposed Resolution : create at least one test case per feature, update "Current Issues" section above to add the text <code>See the [[http://www.w3.org/Style/CSS/Test/#css3-ui|released]] and 
-  [[http://dev.w3.org/CSS/css3-ui-test-suite/src/|development]] versions 
-  of the test suite for the "Tests" references.</code>
-  ; Status : Resolved. LCWD has link to CSS Tests page. Update this to link to specific test suite page for CSS3-UI for the next CR. Pending contributions to test suite.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ==== Issue 24 ====
   ; Summary : Provide horizontal scrolling text-overflow example revealing more text that is elided 
