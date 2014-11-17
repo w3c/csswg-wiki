@@ -49,16 +49,6 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 
 
-==== Issue 17 ====
-  ; Summary : What happens if a semantic multi-select element is styled as appearance 'radio-group' or 'pop-up-menu'?
-  ; Raised by : Charles Belov
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0189.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0224.html
-  ; Proposed resolution : add note discouraging authors from doing this.
-  ; Status : **OPEN.** Collected.
-
-
-
 
 ==== Issue 21 ====
   ; Summary : text-overflow definition must include <string> value and 2 values option, but with both explicitly at-risk.
