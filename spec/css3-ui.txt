@@ -151,29 +151,6 @@ and the second value for the left edge.
   ; Proposed Resolution : Edit spec accordingly, explicitly say what happens if ID selector does not match any elements.
   ; Status : Resolved. Need to edit editor's draft
 
-==== Issue 30 ====
-  ; Summary : Re-add ::selection, define according to existing impl interop of ::selection 
-  ; Raised by : Tantek Çelik
-  ; URL : http://www.w3.org/2013/12/11-css-irc#T18-01-59 (recent IRC discussion)
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2008Oct/0268.html (list of questions/issues with ::selection)
-  ; URL : https://developer.mozilla.org/en-US/docs/Web/CSS/::selection (documentation of current support)
-  ; URL : http://www.w3.org/TR/2005/WD-css3-selectors-20051215/#UIfragments (most recent spec text)
-  ; URL : http://www.w3.org/TR/2004/CR-css3-ui-20040511/ (most recent CR reference)
-  ; URL : http://www.w3.org/TR/2001/CR-css3-selectors-20011113/#UIfragments (most recent CR spec text)
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Dec/0240.html (email about this proposal)
-  ; Proposed Resolution : 
-    - Create tests to answer questions raised in http://lists.w3.org/Archives/Public/www-style/2008Oct/0268.html
-    - Run tests in browsers: Chrome, Firefox (as ::-moz-selection), IE9+, Opera, Safari
-    - For all tests, if a majority of browsers agree on a test, codify that behavior into spec text. If not, explicitly list that test's behavior as undefined (browsers known to disagree)
-    - Add resulting spec text to a new ::selection section in CSS3-UI.
-    - Submit to CSS test-suite efforts each test where a majority of browsers agree on behavior.
-
-  ; Historical note : ::selection introduced as :selection 1999-09-16: http://www.w3.org/TR/1999/WD-css3-userint-19990916#pseudo-selection
-  ; Status : Proposed resolution. Awaiting WG consensus (or absent objection), then need to perform above steps (create tests, run tests, spec majority behaviors, submit those tests).
-
-  
-...
-
 
 ==== Issue n ====
   ; Summary : 
