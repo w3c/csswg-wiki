@@ -46,13 +46,6 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 
 
-==== Issue 14 ====
-  ; Summary : example for 'appearance' values 'pop-up-menu' and 'radio-group' and 'list-menu' should use same content to illustrate different visualizations for same semantics.
-  ; Raised by : Charles Belov
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2010Nov/0189.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jan/0224.html
-  ; Proposed resolution : rewrite example accordingly.
-  ; Status : **OPEN.** Collected.
 
 ==== Issue 15 ====
   ; Summary : add second 'list-menu' example that shows multiselect behavior and use same content as 'checkbox-group'
