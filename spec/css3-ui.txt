@@ -195,12 +195,6 @@ and the second value for the left edge.
 </code>
 
 
-==== Issue 23 ====
-  ; Summary : Update CSS IS AWESOME example to show non-ellipsed last line. 
-  ; Raised by : Rossen
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Nov/0263.html
-  ; Resolution : Update CSS IS AWESOME text-overflow example in the spec to not ellipse the last line, but an earlier line. RESOLVED at 2012-10-30 TPAC CSSWG f2f meeting.
-  ; Status : Resolved. Editor's draft edited accordingly. Awaiting public draft.
 
 ==== Issue 24 ====
   ; Summary : Provide horizontal scrolling text-overflow example revealing more text that is elided 
