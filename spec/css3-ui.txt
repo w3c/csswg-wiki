@@ -54,7 +54,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 ==== Issue 31 ====
   ; Summary: add 'caret-color' property at risk to css3-ui
-  ; Raised by: andreyr of bloomberg
+  ; Raised by: Andrey Rybka (Bloomberg) <arybka@bloomberg.net>
   ; URL : Resolved http://lists.w3.org/Archives/Public/www-style/2014Oct/0260.html
   ; URL : Initial proposal http://lists.w3.org/Archives/Public/www-style/2011Nov/0772.html
   ; URL : 'auto' keyword computing to currentColor http://lists.w3.org/Archives/Public/www-style/2014Aug/0236.html
