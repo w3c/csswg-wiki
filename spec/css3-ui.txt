@@ -43,13 +43,14 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : Need to edit editor's draft.
 
 ==== Issue 26 ====
-  ; Summary : add 'cursor' values 'grab' and 'grabbing' per existing interop prefixed support by Gecko and WebKit
+  ; Summary : add 'cursor' values 'grab' and 'grabbing' per existing interop support by Gecko and -webkit- prefixed in WebKit
   ; Raised by : Frank Yan / Tantek Çelik
   ; URL : http://frankyan.com/labs/cursor/
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0058.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0428.html
   ; URL : https://bugzilla.mozilla.org/show_bug.cgi?id=880672
-  ; Proposed Resolution : edit the spec, add the values
-  ; Status : Resolved. Need to edit editor's draft
+  ; Proposed Resolution : edit the spec, add the values, definitions, inline tests
+  ; Status : Resolved. Editor's draft updated. Awaiting public draft.
 
 ==== Issue 27 ====
   ; Summary : specify that 'cursor' propagates from the root to the viewport
