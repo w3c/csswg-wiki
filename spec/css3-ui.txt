@@ -60,7 +60,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : 'auto' keyword computing to currentColor http://lists.w3.org/Archives/Public/www-style/2014Aug/0236.html
   ; URL : Gecko intent https://bugzilla.mozilla.org/show_bug.cgi?id=1063162
   ; URL : caret-* proposals http://lists.w3.org/Archives/Public/www-style/2014Sep/0172.html
-  ; Proposed Resolution: add 'caret-color' property with values color | 'auto', where 'auto' should compute to currentColor, mark entire feature at risk. 
+  ; Proposed Resolution : add 'caret-color' property with values color | 'auto', where 'auto' should compute to currentColor, mark entire feature at risk. Add 'caret' shorthand and other 'caret-*' properties to a feature proposal for CSS4-UI.
   ; Status : Resolved. Need to edit editor's draft.
 
 ==== Issue new: 32 ====
