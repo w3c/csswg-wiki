@@ -55,7 +55,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Raised by : Simon Sapin
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Oct/0102.html
   ; Proposed Resolution : Edit spec accordingly, explicitly say what happens if ID selector does not match any elements.
-  ; Status : Resolved. Need to edit editor's draft
+  ; Status : Resolved. Editor's draft edited. Awaiting public draft.
 
 
 ==== Issue n ====
