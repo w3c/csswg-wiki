@@ -73,7 +73,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : https://bugzilla.mozilla.org/show_bug.cgi?id=944200
   ; URL : https://bugs.webkit.org/show_bug.cgi?id=115746
   ; Proposed Resolution : change the opening sentence of text-overflow section from "overflows its block container element" to "overflows its line box edge", and any other similar references to block container edge to line box edge.
-  ; Status : Effective consensus from Webkit (per their fix of 115746), Chrome (Tab's email), Gecko (per 944200 discussion). Editor's draft to be edited accordingly.
+  ; Status : Effective consensus from Webkit (per their fix of 115746), Chrome (Tab's email), Gecko (per 944200 discussion). Editor's draft edited. Awaiting public draft.
 
 
 ==== Issue new: 33 ====
