@@ -65,6 +65,173 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : Resolved. Need to edit editor's draft.
 
 ==== Issue new: 33 ====
+  ; Summary : In the description of the <target-name> parameter of the nav-* properties, the word string should be replaced by <string>
+  ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0708.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 34 ====
+  ; Summary : The text-overflow property definition uses () for grouping, but we should use []
+  ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0808.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 35 ====
+  ; Summary : Editorial: distinguishing public web sites from web applications is non obvious
+  ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0808.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 36 ====
+  ; Summary : "Content" properties for several input elements are locale specific
+  ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0808.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 37 ====
+  ; Summary : spec differs from implementations regarding whether resize only applies in 1 dimension if overflow-x or -y is visible in one of the dimensions.
+  ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0713.html
+  ; Note : not sure how to get computed value of visible only in 1 dimension
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 38 ====
+  ; Summary : what to do if outline-offset is negative, especially to the point that the offset is more than half the element size or similar values that make it impossible to draw?
+  ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0601.html
+  ; Proposed Resolution : floor it at the least supported value
+  ; Status : 
+
+
+
+==== Issue new: 39 ====
+  ; Summary : Various issues eith ime-mode
+  ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu>
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0759.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 40 ====
+  ; Summary : ime-mode is windows specific and bad design, and should not be standardized. (has replacement suggestion)
+  ; Raised by : Masayuki Nakano <masayuki@d-toybox.com> and James Craig <jcraig@apple.com> 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0959.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013May/0075.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 41 ====
+  ; Summary : The 'inherit' value is globally defined for all properties, and the
+preferred style appears to be to omit it in property definitions.
+  ; Raised by : Tab Atkins
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0202.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 42 ====
+  ; Summary : drop “inverted” from outline-color, webkit and gecko don’t do it
+  ; Raised by : Tab Atkins
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0202.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 43 ====
+  ; Summary : add note or author conformance requirement to not make outlines invisible on focusable elements, for accessibility reasons
+  ; Raised by : Michael Cooper <cooper@w3.org>
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/1213.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 44 ====
+  ; Summary : use <image> instead <uri> in the cursor property, like http://www.w3.org/TR/css3-background/#value-types. Allows high res images with image-set, gradients…
+  ; Raised by : Fantasai (responding to Tab Atkins) and Rick Byers
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0202.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Jul/0140.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 45 ====
+  ; Summary : include an example highlighting the <target> part of the nav-* syntax. Suggestion: nav-up: #foo "bar"
+  ; Raised by : Yves Lafon
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Oct/0499.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+
+==== Issue new: 46 ====
+  ; Summary : what happens if <x> and <y> are out of bounds for the cursor property
+  ; Raised by : Kang-Hao (Kenny) Lu  and Tab Atkins
+  ; URL :  http://lists.w3.org/Archives/Public/www-style/2012Feb/0712.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Nov/0331.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 47 ====
+  ; Summary : The specced 'resize' proprety's behavior is *completely* different from the behavior implemented in browsers supporting the property
+  ; Raised by : François Remy
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Dec/0221.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 48 ====
+  ; Summary : description of cursor: auto insufficient and not interoperable
+  ; Raised by : David Baron
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Jan/0275.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 49 ====
+  ; Summary : there is no interop between UAs about showing tooltips of the ellipsed text
+  ; Raised by : Philip Walton
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0013.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 50 ====
+  ; Summary : add user-select back to css3-ui, it has 3 implementations
+  ; Raised by : Tab Atkins
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0537.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 51 ====
+  ; Summary : applying transforms to the outline is weird, especially in 3d
+  ; Raised by : Florian Rivoal
+  ; URL : http://www.w3.org/mid/op.w16fmbsgf5de51@localhost.localdomain
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 52 ====
+  ; Summary : behaviour of resize on pseudos buggy and ambiguously defined
+  ; Raised by : Lea Verou
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0477.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+==== Issue new: 53 ====
+  ; Summary : resize factor behaviour is weird when width / height are later dynamically modified
+  ; Raised by : Lea Verou
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0517.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 54 ====
   ; Summary : 
   ; Raised by : Tantek Çelik
   ; URL : 
