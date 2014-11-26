@@ -1,9 +1,10 @@
 
-====== Current test coverage of the [[http://www.w3.org/TR/css-writing-modes-3/|Writing Modes spec]] ======
+====== Current test coverage of the Writing Modes spec ======
 
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#text-flow|§1 Introduction to Writing Modes]] =====
+===== §1 Introduction to Writing Modes =====
 
+[[http://www.w3.org/TR/css-writing-modes-3/#text-flow|§1 Introduction to Writing Modes]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-1.htm#s1|0 test done]] 
 
@@ -11,13 +12,17 @@
 
 This section is just a general introduction to writing modes.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#placement|§1.1 Module Interactions]] ====
+==== §1.1 Module Interactions ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#placement|§1.1 Module Interactions]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-1.htm#s1.1|0 test done]] 
 
 0 test to be done.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#values|§1.2 Values]] ====
+==== §1.2 Values ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#values|§1.2 Values]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-1.htm#s1.2|0 test done]] 
 
@@ -25,7 +30,9 @@ This section is just a general introduction to writing modes.
 
 **"all properties defined in this specification also accept the inherit keyword as their property value"**
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#text-direction|§2 Inline Direction and Bidirectionality]] =====
+===== §2 Inline Direction and Bidirectionality =====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-direction|§2 Inline Direction and Bidirectionality]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-2.htm#s2|96 tests done]]
 
@@ -37,7 +44,9 @@ In CSS, the paragraph embedding level must be set (following UAX9 clause HL1) ac
 
 //I have no idea what the above means or could mean in terms of testing but I think only 2 tests could be done out of such paragraph.//
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#direction|§2.1 Specifying Directionality: the direction property]] ====
+==== §2.1 Specifying Directionality: the direction property ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#direction|§2.1 Specifying Directionality: the direction property]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-2.htm#s2.1|1 test done]] 
 
@@ -61,7 +70,9 @@ At least 12 tests could be done.
 This property specifies the inline base direction or directionality of any bidi paragraph, embedding, isolate, or override established by the box. (See unicode-bidi.) In addition, it informs the ordering of table column layout, the direction of horizontal overflow, and the default alignment of text within a line, and other layout effects that depend on the box’s inline base direction.
 "
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#unicode-bidi|§2.2 Embeddings and Overrides: the unicode-bidi property]] ====
+==== §2.2 Embeddings and Overrides: the unicode-bidi property ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#unicode-bidi|§2.2 Embeddings and Overrides: the unicode-bidi property]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-2.htm#s2.2|0 test done]] 
 
@@ -97,19 +108,25 @@ LRM (U+200E) LEFT-TO-RIGHT MARK
 
 RLM (U+200F) RIGHT-TO-LEFT MARK
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#bidi-example|§2.3 Example of Bidirectional Text]] ====
+==== §2.3 Example of Bidirectional Text ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#bidi-example|§2.3 Example of Bidirectional Text]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-2.htm#s2.3|0 test done]] 
 
 2 tests could be done here: 1 with example 2 without lines breaking and 1 with example 2 with lines breaking by using a narrow container. We would need real hebrew characters.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#bidi-box-model|§2.4 Box model for inline boxes in bidirectional context]] ====
+==== §2.4 Box model for inline boxes in bidirectional context ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#bidi-box-model|§2.4 Box model for inline boxes in bidirectional context]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-2.htm#s2.4|0 test done]] 
 
 x test to be done.
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#vertical-intro|§3 Introduction to Vertical Text]] =====
+===== §3 Introduction to Vertical Text =====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#vertical-intro|§3 Introduction to Vertical Text]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-3.htm|0 test done]] 
 
@@ -119,7 +136,9 @@ This subsection has 4 examples.
 
 "This subsection is non-normative."
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#writing-mode|§3.1 Block Flow Direction: the writing-mode property]] ====
+==== §3.1 Block Flow Direction: the writing-mode property ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#writing-mode|§3.1 Block Flow Direction: the writing-mode property]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-3.htm#s3.1|13 tests done]] 
 
@@ -192,19 +211,25 @@ Testable: However replaced content involving text (such as MathML content or for
 
 //2 tests can be written out of this multiplied by 3 writing-mode values//
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#svg-writing-mode|§3.1.1 SVG1.1 writing-mode Values]] ===
+=== §3.1.1 SVG1.1 writing-mode Values ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#svg-writing-mode|§3.1.1 SVG1.1 writing-mode Values]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-3.htm#s3.1.1|0 tests done]] 
 
 0 test to be done.
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#inline-alignment|§4 Inline-level Alignment4 Inline-level Alignment]] =====
+===== §4 Inline-level Alignment4 Inline-level Alignment =====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#inline-alignment|§4 Inline-level Alignment4 Inline-level Alignment]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-4.htm|0 test done]] 
 
 0 test to be done. 
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#intro-baselines|§4.1 Introduction to Baselines]] ====
+==== §4.1 Introduction to Baselines ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#intro-baselines|§4.1 Introduction to Baselines]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-4.htm#s4.1|0 test done]]
 
@@ -212,7 +237,9 @@ Testable: However replaced content involving text (such as MathML content or for
 
 "This section is non-normative." The section is mostly typography explanations.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#text-baselines|§4.2 Text Baselines]] ====
+==== §4.2 Text Baselines ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-baselines|§4.2 Text Baselines]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-4.htm#s4.2|5 tests done]] 
 
@@ -220,7 +247,9 @@ x test to be done.
 
 What tests can be created out of this section? We set text-orientation to upright and then put several consecutive x'es of different sizes?
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#replaced-baselines|§4.3 Atomic Inline Baselines]] ====
+==== §4.3 Atomic Inline Baselines ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#replaced-baselines|§4.3 Atomic Inline Baselines]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-4.htm#s4.3|10 tests done]] 
 
@@ -241,7 +270,9 @@ Only 9 tests would need to be done:
   - an inline-table that is not capable of providing its own baseline information inside vertical-lr text
   - a replaced inline element that is not capable of providing its own baseline information inside vertical-lr text
   
-==== [[http://www.w3.org/TR/css-writing-modes-3/#baseline-alignment|§4.4 Baseline Alignment]] ====
+==== §4.4 Baseline Alignment ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#baseline-alignment|§4.4 Baseline Alignment]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-4.htm#s4.4|50 tests done]] 
 
@@ -256,7 +287,9 @@ x test to be done.
   - The dominant baseline is used for alignment when aligning a child inline-level box within its parent. For the vertical-align value of baseline, child is aligned to the parent by matching the parent’s dominant baseline to the same baseline in the child. (E.g. if the parent’s dominant baseline is alphabetic, then the child’s alphabetic baseline is matched to the parent’s alphabetic baseline, even if the child’s dominant baseline is something else.) For values of sub, super, <length>, and <percentage>, the baselines are aligned as for baseline, but the child is shifted according to the offset given by its vertical-align value. 
   //So, <span style="font-family: 'DejaVu Sans', Verdana;">L <span style="vertical-align: 10px;">z</span></span> We can create 4 tests//
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#intro-text-layout|§5 Introduction to Vertical Text Layout]] =====
+===== §5 Introduction to Vertical Text Layout =====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#intro-text-layout|§5 Introduction to Vertical Text Layout]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-5.htm|0 test done]] 
 
@@ -264,25 +297,33 @@ x test to be done.
 
 This subsection appears to be only terminology and presentation or introductory.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#text-orientation|§5.1 Orienting Text: the text-orientation property]] ====
+==== §5.1 Orienting Text: the text-orientation property ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-orientation|§5.1 Orienting Text: the text-orientation property]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-5.htm#s5.1|12 test done]] 
 
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#vertical-font-features|§5.1.1 Vertical Typesetting and Font Features]] ===
+=== §5.1.1 Vertical Typesetting and Font Features ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#vertical-font-features|§5.1.1 Vertical Typesetting and Font Features]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-5.htm#s5.1.1|0 test done]]
 
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#vertical-orientations|§5.1.2 Mixed Vertical Orientations]] ===
+=== §5.1.2 Mixed Vertical Orientations ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#vertical-orientations|§5.1.2 Mixed Vertical Orientations]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-5.htm#s5.1.2|0 test done]]
 
 x test to be done.
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#abstract-box|§6 Abstract Box Terminology]] =====
+===== §6 Abstract Box Terminology =====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#abstract-box|§6 Abstract Box Terminology]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-6.htm|0 test done]] 
 
@@ -290,7 +331,9 @@ x test to be done.
 
 This section is about terminology.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#abstract-dimensions|§6.1 Abstract Dimensions]] ====
+==== §6.1 Abstract Dimensions ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#abstract-dimensions|§6.1 Abstract Dimensions]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-6.htm#s6.1|0 test done]]
 
@@ -298,7 +341,9 @@ This section is about terminology.
 
 This subsection is about terminology.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#logical-directions|§6.2 Flow-relative Directions]] ====
+==== §6.2 Flow-relative Directions ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#logical-directions|§6.2 Flow-relative Directions]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-6.htm#s6.2|0 test done]]
 
@@ -306,7 +351,9 @@ This subsection is about terminology.
 
 This subsection is about terminology.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#line-directions|§6.3 Line-relative Directions]] ====
+==== §6.3 Line-relative Directions ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#line-directions|§6.3 Line-relative Directions]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-6.htm#s6.3|0 test done]]
 
@@ -314,7 +361,9 @@ This subsection is about terminology.
 
 This subsection is about terminology.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#logical-to-physical|§6.4 Abstract-to-Physical Mappings]] ====
+==== §6.4 Abstract-to-Physical Mappings ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#logical-to-physical|§6.4 Abstract-to-Physical Mappings]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-6.htm#s6.4|0 test done]]
 
@@ -322,64 +371,83 @@ This subsection is about terminology.
 
 This subsection is about terminology.
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#abstract-layout|§7 Abstract Box Layout]] =====
+===== §7 Abstract Box Layout =====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#abstract-layout|§7 Abstract Box Layout]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7|0 test done]] 
 
 y test to be done. 
 
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#vertical-layout|§7.1 Principles of Layout in Vertical Writing Modes]] ====
+==== §7.1 Principles of Layout in Vertical Writing Modes ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#vertical-layout|§7.1 Principles of Layout in Vertical Writing Modes]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.1|0 test done]] 
 
 x test to be done.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#dimension-mapping|§7.2 Dimensional Mapping]] ====
+==== §7.2 Dimensional Mapping ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#dimension-mapping|§7.2 Dimensional Mapping]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.2|0 test done]] 
 
 x test to be done.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-flows|§7.3 Orthogonal Flows]] ====
+==== §7.3 Orthogonal Flows ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-flows|§7.3 Orthogonal Flows]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.3|0 test done]] 
 
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-auto|§7.3.1 Auto-sizing in Orthogonal Flows]] ===
+=== §7.3.1 Auto-sizing in Orthogonal Flows ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-auto|§7.3.1 Auto-sizing in Orthogonal Flows]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.3.1|0 test done]] 
 
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#auto-multicol|§7.3.2 Auto-sizing Block Containers in Orthogonal Flows]] ===
+=== §7.3.2 Auto-sizing Block Containers in Orthogonal Flows ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#auto-multicol|§7.3.2 Auto-sizing Block Containers in Orthogonal Flows]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.3.2|0 test done]] 
 
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-layout|§7.3.3 Auto-sizing Orthogonal Flows]] ===
+=== §7.3.3 Auto-sizing Orthogonal Flows ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-layout|§7.3.3 Auto-sizing Orthogonal Flows]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.3.3|0 test done]] 
 
 x test to be done.
 
+=== §7.3.4 Fragmenting Orthogonal Flows ===
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-pagination|§7.3.4 Fragmenting Orthogonal Flows]] ===
+[[http://www.w3.org/TR/css-writing-modes-3/#orthogonal-pagination|§7.3.4 Fragmenting Orthogonal Flows]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.3.4|0 test done]] 
 
 x test to be done.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#logical-direction-layout|§7.4 Flow-Relative Mappings]] ====
+==== §7.4 Flow-Relative Mappings ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#logical-direction-layout|§7.4 Flow-Relative Mappings]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.4|0 test done]] 
 
 x test to be done.
 
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#line-mappings|§7.5 Line-Relative Mappings]] ====
+==== §7.5 Line-Relative Mappings ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#line-mappings|§7.5 Line-Relative Mappings]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.5|0 test done]] 
 
@@ -387,7 +455,9 @@ Many tests to be done.
 
 text-align, float, clear, vertical-align, text-decoration; basic tests from CSS2.1 can be converted accordingly.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#physical-only|§7.6 Purely Physical Mappings]] ====
+==== §7.6 Purely Physical Mappings ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#physical-only|§7.6 Purely Physical Mappings]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.6|0 test done]]
 
@@ -402,15 +472,19 @@ The following values are purely physical in their definitions and do not respond
 
 4 tests to be done.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#caption-side|§7.7 Table Caption Mappings: the caption-side keywords]] ====
+==== §7.7 Table Caption Mappings: the caption-side keywords ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#caption-side|§7.7 Table Caption Mappings: the caption-side keywords]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s7.7|0 test done]]
 
 x test to be done.
 
-===== [[http://www.w3.org/TR/css-writing-modes-3/#page-direction|§8 Page Flow: the page progression direction]] =====
+===== §8 Page Flow: the page progression direction =====
 
-0 test done. 
+[[http://www.w3.org/TR/css-writing-modes-3/#page-direction|§8 Page Flow: the page progression direction]]
+
+[[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-8.htm#s8|0 test done]] 
 
 4 tests to be done:
 
@@ -419,57 +493,74 @@ x test to be done.
   - 1 test with the root element’s writing-mode is vertical-lr
   - 1 test with the root element’s writing-mode is horizontal-tb and its direction is ltr 
   
-===== [[http://www.w3.org/TR/css-writing-modes-3/#text-combine|§9 Glyph Composition]] =====
+===== §9 Glyph Composition =====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-combine|§9 Glyph Composition]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-7.htm#s9|2 tests done]]
 
 0 test to be done. 
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#text-combine-upright|§9.1 Horizontal-in-Vertical Composition: the text-combine-upright property]] ====
+==== §9.1 Horizontal-in-Vertical Composition: the text-combine-upright property ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-combine-upright|§9.1 Horizontal-in-Vertical Composition: the text-combine-upright property]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-9.htm#s9.1|6 tests done]]
 
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#text-combine-runs|§9.1.1 Text Run Rules]] ===
+=== §9.1.1 Text Run Rules ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-combine-runs|§9.1.1 Text Run Rules]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-9.htm#s9.1.1|0 test done]]
  
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#text-combine-layout|§9.1.2 Layout Rules]] ===
+=== §9.1.2 Layout Rules ===
 
+[[http://www.w3.org/TR/css-writing-modes-3/#text-combine-layout|§9.1.2 Layout Rules]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-9.htm#s9.1.2|0 test done]]
  
 x test to be done.
 
-=== [[http://www.w3.org/TR/css-writing-modes-3/#text-combine-compression|§9.1.3 Compression Rules]] ===
+=== §9.1.3 Compression Rules ===
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-combine-compression|§9.1.3 Compression Rules]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-9.htm#s9.1.3|0 test done]]
  
 x test to be done.
 
-== [[http://www.w3.org/TR/css-writing-modes-3/#text-combine-fullwidth|§9.1.3.1 Full-width Characters]] ==
+== §9.1.3.1 Full-width Characters ==
+
+[[http://www.w3.org/TR/css-writing-modes-3/#text-combine-fullwidth|§9.1.3.1 Full-width Characters]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-9.htm#s9.1.3.1|3 tests done]] 
 
 x test to be done. 
 
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#character-properties|§Appendix A. Characters and Properties]] ====
+==== §Appendix A. Characters and Properties ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#character-properties|§Appendix A. Characters and Properties]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-A.htm|0 test done]] 
 
 0 test to be done.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#bidi-html|§Appendix B: Bidi Rules for HTML 4]] ====
+==== §Appendix B: Bidi Rules for HTML 4 ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#bidi-html|§Appendix B: Bidi Rules for HTML 4]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-B.htm|0 test done]] 
 
 0 test to be done.
 
-==== [[http://www.w3.org/TR/css-writing-modes-3/#script-orientations|§Appendix C: Vertical Scripts in Unicode]] ====
+==== §Appendix C: Vertical Scripts in Unicode ====
+
+[[http://www.w3.org/TR/css-writing-modes-3/#script-orientations|§Appendix C: Vertical Scripts in Unicode]]
 
 [[http://test.csswg.org/suites/css-writing-modes-3_dev/nightly-unstable/html/chapter-C.htm|0 test done]]
 
