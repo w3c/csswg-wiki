@@ -224,7 +224,14 @@ preferred style appears to be to omit it in property definitions.
   ; Status : 
 
 
-==== Issue new: 54 ====
+==== Issue: 54 ====
+  ; Summary : Can text-overflow ellipsis not break in the middle of a word?
+  ; Raised by : Stuart Langridge
+  ; URL : https://twitter.com/sil/status/537627213789949952
+  ; Proposed Resolution : Consider allowing implementation flexibility to ellipse at a text wrap opportunity instead of at a character boundary, and ask for further clarification (should this be automatic per implementation? or under author control)
+  ; Status : Collected, need to write up a spec-text change proposal for group consideration.
+
+==== Issue new: 55 ====
   ; Summary : 
   ; Raised by : Tantek Çelik
   ; URL : 
