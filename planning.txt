@@ -43,10 +43,14 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
   * [[planning:tpac-2012]]
 ==== 2013 ====
 [[planning:2013]]
-  * [[planning:tucson-2013]]
-  * [[planning:tokyo-2013]]
-  * [[planning:paris-2013]] 2013-09-11..13.
-  * [[planning:tpac-2013]] (11-15 November in Shenzhen, China)
+  * **[[planning:tucson-2013]]**
+  * **[[planning:tokyo-2013]]**
+  * **[[planning:paris-2013]]**
+     * Minutes:
+         * Monday, 11 September: [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0468.html|Part I (Grid Layout)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0469.html|Part II (Style Attrs, Spec Tools, CSSOM)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0470.html|Part III (Transitioning Image Values)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Part IV (Multicol)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0472.html|Part V (Shapes, Regions, Transforms)]]
+         * Tuesday, 12 September: [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0874.html|Part I (Font Load Events, TPAC and F2F Schedule)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0875.html|Part II (Masking, Naming of DOMPoint, Quad, and Matrix, Sticky Position, Text-Combine Naming)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0876.html|Part III (GCPM)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0878.html|Part IV (Writing Modes, Issue 2 in Compositing Spec)]]
+         * Wednesday, 13 September: [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0884.html|Part I (CSS Masking, Display Tree or DOM, Flexbox)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Part II (Color Module)]], [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0886.html|Part III (Charter)]], [[http://lists.w3.org/Archives/Public/www-style/2013Oct/0000.html|Part IV (Ruby)]], [[http://lists.w3.org/Archives/Public/www-style/2013Oct/0001.html|Part V (Text, Writing Modes, Animations)]] 
+  * **[[planning:tpac-2013]]** (in Shenzhen, China)
 ==== 2014 ====
 [[planning:2014]]
   * [[planning:seattle-2014]] January 27-29, 2014, jointly with [[http://www.w3.org/Graphics/SVG/WG/wiki/F2F/Seattle_2014|SVG]]
