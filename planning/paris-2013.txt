@@ -21,6 +21,27 @@ Then walk up the stairs into the Mozilla space.  Turn right past the reception d
 
 **Group Dinner**: Wednesday, 19h30, [[https://plus.google.com/105664254861136730001/about|Les Athlètes]] ([[http://www.lesathlètes.com/menu/menu.pdf|menu]])
 
+===== Meeting Minutes =====
+**Monday, 11 September**:
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0468.html|Part I]], Grid Layout
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0469.html|Part II]], Style Attrs, Spec Tools, CSSOM
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0470.html|Part III]], Transitioning Image Values
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Part IV]], Multicol
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0472.html|Part V]], Shapes, Regions, Transforms
+
+**Tuesday, 12 September**
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0874.html|Part I]], Font Load Events, TPAC and F2F Schedule
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0875.html|Part II]], Masking, Naming of DOMPoint, Quad, and Matrix, Sticky Position, Text-Combine Naming
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0876.html|Part III]], GCPM
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0878.html|Part IV]], Writing Modes, Issue 2 in Compositing Spec
+
+**Wednesday, 13 September**
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0884.html|Part I]], CSS Masking, Display Tree or DOM, Flexbox
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Part II]], Color Module
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Sep/0886.html|Part III]], Charter
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Oct/0000.html|Part IV]], Ruby
+  * [[http://lists.w3.org/Archives/Public/www-style/2013Oct/0001.html|Part V]], Text, Writing Modes, Animations
+
 ===== Adjacent Events =====
 before:
   * 2013-09-06 [[http://2013.dconstruct.org|dConstruct]], Brighton, UK.
