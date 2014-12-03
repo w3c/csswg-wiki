@@ -51,7 +51,8 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Raised by : Tab Atkins
   ; URL : http://krijnhoetmer.nl/irc-logs/whatwg/20130523#l-684
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013May/0301.html
-  ; Proposed Resolution : Edit definition of 'cursor' to state (similar to how 'background' does [[http://dev.w3.org/csswg/css-backgrounds/#special-backgrounds|in CSS3 Backgrounds]]) that it propagates from the root element to the viewport. Proposed text: "Since no element corresponds to the canvas, in order to allow styling of the canvas CSS, propagates the cursor of the root element (or, in the case of HTML, the <body> element). However, if no boxes are generated for the element whose cursor would be used for the canvas (for example, if the root element has ‘display: none’), then the canvas cursor is auto."
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0300.html
+  ; Proposed Resolution : Edit definition of 'cursor' to state (similar to how 'background' does [[http://dev.w3.org/csswg/css-backgrounds/#special-backgrounds|in CSS3 Backgrounds]]) that it propagates from the root element to the viewport. Proposed text: "Since no element corresponds to the canvas, in order to allow styling of the canvas, CSS propagates the cursor of the root element. However, if no boxes are generated for the element whose cursor would be used for the canvas (for example, if the root element has ‘display: none’), then the canvas cursor is auto."
   ; Status : Resolved. Need to edit editor's draft
 
 ==== Issue 31 ====
