@@ -30,7 +30,9 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Raised by : Tantek Çelik
   ; URL : http://www.xanthir.com/etc/text-overflow.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0219.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0321.html
   ; Proposed Resolution : Add horizontal scrolling text-overflow example akin to Tab's test case, note that it works in both Firefox and Opera (interop), but currently not in Webkit (Chrome, Safari). 
+  ; Note : blocked by ambiguity in the spec (see last mail thread)
   ; Status : Resolved. Need to edit editor's draft.
 
 ==== Issue 25 ====
