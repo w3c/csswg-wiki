@@ -188,8 +188,9 @@ preferred style appears to be to omit it in property definitions.
   ; Summary : there is no interop between UAs about showing tooltips of the ellipsed text
   ; Raised by : Philip Walton
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0013.html
-  ; Proposed Resolution : 
-  ; Status : 
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0532.html
+  ; Status : Rejected
+  ; URL: http://www.w3.org/mid/2153A443-E059-47B2-BBB4-66F3C88E46AE@rivoal.net
 
 
 ==== Issue: 50 ====
