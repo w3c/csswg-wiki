@@ -161,7 +161,7 @@ http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc.html
 Test assertion: This test checks that block-level boxes in a vertical-lr block formatting context are ordered from left to right
 http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc4.html
 
-Test assertion: This test checks that block-level boxes in a {right-floating box | abs. pos. box | inline-block | list | table-cell | table-caption | block boxes with 'overflow' other than 'visible'} with 'writing-mode' set to {'vertical-lr'|'vertical-rl'} creates a block formatting context for its block boxes.
+Test assertion: This test checks that block-level boxes in a { right-floating box | abs. pos. box | inline-block | list | table-cell | table-caption | block boxes with 'overflow' other than 'visible' } with 'writing-mode' set to { 'vertical-lr' | 'vertical-rl' } creates a block formatting context for its block boxes.
 
   b) line box direction in a block container that contains inlines
 
@@ -175,7 +175,7 @@ www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc2.html
 Test assertion: This test checks that lines boxes in a vertical-lr block container that contains inlines are ordered from left to right; the first line box of such block container is the leftmost
 http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc3.html
 
-Test assertion: This test checks that lines boxes in a {'vertical-lr'|'vertical-rl'} block container { right-floating box | abs. pos. box | inline-block | list | table-cell | table-caption | block boxes with 'overflow' other than 'visible'} that contains inlines are ordered from { left to right || right to left }; the first line box of such block container is the { leftmost || rightmost }.
+Test assertion: This test checks that lines boxes in a { 'vertical-lr' | 'vertical-rl' } block container { right-floating box | abs. pos. box | inline-block | list | table-cell | table-caption | block boxes with 'overflow' other than 'visible' } that contains inlines are ordered from { left to right | right to left }; the first line box of such block container is the { leftmost | rightmost }.
 
   c) progression of rows in a table
 
