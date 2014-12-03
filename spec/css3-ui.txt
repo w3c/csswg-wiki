@@ -200,6 +200,7 @@ preferred style appears to be to omit it in property definitions.
   ; Raised by : Tab Atkins and Edward O'Connor
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0537.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Jul/0541.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0536.html
   ; Proposed Resolution : 
   ; Status : 
 
