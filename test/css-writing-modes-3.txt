@@ -151,7 +151,7 @@ Testable: The principal writing mode of the document is determined by the writin
 http://test.csswg.org/suites/css-multicol-1_dev/nightly-unstable/html4/reference/multicol-count-002-ref.htm
 //
 
-  a) block progression of block-level boxes in a block formatting context
+  a) block flow direction of block-level boxes in a block formatting context
 
 Test assertion: This test checks that block-level boxes in a horizontal-tb block formatting context are ordered from top to bottom
 
@@ -161,19 +161,21 @@ http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc.html
 Test assertion: This test checks that block-level boxes in a vertical-lr block formatting context are ordered from left to right
 http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc4.html
 
-Test assertion: This test checks that block-level boxes in a {right-floating box | abs. pos. box | inline-block | table-cell | table-caption | block boxes with 'overflow' other than 'visible'} with 'writing-mode' set to {'vertical-lr'|'vertical-rl'} creates a block formatting context for its block boxes.
+Test assertion: This test checks that block-level boxes in a {right-floating box | abs. pos. box | inline-block | list | table-cell | table-caption | block boxes with 'overflow' other than 'visible'} with 'writing-mode' set to {'vertical-lr'|'vertical-rl'} creates a block formatting context for its block boxes.
 
-  b) progression of line boxes in a block container that contains inlines
+  b) line box direction in a block container that contains inlines
 
-Test assertion: This test checks that lines boxes in a horizontal-tb block box that contains inlines are ordered from top to bottom; the first line box of such block box is the topmost
+Test assertion: This test checks that lines boxes in a horizontal-tb block container that contains inlines are ordered from top to bottom; the first line box of such block container is the topmost
 
-(Sub-test would be: Test assertion: This test checks that lines boxes in a horizontal-tb with direction rtl block box that contains inlines are ordered from top to bottom; the first line box of such block box is the topmost)
+(Sub-test would be: Test assertion: This test checks that lines boxes in a horizontal-tb block container with direction set to rtl that contains inlines are ordered from top to bottom; the first line box of such block container is the topmost)
 
-Test assertion: This test checks that lines boxes in a vertical-rl block box that contains inlines are ordered from right to left; the first line box of such block box is the rightmost
+Test assertion: This test checks that lines boxes in a vertical-rl block container that contains inlines are ordered from right to left; the first line box of such block container is the rightmost
 www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc2.html
 
-Test assertion: This test checks that lines boxes in a vertical-lr block box that contains inlines are ordered from left to right; the first line box of such block box is the leftmost
+Test assertion: This test checks that lines boxes in a vertical-lr block container that contains inlines are ordered from left to right; the first line box of such block container is the leftmost
 http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/testadhoc3.html
+
+Test assertion: This test checks that lines boxes in a {'vertical-lr'|'vertical-rl'} block container { right-floating box | abs. pos. box | inline-block | list | table-cell | table-caption | block boxes with 'overflow' other than 'visible'} that contains inlines are ordered from { left to right || right to left }; the first line box of such block container is the { leftmost || rightmost }.
 
   c) progression of rows in a table
 
@@ -192,9 +194,9 @@ For each of these tests, we need additional tests with
 
   d) line boxes' orientation
 
-Test assertion: This test checks that line boxes' orientation in a vertical-rl block box is toward the right
+Test assertion: This test checks that line boxes' orientation in a vertical-rl block container box is toward the right
 
-Test assertion: This test checks that line boxes' orientation in a vertical-lr block box is toward the right
+Test assertion: This test checks that line boxes' orientation in a vertical-lr block container box is toward the right
 
 
 "
@@ -203,7 +205,13 @@ the writing-mode property of the HTML BODY element is not propagated to the view
 //Possible (draft) tests for now: [[http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/wm-body-propagation-viewport-001.html|body and rl]] , [[http://www.gtalbot.org/BrowserBugsSection/CSS3WritingModes/wm-body-propagation-viewport-004.html|body and lr]]; related CSS2.1 tests are http://test.csswg.org/suites/css2.1/nightly-unstable/html4/c5504-mrgn-l-002.htm 
 http://test.csswg.org/suites/css2.1/nightly-unstable/html4/background-root-012.htm
 http://test.csswg.org/suites/css2.1/nightly-unstable/html4/background-root-013.htm
-http://test.csswg.org/suites/css2.1/nightly-unstable/html4/background-root-014.htm //
+http://test.csswg.org/suites/css2.1/nightly-unstable/html4/background-root-014.htm 
+There is a spec issue related to this; direction set on body should propagate to viewport. If such issue is resolved as such, then this will impact writing-modes spec and will make "rl" behave the same as direction: rtl set on body and vice versa for "lr" and 'direction: ltr'.
+http://lists.w3.org/Archives/Public/www-style/2014Dec/0003.html
+Implementors are converging interoperably toward propagating 'direction' and 'writing-mode'
+from body to viewport (or ICB); so issue 239 should be reopened and resolved accordingly
+https://wiki.csswg.org/spec/css2.1#issue-239
+//
 
 "
 If a box has a different block flow direction than its containing block:
