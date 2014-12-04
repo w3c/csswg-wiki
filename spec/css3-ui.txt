@@ -61,6 +61,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Summary : Various issues with ime-mode
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu>
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0759.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0072.html
   ; Proposed Resolution : 
   ; Status : 
 
