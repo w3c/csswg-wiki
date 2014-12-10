@@ -334,7 +334,7 @@ preferred style appears to be to omit it in property definitions.
   ; Proposed Resolution : Delete overview, and first sentence of the introduction
   ; Status : pending edit
 
-==== Issue 62 ====
+==== Issue 63 ====
   ; Summary : Section "Dependencies on other modules" is redundant with bibliography, but normative "Module interactions" section defining what the spec replaces is missing
   ; Raised by : Florian
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0433.html
