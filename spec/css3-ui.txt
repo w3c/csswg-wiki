@@ -143,7 +143,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Proposed Resolution : Leave undefined in level 3, try to converge in level 4
   ; Status : 
 
-==== Issue new: 56 ====
+==== Issue 56 ====
   ; Summary : WG resolved to make outline corners rounded to match borders, but it was only lightly discussed, and not obvious how that should work
   ; Raised by : Florian Rivoal
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0145.html
