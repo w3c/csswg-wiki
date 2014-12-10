@@ -244,7 +244,7 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0808.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0444.html
-  ; Proposed Resolution : add a comment saying so in the UA stylesheet 
+  ; Proposed Resolution : add a comment saying so in the UA stylesheet for input[type=reset] and input[type=submit]. Proposed phrasing: "UAs should specialize this for the languages they support, using the :lang() selector"
   ; Status : Pending edit
 
 
