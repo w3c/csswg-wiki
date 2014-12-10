@@ -315,7 +315,7 @@ preferred style appears to be to omit it in property definitions.
   ; Summary : Spec is ambiguous as to what happens when the start end of the line overflows with a single value used on text-overflow
   ; Raised by : Florian Rivoal
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0321.html (see point #2)
-  ; Proposed Resolution : patch in http://lists.w3.org/Archives/Public/www-style/2014Dec/0154.html
+  ; Proposed Resolution : resolve ambiguity to say that single value only causes ellipsis at the end line edge. patch in http://lists.w3.org/Archives/Public/www-style/2014Dec/0154.html
   ; Note : blocks Issue 24
   ; Status : pending edit
 
