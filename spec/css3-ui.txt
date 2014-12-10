@@ -279,7 +279,7 @@ preferred style appears to be to omit it in property definitions.
   ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0202.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Jul/0140.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0496.html
-  ; Resolution : Keep grammar as <uri>, add normative clause stating that conformant UA may use <image> instead of <uri>
+  ; Resolution : see patch in http://lists.w3.org/Archives/Public/www-style/2014Dec/0164.html
   ; Status : Resolved, pending edit
 
 ==== Issue: 45 ====
