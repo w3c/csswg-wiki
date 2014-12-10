@@ -163,6 +163,8 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : 
   ; Proposed Resolution : 
   ; Status : 
+  
+  
 ===== Rejected Issues =====
 
 
