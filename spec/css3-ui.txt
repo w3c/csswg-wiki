@@ -338,7 +338,7 @@ preferred style appears to be to omit it in property definitions.
   ; Summary : Section "Dependencies on other modules" is redundant with bibliography, but normative "Module interactions" section defining what the spec replaces is missing
   ; Raised by : Florian
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0433.html
-  ; Proposed Resolution: replace “Dependencies on other modules” with “Module Interactions”. Patch attached in mail above.
+  ; Proposed Resolution : replace “Dependencies on other modules” with “Module Interactions”. Patch attached in mail above.
   ; Status : pending edit
 
 ====== FAQ ======
