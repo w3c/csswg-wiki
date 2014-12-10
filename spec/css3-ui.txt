@@ -143,7 +143,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue new: 63 ====
+==== Issue new: 64 ====
   ; Summary : 
   ; Raised by : Tantek Çelik
   ; URL : 
@@ -334,7 +334,12 @@ preferred style appears to be to omit it in property definitions.
   ; Proposed Resolution : Delete overview, and first sentence of the introduction
   ; Status : pending edit
 
-
+==== Issue 62 ====
+  ; Summary : Section "Dependencies on other modules" is redundant with bibliography, but normative "Module interactions" section defining what the spec replaces is missing
+  ; Raised by : Florian
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0433.html
+  ; Proposed Resolution: replace “Dependencies on other modules” with “Module Interactions”. Patch attached in mail above.
+  ; Status : pending edit
 
 ====== FAQ ======
 * Consider moving to https://www.w3.org/wiki/CSS3-UI/FAQ
