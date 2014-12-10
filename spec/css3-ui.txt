@@ -159,7 +159,16 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue new: 58 ====
+==== Issue 59 ====
+  ; Summary : border box is a well defined term. Let's use it.
+  ; Raised by : Fantasai
+  ; URL : http://www.w3.org/mid/4BF38810.2060005@inkedblade.net
+  ; Proposed Resolution : replace "when over the element’s border, padding, and content." with "when within the element's border-box".
+  ; Status : 
+
+
+
+==== Issue new: 60 ====
   ; Summary : 
   ; Raised by : Tantek Çelik
   ; URL : 
