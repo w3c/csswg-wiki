@@ -211,7 +211,7 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0708.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0442.html
-  ; Proposed Resolution : 
+  ; Proposed Resolution : the word “string" should be replaced by "<string>”
   ; Status : Edit pending
 
 ==== Issue: 34 ====
