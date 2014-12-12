@@ -218,8 +218,7 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; Summary : The text-overflow property definition uses () for grouping, but we should use []
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0808.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0440.html
-  ; Proposed Resolution : 
+  ; Proposed Resolution : patch in http://lists.w3.org/Archives/Public/www-style/2014Nov/0440.html
   ; Status : Edit pending
 
 
