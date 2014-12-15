@@ -46,6 +46,7 @@ Anyone organizing an airbnb?
 Interested in contributing to / participating in an airbnb:
   * Tantek Çelik
   * Rossen Atanassov (feb 6 to 12)
+  * Dave Cramer (feb 6 to 12)
   * ...
 ==== Other ====
 
