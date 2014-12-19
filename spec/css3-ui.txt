@@ -205,6 +205,7 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; URL : caret-* proposals http://lists.w3.org/Archives/Public/www-style/2014Sep/0172.html
   ; Proposed Resolution : add 'caret-color' property with values color | 'auto', where 'auto' should compute to currentColor, mark entire feature at risk. Add 'caret' shorthand and other 'caret-*' properties to a feature proposal for CSS4-UI.
   ; Status : Resolved. Need to edit editor's draft.
+  ; Resolved on : 2014-09-08
 
 ==== Issue: 33 ====
   ; Summary : In the description of the <target-name> parameter of the nav-* properties, the word string should be replaced by <string>
