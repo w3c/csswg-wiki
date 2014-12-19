@@ -360,7 +360,14 @@ preferred style appears to be to omit it in property definitions.
   ; Status : Resolved
 
 
-
+=== Issue 67 ===
+  ; Summary : Editorial improvement to clarify where the outline is
+  ; Raised by : Axel Dahmen
+  ; Raised on : 2014/12/8
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0104.html
+  ; Proposed resolution : Add sentence after 'The outline created with the outline properties is drawn "over" a box[...]'. For example: "Note: This specification does not define the exact position or shape of the outline, but it is typically drawn immediately outside the border box"
+  ; Status : edit pending
+  
 
 
 ====== FAQ ======
