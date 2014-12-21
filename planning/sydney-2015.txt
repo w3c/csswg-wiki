@@ -108,7 +108,7 @@ Far too many tourists, especially in winter^H^H^H^H^H^Hsummer
 
 We have both kinds: pies and ..
 
-actually, just pies.
+actually, just [[http://en.wikipedia.org/wiki/Meat_pie_%28Australia_and_New_Zealand%29 |pies]].
 ==== Proposed Agenda Topics ====
   * upcoming meeting dates and locations
   * CSS 2.2 FPWD
