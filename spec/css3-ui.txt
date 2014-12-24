@@ -17,6 +17,10 @@ This issues page is key to the work mode of CSS3-UI. Here are next steps in roug
   * Move closed issues (resolved issues which have edits completed in the draft) to
     * https://www.w3.org/wiki/CSS3-UI
   * Make spec edits for resolved issues, then move them to https://www.w3.org/wiki/CSS3-UI
+    * edit /dvcs.w3.org/csswg/css-ui/Overview.bs
+    * use https://api.csswg.org/bikeshed/ per [https://wiki.csswg.org/tools/bikeshed#using-the-web-form instructions] to generate spec view HTML
+    * “Save Page as…” “Web page, HTML only” Overview.html
+
   * For Tantek: process/do all of https://wiki.mozilla.org/Tantek-Mozilla-Projects#CSS3_UI tasks (including moving them here as issues if possible)
 
 ===== Current Issues =====
@@ -58,7 +62,8 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0959.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013May/0075.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0072.html
-  ; Proposed Resolution : drop ime-mode
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0090.html
+  ; Proposed Resolution : Document as obsoleted - since it is interoperably implemented (IE, FF) but undesirable for further propagation.
   ; Status : 
 
 
@@ -130,9 +135,6 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-
-
-
 ==== Issue 60 ====
   ; Summary : Information about when the resize factor gets reset is not sufficiently specific 
   ; Raised by : Boris Zbarsky
@@ -147,18 +149,9 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : 
   ; Proposed Resolution : 
   ; Status : 
-  
+
   
 ===== Rejected Issues =====
-
-
-==== Issue: 49 ====
-  ; Summary : there is no interop between UAs about showing tooltips of the ellipsed text
-  ; Raised by : Philip Walton
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0013.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0532.html
-  ; Status : Rejected
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0061.html
 
 ===== Issues Pending edits =====
 The following issues need an edit to be applied to the spec. Most of them have a WG resolution, and those that don't are editorial/non-controversial and don't need a resolution.
@@ -170,21 +163,8 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; URL : http://lists.w3.org/Archives/Public/www-style/2009Nov/0219.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0321.html
   ; Resolution : Add horizontal scrolling text-overflow example akin to Tab's test case, note that it works in both Firefox and Opera (interop), but currently not in Webkit (Chrome, Safari). 
-  ; Note : blocked ambiguity in the spec, tracked as Issue 59
+  ; Note : blocked by ambiguity in the spec, tracked as Issue 59
   ; Status : Resolved. Need to edit editor's draft.
-
-==== Issue 25 ====
-  ; Summary : nav-index property is not well implemented, nor expected to be. also, is problematic (per similar issues on tabindex in HTML). 
-  ; Raised by : Tantek Çelik
-  ; URL : here's one: http://lists.w3.org/Archives/Public/www-style/2012Oct/thread.html#msg468
-  ; URL : http://wiki.csswg.org/spec/css4-ui#nav-properties
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Nov/0712.html
-  ; URL : https://wiki.csswg.org/ideas/nav-index
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Nov/thread.html#msg440 (continues following month)
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Nov/thread.html#msg441 (continues following month)
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0295.html
-  ; Resolution : drop nav-index property from CSS3-UI in next CR draft, move current text to a workspace page like I did for pointer-events: http://www.w3.org/wiki/User:Tantekelik#CSSWG , mark directional nav-* properties NOT at risk (note multiple implementations per http://www.w3.org/2013/11/27-css-irc ). Patch here: http://lists.w3.org/Archives/Public/www-style/2014Dec/0199.html
-  ; Status : Resolved, Need to edit editor's draft.
 
 ==== Issue 27 ====
   ; Summary : specify that 'cursor' propagates from the root to the viewport
@@ -322,14 +302,7 @@ preferred style appears to be to omit it in property definitions.
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0263.html
   ; Proposed Resolution : update reference. patch in http://lists.w3.org/Archives/Public/www-style/2014Nov/0263.html
   ; Status : pending edit
-  
 
-==== Issue 62 ====
-  ; Summary : Overview is redundant with Introduction, and introduction contains out of date sentence.
-  ; Raised by : Florian
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0434.html
-  ; Proposed Resolution : Delete overview, and first sentence of the introduction
-  ; Status : pending edit
 
 ==== Issue 63 ====
   ; Summary : Section "Dependencies on other modules" is redundant with bibliography, but normative "Module interactions" section defining what the spec replaces is missing
@@ -337,28 +310,6 @@ preferred style appears to be to omit it in property definitions.
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0433.html
   ; Proposed Resolution : replace “Dependencies on other modules” with “Module Interactions”. Patch attached in mail above.
   ; Status : pending edit
-  
-  
-==== Issue 64 ====
-  ; Summary : Drop the icon property and the icon value of the content property, they are not implemented.
-  ; Raised by : Florian Rivoal
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0230.html
-  ; Resolution : drop them. Patch here: http://lists.w3.org/Archives/Public/www-style/2014Dec/0198.html
-  ; Status : Resolved
-  
-==== Issue 65 ====
-  ; Summary : Drop the XForms related pseudo-elements
-  ; Raised by : Florian Rivoal
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0229.html
-  ; Resolution : drop them. Patch here (shared with issue 66): http://lists.w3.org/Archives/Public/www-style/2014Dec/0200.html
-  ; Status : Resolved
-
-==== Issue 66 ====
-  ; Summary : Drop the pseudo-classes, they have a more up to date definition in selectors 4
-  ; Raised by : Florian Rivoal
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0228.html
-  ; Resolution : drop them. Patch here (shared with issue 65): http://lists.w3.org/Archives/Public/www-style/2014Dec/0200.html
-  ; Status : Resolved
 
 
 === Issue 67 ===
@@ -418,6 +369,8 @@ See https://www.w3.org/wiki/CSS3-UI#Issue_22
 ==== Issue 23 ====
 See https://www.w3.org/wiki/CSS3-UI#Issue_23
 
+==== Issue 25 ====
+See https://www.w3.org/wiki/CSS3-UI#Issue_25
 ==== Issue 26 ====
 See https://www.w3.org/wiki/CSS3-UI#Issue_26
 ==== Issue 28 ====
@@ -432,7 +385,15 @@ See https://www.w3.org/wiki/CSS3-UI#Issue_32
 ==== Issue 37 ===
 See https://www.w3.org/wiki/CSS3-UI#Issue_37
 
+==== Issue 49 ===
+See https://www.w3.org/wiki/CSS3-UI#Issue_49
 
-
-
+==== Issue 62 ===
+See https://www.w3.org/wiki/CSS3-UI#Issue_62
+==== Issue 64 ===
+See https://www.w3.org/wiki/CSS3-UI#Issue_64
+==== Issue 65 ===
+See https://www.w3.org/wiki/CSS3-UI#Issue_65
+==== Issue 66 ===
+See https://www.w3.org/wiki/CSS3-UI#Issue_65
 
