@@ -29,7 +29,10 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
   * [[planning:oslo-2010]]
   * [[planning:tpac-2010]]
 ==== 2011 ====
-  * [[planning:mountain-view-2011]]
+  * **[[planning:mountain-view-2011]]**
+    * [[http://lists.w3.org/Archives/Public/www-style/2011Mar/0258.html|Monday, 7 March]]
+    * [[http://lists.w3.org/Archives/Public/www-style/2011Mar/0272.html|Tuesday, 8 March]]
+    * [[http://lists.w3.org/Archives/Public/www-style/2011Mar/0306.html|Wednesday, 9 March]] 
   * [[planning:tokyo-workshop-2011]]
   * [[planning:japan-2011]] ([[planning:japan-2011-venues|venues]])
   * [[planning:seattle-2011]]
