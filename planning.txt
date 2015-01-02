@@ -25,7 +25,10 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
   * [[planning:sophia-2009]]
   * [[planning:tpac-2009]]
 ==== 2010 ====
-  * [[planning:cupertino-2010]]
+  * **[[planning:cupertino-2010]]**
+    * [[http://lists.w3.org/Archives/Public/www-style/2010Apr/0273.html|Monday, 29 March]]
+    * [[http://lists.w3.org/Archives/Public/www-style/2010Apr/0275.html|Tuesday, 30 March]]
+    * [[http://lists.w3.org/Archives/Public/www-style/2010Apr/0274.html|Wednesday, 31 March]]
   * [[planning:oslo-2010]]
   * [[planning:tpac-2010]]
 ==== 2011 ====
