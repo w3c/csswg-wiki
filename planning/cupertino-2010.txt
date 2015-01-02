@@ -3,7 +3,12 @@
   * 2010 March 29-31
   * Cupertino, CA, USA
   * Organizer: Apple (David Singer)
-  * Minutes: [[https://www.w3.org/mid/4BBD8266.7090405@inkedblade.net|Monday]], [[https://www.w3.org/mid/4BBD826E.8010009@inkedblade.net|Tuesday]], [[https://www.w3.org/mid/4BBD8279.9020303@inkedblade.net|Wednesday]]
+
+===== Meeting Minutes ===== 
+
+  * [[http://lists.w3.org/Archives/Public/www-style/2010Apr/0273.html|Monday, 29 March]]- CSS2.1 Issue and Test Suite, Vendor Prefixes and Stabilizing Properties, Status of Specs, CSS3 Backgrounds and Borders, GCPM
+  * [[http://lists.w3.org/Archives/Public/www-style/2010Apr/0275.html|Tuesday, 30 March]]- Transitions and Animations, Fonts, i18n, CSS2.1
+  * [[http://lists.w3.org/Archives/Public/www-style/2010Apr/0274.html|Wednesday, 31 March]]- CSSOM, Miscellaneous Issues
 
 ===== Proposed topics =====
 
