@@ -143,14 +143,26 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue new: 68 ====
+==== Issue 68 ====
+  ; Summary : apply text-overflow even when overflow is visible?
+  ; Raised by : Mats Palmgren
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0425.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2015Jan/0048.html
+  ; Proposed Resolution : Apply text-overflow regardless of overflow, or consider reverting https://www.w3.org/wiki/CSS3-UI#Issue_32
+  ; Status : 
+
+  
+  
+  
+  
+  
+==== Issue new: 69 ====
   ; Summary : 
   ; Raised by : Tantek Çelik
   ; URL : 
   ; Proposed Resolution : 
   ; Status : 
 
-  
 ===== Rejected Issues =====
 
 ===== Issues Pending edits =====
