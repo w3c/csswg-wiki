@@ -10,7 +10,7 @@ The order property does not affect ordering in non-visual media (such as speech)
 
 **Proposed Change**
 
-The order property affects ordering in non-visual media (such as speech). Likewise, order affects the default traversal order of sequential navigation modes (such as cycling through links, see e.g. nav-index [CSS3UI] or tabindex [HTML40]). Authors must use order only for visual, not logical, reordering of content; style sheets that use order to perform logical reordering are non-conforming.
+The order property **affects** ordering in non-visual media (such as speech). Likewise, order **affects** the default traversal order of sequential navigation modes (such as cycling through links, see e.g. nav-index [CSS3UI] or tabindex [HTML40]). Authors must use order only for visual, not logical, reordering of content; style sheets that use order to perform logical reordering are non-conforming.
 
 **Arguments Against the Proposal** 
   - The interaction will not be consistent with content that has been similarly visually rearranged with Float and does not change the logical order
