@@ -27,7 +27,7 @@ This issues page is key to the work mode of CSS3-UI. Here are next steps in roug
 
 The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 CSS3-UI Candidate Recommendation]].
 
-==== Issue: 35 ====
+==== Issue 35 ====
   ; Summary : Editorial: distinguishing public web sites from web applications is non obvious
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0808.html
@@ -37,7 +37,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 
 
-==== Issue: 38 ====
+==== Issue 38 ====
   ; Summary : what to do if outline-offset is negative, especially to the point that the offset is more than half the element size or similar values that make it impossible to draw?
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0601.html
@@ -47,7 +47,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 
 
-==== Issue: 39 ====
+==== Issue 39 ====
   ; Summary : Various issues with ime-mode
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu>
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0759.html
@@ -56,7 +56,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue: 40 ====
+==== Issue 40 ====
   ; Summary : ime-mode is windows specific and bad design, and should not be standardized. (has replacement suggestion)
   ; Raised by : Masayuki Nakano <masayuki@d-toybox.com> and James Craig <jcraig@apple.com> 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0959.html
@@ -67,7 +67,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue: 47 ====
+==== Issue 47 ====
   ; Summary : The specced 'resize' proprety's behavior is *completely* different from the behavior implemented in browsers supporting the property
   ; Raised by : François Remy
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Dec/0221.html
@@ -75,7 +75,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Proposed Resolution : allow behavior currently implemented by browsers and the one currently in the spec, amended to talk about a resize function instead of a resize factor
   ; Status : Resolved, but objections have been raised (see http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html
 
-==== Issue: 48 ====
+==== Issue 48 ====
   ; Summary : description of cursor: auto insufficient and not interoperable
   ; Raised by : David Baron
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Jan/0275.html
@@ -85,7 +85,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 
 
-==== Issue: 50 ====
+==== Issue 50 ====
   ; Summary : add user-select back to css3-ui, it has 3 implementations
   ; Raised by : Tab Atkins and Edward O'Connor
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0537.html
@@ -95,7 +95,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue: 51 ====
+==== Issue 51 ====
   ; Summary : applying transforms to the outline is weird, especially in 3d
   ; Raised by : Florian Rivoal
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Aug/0423.html
@@ -104,14 +104,14 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue: 52 ====
+==== Issue 52 ====
   ; Summary : behaviour of resize on pseudos buggy and ambiguously defined
   ; Raised by : Lea Verou
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0477.html
   ; Proposed Resolution : 
   ; Status : 
 
-==== Issue: 53 ====
+==== Issue 53 ====
   ; Summary : resize factor behaviour is weird when width / height are later dynamically modified
   ; Raised by : Lea Verou
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0517.html
@@ -120,7 +120,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
 
-==== Issue: 54 ====
+==== Issue 54 ====
   ; Summary : Can text-overflow ellipsis not break in the middle of a word?
   ; Raised by : Stuart Langridge
   ; URL : https://twitter.com/sil/status/537627213789949952
