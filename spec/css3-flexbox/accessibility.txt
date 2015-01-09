@@ -1,7 +1,36 @@
 This page is a research page to discuss pros and cons of UA's changing the tab order and screen reader flow (through the a11y API) to match the new visual layout when flexbox order rearranges elements on a page.
 
-====== Headline ======
+===== Example =====
+==== 1.) Author creates nested containers (boxes) in html ====
 
+
+== DOM order ==
+box 1, box 2, box 3
+
+== Visual order ==
+box 1, box 2, box 3
+
+== Tab and Accessibility Tree order ==
+box 1, box 2, box 3
+
+== Diagram ==
+﻿﻿{{:spec:css3-flexbox:flexbox1.jpg|}}
+
+==== 2.) Author changes the visual order to 3, 2, 1 with CSS using Flexbox ====
+
+
+== DOM order (unchanged) ==
+box 1, box 2, box 3
+
+== Visual order (**changed**) ==
+box 1, box 2, box 3
+
+== Tab and Accessibility Tree order (unchanged) ==
+box 1, box 2, box 3
+
+== Diagram ==
+﻿﻿{{:spec:css3-flexbox:flexbox2.jpg|}}
+----
 
 
 **Proposal Statement:**
