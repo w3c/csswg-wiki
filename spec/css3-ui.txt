@@ -152,7 +152,15 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Status : 
 
   
-==== Issue new: 69 ====
+==== Issue 69 ====
+  ; Summary : box-sizing insufficiently specified for replaced elements
+  ; Raised by : Boris Zbarsky
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0232.html
+  ; Proposed Resolution : 
+  ; Status : 
+
+
+==== Issue new: 70 ====
   ; Summary : 
   ; Raised by : Tantek Çelik
   ; URL : 
