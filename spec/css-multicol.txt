@@ -17,6 +17,5 @@ The following are known problems in the [[http://www.w3.org/TR/2007/WD-css3-mult
 
   * http://lists.w3.org/Archives/Public/www-style/2008Jun/0359.html - z-order of column rules
   * http://lists.w3.org/Archives/Public/www-style/2007Dec/0045.html - editorial comments
-  * http://lists.w3.org/Archives/Public/www-style/2007Dec/0046.html
   * http://lists.w3.org/Archives/Public/www-style/2007Dec/0047.html - column gap should be at least as wide as column-rule
   * http://lists.w3.org/Archives/Public/www-style/2007Dec/0064.html - column model underdefined (maybe already fixed?)
