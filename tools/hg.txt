@@ -139,10 +139,12 @@ added 95 changesets with 245 changes to 31 files
 21921 files updated, 0 files merged, 0 files removed, 0 files unresolved
 </code>
 
-** Resources directory (needed when authoring script tests using testharness) **
+** Resources directory (for script tests) **
+
+This directory contains testharness.js which is needed if you'll be running script tests locally. This is maintained in a separate repository in GitHub. See the [[https://help.github.com/articles/set-up-git/|instructions on GitHub]] for setting up git, then:
 <code>
 cd /     #not required, but resources directory is located at root level in repository
-hg clone https://dvcs.w3.org/hg/resources/     
+git clone https://github.com/w3c/testharness.js.git resources
 </code>
 
 ** CSSWG Draft Repository **
