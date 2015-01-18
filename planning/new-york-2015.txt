@@ -37,25 +37,25 @@ http://travel.state.gov/content/visas/english.html
 
 All Transportation Options 
 
-from JFK Aiport to 731 Lexington Avenue
-http://www.rome2rio.com/s/New-York-JFK/731-Lexington-Avenue
+  * from JFK Aiport to 731 Lexington Avenue
+  * http://www.rome2rio.com/s/New-York-JFK/731-Lexington-Avenue
 
-from EWR Newark Aiport to 731 Lexington Avenue
-http://www.rome2rio.com/s/Newark-Airport-EWR-USA/731-Lexington-Avenue
+  * from EWR Newark Aiport to 731 Lexington Avenue
+  * http://www.rome2rio.com/s/Newark-Airport-EWR-USA/731-Lexington-Avenue
 
-from LGA La Guardia Airport to 731 Lexington Avenue
-http://www.rome2rio.com/s/New-York-La-Guardia/731-Lexington-Avenue
+  * from LGA La Guardia Airport to 731 Lexington Avenue
+  * http://www.rome2rio.com/s/New-York-La-Guardia/731-Lexington-Avenue
 
 Subway Map
 
-http://web.mta.info/nyct/maps/subwaymap.pdf
+  * http://web.mta.info/nyct/maps/subwaymap.pdf
 
-http://web.mta.info/maps/submap.html
+  * http://web.mta.info/maps/submap.html
 
-Some helpful mobile transit apps with offline capabilities
-(Search for NYC Transit) 
-nycTrans.it, NYC Bus & Subway
-
+Some helpful mobile transit apps with offline capabilities 
+  * nycTrans.it
+  * NYC Bus & Subway
+  * Others search for NYC Transit
 
 ==== Hotels ====
 Search near 731 Lexington Ave, New York, NY
