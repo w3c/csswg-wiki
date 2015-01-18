@@ -5,19 +5,19 @@
 
 ==== Place ====
 
-Bloomberg NYC: 731 Lexington Ave, New York, NY
+  * Bloomberg NYC: 731 Lexington Ave, New York, NY
 
-[[https://maps.google.com/maps?ll=40.761662,-73.96805&z=15&cid=12649675258885364599&q=bloomberg+tower&output=classic&dg=ntvo|This map]] might help.
+[[https://maps.google.com/maps?ll=40.761662,-73.96805&z=15&cid=12649675258885364599&q=bloomberg+tower&output=classic&dg=ntvo|This map might help.]]
 
 **Meeting Room**: 
   * 28 MPR B
 
 **Parking**: 
-Driving is not recommended - use public transit instead
+  * Driving is not recommended - use public transit instead
 
 **Weather**
-Average High: 71°F (22°C)
-Average Low: 55°F (13°C)
+  * Average High: 71°F (22°C)
+  * Average Low: 55°F (13°C)
 
 ==== Contacts ====
 Andrey Rybka arybka*bloomberg.net 
