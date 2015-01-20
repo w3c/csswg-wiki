@@ -94,7 +94,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Jul/0541.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0536.html
   ; Proposed Resolution : Defer to level 4, there's too much interop to figure out
-  ; Status : 
+  ; Status : Pending group approval of proposition
 
 
 ==== Issue 51 ====
