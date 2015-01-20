@@ -37,7 +37,7 @@ box 1, box 2, box 3
 
 ===== Solution =====
 
-==== 1.) When the visual order is changed via Flexbox, the UA Tab order should logically follow the newly arranged box tree====
+==== 1.) When the visual order is changed via Flexbox, the UA Tab order should have the opportunity to logically follow the newly arranged box tree====
 ==== 2.) The Box Tree visual change should be mapped to the Accessibility API so that AT’s have the same experience.====
 
 == DOM order (unchanged) ==
