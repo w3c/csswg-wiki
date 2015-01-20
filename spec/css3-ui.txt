@@ -119,7 +119,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0517.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0063.html
   ; Proposed Resolution : 
-  ; Status : 
+  ; Status : Blocked on [[#Issue 47]]
 
 
 ==== Issue 54 ====
