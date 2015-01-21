@@ -52,7 +52,7 @@ Example 2: Data is rearranged on an page so that the number of messages a person
 ===== Solution =====
 
 ==== 1.) When the visual order is changed via Flexbox, the UA Tab order should have the opportunity to logically follow the newly arranged box tree====
-==== 2.) The Box Tree visual change should be mapped to the Accessibility API so that AT’s have the same experience.====
+==== 2.) The Box Tree visual change should have the ability to be mapped to the Accessibility API so that AT’s have the same experience.====
 
 == DOM order (unchanged) ==
 box 1, box 2, box 3
