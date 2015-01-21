@@ -89,7 +89,7 @@ If Flexbox is used to rearrange content that has a meaningful sequence, there sh
 
 The order property does not affect ordering in non-visual media (such as speech). Likewise, order does not affect the default traversal order of sequential navigation modes (such as cycling through links, see e.g. nav-index [CSS3UI] or tabindex [HTML40]). Authors must use order only for visual, not logical, reordering of content; style sheets that use order to perform logical reordering are non-conforming.
 
-**Proposed Change**
+**Proposed Change (wording needs work)**
 
 The order property **is able to affect the** ordering in non-visual media (such as speech). Likewise, order **may affect** the default traversal order of sequential navigation modes (such as cycling through links, see e.g. nav-index [CSS3UI] or tabindex [HTML40]). <del>Authors must use order only for visual, not logical, reordering of content; style sheets that use order to perform logical reordering are non-conforming.</del> Authors my use order for both visual and logical reordering of content by using **the parameter** to establish the reordering of tab sequence for meaningful sequences.
 
