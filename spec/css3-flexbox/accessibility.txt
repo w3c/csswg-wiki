@@ -35,6 +35,20 @@ box 1, box 2, box 3
 
 **Problem:** The visual order (Box Tree) is now opposite the DOM order and subsequently, the Tab Order and Screen Reader order 
 
+
+===== The Power of Flexbox for Designers and Front-end Devs =====
+Outside of the intended use for Flexbox to create a "Holy Grail" web page layout, teams are finding powerful ways to use Flexbox so that they don't have to update code for all changes. This saves time and effort and also creates a much faster user experience in lieu of slow Javascript DOM-changing.
+
+Reason 1: Many people and teams may be contributing to the code and Flexbox allows the interface to change when needed without possibly losing more than a week to get updated code.
+
+Reason 2: A/B testing can easily be done without having two sets of code
+
+Example 1: Data coming in from the database can easily be arranged on a page without having to have code updated. In this real-world example, the UX designer is able to move a link to report a defect to the end of a bunch of menu links.
+
+Example 2: Data is rearranged on an page so that the number of messages a person has comes after his name rather than before. This is easily done by the designer.
+
+
+
 ===== Solution =====
 
 ==== 1.) When the visual order is changed via Flexbox, the UA Tab order should have the opportunity to logically follow the newly arranged box tree====
