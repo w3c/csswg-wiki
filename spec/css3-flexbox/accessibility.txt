@@ -35,6 +35,12 @@ box 1, box 2, box 3
 
 **Problem:** The visual order (Box Tree) is now opposite the DOM order and subsequently, the Tab Order and Screen Reader order 
 
+===== The Holy Grail web layout =====
+The holy grail web layout is mentioned in WCAG as following success criteria regardless of tab order because the sequence of the containers (header, footer, nav, main, sidebar) do not have meaning. This assumption by WCAG is also under review as it is apparent that if an author must start a tab order in the middle of the sequence, it has some sort of meaning.
+
+The holy grail layout is mentioned in example 7 of the Flexbox spec, acting as the go-to example of tab order not following visual order.
+
+
 
 ===== The Power of Flexbox for Designers and Front-end Devs =====
 Outside of the intended use for Flexbox to create a "Holy Grail" web page layout, teams are finding powerful ways to use Flexbox so that they don't have to update code for all changes. This saves time and effort and also creates a much faster user experience in lieu of slow Javascript DOM-changing.
