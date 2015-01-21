@@ -65,7 +65,7 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0072.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0090.html
   ; Florian's Proposed resolution : drop ime-mode. It is not fully interoperable, and cannot become so cross platform. 
-  ; Proposed Resolution : Document as obsoleted - since it is interoperably implemented (IE, FF) but undesirable for further propagation.
+  ; Proposed Resolution : Document 'ime-mode' as officially obsoleted (that's a specific W3C term). Note the existence of implementations of a property with the name 'ime-mode', which may have some interop with some values on some platforms, but there are no tests to verify this, however there is documentation claiming non-interop ( https://developer.mozilla.org/en-US/docs/Web/CSS/ime-mode details of values, platforms, password field handling). Implementations MUST NOT add support for it. Implementations SHOULD drop support for it ASAP. Authors MUST NOT use it (it invalidates a style sheet). Users MAY use it only for "repair" use-cases where they have to work around bad sites and legacy implementations, e.g. with a user style sheet rule like: input[type=password] { ime-mode: auto !important; } . This specification deliberately does not attempt to document how legacy implementations work or what they support because it does not make sense to recommend any such path, nor to provide any legitimacy to those legacy implementations.
   ; Status : Pending group decision
 
 
