@@ -82,7 +82,7 @@ box 3, box 2, box 1
 
 
 ==== Proposal ==== 
-If Flexbox is used to rearrange content, the box tree and accessibility API should be updated to also change the keyboard and screen reader flow to match the new visual layout.
+If Flexbox is used to rearrange content that has a meaningful sequence, there should be a parameter that states that the sequence of the boxes is meaningful and the box tree and accessibility API should be updated to also change the keyboard and screen reader flow to match the new visual layout.
 
 **Original W3C Working Draft** http://www.w3.org/TR/css-flexbox-1/#order-accessibility
 
@@ -90,7 +90,9 @@ The order property does not affect ordering in non-visual media (such as speech)
 
 **Proposed Change**
 
-The order property **affects** ordering in non-visual media (such as speech). Likewise, order **affects** the default traversal order of sequential navigation modes (such as cycling through links, see e.g. nav-index [CSS3UI] or tabindex [HTML40]). Authors must use order only for visual, not logical, reordering of content; style sheets that use order to perform logical reordering are non-conforming.
+The order property **is able to affect the** ordering in non-visual media (such as speech). Likewise, order **may affect** the default traversal order of sequential navigation modes (such as cycling through links, see e.g. nav-index [CSS3UI] or tabindex [HTML40]). <del>Authors must use order only for visual, not logical, reordering of content; style sheets that use order to perform logical reordering are non-conforming.</del> Authors my use order for both visual and logical reordering of content by using **the parameter** to establish the reordering of tab sequence for meaningful sequences.
+
+
 
 ==== Arguments Against the Proposal ====
 
