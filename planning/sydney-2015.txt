@@ -137,4 +137,5 @@ actually, just [[http://en.wikipedia.org/wiki/Meat_pie_%28Australia_and_New_Zeal
   * CSS Inline (Dave C.) 
     * goals for rewrite of line layout
     * CJK and Indic initial letters 
+    * The myth of the hanging baseline
   * Tab order on display tree switch
