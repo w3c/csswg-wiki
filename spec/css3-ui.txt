@@ -24,7 +24,16 @@ This issues page is key to the work mode of CSS3-UI. Here are next steps in roug
   * For Tantek: process/do all of https://wiki.mozilla.org/Tantek-Mozilla-Projects#CSS3_UI tasks (including moving them here as issues if possible)
 
 ===== Current Issues =====
-The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 CSS3-UI Candidate Recommendation]].
+The following are open issues in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 CSS3-UI Candidate Recommendation]].
+
+==== Issue 47 ====
+  ; Summary : The specced 'resize' proprety's behavior is *completely* different from the behavior implemented in browsers supporting the property
+  ; Raised by : François Remy
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Dec/0221.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0063.html
+  ; Resolution : allow behavior currently implemented by browsers and the one currently in the spec, amended to talk about a resize function instead of a resize factor
+  ; Proposed new Resolution : Note outstanding objection to "resize function" wording inline in the spec, link directly to email http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html
+  ; Status : Resolved and editor's draft updated noting objections have been raised (see http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html). Leave issue open pending discussion regarding the objection with the working group.
 
 ==== Issue new: 71 ====
   ; Summary : 
@@ -37,15 +46,6 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
 
 ===== Issues Pending edits =====
 The following issues need an edit to be applied to the spec. Most of them have a WG resolution, and those that don't are editorial/non-controversial and don't need a resolution.
-
-==== Issue 47 ====
-  ; Summary : The specced 'resize' proprety's behavior is *completely* different from the behavior implemented in browsers supporting the property
-  ; Raised by : François Remy
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Dec/0221.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0063.html
-  ; Resolution : allow behavior currently implemented by browsers and the one currently in the spec, amended to talk about a resize function instead of a resize factor
-  ; Proposed new Resolution : Note outstanding objection to "resize function" wording inline in the spec, link directly to email http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html
-  ; Status : Resolved, but objections have been raised (see http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html), pending edits accordingly.
 
 ==== Issue 48 ====
   ; Summary : description of cursor: auto insufficient and not interoperable
