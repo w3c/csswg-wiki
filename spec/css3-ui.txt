@@ -27,109 +27,6 @@ This issues page is key to the work mode of CSS3-UI. Here are next steps in roug
 
 The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3-ui-20040511/|11 May 2004 CSS3-UI Candidate Recommendation]].
 
-
-==== Issue 47 ====
-  ; Summary : The specced 'resize' proprety's behavior is *completely* different from the behavior implemented in browsers supporting the property
-  ; Raised by : François Remy
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Dec/0221.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0063.html
-  ; Resolution : allow behavior currently implemented by browsers and the one currently in the spec, amended to talk about a resize function instead of a resize factor
-  ; Status : Resolved, but objections have been raised (see http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html) 
-  ; Proposed new Resolution : spec the interoperable behavior
-
-==== Issue 48 ====
-  ; Summary : description of cursor: auto insufficient and not interoperable
-  ; Raised by : David Baron
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Jan/0275.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0531.html
-  ; Proposed Resolution : restrict the auto value to handling things that cannot be described by the UA stylesheet. Detailed proposal to be made.
-  ; Status : Pending proposal
-
-
-
-==== Issue 50 ====
-  ; Summary : add user-select back to css3-ui, it has 3 implementations
-  ; Raised by : Tab Atkins and Edward O'Connor
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0537.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Jul/0541.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0536.html
-  ; Proposed Resolution : Defer to level 4, there's too much interop to figure out
-  ; Status : Pending group approval of proposition
-
-
-==== Issue 51 ====
-  ; Summary : applying transforms to the outline is weird, especially in 3d
-  ; Raised by : Florian Rivoal
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Aug/0423.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0134.html
-  ; Proposed Resolution : Leave undefined for level 3
-  ; Status : Blocked on [[#Issue 55]]
-
-
-==== Issue 52 ====
-  ; Summary : behaviour of resize on pseudos buggy and ambiguously defined
-  ; Raised by : Lea Verou
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0477.html
-  ; Proposed Resolution : 
-  ; Status : Blocked on [[#Issue 47]]
-
-==== Issue 53 ====
-  ; Summary : resize factor behaviour is weird when width / height are later dynamically modified
-  ; Raised by : Lea Verou
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0517.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0063.html
-  ; Proposed Resolution : 
-  ; Status : Blocked on [[#Issue 47]]
-
-
-==== Issue 54 ====
-  ; Summary : Can text-overflow ellipsis not break in the middle of a word?
-  ; Raised by : Stuart Langridge
-  ; URL : https://twitter.com/sil/status/537627213789949952
-  ; Proposed Resolution : Consider allowing implementation flexibility to ellipse at a text wrap opportunity instead of at a character boundary, and ask for further clarification (should this be automatic per implementation? or under author control)
-  ; Status : Collected, need to write up a spec-text change proposal for group consideration.
-
-==== Issue 55 ====
-  ; Summary : Outline has a very loose definition, and significant interop problems. Should we tighten it up?
-  ; Raised by : Florian Rivoal
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0134.html
-  ; Proposed Resolution : Leave undefined in level 3, try to converge somewhat in level 4
-  ; Status : Pending group feedback
-
-
-==== Issue 60 ====
-  ; Summary : Information about when the resize factor gets reset is not sufficiently specific 
-  ; Raised by : Boris Zbarsky
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2004May/0222.html
-  ; Proposed Resolution : 
-  ; Status : Blocked by [[#Issue 47]]
-
-
-==== Issue 68 ====
-  ; Summary : apply text-overflow even when overflow is visible?
-  ; Raised by : Mats Palmgren
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0425.html
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2015Jan/0048.html
-  ; Proposed Resolution : Apply text-overflow regardless of overflow, or consider reverting https://www.w3.org/wiki/CSS3-UI#Issue_32
-  ; Status : Pending group feedback
-
-  
-==== Issue 69 ====
-  ; Summary : box-sizing insufficiently specified for replaced elements
-  ; Raised by : Boris Zbarsky
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0232.html
-  ; Proposed Resolution : Make adjustments to http://www.w3.org/TR/CSS21/visudet.html#Computing_widths_and_margins and
-http://www.w3.org/TR/CSS21/visudet.html#Computing_heights_and_margins based on mail above
-  ; Status : Pending group feedback
-
-
-==== Issue 70 ====
-  ; Summary : CSS3-UI defines the 'default object size' for cursors, but not the 'concrete object size'
-  ; Raised by : Tab Atkins
-  ; URL : http://lists.w3.org/Archives/Public/www-style/2015Jan/0163.html
-  ; Proposed Resolution : Add the following sentence: "The <a>concrete object size</a> is determined using the <a>default sizing algorithm</a>. If an operating system is <strong>incapable</strong> of rendering a cursor above a given size, cursors larger than that size must be shrunk to within the OS-supported size bounds, while maintaining the cursor image's intrinsic ratio, if any."
-  ; Status : Pending group approval
-
 ==== Issue new: 71 ====
   ; Summary : 
   ; Raised by : Tantek Çelik
@@ -161,6 +58,99 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; Florian's Proposed resolution : drop ime-mode. It is not fully interoperable, and cannot become so cross platform. 
   ; Proposed Resolution : Document 'ime-mode' as officially obsoleted (that's a specific W3C term). Note the existence of implementations of a property with the name 'ime-mode', which may have some interop with some values on some platforms, but there are no tests to verify this, however there is documentation claiming non-interop ( https://developer.mozilla.org/en-US/docs/Web/CSS/ime-mode details of values, platforms, password field handling). Implementations MUST NOT add support for it. Implementations SHOULD drop support for it ASAP. Authors MUST NOT use it (it invalidates a style sheet). Users MAY use it only for "repair" use-cases where they have to work around bad sites and legacy implementations, e.g. with a user style sheet rule like: input[type=password] { ime-mode: auto !important; } . This specification deliberately does not attempt to document how legacy implementations work or what they support because it does not make sense to recommend any such path, nor to provide any legitimacy to those legacy implementations.
   ; Status : Proposed resolution pending edits. Pending group review.
+
+==== Issue 47 ====
+  ; Summary : The specced 'resize' proprety's behavior is *completely* different from the behavior implemented in browsers supporting the property
+  ; Raised by : François Remy
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Dec/0221.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0063.html
+  ; Resolution : allow behavior currently implemented by browsers and the one currently in the spec, amended to talk about a resize function instead of a resize factor
+  ; Proposed new Resolution : Note outstanding objection to "resize function" wording inline in the spec, link directly to email http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html
+  ; Status : Resolved, but objections have been raised (see http://lists.w3.org/Archives/Public/www-style/2014Dec/0177.html), pending edits accordingly.
+
+==== Issue 48 ====
+  ; Summary : description of cursor: auto insufficient and not interoperable
+  ; Raised by : David Baron
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Jan/0275.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0531.html
+  ; Proposed Resolution : Note this issue in spec explicitly with general plan to "restrict the auto value to handling things that cannot be described by the UA stylesheet. Detailed proposal to be made."
+  ; Status : Pending edit to capture issue. Then pending proposal.
+
+==== Issue 50 ====
+  ; Summary : add user-select back to css3-ui, it has 3 implementations
+  ; Raised by : Tab Atkins and Edward O'Connor
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Apr/0537.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2012Jul/0541.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0536.html
+  ; Proposed Resolution : Defer to level 4, there's too much interop to figure out. Edit spec status section (near at risk features) noting this as an outstanding issue - user-select is at risk of being added back.
+  ; Status : Pending edit to add issue reference in spec. Pending group approval of proposition.
+
+==== Issue 51 ====
+  ; Summary : applying transforms to the outline is weird, especially in 3d
+  ; Raised by : Florian Rivoal
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2013Aug/0423.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0134.html
+  ; Proposed Resolution : Leave undefined for level 3
+  ; Status : Edit outline section to note outstanding issue with proposal to leave undefined.
+
+==== Issue 52 ====
+  ; Summary : behaviour of resize on pseudos buggy and ambiguously defined
+  ; Raised by : Lea Verou
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0477.html
+  ; Proposed Resolution : Document in spec inline as known issue that browsers have bugs with resize
+  ; Status : Pending spec edit.
+
+==== Issue 53 ====
+  ; Summary : resize factor behaviour is weird when width / height are later dynamically modified
+  ; Raised by : Lea Verou
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0517.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0063.html
+  ; Proposed Resolution : Add proposed text from 0063.html, "allows the user to resize the element with no other constraints than what is imposed by min-width and max-width" - note at risk since FF only, link to 0063.html email with analysis.
+  ; Status : Pending spec edit.
+
+==== Issue 54 ====
+  ; Summary : Can text-overflow ellipsis not break in the middle of a word?
+  ; Raised by : Stuart Langridge
+  ; URL : https://twitter.com/sil/status/537627213789949952
+  ; Proposed Resolution : Consider allowing implementation flexibility to ellipse at a text wrap opportunity instead of at a character boundary, and ask for further clarification (should this be automatic per implementation? or under author control). Add to spec "Implementations may break at a text wrap opportunity instead of a character boundary."
+  ; Status : Pending spec edit.
+
+==== Issue 55 ====
+  ; Summary : Outline has a very loose definition, and significant interop problems. Should we tighten it up?
+  ; Raised by : Florian Rivoal
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0134.html
+  ; Proposed Resolution : Leave undefined in level 3, try to converge somewhat in level 4
+  ; Status : Edit spec outline section noting explicit issue. Then Pending group feedback
+
+==== Issue 60 ====
+  ; Summary : Information about when the resize factor gets reset is not sufficiently specific 
+  ; Raised by : Boris Zbarsky
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2004May/0222.html
+  ; Proposed Resolution : Note issue inline.
+  ; Status : Pending spec edit. Then proposed resolution again.
+
+==== Issue 68 ====
+  ; Summary : apply text-overflow even when overflow is visible?
+  ; Raised by : Mats Palmgren
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0425.html
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2015Jan/0048.html
+  ; Proposed Resolution : Note as open issue, with possible resolutions of: Apply text-overflow regardless of overflow, or consider reverting https://www.w3.org/wiki/CSS3-UI#Issue_32
+  ; Status : Pending spec edit. Then pending feedback.
+
+==== Issue 69 ====
+  ; Summary : box-sizing insufficiently specified for replaced elements
+  ; Raised by : Boris Zbarsky
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2011Jul/0232.html
+  ; Proposed Resolution : Note open issue inline in spec, with proposal: Make adjustments to http://www.w3.org/TR/CSS21/visudet.html#Computing_widths_and_margins and
+http://www.w3.org/TR/CSS21/visudet.html#Computing_heights_and_margins based on mail above
+  ; Status : Pending spec edit. Then pending proposed text to patch CSS2.1 algorithms.
+
+==== Issue 70 ====
+  ; Summary : CSS3-UI defines the 'default object size' for cursors, but not the 'concrete object size'
+  ; Raised by : Tab Atkins
+  ; URL : http://lists.w3.org/Archives/Public/www-style/2015Jan/0163.html
+  ; Proposed Resolution : Add the following sentence: "The <a>concrete object size</a> is determined using the <a>default sizing algorithm</a>. If an operating system is <strong>incapable</strong> of rendering a cursor above a given size, cursors larger than that size must be shrunk to within the OS-supported size bounds, while maintaining the cursor image's intrinsic ratio, if any."
+  ; Status : Pending spec edit.
 
 ===== Issues Pending dependent edits =====
 Issues that are resolved, and require no specific edits, but are depending on edits for another issue to be completed.
