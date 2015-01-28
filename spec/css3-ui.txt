@@ -32,8 +32,8 @@ The following are known problems in/with the [[http://www.w3.org/TR/2004/CR-css3
   ; Raised by : Kang-Hao (Kenny) Lu <kennyluck@csail.mit.edu> 
   ; URL : http://lists.w3.org/Archives/Public/www-style/2012Feb/0808.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0072.html
-  ; Proposed Resolution : 
-  ; Status : blocked by [[#Issue 40]]
+  ; Proposed Resolution : ime-mode is being tombstoned (or possibly dropped) thus text in descriptions about "web applications" will be dropped.
+  ; Status : Resolved. Dependent on edits to 40.
 
 
 
