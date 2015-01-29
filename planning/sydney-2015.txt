@@ -25,12 +25,12 @@ Google Sydney: Level 5, 48 Pirrama Road, Pyrmont (WP6) and Level 2, 1 Darling Is
 Please, put your name in this table if you plan to participate (alphabetical order):
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
-| Tab Atkins | ??? | ??? | ??? | ??? |
+| Tab Atkins | ??? | ??? | airbnb | ??? |
 | L. David Baron | 5 Feb | 14 Feb | Travelodge Hotel Sydney | ANZ 7/101, ANZ 104 |
 | Rick Byers | 3 Feb | 12 Feb | Novotel | UA 863, UA 870 |
-| Tantek Çelik | 8 Feb | 12 Feb | up for airbnb | UA 863, UA 870 |
-| Dave Cramer | 6 Feb | 12 Feb | up for airbnb | The longest commercial flight; also Project Houdini |
-| fantasai | 8 Feb| 15 Feb | up for airbnb |  NZ9791+NZ5+NZ103 / NZ102+NZ14+NZ9005  |
+| Tantek Çelik | 8 Feb | 12 Feb | airbnb | UA 863, UA 870 |
+| Dave Cramer | 6 Feb | 12 Feb | airbnb | The longest commercial flight; also Project Houdini |
+| fantasai | 8 Feb| 15 Feb | airbnb |  NZ9791+NZ5+NZ103 / NZ102+NZ14+NZ9005  |
 | Daniel Glazman | 4 Feb | 12 Feb | 1888 | KE121 / QF021, also Project Houdini |
 | Dean Jackson | ??? | ??? | ??? | Probably via land not air |
 | Toru Kawakubo | 7 Feb | 12 Feb | Ibis Sydney Darling Harbor | QF 22 / QF 21 |
@@ -40,7 +40,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Shinyu Murakami | 7 Feb | 12 Feb | Ibis Sydney Darling Harbor | QF 22 / QF 21 |
 | Robert O'Callahan | ? | ? | ? | Observer from Mozilla (Houdini, CSS, SVG) |
 | Xidorn Quan | ??? | ??? | ??? | Observer from Mozilla |
-| Florian Rivoal | 8 Feb | 12 Feb | up for Airbnb | AY0656+AY5811+KE704+KE121, KE122+KE721  |
+| Florian Rivoal | 8 Feb | 12 Feb | airbnb | AY0656+AY5811+KE704+KE121, KE122+KE721  |
 | Simon Sapin | 3 Feb | 16 Feb | Novotel Sydney Darling Harbor | EK 414 / EK 415 |
 | Alan Stearns | 6 Feb | 16 Feb | ??? | DL 17 / DL 16 |
 | Shane Stephens | - | - | - | - |
@@ -49,7 +49,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Ian Vollick | ??? | ??? | ??? | ??? |
 | Greg Whitworth | 6 Feb | 15 Feb | ??? | DL |
 | Cameron McCormack | ??? | ??? | ??? | Observer from Mozilla |
-| Rossen Atanassov | 6 Feb | 19 Feb | ??? | DL |
+| Rossen Atanassov | 6 Feb | 19 Feb | airbnb | DL |
 | Andrey Rybka | 6 Feb | 15 Feb | ??? | UA |
 | Johannes Wilm | 7 Feb | 12 Feb | Sydney Darling Harbour Hotel | KL 1132/KL 0809/KL 4079, KL 4104/KL 0810/KL 1125 |
 | Steve Zilles | 6 Feb | 11 Feb | Meriton Serviced Apartments Kent Street | VA 992, JL0772 |
