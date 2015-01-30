@@ -105,8 +105,8 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; Summary : Information about when the resize factor gets reset is not sufficiently specific 
   ; Raised by : Boris Zbarsky
   ; URL : http://lists.w3.org/Archives/Public/www-style/2004May/0222.html
-  ; Proposed Resolution : Note issue inline.
-  ; Status : Pending spec edit. Then proposed resolution again.
+  ; Proposed Resolution : Trivial explicit use of computed value to disambiguate.
+  ; Status : Pending spec edit.
 
 ==== Issue 68 ====
   ; Summary : apply text-overflow even when overflow is visible?
