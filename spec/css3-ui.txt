@@ -91,7 +91,7 @@ The following issues need an edit to be applied to the spec. Most of them have a
   ; Summary : Can text-overflow ellipsis not break in the middle of a word?
   ; Raised by : Stuart Langridge
   ; URL : https://twitter.com/sil/status/537627213789949952
-  ; Proposed Resolution : Consider allowing implementation flexibility to ellipse at a text wrap opportunity instead of at a character boundary, and ask for further clarification (should this be automatic per implementation? or under author control). Add to spec "Implementations may break at a text wrap opportunity instead of a character boundary."
+  ; Proposed Resolution : Consider allowing implementation flexibility to ellipse at a text wrap opportunity instead of at a character boundary, and ask for further clarification (should this be automatic per implementation? or under author control). Add to spec "Implementations may ellipse at a text wrap opportunity instead of a character boundary."
   ; Status : Pending spec edit.
 
 ==== Issue 55 ====
