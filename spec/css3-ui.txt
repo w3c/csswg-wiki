@@ -124,7 +124,16 @@ http://www.w3.org/TR/CSS21/visudet.html#Computing_heights_and_margins based on m
   ; Status : Pending edit
 
 
-==== Issue new: 75 ====
+==== Issue 75 ====
+  ; Summary : As we mark ime-mode as obsolete, we should point readers of the spec to the alternative ways to address the issue that ime-mode was attempting to solve.
+  ; Raised by : Florian Rivoal
+  ; URL : http://logs.csswg.org/irc.w3.org/css/2015-01-28/#e513809
+  ; Proposed Resolution : Add a note to ime-mode pointing readers to relevant html attributes, and explaining that dropping ime-mode was because it was a bad solution, not because the problem isn't worth addressing. Draft phrasing: "<p>The Working Group recognizes the importance of presenting the most relevant text input UI to users depending on what type of input is expected from them. However, instead of trying to control directly the UI as ime-mode attempts to do, a better approach is to give as much context as possible to the User Agent, and let it present the best UI possible to the user out of the various possibilities available on the platform. In HTML, the following attributes are relevant: <ul><li>the lang attribute https://html.spec.whatwg.org/multipage/dom.html#the-lang-and-xml:lang-attributes <li>the type attribute of the input element https://html.spec.whatwg.org/multipage/forms.html#states-of-the-type-attribute
+ <li>The inputmode attribute https://html.spec.whatwg.org/multipage/forms.html#attr-fe-inputmode
+<li>the pattern attribute of the input element https://html.spec.whatwg.org/multipage/forms.html#the-pattern-attribute"
+  ; Status : edit pending
+
+==== Issue new: 76 ====
   ; Summary :
   ; Raised by : Tantek Çelik
   ; URL : 
