@@ -91,8 +91,19 @@ http://www.w3.org/TR/CSS21/visudet.html#Computing_heights_and_margins based on m
   ; Status : Issue noted inline in spec. Pending group discussion and proposed text to patch CSS2.1 algorithms.
 
 
-==== Issue new: 71 ====
-  ; Summary : 
+==== Issue 71 ====
+  ; Summary : WG resolved to drop all pseudo elements from CSS-UI, but ::value and ::choices were retained, as they may apply to HTML in addition to XForms as they were initially specified for. However, they are not implemented anywhere, and it is not clear that they effectively solve the problem they were introduced for.
+  ; Raised by : Floria Rivoal
+  ; URL : https://lists.w3.org/Archives/Public/www-style/2014Nov/0401.html
+  ; URL : https://lists.w3.org/Archives/Public/www-style/2015Jan/0046.html
+  ; URL : https://lists.w3.org/Archives/Public/www-style/2015Jan/0280.html
+  ; Proposed Resolution : Drop ::value and ::choices
+  ; Status : Pending group discussion
+
+
+
+==== Issue new: 72 ====
+  ; Summary :
   ; Raised by : Tantek Çelik
   ; URL : 
   ; Proposed Resolution : 
