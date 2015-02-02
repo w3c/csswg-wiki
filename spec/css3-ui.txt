@@ -108,6 +108,7 @@ http://www.w3.org/TR/CSS21/visudet.html#Computing_heights_and_margins based on m
   ; URL : http://www.w3.org/mid/CADhPm3uJkugzOcz-vaKXkFMGik=R2AXwxLmXaFtUj3E_HRnsyA@mail.gmail.com
   ; Proposed Resolution : Replace "Implementations must not add support for the ime-mode property. Implementations should drop support for it as soon as possible." with "User Agents should not support the ime-mode property".
   ; Status : Pending edit
+  ; Pending Since: 2015/01/28
 
 ==== Issue 73 ====
   ; Summary : Support for negative outline-offset is marked as optional and at-risk. However, all browsers that support outline-offset support negative values. The only issue was the lack of interop for large negative values. The new spec prose introduced to define interoperable behavior is fine.
