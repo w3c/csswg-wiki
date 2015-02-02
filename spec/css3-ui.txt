@@ -124,7 +124,7 @@ http://www.w3.org/TR/CSS21/visudet.html#Computing_heights_and_margins based on m
   ; URL : https://lists.w3.org/Archives/Public/www-style/2015Jan/0581.html
   ; Proposed Resolution : Clarify that outline-width * 2 is the outside dimension of the shape
   ; Status : Pending edit
-
+  ; Pending Since : 2015/01/28
 
 ==== Issue 75 ====
   ; Summary : As we mark ime-mode as obsolete, we should point readers of the spec to the alternative ways to address the issue that ime-mode was attempting to solve.
