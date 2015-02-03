@@ -40,8 +40,9 @@ The following are open issues in/with the [[http://www.w3.org/TR/2004/CR-css3-ui
   ; Raised by : David Baron
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Jan/0275.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Nov/0531.html
-  ; Proposed Resolution : Note this issue in spec explicitly with general plan to "restrict the auto value to handling things that cannot be described by the UA stylesheet. Detailed proposal to be made."
-  ; Status : Issue noted inline in spec. Pending detailed proposal.
+  ; URL : https://lists.w3.org/Archives/Public/www-style/2015Feb/0039.html
+  ; Proposed Resolution : Note this issue in spec explicitly with general plan to "restrict the auto value to handling things that cannot be described by the UA stylesheet. Detailed proposal here, with analysis at the beginning, and proposed text at the bottom of the mail: https://lists.w3.org/Archives/Public/www-style/2015Feb/0039.html
+  ; Status : Issue noted inline in spec. Pending group discussion of the proposal.
 
 ==== Issue 50 ====
   ; Summary : add user-select back to css3-ui, it has 3 implementations
