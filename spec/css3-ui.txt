@@ -54,12 +54,12 @@ The following are open issues in/with the [[http://www.w3.org/TR/2004/CR-css3-ui
   ; Status : Issue noted inline in spec. Pending group approval of postponement proposal.
 
 ==== Issue 51 ====
-  ; Summary : applying transforms to the outline is weird, especially in 3d
+  ; Summary : applying transforms to the outline is weird, especially in 3d.
   ; Raised by : Florian Rivoal
   ; URL : http://lists.w3.org/Archives/Public/www-style/2013Aug/0423.html
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Dec/0134.html
   ; Proposed Resolution : Leave undefined for level 3
-  ; Status : Issue noted inline in spec. Pending group discussion.
+  ; Status : Issue noted inline in spec. Pending group discussion. Note that this is a subcase of [[#Issue 55]]
 
 ==== Issue 52 ====
   ; Summary : behaviour of resize on pseudos buggy and ambiguously defined
