@@ -65,7 +65,7 @@ The following are open issues in/with the [[http://www.w3.org/TR/2004/CR-css3-ui
   ; Summary : behaviour of resize on pseudos buggy and ambiguously defined
   ; Raised by : Lea Verou
   ; URL : http://lists.w3.org/Archives/Public/www-style/2014Jul/0477.html
-  ; Proposed Resolution : Document in spec inline as known issue that browsers have bugs with resize
+  ; Proposed Resolution : Document in spec inline as known issue that browsers have bugs with resize. If we adopt the style attribute model for the resize property, this bug solves itself thanks to http://dev.w3.org/csswg/css-pseudo/#CSSPseudoElement-interface
   ; Status : Issue noted inline in spec. Pending group discussion.
 
 ==== Issue 55 ====
