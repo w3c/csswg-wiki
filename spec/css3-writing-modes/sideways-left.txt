@@ -1,0 +1,29 @@
+====== text-orientation: sideways-left and sideways in CSS Writing Modes Level 3 ======
+
+====== Issues ======
+
+  - [[http://dev.w3.org/csswg/css-writing-modes-3/#valdef-text-orientation-sideways-left|sideways-left]] is not implemented yet
+  - [[http://dev.w3.org/csswg/css-writing-modes-3/#valdef-text-orientation-sideways|sideways]] has dependency on it, and thus is implemented differently from the spec by 3 implementations (AH, Blink, WebKit)
+
+====== Proposals ======
+
+===== sideways-left =====
+
+  - Keep as is
+  - Mark at risk
+  - Defer to Level 4
+
+===== sideways =====
+
+  - Keep as is
+  - Mark at risk and put a note for attention not to implement differently from the spec
+  - Change the spec to follow the interoperable 3 implementations (same behavior as sideways-right)
+  - Defer to Level 4
+
+====== Notes ======
+
+  - [[https://lists.w3.org/Archives/Public/www-style/2015Jan/0130.html|www-style thread]]
+  - sideways-left is primarily for non-East Asian use cases, while other values are critically important for East Asian vertical flow. Concerns were raised that the complexity of this value could prevent this property itself being implemented unless people looks at it carefully.
+  - IIUC, design concerns were raised 2-3 times before at F2F and offline, though I could not find them in the minutes.
+  - IE is the only UA that supports this use case (though using the [[https://msdn.microsoft.com/en-us/library/ie/ms531187.aspx|writing-mode]] properly, not the text-orientation property.)
+  - [[http://epub-revision.googlecode.com/svn/trunk/build/30/spec/epub30-contentdocs.html#sec-css-writing-modes|EPUB 3 CSS Profile]] refers to this property.
