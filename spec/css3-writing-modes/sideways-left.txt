@@ -10,13 +10,13 @@
 ===== sideways-left =====
 
   - Keep as is
-  - Mark at risk
+  - Mark at risk and put a note for attention not to implement the sideways value if you don't implement this value
   - Defer to Level 4
 
 ===== sideways =====
 
   - Keep as is
-  - Mark at risk and put a note for attention not to implement differently from the spec
+  - Mark at risk and put a note for attention not to implement this value differently from the spec
   - Change the spec to follow the interoperable 3 implementations (same behavior as sideways-right)
   - Defer to Level 4
 
