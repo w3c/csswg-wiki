@@ -23,7 +23,7 @@
 ====== Notes ======
 
   - [[https://lists.w3.org/Archives/Public/www-style/2015Jan/0130.html|www-style thread]]
-  - sideways-left is primarily for non-East Asian use cases, while other values are critically important for East Asian vertical flow. Concerns were raised that the complexity of this value could prevent this property itself being implemented unless people looks at it carefully.
+  - Risk of the property not implemented because this value is complex. sideways-left is primarily for non-East Asian use cases, while other values are critically important for East Asian vertical flow.
   - IIUC, design concerns were raised 2-3 times before at F2F and offline, though I could not find them in the minutes.
   - IE is the only UA that supports this use case (though using the [[https://msdn.microsoft.com/en-us/library/ie/ms531187.aspx|writing-mode]] properly, not the text-orientation property.)
   - [[http://epub-revision.googlecode.com/svn/trunk/build/30/spec/epub30-contentdocs.html#sec-css-writing-modes|EPUB 3 CSS Profile]] refers to this property.
