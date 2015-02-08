@@ -2,6 +2,7 @@
 
    * Host: Google
    * Dates: Monday-Wednesday, February 09-11, 2015 (with SVG on Wednesday or at least Wednesday morning)
+   * Times: Doors will open from 8:30am. Meeting can run from 9:00am - 6:30pm as required.
 
 ==== Place ====
 
@@ -13,6 +14,13 @@ Google Sydney: Level 5, 48 Pirrama Road, Pyrmont (WP6) and Level 2, 1 Darling Is
   * Monday and Wednesday: Barangaroo, on Level 4 of WP6.
   * Tuesday: Cylon, on Level 2 of ODI. **note change of building for Tuesday**.
 
+**Instructions for arrival**:
+
+Please come directly up to level 4. A security guard will let you in and I will have a badge for you.
+
+If you arrive after 9:30am, please either:
+  * call Shane Stephens on +61 405 491 744; or
+  * log on to the free Google Guest wifi (which should be accessible from the ground floor) and ping someone on #css.
 **Parking**: If you think you'd like to drive to the meeting, please let Shane know and he will try and book parking for you at Google. **Parking is limited**. There are also parking stations nearby, particularly [[http://www.wilsonparking.com.au/go/wilson-car-parks/nsw/harbourside|Harbourside]].
 
 **Weather**
