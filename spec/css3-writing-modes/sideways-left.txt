@@ -25,7 +25,7 @@
 ====== Notes ======
 
   - [[https://lists.w3.org/Archives/Public/www-style/2015Jan/0130.html|www-style thread]]
-  - Concerns of the property not implemented because this value is complex.
+  - Concerns of the value could prevent the property from being implemented because of its complexity.
   - IIUC, design concerns were raised 2-3 times before at F2F and offline, though I could not find them in the minutes.
   - IE is the only UA that supports the use case (though using the [[https://msdn.microsoft.com/en-us/library/ie/ms531187.aspx|writing-mode]] properly, not the text-orientation property.)
   - [[http://epub-revision.googlecode.com/svn/trunk/build/30/spec/epub30-contentdocs.html#sec-css-writing-modes|EPUB 3 CSS Profile]] refers to this property.
