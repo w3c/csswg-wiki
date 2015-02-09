@@ -16,7 +16,7 @@ See also:
 This issues page is key to the work mode of CSS3-UI. 
 
 ==== Steps to PR ====
-  * Publish draft resolved in 2005-01 telcon
+  * Publish draft as [[http://lists.w3.org/Archives/Public/www-style/2015Jan/0406.html|resolved in 2005-01-21 telcon]]
   * Continue editing per General Steps
   * Resolve all issues 2014 or before and make edits
   * Put out call for test cases - noting substantial feature stability
