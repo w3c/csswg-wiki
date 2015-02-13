@@ -54,7 +54,14 @@ http://www.w3.org/TR/CSS21/visudet.html#Computing_heights_and_margins based on m
   ; Status : Issue noted inline in spec. Pending group discussion and proposed text to patch CSS2.1 algorithms.
 
 
-==== Issue new: 77 ====
+==== Issue 77 ====
+  ; Summary : text-overflow: clip should not clip at the end of the line box
+  ; Raised by : Florian Rivoal
+  ; URL : https://lists.w3.org/Archives/Public/www-style/2015Feb/0342.html
+  ; Proposed Resolution : replace "Clip inline content that overflows" with "Clip inline content that overflows its block container element".
+  ; Status : pending group decision
+
+==== Issue new: 78 ====
   ; Summary :
   ; Raised by : Tantek Çelik
   ; URL : 
