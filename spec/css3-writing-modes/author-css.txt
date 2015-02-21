@@ -6,6 +6,10 @@ Any corrections, information, opinions, questions, please let [[mailto:kojiishi@
 
 CSS defines [[http://dev.w3.org/csswg/css-writing-modes-3/#script-orientations|Vertical Scripts]]. These scripts use vertical flow for the main body text, and have established conventions for vertical flow layout.
 
+Primary use of CSS Writing Modes in these scripts are not on the web but in the digital books today, where a few hundreds KB or sometimes a few MB of HTML files to be layout in vertical flow.
+
+Mixed, orthogonal flows are not often used.
+
 ===== Chinese =====
 
 <code>
@@ -40,10 +44,13 @@ writing-mode: vertical-lr;
 text-orientation: sideways-right;
 </code>
 
-  - Mongolian is a vertical script, but it has very similar characteristics to horizontal scripts in vertical flow, so the use of the text-orientation property is strongly recommended. See [[author-css#horizontal-only-scripts|Horizontal Only Scripts]] below for more details of this property.
+  - Mongolian is a vertical script, but technically it has very similar characteristics to horizontal scripts in vertical flow, so the use of the text-orientation property is strongly recommended. See [[author-css#horizontal-only-scripts|Horizontal Only Scripts]] below for more details of this property.
+
 ====== Horizontal Only Scripts ======
 
 Horizontal Only Scripts, as defined in [[http://dev.w3.org/csswg/css-writing-modes-3/#script-orientations|Vertical Scripts]] in CSS, do use vertical flow in heading, table cells, etc. Vertical flow for such scripts usually rotate the baseline and keep decorations along with the baseline.
+
+It is very unlikely to layout the whole HTML file in vertical flow. Rather, mixed, orthogonal flows are important.
 
 ===== Clockwise =====
 
@@ -55,6 +62,7 @@ text-orientation: sideways-right;
   - [[http://dev.w3.org/csswg/css-writing-modes-3/#valdef-text-orientation-sideways-right|text-orientation: sideways-right]] is needed for two reasons:
     * Some letters and punctuation characters may show up in upright if they are unified with vertical scripts in Unicode. See [[http://www.unicode.org/reports/tr50/|UTR#50]] which characters show up in upright if you don't specify this property.
     * Baseline needs to be handled differently for vertical scripts and for horizontal scripts in vertical flow, and this property [[http://dev.w3.org/csswg/css-writing-modes-3/#text-baselines|changes it to be suitable for horizontal scripts]]. Note that you may feel this property is not needed because it doesn't make any differences, but it's simply because some browsers do not follow the spec correctly yet. Your content may be broken when they fix, or when your content are displayed in conformant browsers.
+
 ===== Counter-clockwise =====
 
 <code>
