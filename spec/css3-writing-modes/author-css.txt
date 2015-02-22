@@ -6,7 +6,7 @@ Any corrections, additional information, opinions, questions, please let [[mailt
 
 CSS defines [[http://dev.w3.org/csswg/css-writing-modes-3/#script-orientations|Vertical Scripts]]. These scripts use vertical flow for the main body text, and have established conventions for vertical flow layout.
 
-Primary use of CSS Writing Modes in these scripts are not on the web but in the digital books today, where a few hundreds KB or sometimes a few MB of HTML files to be layout in vertical flow.
+Primary use of CSS Writing Modes in these scripts are not on the web but in the digital books today, where the whole HTML file is layout in vertical flow, and the size is larger than on the web, such as a few hundreds KB or sometimes up to a few MB.
 
 ===== Chinese =====
 
@@ -56,7 +56,7 @@ text-orientation: sideways-right;
 
 Horizontal Only Scripts, as defined in [[http://dev.w3.org/csswg/css-writing-modes-3/#script-orientations|Vertical Scripts]] in CSS, do use vertical flow in heading, table cells, etc. Vertical flow for such scripts usually rotate the baseline and keep decorations along with the baseline.
 
-Unlike vertical scripts, it is very unlikely to layout the whole HTML file in vertical flow.
+Unlike vertical scripts, it is very unlikely to layout the whole HTML file in vertical flow. Line breakers are less likely to kick in, but keeping the same characteristics such as shaping as in horizontal flow is important.
 
 ===== Clockwise =====
 
