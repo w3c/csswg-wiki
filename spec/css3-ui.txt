@@ -58,7 +58,7 @@ The following are open issues in/with the [[http://www.w3.org/TR/2012/WD-css3-ui
   ; Raised by : Florian Rivoal
   ; URL : https://lists.w3.org/Archives/Public/www-style/2015Feb/0342.html
   ; Proposed Resolution : replace "Clip inline content that overflows" with "Clip inline content that overflows its block container element".
-  ; Status : pending group decision
+  ; Status : Editorial, under consideration.
 
 ==== Issue 78 ====
   ; Summary : Clarify that the :focus pseudo class matches when the focus is move to an element using the directional navigation properties, even if that element cannot otherwise be focused.
