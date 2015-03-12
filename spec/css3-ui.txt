@@ -52,7 +52,15 @@ The following are open issues in/with the [[http://www.w3.org/TR/2012/WD-css3-ui
   ; Proposed Resolution : https://lists.w3.org/Archives/Public/www-style/2015Feb/0445.html
   ; Status : Issue noted inline in spec. Proposal Pending group discussion.
 
-==== Issue new: 84 ====
+==== Issue 84 ====
+  ; Summary : no file format required by the spec for cursor
+  ; Raised by : Florian Rivoal
+  ; URL : https://lists.w3.org/Archives/Public/www-style/2015Mar/0199.html
+  ; Proposed Resolution : mandate .cur and .ico, and possibly also svg & png
+  ; Status : pending group discussion
+
+
+==== Issue new: 85 ====
   ; Summary :
   ; Raised by : Tantek Çelik
   ; URL : 
