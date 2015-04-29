@@ -41,15 +41,7 @@ General steps in rough order:
 ===== Current Issues =====
 The following are open issues in/with the [[http://www.w3.org/TR/2012/WD-css3-ui-20120117/|17 Jan 2012 CSS3-UI Working Draft]], and/or the latest [[http://dev.w3.org/csswg/css3-ui/|CSS3-UI Editor's Draft]].
 
-
-
-==== Issue 90 ====
-  ; Summary : "the cursor’s coordinate system" is insufficiently defined for various <image> values
-  ; Raised by : Florian Rivoal
-  ; URL : https://lists.w3.org/Archives/Public/www-style/2015Apr/0193.html
-  ; Proposed Resolution : put a definition for each value in css-images, and reference from css-ui. Proposed definitions in the mail above
-  ; Status : pending discussion and editing of css-images.
-
+There are currently no know issues with this specification.
 
 ==== Issue new: 94 ====
   ; Summary :
@@ -247,6 +239,8 @@ See https://www.w3.org/wiki/CSS3-UI#Issue_87
 See https://www.w3.org/wiki/CSS3-UI#Issue_88
 ==== Issue 89 ====
 See https://www.w3.org/wiki/CSS3-UI#Issue_89
+==== Issue 90 ====
+See https://www.w3.org/wiki/CSS3-UI#Issue_90
 
 ==== Issue 91 ====
 See https://www.w3.org/wiki/CSS3-UI#Issue_91
