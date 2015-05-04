@@ -52,6 +52,7 @@ Please, put your name in this table if you plan to participate:
 Regrets:
   * Tantek Çelik - regrets for day 1. Will be there days 2-3.
   * Simon Pieters (might be able to call in)
+  * Alan Stearns - will lurk on IRC
 
 
 ==== Visa Requirements ====
