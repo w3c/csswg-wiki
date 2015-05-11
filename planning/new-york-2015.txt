@@ -27,10 +27,10 @@ Andrey Rybka arybka*bloomberg.net
 
 ==== Participants ====
 
-Please, put your name in this table if you plan to participate:
+Please, put your Full name (need this for badges please) in this table if you plan to participate:
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
-| fantasai | day before | day after | couchsurfing | Amtrak |
+| fantasai Elika Etemad | day before | day after | couchsurfing | Amtrak |
 | Florian Rivoal | May 16 | May 21 | Airbnb | SK907/SK908 |
 | Chris Lilley | 16 May | 21 May| Days Hotel Broadway | LH404 / LH401 |
 | Someone from Apple | ??? | ??? | ??? |  |
@@ -42,7 +42,7 @@ Please, put your name in this table if you plan to participate:
 | Jet Villegas | ??? | ??? | ??? | ??? |
 | Greg Whitworth | ??? | ??? | ??? | ??? |
 | Tab Atkins | ??? | ??? | Airbnb | ??? |
-| Bert | May 16 | May 20 | Airbnb | AF8702/AF8703 |
+| Bert Bos | May 16 | May 20 | Airbnb | AF8702/AF8703 |
 | Simon Sapin | May 14 | May 20 | Airbnb | AF6/AF7 |
 | Shane Stephens | May 18 | May 20 | ??? | ??? |
 | Bo Campbell | May 17 | May 21 | Hilton Mid-town | ??? |
