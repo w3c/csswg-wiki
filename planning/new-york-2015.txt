@@ -150,8 +150,8 @@ Culture
 ==== Proposed Agenda Topics ====
 
   * CSS 2.2 First Public Working Draft (added by ?)
-  * CSS Flexbox Order accessibility issues / scalable solutions (added by Bo Campbell)
-  * CSS content visibility to AT and testing (added by Bo Campbell)
+  * CSS Flexbox Order accessibility issues / scalable solutions (added by Bo Campbell) [Preferably NOT first thing, Monday]
+  * CSS content visibility to AT and testing (added by Bo Campbell)  [Preferably NOT first thing, Monday]
   * CSS zoom property (added by ?)
   * position: fragment (added by ?)
   * box-percent-sizing a.k.a percent resolution for top/bottom paddings and margins (added by ?)
