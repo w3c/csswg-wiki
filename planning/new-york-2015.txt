@@ -149,6 +149,7 @@ Culture
 
 ==== Proposed Agenda Topics ====
 
+  * CSS Fragmentation - open issues
   * CSS 2.2 First Public Working Draft (added by ?)
   * CSS Flexbox Order accessibility issues / scalable solutions (added by Bo Campbell) [Preferably NOT first thing, Monday]
   * CSS content visibility to AT and testing (added by Bo Campbell)  [Preferably NOT first thing, Monday]
