@@ -205,3 +205,15 @@ Wednesday afternoon
   * <del>transitions</del>
   * [[https://lists.w3.org/Archives/Public/www-style/2015May/0002.html|load/check methods of FontFaceSet]] (Font Loading) [Tuesday late afternoon, jdaggett/heycam dial-in]
   * Carto CSS https://github.com/mapbox/carto
+
+==== Wednesday Night IndieWeb Meetup ====
+Unofficial - but everyone is welcome:
+
+IndieWeb Homebrew Website Club meetup TONIGHT
+
+For hacking on and/or discussing doing stuff using your own website - identity, posts, etc.
+
+  * Location: Schnippers on 41st & 8th Ave
+  * 18:30-19:30 quiet writing hour
+  * 19:30-20:30 IndieWeb meetup
+  * More details: http://indiewebcamp.com/events/2015-05-20-homebrew-website-club
