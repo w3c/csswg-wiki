@@ -17,6 +17,8 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Shane Stephens | ?? | ?? | ?? | ?? |
 | Simon Sapin | | | home | |
 | Tab Atkins | ?? | ?? | ?? | ?? |
+| Greg Whitworth | ?? | ?? | ?? | ?? |
+| Rossen Atanassov | ?? | ?? | ?? | ?? |
 
 (alphabetical by first name, plzkthx)
 ==== Proposed Agenda Topics ====
