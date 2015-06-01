@@ -43,12 +43,26 @@ The following are open issues in/with the [[http://www.w3.org/TR/2012/WD-css3-ui
 
 There are currently no known issues with this specification.
 
-==== Issue new: 94 ====
-  ; Summary :
+==== Issue 94 ====
+  ; Summary : The default stylesheet for HTML should have "resize: both" for &lt;textarea&gt;, since all browsers do this.
+  ; Raised by : Timeless
+  ; URL : http://www.w3.org/mid/CACsW8eGS3kZQ8a3jPAgrDaXW1WVmUQLo5vYzYty991JZzxMVdw@mail.gmail.com
+  ; Proposed Resolution : 
+  ; Status : Pending
+
+==== Issue 95 ====
+  ; Summary : "Ellipsed" isn't in the dictionary, use "Ellipsized" instead
+  ; Raised by : Timeless
+  ; URL : http://www.w3.org/mid/CACsW8eGS3kZQ8a3jPAgrDaXW1WVmUQLo5vYzYty991JZzxMVdw@mail.gmail.com
+  ; Proposed Resolution : reject, "Ellipsed" is in some dictionaries, "Ellipsized" is not
+  ; Status : Pending
+
+==== Issue new: 97 ====
+  ; Summary : 
   ; Raised by : Tantek Çelik
   ; URL : 
   ; Proposed Resolution : 
-  ; Status : 
+  ; Status :
 
 
 ===== Rejected Issues =====
