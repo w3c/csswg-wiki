@@ -12,7 +12,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 ==== Participants ====
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
-| Alan Stearns | ?? | ?? | ?? | ?? |
+| Alan Stearns | 21 Aug | 30 Aug | Apt | ?? |
 | Andrey Rybka | ?? | ?? | ?? | ?? |
 | Dave Cramer | ?? | ?? | ?? | ?? |
 | Dirk Schulze | ?? | ?? | ?? | ?? |
