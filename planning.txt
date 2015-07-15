@@ -9,7 +9,6 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
 [[https://www.w3.org/2006/tools/wiki/WebExFAQ|WebEx FAQ]] and [[https://www.w3.org/2006/tools/wiki/WebExBestPractices|Best Practices]]
 ===== Upcoming Meetings =====
   * [[planning:2015]]
-    * 2015-05-18..20 [[planning:new-york-2015]] (Bloomberg)
     * 2015-08-25..27 [[planning:paris-2015]] (Mozilla) (followed by [[https://wiki.css-houdini.org/planning/paris-2015|Houdini meeting]] August 28-29)
     * 2015-10-26..30 [[planning:tpac-2015]], Sapporo, Japan (followed by [[http://www.ietf.org/meeting/upcoming.html|IETF 94 in Yokohama]], November 2-6)
   * 2016
