@@ -21,6 +21,10 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
 ===== Past Meetings =====
 ==== 2015 ====
     * **[[planning:new-york-2015]]** (Bloomberg)
+      * Minutes:
+          * Monday, 18 May: [[https://lists.w3.org/Archives/Public/www-style/2015May/0279.html|Part I]], [[https://lists.w3.org/Archives/Public/www-style/2015May/0280.html|Part II]], [[https://lists.w3.org/Archives/Public/www-style/2015May/0281.html|Part III]], [[https://lists.w3.org/Archives/Public/www-style/2015May/0282.html|Part IV]]
+          * Tuesday, 19 May: [[https://lists.w3.org/Archives/Public/www-style/2015May/0313.html|Part I]], [[https://lists.w3.org/Archives/Public/www-style/2015May/0314.html|Part II]], [[https://lists.w3.org/Archives/Public/www-style/2015May/0315.html|Part III]]
+          * Wednesday, 20 May: [[https://lists.w3.org/Archives/Public/www-style/2015Jun/0241.html|Part I]], [[https://lists.w3.org/Archives/Public/www-style/2015Jun/0242.html|Part II]], [[https://lists.w3.org/Archives/Public/www-style/2015Jun/0243.html|Part III]], [[https://lists.w3.org/Archives/Public/www-style/2015Jun/0244.html|Part IV]], [[https://lists.w3.org/Archives/Public/www-style/2015Jun/0245.html|Part V]], [[https://lists.w3.org/Archives/Public/www-style/2015Jun/0246.html|Part VI]]
     * **[[planning:sydney-2015]]** (with SVG on Wednesday)
       * Minutes:
         * Monday, 9 February: [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0185.html|Part I]], [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0186.html|Part II]], [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0187.html|Part III]], [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0188.html|Part IV]]
