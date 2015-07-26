@@ -19,7 +19,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Andrey Rybka | ?? | ?? | ?? | ?? |
 | Bert | 24 Aug | 29 Aug | Vivienne | train (Gare de Lyon) A: 21:41 / D: 18:19 |
 | Brian Birtles | ?? | ?? | ?? | observer from Mozilla (and SVG WG) |
-| Dave Cramer | ?? | ?? | ?? | ?? |
+| Dave Cramer | 24 Aug | 30 Aug | ?? | UA 987 / UA 986 |
 | Dean Jackson | ?? | ?? | ?? | ?? |
 | Dirk Schulze | ?? | ?? | ?? | ?? |
 | fantasai | 23 Aug | ?? | ??| BA |
