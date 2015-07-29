@@ -19,6 +19,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Andrey Rybka | ?? | ?? | ?? | ?? |
 | Bert | 24 Aug | 29 Aug | Vivienne | train (Gare de Lyon) A: 21:41 / D: 18:19 |
 | Brian Birtles | ?? | ?? | ?? | observer from Mozilla (and SVG WG) |
+| Chris Lilley | 22 Aug | 30 Aug | ?? | AF6207/ AF6248  |
 | Dave Cramer | 24 Aug | 30 Aug | ?? | UA 987 / UA 986 |
 | Dean Jackson | ?? | ?? | ?? | ?? |
 | Dirk Schulze | ?? | ?? | ?? | ?? |
@@ -29,6 +30,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Ian Kilpatrick | ?? | ?? | ?? | ?? |
 | Johannes Wilm | ?? | ?? | ?? | ?? |
 | L. David Baron | ?? | 30 Aug | Apartment | train / AF80 |
+| Lea Verou | 21/8 | 30/8 | ?? | AF1441 |
 | Matt Rakow | ?? | ?? | ??| ?? |
 | Peter Linss | ?? | ?? | ?? | ?? |
 | Rachel Andrew | ?? | ?? | ?? | [observer] |
@@ -39,7 +41,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Simon Sapin | | | home | |
 | Steve Zilles | August 24 | August 31 | apartment | Thai Air 930 |
 | Tab Atkins | ?? | ?? | ?? | ?? |
-| Lea Verou | 21/8 | 30/8 | ?? | AF1441 |
+
 
 (alphabetical by first name, plzkthx)
 ==== Proposed Agenda Topics ====
