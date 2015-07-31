@@ -53,3 +53,9 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
   * CSS IG
   * Percentage heights in grid and flex containers
   * Absolute positioning in grid and flex containers
+
+
+
+==== Proposed Agenda Topics [fx] ====
+  * SVG images without intrinsic size in CSS border-image (added by smfr)
+  * SVG-as-image and loading external resources (added by smfr)
