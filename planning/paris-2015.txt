@@ -38,6 +38,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Peter Linss | 23 Aug | 31 Aug | Best Western | UA 990 / UA 914 |
 | Rachel Andrew | 24 Aug | ?? | ?? | [observer] |
 | Rossen Atanassov | ?? | ?? | ?? | ?? |
+| Sam Weinig | ?? | ?? | ?? | ??, attending/observing first day |
 | Shane Stephens | ?? | ?? | ?? | ?? |
 | Simon Fraser | ?? | ?? | ?? | ??, attending last day of CSS WG and both Houdini days |
 | Simon Pieters | August 24 | August 30 | Vivienne | AF1263 / AF1262 (CDG) |
