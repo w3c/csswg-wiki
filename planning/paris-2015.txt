@@ -50,6 +50,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Simon Sapin | | | home | |
 | Steve Zilles | August 24 | August 31 | apartment | Thai Air 930 |
 | Tab Atkins | ?? | ?? | [[https://lists.w3.org/Archives/Member/w3c-css-wg/2015JulSep/0072.html|apt share]] | US786 arriving CDG Aug 23 8:25, AA755 departing CDG Aug 30 13:20 |
+| Tantek Çelik |2015-08-22|2015-08-29| Apartment | UA0990 / UA0991 | 
 
 (alphabetical by first name, plzkthx)
 
