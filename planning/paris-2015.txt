@@ -88,7 +88,14 @@ Anton Prowse
     * Do we need two dimensional page floats (up and right)?
     * Do we need/want page floats in non-fragmenting contexts?
     * Do we need to be able to control the placement order of page floats within a fragmentainer?
-  * CSS UI 4 feedback - tab
+  * CSS UI
+    * Feedback from Tab
+      * note about user-select:none and editting
+      * caret-animation / caret-blink-time
+      * appearance property
+      * renaming user-select: text ?
+    * text-overflow: fade
+    * FPWD for CSS-UI-4?
   * Control Characters Status Update from all UAs https://drafts.csswg.org/css-text/#white-space-processing - greg
   * Input Modality (http://radar.oreilly.com/2015/08/proposing-css-input-modailty.html) - tab, bkardell (Thursday please)
   * snap points & oversized elements - tab
