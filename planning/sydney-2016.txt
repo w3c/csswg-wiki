@@ -2,4 +2,4 @@
 
 ==== Dates to schedule around ====
   * TAG Meeting, January 19-21
-  * FOSDEM, perhaps January 30-31 (uncertain)
+  * FOSDEM, perhaps January 30-31
