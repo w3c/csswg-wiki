@@ -28,3 +28,4 @@ That should be corrected if anyone invents a time machine. :P
   * Flexbox should have been less crazy about flex-basis vs width/height.  Perhaps: if width/height is ''auto'', use flex-basis; otherwise, stick with width/height as an inflexible size.  (This also makes min/max width/height behavior fall out of the generic definition.)
   * :empty should have been :void, and :empty should select items that contain only white space
   * The descendant combinator should have been ''>>'' instead of '' '', and the following-sibling combinator should have been ''++'' instead of ''+''.
+  * ''table-layout: fixed; width: auto'' should result in a fill-available table with fixed-layout columns.
