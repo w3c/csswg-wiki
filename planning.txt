@@ -19,7 +19,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
 
 ===== Past Meetings =====
 ==== 2015 ====
-  * [[planning:2015]]
+ [[planning:2015]]
     * **[[planning:sydney-2015]]** (with [[http://www.w3.org/Graphics/SVG/WG/wiki/F2F/Seattle_2014|SVG]] on Wednesday)
       * Minutes:
         * Monday, 9 February: [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0185.html|Part I]], [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0186.html|Part II]], [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0187.html|Part III]], [[https://lists.w3.org/Archives/Public/www-style/2015Mar/0188.html|Part IV]]
