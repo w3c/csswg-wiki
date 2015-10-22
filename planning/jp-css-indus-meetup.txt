@@ -18,12 +18,13 @@
 
 
 ==== Agenda ====
-* Presentation (by Fantasai) about the W3C and CSSWG work
-* Group discussion based on questions by Japanese attendees
-  * Details to be added
+  * Presentation (by Fantasai) about the W3C and CSSWG work
+  * Group discussion based on questions by Japanese attendees
+    * Details to be added
 
-Moderation / translation: Hiroshi Sakakibara (BPS), Florian Rivoal (Vivliostyle)
-
+Moderation / translation:
+  * Hiroshi Sakakibara (BPS)
+  * Florian Rivoal (Vivliostyle)
 ==== Dialing in ====
 If you need to join remotely, call into the following skype account: bps.aska 
 
