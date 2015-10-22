@@ -26,6 +26,7 @@ The meeting will be followed by a dinner.
 
   ; Venue name(jp) : 海鮮居酒屋 だんまや水産 札幌駅前店
   ; Venue name(en) : Danmya-suisan Sapporo-ekimae-ten
+  ; Restaurant's site : http://www.hotpepper.jp/strJ000027568/
   ; Address(jp) : 北海道札幌市中央区北3条西3丁目1-56マルゲンビル2F
   ; Address(en) : Marugen Bld, 2nd Floor, 3-1-35, Kita 3 Jo Nishi, Chuo-ku, Sapporo-shi, Hokkaido
   ; Restaurant phone number : (+81)50-5834-4784
