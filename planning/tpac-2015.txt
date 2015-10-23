@@ -65,3 +65,4 @@ Regrets:
   * the CSS OM needs major love. We can't extend the OM from multiple Level 3 and 4 specs without having a stable basis there.
   * Scroll Snap
   * wide gamut / deep color
+  * GCPM bookmarks. Can we have bookmark-level:auto work from the structure of the document?
