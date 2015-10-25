@@ -28,7 +28,6 @@ That should be corrected if anyone invents a time machine. :P
   * ''font-family'' should have required the font name to be quoted (like all other values that come from "outside" CSS).  The rules for handling unquoted font names make parsing ''font'' stupid, as it requires a ''font-size'' value for disambiguation.
   * Flexbox should have been less crazy about flex-basis vs width/height.  Perhaps: if width/height is ''auto'', use flex-basis; otherwise, stick with width/height as an inflexible size.  (This also makes min/max width/height behavior fall out of the generic definition.)
   * :empty should have been :void, and :empty should select items that contain only white space
-  * The descendant combinator should have been ''>>'' instead of '' '', and the following-sibling combinator should have been ''++'' instead of ''+''.
   * ''table-layout: fixed; width: auto'' should result in a fill-available table with fixed-layout columns.
   * 'text-orientation' should have had ''upright'' as the initial value (given the latest changes to 'writing-mode').
   * The @import rule is required to (a) always hit the network unless you specify cache headers, and (b) construct fresh CSSStyleSheet objects for every import, even if they're identical. It should have had more aggressive URL-based deduping and allowed sharing of stylesheet objects.
