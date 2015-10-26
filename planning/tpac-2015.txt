@@ -66,6 +66,7 @@ Regrets:
 == PM ==
 
   * wide gamut / deep color
+  * Scroll Snap
   * May and August 2016 face-to-face meetings (or just one in June?)
 
 === Tuesday ===
@@ -73,7 +74,6 @@ Regrets:
 == AM ==
 
   * CSS Fragmentation Issues https://drafts.csswg.org/css-break/issues-lc-2015#issue-24
-  * Scroll Snap
   * polar issues (prefers early AM Tuesday inc. device-radius MQ)
     * polar-distance with 2 values, polar-anchor, polar-orientation, methods to prevent overflow
   * device-radius MQ (https://lists.w3.org/Archives/Public/www-style/2015Oct/0075.html):
