@@ -12,6 +12,9 @@
 
 ==== Place, Logistics, etc. ====
 
+=== Visa Requirements ====
+A visa is required for US Citizens to enter Australia (citizens of other countries please check with the appropriate authorities), a visa may be obtained electronically from the [[http://www.eta.immi.gov.au/index.html|Electronic Travel Authority web site]].
+
 ==== Participants =====
 
 Please, put your name in this table if you plan to participate (alphabetical order by given name):
@@ -27,6 +30,4 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Simon Fraser | ?? | ?? | ?? | ?? |
 | Simon Pieters | Jan 29 (22:30) | Feb 3 (21:45) | ?? | QF 8414 / QF 8413 |
 
-=== Visa Requirements ====
-A visa is required for US Citizens to enter Australia (citizens of other countries please check with the appropriate authorities), a visa may be obtained electronically from the [[http://www.eta.immi.gov.au/index.html|Electronic Travel Authority web site]].
-
+==== Proposed topics ====
