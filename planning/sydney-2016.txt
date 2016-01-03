@@ -36,7 +36,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 
 **Regrets**
 
-Dave Cramer
-Dael Jackson
+  * Dave Cramer
+  * Dael Jackson
 ==== Proposed topics ====
   * [[https://lists.w3.org/Archives/Public/public-fx/2015OctDec/0021.html|conflicting auto values in mask shorthand (mask-mode must not have auto)]] (dbaron) (maybe an FX topic)
