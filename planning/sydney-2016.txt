@@ -145,9 +145,9 @@ Notice the small switch on the side. Unless you flip it on, don't expect the pow
 
 === Tuesday AM ===
   * CSS Houdini FPWD specs
+  * A report on research into automatic layout (Bert). (Just before the ftf, I'll be in Melbourne to talk to, among others, researchers at Monash. I expect I'll come back with some interesting things to report on.) 30 mins? (Daniel and François to call in)
   * CSS Text
       * Aligning table columns on decimal point and its variations, including [[https://drafts.csswg.org/css-text-4/#character-alignment|issue 18 in css-text-4 ED]] and [[http://w3c.github.io/dpub-pagination/#tables|tables section of dpub-latinreq ED]]. Also discussed on list starting [[https://lists.w3.org/Archives/Public/www-style/2016Jan/0233.html|here]] (Bert)(Dave C. would like to call in for this)
-  * A report on research into automatic layout (Bert). (Just before the ftf, I'll be in Melbourne to talk to, among others, researchers at Monash. I expect I'll come back with some interesting things to report on.) 30 mins? (Daniel and François to call in)
   * CSS Round Display (Brad K to call in)
       * Percentages of 'polar-distance' when origin is not the center of the containing block https://lists.w3.org/Archives/Public/www-style/2016Jan/0152.html (jihye)
       * Polar positioning in absolute positioning https://lists.w3.org/Archives/Public/www-style/2016Jan/0134.html (jihye, brad)
@@ -176,6 +176,7 @@ Notice the small switch on the side. Unless you flip it on, don't expect the pow
     * indirect scrolling https://lists.w3.org/Archives/Public/www-style/2016Jan/0296.html (florian)
     * Is this still relevant, or do snap-points cover its use cases https://tabatkins.github.io/specs/css-sticky-scrollbars/ (florian)
   * "bookmark-level: auto" Possible? Needed? https://lists.w3.org/Archives/Public/www-style/2015Nov/0310.html (florian)
+  * UAs behave differently (Webkit/Blink vs Gecko/Edge/AHF/Prince) for relative positioning and fragmentation: http://jsbin.com/fuloge/1/edit?html,css,output (florian)
 
 === Wednesday AM ===
 
