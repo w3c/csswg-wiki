@@ -13,9 +13,10 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * May, 2016-05-09..11 (with possible Houdini 12-13), US West Coast
     * 2016-09-19..23 TPAC - Lisbon, Portugal
   * 2017
-    * January/February
+    * January/February, US or maybe Europe
     * Spring, possibly Japan
-    * TPAC, unknown
+    * summer meeting likely if TPAC is later than 2016
+    * TPAC, unknown location (probably US), probably Oct/Nov
   * [[planning:hosting]]
 
 ===== Past Meetings =====
