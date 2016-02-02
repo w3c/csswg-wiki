@@ -12,6 +12,10 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * 2016-02-01..03 [[planning:sydney-2016]] Google Sydney (with Houdini 2016-01-30..31)
     * May, 2016-05-09..11 (with possible Houdini 12-13), US West Coast
     * 2016-09-19..23 TPAC - Lisbon, Portugal
+  * 2017
+    * January/February
+    * Spring, possibly Japan
+    * TPAC, unknown
   * [[planning:hosting]]
 
 ===== Past Meetings =====
