@@ -259,7 +259,7 @@ Extra topics:
   * CSS-Break:
     * UAs behave differently (Webkit/Blink vs Gecko/Edge/AHF/Prince) for relative positioning and fragmentation: http://jsbin.com/fuloge/1/edit?html,css,output (florian)
 
-=== FXTF ===
+=== FXTF(Special Effects Task Force) ===
 
   * [[https://lists.w3.org/Archives/Public/public-fx/2015OctDec/0021.html|conflicting auto values in mask shorthand (mask-mode must not have auto)]] (dbaron) (maybe an FX topic)
   * [[http://drafts.csswg.org/css-text-decor-4/|Fill/Stroke on CSS Text]]
