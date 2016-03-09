@@ -9,8 +9,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
 [[https://www.w3.org/2006/tools/wiki/WebExFAQ|WebEx FAQ]] and [[https://www.w3.org/2006/tools/wiki/WebExBestPractices|Best Practices]]
 ===== Upcoming Meetings =====
   * 2016
-    * 2016-02-01..03 [[planning:sydney-2016]] Google Sydney (with Houdini 2016-01-30..31)
-    * May, 2016-05-09..11 (with possible Houdini 12-13), US West Coast
+    * 2016-05-09..11 [[planning:san-francisco-2016]] Google San Francisco (with Houdini 2016-05-12..13)
     * 2016-09-19..23 TPAC - Lisbon, Portugal
   * 2017
     * January/February, US or maybe Europe
@@ -20,6 +19,10 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
   * [[planning:hosting]]
 
 ===== Past Meetings =====
+
+==== 2016 ====
+    * 2016-02-01..03 [[planning:sydney-2016]] Google Sydney (with Houdini 2016-01-30..31)
+
 ==== 2015 ====
  [[planning:2015]]
     * **[[planning:sydney-2015]]** (with [[http://www.w3.org/Graphics/SVG/WG/wiki/F2F/Seattle_2014|SVG]] on Wednesday)
