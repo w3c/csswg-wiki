@@ -1,6 +1,6 @@
 ===== San Francisco F2F May 9-11 2016 =====
 
-   * Host: [[https://maps.google.com/?q=Google%20San%20Francisco@37.789904,-122.390576&hl=en|Google San Francisco]], 345 Spear Street, San Francisco, CA 94105, United States
+   * Host: Google
    * Dates: Monday-Wednesday, May 09-11, 2016
    * Times: 
 
@@ -11,6 +11,8 @@
   * 2016-05-15 [[http://www.zapposbaytobreakers.com/|Bay to Breakers]]
 
 ==== Place ====
+  * [[https://maps.google.com/?q=Google%20San%20Francisco@37.789904,-122.390576&hl=en|Google San Francisco]], 345 Spear Street, San Francisco, CA 94105, United States
+  * Weather Forecast: [[http://forecast.weather.gov/MapClick.php?smap=1&lat=37.7895&lon=-122.3890&unit=1&mp=1|°C]] or [[http://forecast.weather.gov/MapClick.php?smap=1&lat=37.7895&lon=-122.3890&mp=1|°F]]
 
 ==== Participants ====
 
