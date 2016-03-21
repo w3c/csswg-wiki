@@ -6,7 +6,7 @@ It was last updated on 21 March 2016.
 
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
-  ; https://lists.w3.org/Archives/Public/www-style/2016Jan/0145.html
+  : https://lists.w3.org/Archives/Public/www-style/2016Jan/0145.html
   : Need to check minutes/ML for any other outstanding issues
 
   ; Flexbox
