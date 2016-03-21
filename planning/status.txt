@@ -1,0 +1,8 @@
+====== Specification Status Scratchspace ======
+
+This is fantasai's scratch space for tracking the state of the CSS specs and what needs to be done for each.
+
+It was last updated on 21 March 2016.
+
+; term
+: def
