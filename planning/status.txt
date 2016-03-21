@@ -6,7 +6,8 @@ It was last updated on 21 March 2016.
 
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
-  : Need to check minutes/ML for any outstanding issues
+  ; https://lists.w3.org/Archives/Public/www-style/2016Jan/0145.html
+  : Need to check minutes/ML for any other outstanding issues
 
   ; Flexbox
   : Need to compile Christian's issues into a new DoC
