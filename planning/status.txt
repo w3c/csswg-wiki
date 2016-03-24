@@ -91,6 +91,10 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Nov/0272.html|ACTION Florian write a note on user-select for multi-range<trackbot> Created ACTION-745]]
   : [[https://www.w3.org/blog/CSS/2015/06/11/minutes-telecon-249/|Resolved: Add Florian’s proposed text to user-select: none regarding its use in template-based editing.]]
   : [[https://www.w3.org/blog/CSS/2015/06/11/minutes-telecon-249/|Resolved: user-select must not apply to ::first-line or ::first-letter.]]
+  : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-i/|Florian to add a note to user-select:none about it's use in template-based editing <trackbot> Created ACTION-690.]]
+  : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-i/|Action Florian to come up with a resolution for user-select:none being included or not when selecting across <trackbot> Created ACTION-691.]]
+
+
 
   ; Values and Units 3
   : Need reviews of all the calc() and serialization issues
