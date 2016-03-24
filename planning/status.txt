@@ -6,7 +6,7 @@ It was last updated on 21 March 2016.
 
   ; Animations
   : https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: No animation events when subtrees are destroyed.]]
-  
+   
   ; Box Alignment
   : Default alignment issue
   : Finish line-by-line review
