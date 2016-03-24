@@ -38,6 +38,9 @@ It was last updated on 21 March 2016.
   ; Misc
   : TabAtkins brought his proposal to address the possibility of font name being duplicated inside and outside a shadow DOM. The proposal would create a mapping where the external font is translated into a guaranteed unique name when passed into the shadow DOM. dbaron raised the possibility of instead using a function that gets the name from the scope, which was a cleaner solution. TabAtkins will write-up a new proposal using functions and send it to the mailing list for review.
 
+  ;Multicol 1
+  :https://www.w3.org/blog/CSS/2015/09/14/minutes-paris-f2f-2015-08-25-part-i/|Resolved: Drop break-before and break-after from Multicol and reference fragmentation definitions and republish as CR/]]
+
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
   : https://lists.w3.org/Archives/Public/www-style/2016Jan/0145.html
