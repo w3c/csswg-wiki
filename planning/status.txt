@@ -55,6 +55,7 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html|Rossen and/or gregwhitworth will help Florian decide what that set of values should be.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html|ACTION Florian determine set of -webkit-user-select values to spec <trackbot> Created ACTION-75]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html|ACTION Rossen figure out what's needed for -webkit-user-select <trackbot> Created ACTION-759]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Nov/0272.html|ACTION Florian write a note on user-select for multi-range<trackbot> Created ACTION-745]]
 
   ; Values and Units 3
   : Need reviews of all the calc() and serialization issues
