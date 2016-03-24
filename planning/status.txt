@@ -20,6 +20,7 @@ It was last updated on 21 March 2016.
   : https://lists.w3.org/Archives/Public/www-style/2016Mar/0256.html 
   : Need to address emeyer's issue
   : Anything else?
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0173.html|fantasai gave a brief overview of the feedback that came from the New York grid workshop. She’ll be updating the spec and filing issues to the list.]]
 
   ; Overflow 3
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|clip-path and masking do not affect scrollable bounds]]
