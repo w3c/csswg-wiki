@@ -54,6 +54,8 @@ It was last updated on 21 March 2016.
 
   ; Transforms
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow|Resolved: Republish Transforms]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0109.html|Resolved: Treat all 0deg rotate3d() as a single equivalent identity transform]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0109.html|Resolved: Treat rotate3d() with anti-parallel axis as interpolatable]]
 
   ; UI
   : [[https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html|Rossen and/or gregwhitworth will help Florian decide what that set of values should be.]]
