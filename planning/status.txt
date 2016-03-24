@@ -48,7 +48,6 @@ It was last updated on 21 March 2016.
   ; Positioning
   : [[https://www.w3.org/blog/CSS/2015/07/02/minutes-telecon-252/|ACTION Rossen add position: fixed as s full stacking context to positioning <trackbot> Created ACTION-698.]]
 
-
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
   : https://lists.w3.org/Archives/Public/www-style/2016Jan/0145.html
