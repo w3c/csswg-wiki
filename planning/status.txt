@@ -106,6 +106,7 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/06/11/minutes-telecon-249/|Resolved: user-select must not apply to ::first-line or ::first-letter.]]
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-i/|Florian to add a note to user-select:none about it's use in template-based editing <trackbot> Created ACTION-690.]]
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-i/|Action Florian to come up with a resolution for user-select:none being included or not when selecting across <trackbot> Created ACTION-691.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0040.html|ACTION Florian to figure out with the editing TF if there are and what are the requirements for caret-animation<trackbot> Created ACTION-705.]]
 
 
 
