@@ -99,6 +99,7 @@ It was last updated on 21 March 2016.
   ; Text 3
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Hanging punctuation causes ink overflow. [Note: This discussion has since been reopened. See this email]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
+  : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-19-ii/|Resolved: Add leading-spaces/trailing-spaces to text-decoration-skip in L4. Change default behavior to skip leading/trailing spaces. Add UA rule that ins and del don’t skip anything. Add note from L3 to L4 indicating impending changes.]]
 
   ; Text 4
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0096.html|fantasai> ACTION TabAtkins Find unhappy dude at Google who dislikes hyphenation properties and have him send email explaining his unhappiness to www-style <trackbot> Created ACTION-715]]
