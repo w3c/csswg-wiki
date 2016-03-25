@@ -29,10 +29,21 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Jul/0032.html|ACTION Bert to take Rossen's text and export it to level 2 <trackbot> Created ACTION-699.]]
   : [[https://www.w3.org/blog/CSS/2015/05/27/minutes-new-york-f2f-ii/|Resolved: FPWD of CSS2.2.]]
   : [[https://www.w3.org/blog/CSS/2015/05/27/minutes-new-york-f2f-ii/|Resolved: Republish CSS2.1 with more angry red boxes.]]
+  : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|Resolved: Change the 3rd bullet point of margin collapsing (CSS 2.1 section 8.3.1): Bottom margin of last inflow child and the bottom margin of parent, no longer collapse if the parent has non-zero min-height and the bottom margin of the last inflow child collapses with the top margin of the parent. Exact changes pending more testing.]]
+  : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|Resolved: Backport @charset parsing rules from CSS3 to CSS2.1. dbaron to propose errata; zcorpan to update tests.]]
+  : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION fantasai: propose errata for margin collapsing issue<trackbot> Created ACTION-666]]
+  : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION dbaron: propose errata for @charset in 2.1 that brings it into alignment with CSS3 Syntax<trackbot> Created ACTION-665]]
+  : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION zcorpan edit CSS 2.1 @charset tests to make them compliant with CSS3 syntax Created ACTION-667]]
+
+  ; CSS Backgrounds 3
+  : [[https://www.w3.org/blog/CSS/2015/01/22/minutes-telecon-235/|Resolved: Accept the proposed change for the serialization order for final-bg-color (available here)]]
 
   ; CSS Conditional Rules
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|In case of one single supports query the innermost parentheses are optional in functional notation. This resolution applies to both JS and CSS Conditional Rules.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|Resolved: Revert the Media Queries spec on the whitespace requirement.]]
+
+  ; CSS Logical Properties
+  : [[https://www.w3.org/blog/CSS/2015/02/26/minutes-telecon-237/|Resolved: Properties referencing corners drop the axis mentions and go into the block axis first, for example border-start-end-radius (in CSS Logical Properties)]]
 
   ; CSS OM
   : [[https://www.w3.org/blog/CSS/2015/05/07/minutes-telecon-247/|Resolved: Accept the behavior of document.scrollingElement but add more definition.]]
@@ -119,6 +130,8 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Oct/0012.html|Resolved: Add :focus-ring to Selectors 4 or 5.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0111.html|Resolved: Keep section 3.6.3. (Pseudo-classing Pseudo-elements) overall. Add guidance to people developing new pseudo-elements on when to specify if they accept user action pseudo-classes. Remove the statement from :hover that it applies to all pseudo-elements: pseudo-elements must individually enable pseudo-classes they need.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
+  : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|Florian brought back some documented need for a selector that propagates input states to the corresponding label.Resolved: Florian to work on a proposal for a selector that propagates input states to the corresponding label and/or other associated elements.]]
+  : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION dbaron review performance characteristics of parent and previous-sibling combinator, potentially combinable <trackbot> Created ACTION-668]]
 
   ; Sizing
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Define percentage sizing.]]
@@ -160,7 +173,7 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-i/|Action Florian to come up with a resolution for user-select:none being included or not when selecting across <trackbot> Created ACTION-691.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0040.html|ACTION Florian to figure out with the editing TF if there are and what are the requirements for caret-animation<trackbot> Created ACTION-705.]]
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: Replace region-fragment with ‘fragmentation’, written by Florian, determine where it belongs.]]
-
+  : [[https://www.w3.org/blog/CSS/2015/02/26/minutes-telecon-237/|Resolved: Tighten the language of the directional focus property behavior and include an informative note about the behaviors we’re considering and welcome/actively solicit input.]]
 
 
   ; Values and Units 3
