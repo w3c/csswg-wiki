@@ -37,6 +37,9 @@ It was last updated on 21 March 2016.
   ; CSS OM
   : [[https://www.w3.org/blog/CSS/2015/05/07/minutes-telecon-247/|Resolved: Accept the behavior of document.scrollingElement but add more definition.]]
 
+  ; CSS Overflow 4
+  : https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: region-break gets folded into the new property, too.]]
+
   ; Flexbox
   : Need to compile Christian's issues into a new DoC
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-ii/|ACTION: bcampbell Get examples of broken pages.]]
