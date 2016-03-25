@@ -10,6 +10,9 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-i/|Resolved: Make appendRule always add at the end of the keyframe no matter if the key already exists]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-i/|Resolved: No change for now for “Should CSSKeyframesRule inherit from CSSGroupingRule” bug (available here).]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-telecon-232/|Resolved: For multiple values we expect the number and order of values to match, but whitespace will be trimmed by browser. As long as number and order is good, you’ll get the last rule that matches.]]
+  : [[https://www.w3.org/blog/CSS/2014/10/23/minutes-telecon-226/|Resolved: Keywords are invalid @keyframes names and will throw an error when set through the OM]]
+  : [[https://www.w3.org/blog/CSS/2014/10/23/minutes-telecon-226/|Resolved: findRule/deleteRule return/delete the last rule with the specified key.]]
+  : [[https://www.w3.org/blog/CSS/2014/10/23/minutes-telecon-226/|Resolved: Animation properties don’t apply inside @keyframe rules except the animation timing function (where we have explainer text already)]]
 
   ; Box Alignment
   : Default alignment issue
@@ -137,9 +140,19 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|Florian brought back some documented need for a selector that propagates input states to the corresponding label.Resolved: Florian to work on a proposal for a selector that propagates input states to the corresponding label and/or other associated elements.]]
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION dbaron review performance characteristics of parent and previous-sibling combinator, potentially combinable <trackbot> Created ACTION-668]]
+  : [[https://www.w3.org/blog/CSS/2015/01/02/minutes-santa-clara-iii/|Resolved: add :role() to selectors]]
+  : [[https://www.w3.org/blog/CSS/2015/01/02/minutes-santa-clara-iii/|Resolved: unprefix :dir and :lang]]
+  : [[https://www.w3.org/blog/CSS/2014/11/26/minutes-telecon-229/|Resolved: extend :matches() to pseudo-elements]]
+  : [[https://www.w3.org/blog/CSS/2014/11/26/minutes-telecon-229/|Resolved: The specificity of a :matches() inside a :not() is the specificity of the most specific]]
+  : [[https://www.w3.org/blog/CSS/2014/11/26/minutes-telecon-229/|Resolved: reuse the hook from :active on :focus]]
+  : [[https://www.w3.org/blog/CSS/2014/11/26/minutes-telecon-229/|Resolved: define a new :focus-within that matches on the same things as :focus, plus parents, including if there are Shadow DOMs]]
+  : [[https://www.w3.org/blog/CSS/2014/11/26/minutes-telecon-229/|Resolved: both :hover and :active should propagate from the labeled control to the label, in addition to the other direction.]]
+  : [[https://www.w3.org/blog/CSS/2014/11/20/minutes-telecon-228/|A tracking tool for the moved and removed pseudo-elements and pseudo-classes is available here.]]
 
   ; Sizing
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Define percentage sizing.]]
+  : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|ACTION TabAtkins: spec their float layout for intrinsic sizes<trackbot> Created ACTION-659]]
+  : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|ACTION dbaron: spec their float layout for intrinsic sizes<trackbot> Created ACTION-660]]
 
   ; Sizing 3
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|ACTION: fantasai figure out what it was wrt percentage sizing<trackbot> Created ACTION-670]]
@@ -155,6 +168,8 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-19-ii/|Resolved: Add leading-spaces/trailing-spaces to text-decoration-skip in L4. Change default behavior to skip leading/trailing spaces. Add UA rule that ins and del don’t skip anything. Add note from L3 to L4 indicating impending changes.]]
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: Treat replaced elements as ideographic chars for line-breaking. Based on data, possible add an exception for &nbsp.]]
+  : [[https://www.w3.org/blog/CSS/2015/01/02/minutes-santa-clara-f2f-part-iv/|Resolved: No examples of justification algorithm for text-justify: auto]]
+  : [[https://www.w3.org/blog/CSS/2015/01/02/minutes-santa-clara-f2f-part-iv/|Resolved: Link to a wiki or NOTE collating information about language-specific justification conventions.]]
 
   ; Text 4
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0096.html|fantasai> ACTION TabAtkins Find unhappy dude at Google who dislikes hyphenation properties and have him send email explaining his unhappiness to www-style <trackbot> Created ACTION-715]]
@@ -191,7 +206,8 @@ It was last updated on 21 March 2016.
   ; Writing Modes
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION fantasai: Look over Writing modes test failures]]
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
-  : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION hober: Look into unprefixing writing modes features in
-         WebKit]]
+  : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION hober: Look into unprefixing writing modes features in WebKit]]
+  : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|<fantasai> ACTION fantasai: Put IE's nearest-scrollable-box behavior into orthogonal flows spec<trackbot> Created ACTION-661]]
+
   
   
