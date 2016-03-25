@@ -213,9 +213,9 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Add ideographic advance unit to Values and Units 4, come back to WG for approval after details worked out.]]
 
   ; Writing Modes
-  : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION fantasai: Look over Writing modes test failures]]
-  : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
-  : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION hober: Look into unprefixing writing modes features in WebKit]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION fantasai: Look over Writing modes test failures]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION hober: Look into unprefixing writing modes features in WebKit]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|<fantasai> ACTION fantasai: Put IE's nearest-scrollable-box behavior into orthogonal flows spec<trackbot> Created ACTION-661]]
 
   
