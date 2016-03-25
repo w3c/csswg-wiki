@@ -216,7 +216,7 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION fantasai: Look over Writing modes test failures]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION hober: Look into unprefixing writing modes features in WebKit]]
-  : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|<fantasai> ACTION fantasai: Put IE's nearest-scrollable-box behavior into orthogonal flows spec<trackbot> Created ACTION-661]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Dec/0301.html|<fantasai> ACTION fantasai: Put IE's nearest-scrollable-box behavior into orthogonal flows spec<trackbot> Created ACTION-661]]
 
   
   
