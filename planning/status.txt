@@ -25,8 +25,11 @@ It was last updated on 21 March 2016.
 
   ; CSS2.1
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0252.html|Resolved: Moving a float to the next fragmentainer does not move in-flow content that comes after the float. (However, per CSS2.1, subsequent floats do move down.)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
+  
   ; Flexbox
   : Need to compile Christian's issues into a new DoC
+  
 
   ; Font Loading
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-iii/|Resolved: font-loading control is only an @font-face descriptor, not a property.]]
@@ -72,12 +75,14 @@ It was last updated on 21 March 2016.
   ; Selectors 4
   : [[https://lists.w3.org/Archives/Public/www-style/2015Oct/0012.html|Resolved: Add :focus-ring to Selectors 4 or 5.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0111.html|Resolved: Keep section 3.6.3. (Pseudo-classing Pseudo-elements) overall. Add guidance to people developing new pseudo-elements on when to specify if they accept user action pseudo-classes. Remove the statement from :hover that it applies to all pseudo-elements: pseudo-elements must individually enable pseudo-classes they need.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
 
   ; Snapshot
   : [[https://www.w3.org/blog/CSS/2015/08/12/minutes-telecon-259/|Resolved: unprefix min/max-content - gregwhitworth will work on building out a test suite for CSS Sizing]]
 
   ; Text 3
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Hanging punctuation causes ink overflow. [Note: This discussion has since been reopened. See this email]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
 
   ; Transforms
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow|Resolved: Republish Transforms]]
