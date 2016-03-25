@@ -53,6 +53,9 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0173.html|fantasai gave a brief overview of the feedback that came from the New York grid workshop. She’ll be updating the spec and filing issues to the list.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jan/0031.html|Resolved: Accept the new text for grid and multi-col changing the floor to a required amount. The new text is: “For the purpose of finding the number of auto-repeated tracks, the UA must floor the track size to a UA-specified value to avoid division by zero. It is suggested that this floor be ”1px” or less.”]]
 
+  ; Images 3
+  : https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|fantasai to edit CSS Image and specify how to determine the coordinate system of the image<trackbot> Created ACTION-683.]]
+
   ; Input Modality
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0112.html|Resolved: bkardell as editor of new ED for input modality (name pending)]]
 
