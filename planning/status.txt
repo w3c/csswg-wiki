@@ -27,10 +27,15 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0252.html|Resolved: Moving a float to the next fragmentainer does not move in-flow content that comes after the float. (However, per CSS2.1, subsequent floats do move down.)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Jul/0032.html|ACTION Bert to take Rossen's text and export it to level 2 <trackbot> Created ACTION-699.]]
+  : [[https://www.w3.org/blog/CSS/2015/05/27/minutes-new-york-f2f-ii/|Resolved: FPWD of CSS2.2.]]
+  : [[https://www.w3.org/blog/CSS/2015/05/27/minutes-new-york-f2f-ii/|Resolved: Republish CSS2.1 with more angry red boxes.]]
 
   ; CSS Conditional Rules
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|In case of one single supports query the innermost parentheses are optional in functional notation. This resolution applies to both JS and CSS Conditional Rules.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|Resolved: Revert the Media Queries spec on the whitespace requirement.]]
+
+  ; CSS OM
+  : [[https://www.w3.org/blog/CSS/2015/05/07/minutes-telecon-247/|Resolved: Accept the behavior of document.scrollingElement but add more definition.]]
 
   ; Flexbox
   : Need to compile Christian's issues into a new DoC
@@ -77,6 +82,9 @@ It was last updated on 21 March 2016.
 
   ; Positioning
   : [[https://www.w3.org/blog/CSS/2015/07/02/minutes-telecon-252/|ACTION Rossen add position: fixed as s full stacking context to positioning <trackbot> Created ACTION-698.]]
+
+  ; Positioned Layout
+  : [[https://www.w3.org/blog/CSS/2015/05/07/minutes-telecon-247/|Resolved: Republish Positioned Layout without position: page. Also update the short name.]]
 
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
