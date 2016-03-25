@@ -86,6 +86,9 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Hanging punctuation causes ink overflow. [Note: This discussion has since been reopened. See this email]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
 
+  ; Text 4
+  : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0096.html|fantasai> ACTION TabAtkins Find unhappy dude at Google who dislikes hyphenation properties and have him send email explaining his unhappiness to www-style <trackbot> Created ACTION-715]]
+
   ; Transforms
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow|Resolved: Republish Transforms]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0109.html|Resolved: Treat all 0deg rotate3d() as a single equivalent identity transform]]
