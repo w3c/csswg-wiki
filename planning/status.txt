@@ -13,6 +13,7 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2014/10/23/minutes-telecon-226/|Resolved: Keywords are invalid @keyframes names and will throw an error when set through the OM]]
   : [[https://www.w3.org/blog/CSS/2014/10/23/minutes-telecon-226/|Resolved: findRule/deleteRule return/delete the last rule with the specified key.]]
   : [[https://www.w3.org/blog/CSS/2014/10/23/minutes-telecon-226/|Resolved: Animation properties don’t apply inside @keyframe rules except the animation timing function (where we have explainer text already)]]
+  : [[https://www.w3.org/blog/CSS/2014/10/01/minutes-telecon-223/|Resolved: animation-fill-mode applies whenever it’s updated.]]
 
   ; Block Layout
   : [[https://lists.w3.org/Archives/Public/www-style/2014Oct/0295.html|ACTION Bert: Republish css3-box with obnoxious note pointing to CSS2.1<trackbot> Created ACTION-644]]
@@ -57,6 +58,10 @@ It was last updated on 21 March 2016.
 
   ; CSS OM
   : [[https://www.w3.org/blog/CSS/2015/05/07/minutes-telecon-247/|Resolved: Accept the behavior of document.scrollingElement but add more definition.]]
+  : [[https://www.w3.org/blog/CSS/2014/10/01/minutes-telecon-223/|Resolved: Change the behavior of setProperty() according to last week’s proposal following Rossen’s approval.]]
+
+  ; CSS OM View
+  : [[https://www.w3.org/blog/CSS/2014/10/01/minutes-telecon-223/|<zcorpan> action spieters to reply to Boris' e-mail * trackbot is creating a new ACTION. <trackbot> Created ACTION-655 - Reply to boris' e-mail [on Simon Pieters - due 2014-10-08].]]
 
   ; CSS Overflow 4
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: region-break gets folded into the new property, too.]]
@@ -105,6 +110,7 @@ It was last updated on 21 March 2016.
 
   ; Media Queries 3
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
+  : [[https://www.w3.org/blog/CSS/2014/10/01/minutes-telecon-223/|Resolved: Allow empty string in media-query]]
 
   ; Media Queries 4
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
