@@ -166,6 +166,9 @@ It was last updated on 21 March 2016.
   ; Snapshot
   : [[https://www.w3.org/blog/CSS/2015/08/12/minutes-telecon-259/|Resolved: unprefix min/max-content - gregwhitworth will work on building out a test suite for CSS Sizing]]
 
+  ; Syntax
+  : [[https://www.w3.org/blog/CSS/2014/10/09/minutes-telecon-224/|Resolved: Unclosed URLs at the end of file should auto-close]]
+
   ; Testing
   : [[https://www.w3.org/blog/CSS/2015/09/14/minutes-paris-f2f-2015-08-25-part-i/|Resolved: Down-level tests (e.g. CSS2.1 color tests) should be updated to not fail on higher-level implementations (e.g. CSS4 color implementations), but should also leave the old pass conditions intact so that down-level clients can still pass the tests for the older featureset.]]
 
