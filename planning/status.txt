@@ -59,6 +59,7 @@ It was last updated on 21 March 2016.
 
   ; CSS Backgrounds 3
   : [[https://www.w3.org/blog/CSS/2015/01/22/minutes-telecon-235/|Resolved: Accept the proposed change for the serialization order for final-bg-color (available here)]]
+  : [[https://www.w3.org/blog/CSS/2014/04/17/minutes-telecon-212/|Resolved: Make the image() function always respect EXIF orientation metadata in Backgrounds.]]
 
   ; CSS Conditional Rules
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|In case of one single supports query the innermost parentheses are optional in functional notation. This resolution applies to both JS and CSS Conditional Rules.]]
@@ -93,6 +94,7 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/04/09/minutes-telecon-242/|Resolved: Move Font Loading Control to the Font Loading spec.]]
   : [[https://www.w3.org/blog/CSS/2015/04/09/minutes-telecon-242/|Resolved: We are recommending informatively .cur support. Normatively must support PNG and SVG and saying should support animated formats too.]]
   : [[https://www.w3.org/blog/CSS/2015/04/09/minutes-telecon-242/|ACTION TabAtkins to provide more info to jdaggett<trackbot> Created ACTION-679.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0060.html|Prepare for CR.]]
 
   ; Generated Content
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: Change to MAY on default object size shrinking from 300×150 for small devices.]]
@@ -111,6 +113,8 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/Resolved: Include image rendering in Images 3.]]
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/Resolved: Close the issue (regarding guessing resolution from file size in Images 3) with no change because we’ll fix it later in harmony with HTML.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: Change to MAY on default object size shrinking from 300×150 for small devices.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0058.html|Resolved: Drop fallback from image except fallback to color. Later we introduce that fallback as an explicit function.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0058.html|Resolved: Cut out everything not defined for image-orientation, remove additions, move it to an appendix, call it obsolete and make a custom CR exit criteria stating it doesn’t need to be tested to exit CR.]]
 
   ; Image 4
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0609.html|Resolved: Change CSS Images 4’s specification of colorless color stops to use Rik’s proposal (i.e. use power curves).]]
@@ -120,6 +124,9 @@ It was last updated on 21 March 2016.
 
   ; Line Grid
   : [[https://lists.w3.org/Archives/Public/www-style/2015Nov/0226.html|Resolved: Line-grid will restart in the case of orthogonal flows between parent and child.]]
+
+  ; Lists
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0059.html|Resolved: We handle the list-style custom-ident in the fashion of Animation.]]
 
   ; Overflow 3
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|clip-path and masking do not affect scrollable bounds]]
@@ -131,6 +138,7 @@ It was last updated on 21 March 2016.
   ; Media Queries
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|Resolved: Revert the Media Queries spec on the whitespace requirement.]]
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: In media queries, use boolean maybe semantics to handle unsupported syntax, i.e. false and unknown = false. (Re-evaluate if this ends up with back-compat problems.)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0060.html|Resolved: Make MQ lists and EventTarget for the change event and alias the existing listener to addEventListener and removeEventListener]]
 
   ; Media Queries 3
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
@@ -174,6 +182,9 @@ It was last updated on 21 March 2016.
   ; Ruby
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: writing-mode: vertical-lr on the rt based on parent’s ‘display’ & ‘ruby-position’.]]
 
+  ; Scoping
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0106.html|Selecting an Outside Scoping Box - ACTION TabAtkins fantasai Add an example to section 2.2.2<trackbot> Created ACTION-625]]
+
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
   : https://lists.w3.org/Archives/Public/www-style/2016Jan/0145.html
@@ -200,6 +211,7 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2014/11/20/minutes-telecon-228/|A tracking tool for the moved and removed pseudo-elements and pseudo-classes is available here.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0607.html|Resolved: Complex selectors in :matches/:not to move to fast profile, assuming bz agrees.]]
   : [[https://www.w3.org/blog/CSS/2014/04/03/minutes-telecon-211/|Resolved: Modification of the validity of an unknown prefix in selectors and insertion of namespace rules.]]
+  : [[https://www.w3.org/blog/CSS/2014/05/08/minutes-telecon-215/|Resolved: Add :modal to Selectors level 4]]
 
   ; Sizing
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Define percentage sizing.]]
@@ -250,6 +262,7 @@ It was last updated on 21 March 2016.
   ; Transitions
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0606.html|Resolved: Remove the paint server definition from Transitions, deferring to the Images definition for transitioning values.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0606.html|Resolved: Remove the gradient animation text from Transitions.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0057.html|Resolved: Migrate Shane’s document (http://rawgit.com/shans/98cb810920ac43876020/raw/b77db7529411066c9f3cdd36a52d0b98553525f9/Overview.html) into the dev pages and the SotD section should say that it’s intended to be incorporated into Transitions and Animations 4.]]
 
   ; UI
   : [[https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html|Rossen and/or gregwhitworth will help Florian decide what that set of values should be.]]
@@ -264,7 +277,6 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: Replace region-fragment with ‘fragmentation’, written by Florian, determine where it belongs.]]
   : [[https://www.w3.org/blog/CSS/2015/02/26/minutes-telecon-237/|Resolved: Tighten the language of the directional focus property behavior and include an informative note about the behaviors we’re considering and welcome/actively solicit input.]]
 
-
   ; Values and Units 3
   : Need reviews of all the calc() and serialization issues
   : [[https://www.w3.org/blog/CSS/2014/10/09/minutes-telecon-224/|Resolved: Change the values and units to make invalid empty URL fail to resolve automatically.]]
@@ -272,6 +284,8 @@ It was last updated on 21 March 2016.
   ; Values and Units 4
   : Need reviews of all the calc() and serialization issues
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|Add ideographic advance unit to Values and Units 4, come back to WG for approval after details worked out.]]
+  : [[https://www.w3.org/blog/CSS/2014/04/24/minutes-telecon-213/|Resolved: Add calc() algebra to level 4 and keep an issue in there about +0/-0 handling.]]
+  : [[https://www.w3.org/blog/CSS/2014/04/17/minutes-telecon-212/|Resolved: Make the image() function always respect EXIF orientation metadata in Backgrounds.]]
 
   ; Writing Modes
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION fantasai: Look over Writing modes test failures]]
