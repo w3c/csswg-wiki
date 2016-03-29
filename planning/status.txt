@@ -53,6 +53,7 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION fantasai: propose errata for margin collapsing issue<trackbot> Created ACTION-666]]
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION dbaron: propose errata for @charset in 2.1 that brings it into alignment with CSS3 Syntax<trackbot> Created ACTION-665]]
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-i/|ACTION zcorpan edit CSS 2.1 @charset tests to make them compliant with CSS3 syntax Created ACTION-667]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: Change to MAY on default object size shrinking from 300×150 for small devices.]]
 
   ; CSS Backgrounds 3
   : [[https://www.w3.org/blog/CSS/2015/01/22/minutes-telecon-235/|Resolved: Accept the proposed change for the serialization order for final-bg-color (available here)]]
@@ -91,6 +92,9 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/04/09/minutes-telecon-242/|Resolved: We are recommending informatively .cur support. Normatively must support PNG and SVG and saying should support animated formats too.]]
   : [[https://www.w3.org/blog/CSS/2015/04/09/minutes-telecon-242/|ACTION TabAtkins to provide more info to jdaggett<trackbot> Created ACTION-679.]]
 
+  ; Generated Content
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: Change to MAY on default object size shrinking from 300×150 for small devices.]]
+
   ; Grid
   : Need to compile DoC, changes list
   : https://lists.w3.org/Archives/Public/www-style/2016Mar/0256.html 
@@ -104,6 +108,10 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/|Resolved: Allow nearest neighbor for image rendering in both directions but allow browsers to do prettier in the down directions.]]
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/Resolved: Include image rendering in Images 3.]]
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/Resolved: Close the issue (regarding guessing resolution from file size in Images 3) with no change because we’ll fix it later in harmony with HTML.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: Change to MAY on default object size shrinking from 300×150 for small devices.]]
+
+  ; Image 4
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0609.html|Resolved: Change CSS Images 4’s specification of colorless color stops to use Rik’s proposal (i.e. use power curves).]]
 
   ; Input Modality
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0112.html|Resolved: bkardell as editor of new ED for input modality (name pending)]]
@@ -146,6 +154,11 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/09/14/minutes-paris-f2f-2015-08-25-part-i/|Resolved: Drop break-before and break-after from Multicol and reference fragmentation definitions and republish as CR/]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jan/0031.html|Resolved: Accept the new text for grid and multi-col changing the floor to a required amount. The new text is: “For the purpose of finding the number of auto-repeated tracks, the UA must floor the track size to a UA-specified value to avoid division by zero. It is suggested that this floor be ”1px” or less.”]]
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-ii/|ACTION: TabAtkins talk with WebApps about a reordering API<trackbot> Created ACTION-692.]]
+
+  ; Paged Media
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: page: name is not inheritable, creates a group, but does not force page breaks between groups of the same name (for compat). First page of the group might be the last of another group. Delete the page-group property.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: Keep :nth() as the name, but extend functionality like L4 :nth-child() to solve the “first of group” problem.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0606.html|Resolved: Add :first(A) to select first page of an A group. (A:first only selects a first page of the doc that also happens to be named A).]]
 
   ; Positioning
   : [[https://www.w3.org/blog/CSS/2015/07/02/minutes-telecon-252/|ACTION Rossen add position: fixed as s full stacking context to positioning <trackbot> Created ACTION-698.]]
@@ -191,7 +204,7 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/08/12/minutes-telecon-259/|Resolved: unprefix min/max-content - gregwhitworth will work on building out a test suite for CSS Sizing]]
 
   ; Speech
-  : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0607.html|abAtkins: We have time-dimensional pseudos, defined for WebVTT. TabAtkins: Anyone know if they're implemented anywhere? ACTION fantasai: make sure timeline is defined for Speech <trackbot> Created ACTION-607
+  : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0607.html|abAtkins: We have time-dimensional pseudos, defined for WebVTT. TabAtkins: Anyone know if they're implemented anywhere? ACTION fantasai: make sure timeline is defined for Speech to use: current, etc <trackbot> Created ACTION-607
 
   ; SVG
   : [[https://lists.w3.org/Archives/Public/www-style/2014Oct/0260.html|Resolved: The root SVG element automatically creates a stacking context, as does foreignObject.]]
