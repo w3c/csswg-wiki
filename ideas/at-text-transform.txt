@@ -384,3 +384,22 @@ In Internet, hacker and gamer culture, a phenomenon is quite common, where chara
     transformation: "A-Z" to "48©)3F6H1!K£MN0¶9®57UVW*¥2";
 }
 </code>
+
+==== Rot13 ====
+
+<code css>
+@text-transform rot13
+{
+    transformation: "A-M" to "N-Z", "N-Z" to "A-M",
+                    "a-m" to "n-z", "n-z" to "a-m";
+}
+.spoiler {
+    text-transform: rot13;
+}
+.spoiler:hover {
+    text-transform: none;
+}
+</code>
+<code html>
+<p class="spoiler">Dark Vader is Luke's fater</div>
+</code>
