@@ -393,13 +393,10 @@ In Internet, hacker and gamer culture, a phenomenon is quite common, where chara
     transformation: "A-M" to "N-Z", "N-Z" to "A-M",
                     "a-m" to "n-z", "n-z" to "a-m";
 }
-.spoiler {
-    text-transform: rot13;
-}
 .spoiler:hover {
-    text-transform: none;
+    text-transform: rot13;
 }
 </code>
 <code html>
-<p class="spoiler">Dark Vader is Luke's fater</div>
+<p class="spoiler">V xabj gbqnl vf Ncevy sbbyf' qnl.</div>
 </code>
