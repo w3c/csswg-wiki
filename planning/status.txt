@@ -287,6 +287,7 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0606.html|Resolved: Remove the gradient animation text from Transitions.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0057.html|Resolved: Migrate Shane’s document (http://rawgit.com/shans/98cb810920ac43876020/raw/b77db7529411066c9f3cdd36a52d0b98553525f9/Overview.html) into the dev pages and the SotD section should say that it’s intended to be incorporated into Transitions and Animations 4.]]
   : [[https://www.w3.org/blog/CSS/2014/03/27/minutes-telecon-210/|Resolved: Move to matrix for the serialization of the computed value for Transitions.]]
+  : [[https://www.w3.org/blog/CSS/2013/11/23/resolutions117/|Action: Fantasai Define prop def table (in "Snapshot").]]
 
   ; UI
   : [[https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html|Rossen and/or gregwhitworth will help Florian decide what that set of values should be.]]
