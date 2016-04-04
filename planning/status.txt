@@ -233,6 +233,7 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0607.html|Resolved: Complex selectors in :matches/:not to move to fast profile, assuming bz agrees.]]
   : [[https://www.w3.org/blog/CSS/2014/04/03/minutes-telecon-211/|Resolved: Modification of the validity of an unknown prefix in selectors and insertion of namespace rules.]]
   : [[https://www.w3.org/blog/CSS/2014/05/08/minutes-telecon-215/|Resolved: Add :modal to Selectors level 4]]
+  : [[https://www.w3.org/blog/CSS/2013/12/12/resolutions119/|Resolved: Add :sorted pseudoclass to selectors 4.]]
 
   ; Sizing
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Define percentage sizing.]]
