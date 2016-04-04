@@ -62,7 +62,7 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Resolved: Accept rgba hex colors]]
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Resolved: No change to number of arguments to rgb/hsl]]
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Resolved: Add color-correction property to CSS4 color draft, with issue about the problem it’s trying to solve and consideration that it might not be the right solution.]]
-  
+
   ; CSS2.1
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0252.html|Resolved: Moving a float to the next fragmentainer does not move in-flow content that comes after the float. (However, per CSS2.1, subsequent floats do move down.)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
@@ -102,6 +102,7 @@ It was last updated on 21 March 2016.
 
   ; Device Adaptation
   : [[https://www.w3.org/blog/CSS/2014/10/15/minutes-sophia-antipolis-vi/|ACTION spieters Bug Rune about CSS Device Adaptation spec, what to do about it <trackbot> Created ACTION-649.]]
+  : [[https://www.w3.org/blog/CSS/2013/08/15/resolutions-104/|ACTION TabAtkins: Define zooming, 2 types, for insertion into either MQ or device-adapt <trackbot> Created ACTION-572]]
 
   ; Display 3
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0055.html|Resolved: In Display Module, define br { display-box: contents; content: '\A'; white-space: pre; } to work. (This should result in change to handling of display: none, and change to HTML spec once published.)]]
@@ -146,6 +147,12 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/|Resolved: Move crossfade to Images 3.]]
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/|Action TabAtkins to e-mail the list about lifting restrictions on nesting image set * trackbot is creating a new ACTION. <trackbot> Created ACTION-652 - E-mail the list about lifting restrictions on nesting image set -on Tab Atkins Jr. - due 2014-10-01.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0470.html|Resolved: When transitioning from plain image A to foo(A), infer the foo() on the other side (using no-op arguments).]]
+  : [[https://www.w3.org/blog/CSS/2013/08/15/resolutions-104/|Resolved: Allow image-resolution to accept two values (for X and Y axes) for resolution, to allow explicit values to match from-image in capabilities.
+  : [[https://www.w3.org/blog/CSS/2013/08/15/resolutions-104/|Resolved: Clarify spec that CSS units (not physical units) are used for resolutions taken from image data.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0470.html|Resolved: Mark as open issue whether interpolating complex images with the same source (e.g. foo(A) to bar(A)) uses recursive interpolation (building a stack of compatible functions, e.g.foo(bar(A))) or just uses cross-fade().]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0470.html|Resolved: Accept proposal to shift misordered gradient stop fixup rules to after missing position interpolation and transition interpolation in order to make transitions layout-independent.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0470.html|Resolved: No magic length interpolation for angle transitions in linear-gradient().]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0470.html|Resolved: Cannot interpolate to/from gradients with keyword direction unless using the same keyword.]]
 
   ; Image 4
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0609.html|Resolved: Change CSS Images 4’s specification of colorless color stops to use Rik’s proposal (i.e. use power curves).]]
@@ -172,7 +179,8 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|Resolved: Revert the Media Queries spec on the whitespace requirement.]]
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: In media queries, use boolean maybe semantics to handle unsupported syntax, i.e. false and unknown = false. (Re-evaluate if this ends up with back-compat problems.)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0060.html|Resolved: Make MQ lists and EventTarget for the change event and alias the existing listener to addEventListener and removeEventListener]]
-  : [[https://lists.w3.org/Archives/Public/www-style/2013Nov/0349.html|Action: hober and matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) <trackbot> Created ACTION-589 - And matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) [on Edward O'Connor - due 2013-11-17].
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Nov/0349.html|Action: hober and matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) <trackbot> Created ACTION-589 - And matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) (on Edward O'Connor - due 2013-11-17)]]
+  : https://www.w3.org/blog/CSS/2013/08/15/resolutions-104/|ACTION TabAtkins: Define zooming, 2 types, for insertion into either MQ or device-adapt <trackbot> Created ACTION-572]]
 
   ; Media Queries 3
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
@@ -198,6 +206,13 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/09/14/minutes-paris-f2f-2015-08-25-part-i/|Resolved: Drop break-before and break-after from Multicol and reference fragmentation definitions and republish as CR/]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jan/0031.html|Resolved: Accept the new text for grid and multi-col changing the floor to a required amount. The new text is: “For the purpose of finding the number of auto-repeated tracks, the UA must floor the track size to a UA-specified value to avoid division by zero. It is suggested that this floor be ”1px” or less.”]]
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-ii/|ACTION: TabAtkins talk with WebApps about a reordering API<trackbot> Created ACTION-692.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Resolved: Discussed layering order of column rules.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Resolved: Columns do not clip anything. (As if ::column just had overflow:visible by default).]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Resolved: Remove the restriction about overflow columns only being in continuous media with the statement that column-fill has no effect on overflow columns.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Resolved: Have two keywords for balancing – balance and either balance-last or balance-all, depending on what implementations (including Prince and Antenna House) do by default.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Resolved: To balance columns, you just make the row as short as possible (honoring breaking controls, sizes, etc.), then flow normally into that height. No explicit “balancing” occurs (but it’s a common effect).]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|Resolved: Håkon to create a public, editable, full list of issues with source, response and resolution. The format is up to him.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0471.html|ACTION rossen to add spec text to multicol specifying that text draws over column rules. <trackbot> Created ACTION-578]]
 
   ; Namespaces
   : [[https://www.w3.org/blog/CSS/2014/04/03/minutes-telecon-211/|Resolved: Modification of the validity of an unknown prefix in selectors and insertion of namespace rules.]]
