@@ -156,6 +156,7 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|Resolved: Revert the Media Queries spec on the whitespace requirement.]]
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: In media queries, use boolean maybe semantics to handle unsupported syntax, i.e. false and unknown = false. (Re-evaluate if this ends up with back-compat problems.)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0060.html|Resolved: Make MQ lists and EventTarget for the change event and alias the existing listener to addEventListener and removeEventListener]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2013Nov/0349.html|Action: hober and matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) <trackbot> Created ACTION-589 - And matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) [on Edward O'Connor - due 2013-11-17].
 
   ; Media Queries 3
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
