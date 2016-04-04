@@ -3,6 +3,8 @@
 This is fantasai's scratch space for tracking the state of the CSS specs and what needs to be done for each.
 
 It was last updated on 21 March 2016.
+  ; Align
+  : [[https://www.w3.org/blog/CSS/2016/03/30/minutes-telecon-280/|Resolved: Publish a new WD of Box Alignment with a note about the default behavior when safe and unsafe is not listed explicitly.]]
 
   ; Animations
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: No animation events when subtrees are destroyed.]]
@@ -85,6 +87,9 @@ It was last updated on 21 March 2016.
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|In case of one single supports query the innermost parentheses are optional in functional notation. This resolution applies to both JS and CSS Conditional Rules.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Aug/0051.html|Resolved: Revert the Media Queries spec on the whitespace requirement.]]
 
+  ; CSS Forms
+  : [[https://www.w3.org/blog/CSS/2016/03/18/minutes-telecon-278/|TabAtkins will write up a proposal for checkbox and radio buttons for next week detailing his thoughts while everyone else reviews the e-mails.]]
+
   ; CSS Logical Properties
   : [[https://www.w3.org/blog/CSS/2015/02/26/minutes-telecon-237/|Resolved: Properties referencing corners drop the axis mentions and go into the block axis first, for example border-start-end-radius (in CSS Logical Properties)]]
 
@@ -106,6 +111,9 @@ It was last updated on 21 March 2016.
 
   ; Display 3
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0055.html|Resolved: In Display Module, define br { display-box: contents; content: '\A'; white-space: pre; } to work. (This should result in change to handling of display: none, and change to HTML spec once published.)]]
+
+  ; Exclusions
+  : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: shorten minimum/maximum to min/max in exclusions values.]]
 
   ; Flexbox
   : Need to compile Christian's issues into a new DoC
@@ -180,7 +188,10 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: In media queries, use boolean maybe semantics to handle unsupported syntax, i.e. false and unknown = false. (Re-evaluate if this ends up with back-compat problems.)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0060.html|Resolved: Make MQ lists and EventTarget for the change event and alias the existing listener to addEventListener and removeEventListener]]
   : [[https://lists.w3.org/Archives/Public/www-style/2013Nov/0349.html|Action: hober and matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) <trackbot> Created ACTION-589 - And matt to write a proposed resolution to resolve the proposal about device resolution (using unambiguous terms) (on Edward O'Connor - due 2013-11-17)]]
-  : https://www.w3.org/blog/CSS/2013/08/15/resolutions-104/|ACTION TabAtkins: Define zooming, 2 types, for insertion into either MQ or device-adapt <trackbot> Created ACTION-572]]
+  : [[https://www.w3.org/blog/CSS/2013/08/15/resolutions-104/|ACTION TabAtkins: Define zooming, 2 types, for insertion into either MQ or device-adapt <trackbot> Created ACTION-572]]
+  : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: Remove the on-demand value from hover.]]
+  : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: Move light-level to the next level of Media Queries.]]
+  : [[https://www.w3.org/blog/CSS/2016/03/30/minutes-telecon-280/|Resolved: Add defining a minimum for the onload property as an issue in the Media Queries spec.]]
 
   ; Media Queries 3
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
@@ -267,6 +278,9 @@ It was last updated on 21 March 2016.
   : [[https://www.w3.org/blog/CSS/2014/05/08/minutes-telecon-215/|Resolved: Add :modal to Selectors level 4]]
   : [[https://www.w3.org/blog/CSS/2013/12/12/resolutions119/|Resolved: Add :sorted pseudoclass to selectors 4.]]
 
+  ; Shapes
+  : [[https://www.w3.org/blog/CSS/2016/03/30/minutes-telecon-280/|Resolved: Publish new version of CSS Shapes.]]
+
   ; Sizing
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Define percentage sizing.]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|ACTION TabAtkins: spec their float layout for intrinsic sizes<trackbot> Created ACTION-659]]
@@ -277,6 +291,9 @@ It was last updated on 21 March 2016.
 
   ; Snapshot
   : [[https://www.w3.org/blog/CSS/2015/08/12/minutes-telecon-259/|Resolved: unprefix min/max-content - gregwhitworth will work on building out a test suite for CSS Sizing]]
+  : [[https://www.w3.org/blog/CSS/2016/03/18/minutes-telecon-278/|Resolved: Republish 2015 Snap Shot with Will Change added.]]
+  : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: Add edits to 2015 snapshot and then republish.]]
+  : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: Start an ED for 2016 snapshot.]]
 
   ; Speech
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0607.html|abAtkins: We have time-dimensional pseudos, defined for WebVTT. TabAtkins: Anyone know if they're implemented anywhere? ACTION fantasai: make sure timeline is defined for Speech to use: current, etc <trackbot> Created ACTION-607
