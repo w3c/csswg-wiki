@@ -26,6 +26,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Brad Kemper | N/A | N/A | home | Driving or BART from Hayward |
 | Chris Lilley | ??? | ??? | ??? | ??? |
 | Dave Cramer | ??? | ??? | ??? | pending management approval |
+| Edward O'Connor | N/A | N/A | home | bike or muni |
 | Florian Rivoal | May 7 | May 12 | AirBnB | KE2726+KE023 / KE024+KE721 |
 | Hiroshi Sakakibara | May 8 | May 14 | AirBnB | DL636+DL2778 / DL2759+DL637 |
 | Jen Simmons | May 8 | May 12 | Harbor Court Hotel | Delta |
@@ -36,7 +37,6 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Simon Pieters | ??? | ??? | ??? | ??? |
 | Takao Baba | May 8 | May 12 | AirBnB | DL636+DL2778 / DL2769+DL637 |
 | Greg Whitworth | May ?? | May ?? | ??? | Delta |
-
 ===== Observers =====
   * Daniel Holbert
   * Eliot Kimber
