@@ -2,7 +2,7 @@
 
 This is fantasai's scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 4 April 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 6 April 2016 and tracks backwards through about August 2013 or so.
   ; Align
   : [[https://www.w3.org/blog/CSS/2016/03/30/minutes-telecon-280/|Resolved: Publish a new WD of Box Alignment with a note about the default behavior when safe and unsafe is not listed explicitly.]]
 
@@ -124,6 +124,7 @@ It was last updated on 4 April 2016 and tracks backwards through about August 20
   ; Flexbox
   : Need to compile Christian's issues into a new DoC
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-ii/|ACTION: bcampbell Get examples of broken pages.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Rossen review DoC Issue #3 ACTION-765]]
 
   ; Fonts 4
   : [[https://www.w3.org/blog/CSS/2014/07/03/minutes-telecon-218/|Resolved: Add min and max font-size properties. Define whether these properties affect the computed font size.]]
@@ -212,6 +213,9 @@ It was last updated on 4 April 2016 and tracks backwards through about August 20
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
   : [[https://www.w3.org/blog/CSS/2014/10/09/minutes-telecon-224/|Resolved: Remove the old text that negates the entire media query if an unrecognized media value or feature appears.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Oct/0261.html|Resolved: Add color-inverted media feature with values none and inverted.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Resolved: Add infinite value to resolution MQ.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|fantasai draw up a proposal for overflow MQ ACTION-763]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Florian write up a proposal for raster MQ ACTION-764]]
 
   ; Media Queries 5
   : [[https://www.w3.org/blog/CSS/2015/04/23/minutes-telecon-245/|Tab and Florian to write proposal to Allow custom MQ before @import Action Florian to write a proposal for the mailing list <trackbot> Created ACTION-681.]]
@@ -299,6 +303,7 @@ It was last updated on 4 April 2016 and tracks backwards through about August 20
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Define percentage sizing.]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|ACTION TabAtkins: spec their float layout for intrinsic sizes<trackbot> Created ACTION-659]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|ACTION dbaron: spec their float layout for intrinsic sizes<trackbot> Created ACTION-660]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Resolved: Publish Sizing]]
 
   ; Sizing 3
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|ACTION: fantasai figure out what it was wrt percentage sizing<trackbot> Created ACTION-670]]
@@ -390,6 +395,7 @@ It was last updated on 4 April 2016 and tracks backwards through about August 20
   : [[https://www.w3.org/blog/CSS/2014/04/24/minutes-telecon-213/|Resolved: Add calc() algebra to level 4 and keep an issue in there about +0/-0 handling.]]
   : [[https://www.w3.org/blog/CSS/2014/04/17/minutes-telecon-212/|Resolved: Make the image() function always respect EXIF orientation metadata in Backgrounds.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0168.html|<trackbot> ACTION-632 on TabAtkins - Figure out if enhancing url() works]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Resolved: Accept TabAtkins proposal for calc() serialization and add a note that there remains a concern about editors getting access to the bare string.]]
 
   ; Writing Modes
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION fantasai: Look over Writing modes test failures]]
