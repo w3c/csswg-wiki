@@ -133,6 +133,7 @@ It was last updated on 6 April 2016 and tracks backwards through about August 20
   : Need to compile Christian's issues into a new DoC
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-20-ii/|ACTION: bcampbell Get examples of broken pages.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Rossen review DoC Issue #3 ACTION-765]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Everyone was actioned to review the entire Flexbox DoC. The items that need the most attention are issue #3 and an additional paragraph added to order accessibility to address concerns from the accessibility working group.]]
 
   ; Fonts 4
   : [[https://www.w3.org/blog/CSS/2014/07/03/minutes-telecon-218/|Resolved: Add min and max font-size properties. Define whether these properties affect the computed font size.]]
@@ -221,6 +222,7 @@ It was last updated on 6 April 2016 and tracks backwards through about August 20
   : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: Move light-level to the next level of Media Queries.]]
   : [[https://www.w3.org/blog/CSS/2016/03/30/minutes-telecon-280/|Resolved: Add defining a minimum for the onload property as an issue in the Media Queries spec.]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/740|Republish mq4]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|overflow-block and overflow-inline will be combined into overflow with properties to specify inline and block direction. fantasai will write up proposed text for the new properties.]]
 
   ; Media Queries 3
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
