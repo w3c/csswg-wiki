@@ -49,6 +49,7 @@ It was last updated on 6 April 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0039.html|Resolved: Mark the undefined hit testing as an issue.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Feb/0183.html|ACTION TabAtkins ask his implementor about layout containment and overflow.]]
   : [[https://www.w3.org/blog/CSS/2015/08/06/minutes-telecon-258/|Resolved: Clarify contain to make sure it specifies the order of operations.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|Remove any mention of overflow:clip from the containment spec and change section 3.3 to define that clipping happens (just not by affecting value of'overflow').]]
 
   ; Colors
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION: ask ICC guys how authors can choose colors outside  sRGB. SteveZ ask authoring tool people how authors can specify  colors outside sRGB.]]
@@ -120,6 +121,7 @@ It was last updated on 6 April 2016 and tracks backwards through about August 20
 
   ; Exclusions
   : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: shorten minimum/maximum to min/max in exclusions values.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|RESOLVED: When a line is split by an exclusion, each side is its own line box for the purposes of bidi algorithm (i.e. they are effectively separated by a soft line wrap). Which line box is first depends on the block's directionality.]]
 
   ; Flexbox
   : Need to compile Christian's issues into a new DoC
@@ -332,6 +334,12 @@ It was last updated on 6 April 2016 and tracks backwards through about August 20
 
   ; Text
   : [[https://lists.w3.org/Archives/Public/www-style/2015Jan/0006.html|Resolved: Layout methods should depend on writing system in addition to language convention.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0350.html|RESOLVED: left-align the alignment characters.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|In order to prevent overflow or wrapping of invisible white space, spaces at the end of a line must either be visually collapsed to fit within the line or must hang outside the line (as in hanging punctuation).]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|RESOLVED: Add 'word-break: break-spaces'.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|RESOLVED: Drop pre-wrap-auto.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|RESOLVED: text-wrap: balance evaluation works off of remaining space in the line, not average line length.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|RESOLVED: Add word-break: break-word to spec if Edge/Firefox find it critical enough to Web compat to implement it.]]
 
   ; Text 3
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Hanging punctuation causes ink overflow. [Note: This discussion has since been reopened. See this email]]
