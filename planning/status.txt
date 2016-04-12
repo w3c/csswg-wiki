@@ -6,6 +6,9 @@ It was last updated on 6 April 2016 and tracks backwards through about August 20
   ; Align
   : [[https://www.w3.org/blog/CSS/2016/03/30/minutes-telecon-280/|Resolved: Publish a new WD of Box Alignment with a note about the default behavior when safe and unsafe is not listed explicitly.]]
 
+  ; Animation Scrolling
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
+
   ; Animations
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: No animation events when subtrees are destroyed.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Dec/0300.html|Resolved: In level 1 of Animations we describe the current behavior of findRule and deleteRule]]
