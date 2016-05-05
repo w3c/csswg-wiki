@@ -69,7 +69,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
   * Color Gamut media query [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0316.html]] - smfr/Rik/ChrisL
 
 == Unassigned ==
-  * CSS Scroll Snap - All remaining issues and merge differences
+  * CSS Scroll Snap - All remaining issues and merge differences (tab and fantasai)
   * Hanging punctuation - add start and discuss character classes
   * New WD for CSS Generated Content, a11y issues
   * Step sizing and alternatives
