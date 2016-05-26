@@ -36,6 +36,8 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://lists.w3.org/Archives/Public/www-style/2014Oct/0295.html|ACTION Bert: Republish css3-box with obnoxious note pointing to CSS2.1<trackbot> Created ACTION-644]]
 
   ; Box Alignment
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Apply justify-content to columns in multicol elements]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Make “smart safe” alignment the default for handling overflow; but put at risk with a note saying to contact CSSWG if there is a problem regarding compat.]]
   : Finish line-by-line review
   : [[https://www.w3.org/blog/CSS/2015/04/09/minutes-telecon-243/|Resolved: Accept Myles’ proposal to make baseline of overflow non-visible inline blocks the higher of the actual baseline (at initial scroll position) and the margin-box bottom. Separately investigate whether to switch from margin-box bottom to padding-box bottom for sanity. (requries web-compat check)]]
   : [[https://www.w3.org/blog/CSS/2015/04/09/minutes-telecon-243/|ACTION: TabAtkins and fantasai to update Box Alignment spec per resolution, propose wording for CSS2.1 errata <trackbot> Created ACTION-678.]]
@@ -66,6 +68,9 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Resolved: Add color-correction property to CSS4 color draft, with issue about the problem it’s trying to solve and consideration that it might not be the right solution.]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/729|Drop color-correction property]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/728|Propose color profile feature for css]]
+
+  ; Contain
+  : : [[https://lists.w3.org/Archives/Public/www-style/2016May/0210.html|RESOLVED: Publish FPWD of css-contain-1 after edits on overflow dependency]]
 
   ; CSS2.1
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0252.html|Resolved: Moving a float to the next fragmentainer does not move in-flow content that comes after the float. (However, per CSS2.1, subsequent floats do move down.)]]
@@ -130,7 +135,7 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|Tav presented a new filter primitive he'd like added to level 2; dino agreed it was interesting and will look into adding it to the spec.]]
 
   ; Flexbox
-  : 
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Issue 1 the text for a11y is accepted.]]
 
   ; Fonts 4
   : [[https://www.w3.org/blog/CSS/2014/07/03/minutes-telecon-218/|Resolved: Add min and max font-size properties. Define whether these properties affect the computed font size.]]
@@ -150,6 +155,9 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Keep the spec the way it is in regards to issue #3 (Abspos item placement in degenerate grids)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Keep spec as is in regards to issue #24 (Drop empty tracks at ends or also in the middle?)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: subgrid proposal accepted in the at-risk section]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0231.html|RESOLVED: The grid-template and grid-gap properties have no effect on a sub-grid]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0231.html|RESOLVED: Take the clamping behavior for error cases on subgrid where items are outside the subgrid (issue 4).]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/575|Add example of empty named lines paren]]
@@ -192,6 +200,7 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://lists.w3.org/Archives/Public/www-style/2015Nov/0226.html|Resolved: Line-grid will restart in the case of orthogonal flows between parent and child.]]
 
   ; Lists
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0209.html|Resolved: Add new syntax (TBD) to control counter scoping and consider reversing too.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0059.html|Resolved: We handle the list-style custom-ident in the fashion of Animation.]]
 
   ; Overflow 3
@@ -304,6 +313,7 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://www.w3.org/blog/CSS/2016/03/30/minutes-telecon-280/|Resolved: Publish new version of CSS Shapes.]]
 
   ; Sizing
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0210.html|Resolved: Intrinsic sizes that don't require layout to recalculate are treated as definite.]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|ACTION TabAtkins: spec their float layout for intrinsic sizes<trackbot> Created ACTION-659]]
   : [[https://www.w3.org/blog/CSS/2014/12/18/minutes-santa-clara-part-ii/|ACTION dbaron: spec their float layout for intrinsic sizes<trackbot> Created ACTION-660]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0359.html|Need to clarify that line boxes are fitted to nonrectangular shapes by requiring zero intersection.]]
@@ -331,6 +341,11 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://www.w3.org/Style/CSS/Tracker/actions/754|Look into allowing min-width on tables to work, and auto to work like it currently does - will require test cases for l2 of tables and possibly sizing as dbaron said it's helpful for intrinsic sizing beyond tables.]]
 
   ; Testing
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0211.html|Resolved: Drop requirement for author or reviewer metadata]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0211.html|Resolved: Move to primary <link> to spec+section being inferred from directory structure. Supplemental <link>s must be inline.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0211.html|Resolved: spec-shortname/N-levels-of-ignored-subdirectory-names/frag-id-of-section]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0211.html|Resolved: Remove any title requirement, other than having one (implied by validity of HTML requirement)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0211.html|Resolved: testharness.js tests don't need a meta assert (but reftests still do)]]
   : [[https://www.w3.org/blog/CSS/2015/09/14/minutes-paris-f2f-2015-08-25-part-i/|Resolved: Down-level tests (e.g. CSS2.1 color tests) should be updated to not fail on higher-level implementations (e.g. CSS4 color implementations), but should also leave the old pass conditions intact so that down-level clients can still pass the tests for the older featureset.]]
 
   ; Text
@@ -402,6 +417,8 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0044.html|Adopt the proposed convention for propdef tables for shorthands]]
 
   ; Values and Units 3
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0209.html|Resolved: Add hidden state to hash-reference-only URLs so that they can always resolve locally in presence of pushState]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0209.html|Resolved: Adapt the element() function so that it can be used to refer to always-local references]]
   : Need reviews of all the calc() and serialization issues
   : [[https://www.w3.org/blog/CSS/2014/10/09/minutes-telecon-224/|Resolved: Change the values and units to make invalid empty URL fail to resolve automatically.]]
   : [[https://www.w3.org/blog/CSS/2013/11/23/resolutions117/|<fantasai> ACTION: fantasai write up with Tab potential changes to transform-origin to reduce/alter inconsistencies with background-position <trackbot> Created ACTION-599 - Write up with tab potential changes to transform-origin to reduce/alter inconsistencies with background-position (on Elika Etemad - due 2013-11-19).]]
