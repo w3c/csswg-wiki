@@ -2,7 +2,7 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 4 May 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 25 May 2016 and tracks backwards through about August 2013 or so.
 
   ; Animation Scrolling
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
@@ -106,6 +106,9 @@ It was last updated on 4 May 2016 and tracks backwards through about August 2013
   : [[https://www.w3.org/blog/CSS/2014/10/01/minutes-telecon-223/|<zcorpan> action spieters to reply to Boris' e-mail * trackbot is creating a new ACTION. <trackbot> Created ACTION-655 - Reply to boris' e-mail [on Simon Pieters - due 2014-10-08].]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0443.html|Resolved: When a range endpoint falls in the middle of a grapheme cluster, Range.getClientRects() should include the entire grapheme cluster.]]
 
+  ; CSS Overflow 3
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0231.html|RESOLVED: Publish a new WD for overflow]]
+
   ; CSS Overflow 4
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: region-break gets folded into the new property, too.]]
 
@@ -147,6 +150,8 @@ It was last updated on 4 May 2016 and tracks backwards through about August 2013
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0231.html|RESOLVED: The grid-template and grid-gap properties have no effect on a sub-grid]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0231.html|RESOLVED: Take the clamping behavior for error cases on subgrid where items are outside the subgrid (issue 4).]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/575|Add example of empty named lines paren]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/574|Clarify spanning across implicit subgrid tracks]]
 
@@ -338,6 +343,7 @@ It was last updated on 4 May 2016 and tracks backwards through about August 2013
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|RESOLVED: Add word-break: break-word to spec if Edge/Firefox find it critical enough to Web compat to implement it.]]
 
   ; Text 3
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0231.html|RESOLVED: Add overflow-wrap: break-spaces to level 3]]
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Hanging punctuation causes ink overflow. [Note: This discussion has since been reopened. See this email]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
   : [[https://www.w3.org/blog/CSS/2015/06/22/minutes-new-york-f2f-2015-05-19-ii/|Resolved: Add leading-spaces/trailing-spaces to text-decoration-skip in L4. Change default behavior to skip leading/trailing spaces. Add UA rule that ins and del don’t skip anything. Add note from L3 to L4 indicating impending changes.]]
