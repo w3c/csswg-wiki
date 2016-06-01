@@ -2,12 +2,13 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 25 May 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 01 June 2016 and tracks backwards through about August 2013 or so.
 
   ; Animation Scrolling
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
 
   ; Animations
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0010.html|Resolved: Accept strings as animation-names]]
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|Resolved: No animation events when subtrees are destroyed.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Dec/0300.html|Resolved: In level 1 of Animations we describe the current behavior of findRule and deleteRule]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Dec/0300.html|Resolved: Make appendRule always add at the end of the keyframe no matter if the key already exists]]
@@ -242,6 +243,8 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://www.w3.org/blog/CSS/2015/04/23/minutes-telecon-245/|Action TabAtkins to write a proposal for the mailing list.<trackbot> Created ACTION-682.]]
 
   ; Misc
+  :[[https://lists.w3.org/Archives/Public/www-style/2016Jun/0010.html|Resolved: Add the labels listed [[https://github.com/sandhawke/spec-labels-min/labels?sort=name-asc|here]] to github]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0010.html|Issues won't be closed on github until a decision is reach or the working group resolves on them.]]
   : TabAtkins brought his proposal to address the possibility of font name being duplicated inside and outside a shadow DOM. The proposal would create a mapping where the external font is translated into a guaranteed unique name when passed into the shadow DOM. dbaron raised the possibility of instead using a function that gets the name from the scope, which was a cleaner solution. TabAtkins will write-up a new proposal using functions and send it to the mailing list for review.
   : ACTION leaverou write outdated-spec-watermark script for w3.org to put on /TR
   : ACTION glazou Investigate which data needs to be added and how to automate current-work <trackbot> Created ACTION-685 - glazou: OK, so we will do these actions, and then go back to AC/plh and iterate
@@ -282,6 +285,7 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [https://www.w3.org/blog/CSS/2014/07/31/minutes-telecon-221/|Resolved: Floats are passed up through Ruby to the containing block.]]
 
   ; Scoping
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0010.html|Resolved: Move fragment styling and @scope to a delta level 4 of scoping module]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0106.html|Selecting an Outside Scoping Box - ACTION TabAtkins fantasai Add an example to section 2.2.2<trackbot> Created ACTION-625]]
 
   ; Scroll Snap
@@ -424,6 +428,7 @@ It was last updated on 25 May 2016 and tracks backwards through about August 201
   : [[https://www.w3.org/blog/CSS/2013/11/23/resolutions117/|<fantasai> ACTION: fantasai write up with Tab potential changes to transform-origin to reduce/alter inconsistencies with background-position <trackbot> Created ACTION-599 - Write up with tab potential changes to transform-origin to reduce/alter inconsistencies with background-position (on Elika Etemad - due 2013-11-19).]]
 
   ; Values and Units 4
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0010.html|Resolved: Add vi and vb to values & units 4.]]
   : Need reviews of all the calc() and serialization issues
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|Add ideographic advance unit to Values and Units 4, come back to WG for approval after details worked out.]]
   : [[https://www.w3.org/blog/CSS/2014/04/24/minutes-telecon-213/|Resolved: Add calc() algebra to level 4 and keep an issue in there about +0/-0 handling.]]
