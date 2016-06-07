@@ -2,7 +2,7 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 01 June 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 06 June 2016 and tracks backwards through about August 2013 or so.
 
   ; Animation Scrolling
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
@@ -54,11 +54,18 @@ It was last updated on 01 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|Remove any mention of overflow:clip from the containment spec and change section 3.3 to define that clipping happens (just not by affecting value of'overflow').]]
 
   ; Colors
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: Not breaking on nbsp; for the break-all value.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: break-all should do the same as normal for preserved spaces]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: break-spaces goes into overflow-wrap instead of word-break]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: Keep current hanging-punctuation values in Level 3.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: Add note that more non-CJK-relevant keywords will be added to Level 4]]
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|ACTION: ask ICC guys how authors can choose colors outside  sRGB. SteveZ ask authoring tool people how authors can specify  colors outside sRGB.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jan/0605.html|Resolved: Add this property/functionality to Color 4 with names TBD.]]
   : [[https://www.w3.org/blog/CSS/2014/07/31/minutes-telecon-221/|Resolved: Accept rgb() with single values and rgba() with 2 values and keep exploring other potential values.]]
 
   ; Colors 4
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Do black point compensation when converting from profile to another.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: If you accurately describe the output device's color profile in an @color-profile rule then a sane implementation will not alter your colors so this is sufficient as a replacement for device-cmyk in general and provides a good RGB fallback automatically.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Resolved: Add ChrisL as co-editor on CSS4 color]]
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Resolved: Pull in SVG2 color section into CSS4 color]]
   : [[https://lists.w3.org/Archives/Public/www-style/2013Sep/0885.html|Resolved:: rgb() and rgba() will accent number rather than integer]]
@@ -136,6 +143,7 @@ It was last updated on 01 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|Tav presented a new filter primitive he'd like added to level 2; dino agreed it was interesting and will look into adding it to the spec.]]
 
   ; Flexbox
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Publish a new CR flexbox.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Issue 1 the text for a11y is accepted.]]
 
   ; Fonts 4
@@ -156,6 +164,9 @@ It was last updated on 01 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Add allowing track list in repeat() and auto-rows]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Drop named lines specified on the subgrid]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Publish a new WD.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Keep the spec the way it is in regards to issue #3 (Abspos item placement in degenerate grids)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Keep spec as is in regards to issue #24 (Drop empty tracks at ends or also in the middle?)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: subgrid proposal accepted in the at-risk section]]
@@ -190,6 +201,7 @@ It was last updated on 01 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|Either AmeliaBR or Tav will create a proposal to either offer author control or spec guidance for browsers on dithering.]]
 
   ; Inline
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Publish inline]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0359.html|Middle (half of the x height) and Alignment (synonym for text top and text bottom) baselines may be useful to add to CSS Inline.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0359.html|Need to clarify that line boxes are fitted to nonrectangular shapes by requiring zero intersection.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0359.html|Need to define default baseline positions for all baselines.]]
@@ -290,6 +302,21 @@ It was last updated on 01 June 2016 and tracks backwards through about August 20
 
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: No ability to specify the strictness of snapping separately per axis.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Allow the keyword to be dropped, default to proximity.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Ordering of keywords is strict in scroll-snap-type (to allow for extensions)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Values are x | y | block | inline | both | point , where point would be dropped after next publication.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Require (for now) an explicit axis and will gather more info as we can (to decide between physical and logical direction as the default).]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: make snap-align behave like a subset of background position]] ([[https://lists.w3.org/Archives/Public/www-style/2016Jan/0133.html|from fantasai's proposal]]).
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Add section 6.2.2 (Snapping Boxes that Overflow the Scrollport) and add issues.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Add section 6.2.1 (Scoping Valid Snap Positions to Visible Boxes) as an open issue]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Add section 6.2.3 (Unreachable Snap Areas)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Merge section 6.3 (scroll-snap-stop) with * an issue about whether it applies to 2D * an issue to bikeshed "normal"]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Merge section 7.3 (Choosing Snap Positions) with * parenthetical of "corridor" point moved to start the paragraph * JS element-targetting scrolls added into the :target paragraph]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Add section 7.1 after removing "explicit" "inertial" and "directional" definitions, moving the first sentence and adding a more precise definition of when an active scrolling operation is done so we know when to start snapping.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Merge 7.0 (introductory text) too]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Add fantasai and TabAtkins as editors to scroll snapping]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Shortname css-snappoints -> css-scroll-snap]]
 
   ; Selectors 3
   : [[https://www.w3.org/blog/CSS/2014/04/03/minutes-telecon-211/|Resolved: Modification of the validity of an unknown prefix in selectors and insertion of namespace rules.]]
@@ -437,6 +464,7 @@ It was last updated on 01 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Resolved: Accept TabAtkins proposal for calc() serialization and add a note that there remains a concern about editors getting access to the bare string.]]
 
   ; Writing Modes
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: margin/border/padding logical properties use the element's own writing-mode, not their parent's writing-mode]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION fantasai: Look over Writing modes test failures]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION hober: Look into unprefixing writing modes features in WebKit]]
