@@ -6,3 +6,24 @@
   * full TPAC week is 19-23 September 2016
   * CSS WG meeting days are Mon-Tue 19-20 September
   * Lisbon, Portugal at the Centro de congressos de lisboa, room 5A, first floor (upper floor!)
+
+==== Participants =====
+
+Please, put your name in this table if you plan to participate (alphabetical order by given name):
+
+^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
+| Alan Stearns | ? | ? | ? | ?? |
+
+==== Agenda ====
+
+=== Monday ===
+
+== AM ==
+
+== PM ==
+
+=== Tuesday ===
+
+== AM ==
+
+== PM ==
