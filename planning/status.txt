@@ -2,7 +2,7 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 07 June 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 22 June 2016 and tracks backwards through about August 2013 or so.
 
   ; Animation Scrolling
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
@@ -165,6 +165,7 @@ It was last updated on 07 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: vertical-align: baseline means first baseline except for inline-blocks (due to CSS2.1 legacy)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Add allowing track list in repeat() and auto-rows]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Drop named lines specified on the subgrid]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Publish a new WD.]]
@@ -244,6 +245,11 @@ It was last updated on 07 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0052.html|Resolved: Update Media Queries 3 wording on never having to evaluate a style sheet unless specified explicitly otherwise.]]
 
   ; Media Queries 4
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Rename update-frequency to update (Media Queries issue #1).]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Rename normal to fast (Media Queries issue #1).]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Move inverted colors to level 5 (Media Queries issue #8)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Move custom MQ to level 5 (Media Queries issue #9).]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Publish a new WD of Media Queries 4.]]
   : [[https://www.w3.org/blog/CSS/2015/06/25/minutes-telecon-251/|Resolved: Accept TabAtkins proposal for removing ambiguity from Resolution Media Query (thread with proposal)]]
   : [[https://www.w3.org/blog/CSS/2014/10/09/minutes-telecon-224/|Resolved: Remove the old text that negates the entire media query if an unrecognized media value or feature appears.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Oct/0261.html|Resolved: Add color-inverted media feature with values none and inverted.]]
@@ -290,12 +296,14 @@ It was last updated on 07 June 2016 and tracks backwards through about August 20
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/|Resolved: Remove special case from ::first-letter]]
 
   ; Round Display
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Action: jihye to move offset- properties to motion-path spec]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Change the initial value of offset-rotation to 0deg.]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/751|Add @viewport switch for opting into full round display size as viewport]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0240.html|Add 'viewport-fit: contain']]
 
   ; Ruby
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: writing-mode: vertical-lr on the rt based on parent’s ‘display’ & ‘ruby-position’.]]
-  : [https://www.w3.org/blog/CSS/2014/07/31/minutes-telecon-221/|Resolved: Floats are passed up through Ruby to the containing block.]]
+  : [[https://www.w3.org/blog/CSS/2014/07/31/minutes-telecon-221/|Resolved: Floats are passed up through Ruby to the containing block.]]
 
   ; Scoping
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0010.html|Resolved: Move fragment styling and @scope to a delta level 4 of scoping module]]
@@ -303,6 +311,7 @@ It was last updated on 07 June 2016 and tracks backwards through about August 20
 
   ; Scroll Snap
   : Waiting for MaRakow to finish merging...
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Publish CSS Scroll Snap]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: No ability to specify the strictness of snapping separately per axis.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Allow the keyword to be dropped, default to proximity.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: Ordering of keywords is strict in scroll-snap-type (to allow for extensions)]]
@@ -381,6 +390,7 @@ It was last updated on 07 June 2016 and tracks backwards through about August 20
   : [[https://www.w3.org/blog/CSS/2015/09/14/minutes-paris-f2f-2015-08-25-part-i/|Resolved: Down-level tests (e.g. CSS2.1 color tests) should be updated to not fail on higher-level implementations (e.g. CSS4 color implementations), but should also leave the old pass conditions intact so that down-level clients can still pass the tests for the older featureset.]]
 
   ; Text
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Line break opportunities should be controlled by the parent.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Jan/0006.html|Resolved: Layout methods should depend on writing system in addition to language convention.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0350.html|RESOLVED: left-align the alignment characters.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|In order to prevent overflow or wrapping of invisible white space, spaces at the end of a line must either be visually collapsed to fit within the line or must hang outside the line (as in hanging punctuation).]]
@@ -450,6 +460,8 @@ It was last updated on 07 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0044.html|Adopt the proposed convention for propdef tables for shorthands]]
 
   ; Values and Units 3
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0118.html|Resolved: Add [[https://drafts.csswg.org/css-values-3/#compat|this section]] including using pixels as canonical length]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0118.html|Resolved: https://lists.w3.org/Archives/Public/www-style/2016Jun/0118.html]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0209.html|Resolved: Add hidden state to hash-reference-only URLs so that they can always resolve locally in presence of pushState]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0209.html|Resolved: Adapt the element() function so that it can be used to refer to always-local references]]
   : Need reviews of all the calc() and serialization issues
