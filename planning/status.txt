@@ -2,7 +2,7 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 22 June 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 29 June 2016 and tracks backwards through about August 2013 or so.
 
   ; Animation Scrolling
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
@@ -165,6 +165,7 @@ It was last updated on 22 June 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0180.html|Resolved: Accept option C: keep the tracks in the track listing, but force them to be zero-sized and suppress any gutters between adjacent collapsed tracks.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: vertical-align: baseline means first baseline except for inline-blocks (due to CSS2.1 legacy)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Add allowing track list in repeat() and auto-rows]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Drop named lines specified on the subgrid]]
@@ -363,6 +364,7 @@ It was last updated on 22 June 2016 and tracks backwards through about August 20
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|ACTION: fantasai figure out what it was wrt percentage sizing<trackbot> Created ACTION-670]]
 
   ; Snapshot
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0180.html|Resolved: Link to the compat spec in the Snapshot and specs with relevant entires and monitor for problems in the future.]]
   : [[https://www.w3.org/blog/CSS/2015/08/12/minutes-telecon-259/|Resolved: unprefix min/max-content - gregwhitworth will work on building out a test suite for CSS Sizing]]
   : [[https://www.w3.org/blog/CSS/2016/03/18/minutes-telecon-278/|Resolved: Republish 2015 Snap Shot with Will Change added.]]
   : [[https://www.w3.org/blog/CSS/2016/03/24/minutes-telecon-279/|Resolved: Add edits to 2015 snapshot and then republish.]]
