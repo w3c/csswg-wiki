@@ -2,7 +2,7 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 27 July 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 3 August 2016 and tracks backwards through about August 2013 or so.
 
   ; Animation Scrolling
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
@@ -173,6 +173,7 @@ It was last updated on 27 July 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0009.html|Resolved: Take Grid to CR]]
 
   ; Images 3
   : [[https://www.w3.org/blog/CSS/2015/04/30/minutes-telecon-246/|fantasai to edit CSS Image and specify how to determine the coordinate system of the image<trackbot> Created ACTION-683.]]
@@ -460,12 +461,15 @@ It was last updated on 27 July 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|stakagi presented some very detailed work he had done (Available here: https://www.w3.org/Graphics/SVG/WG/wiki/Proposals/Investigation_of_APIs_for_Level_of_detail)]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0044.html|Adopt the proposed convention for propdef tables for shorthands]]
 
+
   ; Values and Units 3
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jul/0068.html|Resolved: Defer the calc for table layout issue to V&U 4]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jul/0068.html|Resolved: Publish updated V&U 3 CR]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jul/0051.html|Resolved: Start a level 4 draft of Values & Units, move calc() serialization to it, and then publish the remainder of Values & Units 3 as CR.]]
 
   ; Values and Units 4
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0009.html|Resolved: Add lh and rlh with a note on use cases it doesn't solve and a link to max-lines.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0009.html|Resolved: Accept text as proposed for the ideographic character unit.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jul/0068.html|Resolved: A calc() with only percentage or only length is required to be resolved in V&U 4]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0209.html|Resolved: Adapt the element() function so that it can be used to refer to always-local references]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0010.html|Resolved: Add vi and vb to values & units 4.]]
@@ -476,9 +480,15 @@ It was last updated on 27 July 2016 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0168.html|<trackbot> ACTION-632 on TabAtkins - Figure out if enhancing url() works]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Apr/0093.html|Resolved: Accept TabAtkins proposal for calc() serialization and add a note that there remains a concern about editors getting access to the bare string.]]
 
+  ; Variables
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0009.html|Action: gsnedders to check if Variables test coverage is from many browsers]]
+  
   ; Writing Modes
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: margin/border/padding logical properties use the element's own writing-mode, not their parent's writing-mode]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION fantasai: Look over Writing modes test failures]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION hober: Look into unprefixing writing modes features in WebKit]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Dec/0301.html|<fantasai> ACTION fantasai: Put IE's nearest-scrollable-box behavior into orthogonal flows spec<trackbot> Created ACTION-661]]
+ 
+  
+ 
