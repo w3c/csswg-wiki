@@ -2,7 +2,8 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 3 August 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 17 August 2016 and tracks backwards through about August 2013 or so.
+
 
   ; Animation Scrolling
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Please see minutes for all of the tasks pertaining to this spec.]]
@@ -37,6 +38,7 @@ It was last updated on 3 August 2016 and tracks backwards through about August 2
   : [[https://lists.w3.org/Archives/Public/www-style/2014Oct/0295.html|ACTION Bert: Republish css3-box with obnoxious note pointing to CSS2.1<trackbot> Created ACTION-644]]
 
   ; Box Alignment
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0053.html|Resolved: Remove baseline from the block-axis as a way to align]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Apply justify-content to columns in multicol elements]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Make “smart safe” alignment the default for handling overflow; but put at risk with a note saying to contact CSSWG if there is a problem regarding compat.]]
   : Finish line-by-line review
@@ -135,12 +137,14 @@ It was last updated on 3 August 2016 and tracks backwards through about August 2
   : [[https://www.w3.org/blog/CSS/2015/03/25/minutes-sydney-f2f-part-ii/|Resolved: region-break gets folded into the new property, too.]]
 
   ; Device Adaptation
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0034.html|Resolved: Change the <meta> viewport text to normative and add two issues. One to test if the description matches reality. Second is while we spec with the same mechanism there may be differences as we tease out compat.]]
   : [[https://www.w3.org/blog/CSS/2014/10/15/minutes-sophia-antipolis-vi/|ACTION spieters Bug Rune about CSS Device Adaptation spec, what to do about it <trackbot> Created ACTION-649.]]
   : [[https://www.w3.org/blog/CSS/2013/08/15/resolutions-104/|ACTION TabAtkins: Define zooming, 2 types, for insertion into either MQ or device-adapt <trackbot> Created ACTION-572]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/739|Review changes in device-adaptation to see if we need a new wd or just a date bump]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/738|Review status of device adaptation]]
 
   ; Display 3
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0034.html|Make display into a short hand and add an issue on naming for the long hands.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Feb/0055.html|Resolved: In Display Module, define br { display-box: contents; content: '\A'; white-space: pre; } to work. (This should result in change to handling of display: none, and change to HTML spec once published.)]]
   : [[https://www.w3.org/Style/CSS/Tracker/actions/613|Clarify how omitted values are handled for display shorthand (and other shorthands he might've forgotten to handle.]]
 
@@ -152,6 +156,7 @@ It was last updated on 3 August 2016 and tracks backwards through about August 2
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|Tav presented a new filter primitive he'd like added to level 2; dino agreed it was interesting and will look into adding it to the spec.]]
 
   ; Flexbox
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0053.html|Resolved: Remove baseline from the block-axis as a way to align]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0021.html|Resolved: Publish a new CR flexbox.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0208.html|RESOLVED: Issue 1 the text for a11y is accepted.]]
 
@@ -173,6 +178,8 @@ It was last updated on 3 August 2016 and tracks backwards through about August 2
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0053.html|Resolved: Stretch items the same way we do for non-replaced]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0053.html|Resolved: Remove baseline from the block-axis as a way to align]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0009.html|Resolved: Take Grid to CR]]
 
   ; Images 3
@@ -293,6 +300,7 @@ It was last updated on 3 August 2016 and tracks backwards through about August 2
   : [[https://www.w3.org/blog/CSS/2015/07/02/minutes-telecon-252/|ACTION Rossen add position: fixed as s full stacking context to positioning <trackbot> Created ACTION-698.]]
 
   ; Pseudo-Elements
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0034.html|Remove this section (https://drafts.csswg.org/css-pseudo/#cssom) from the current level 4 draft and move the work to Houdini]]
   : [[https://www.w3.org/blog/CSS/2014/09/24/minutes-telecon-222-2/|Resolved: Remove special case from ::first-letter]]
 
   ; Round Display
@@ -310,6 +318,7 @@ It was last updated on 3 August 2016 and tracks backwards through about August 2
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0106.html|Selecting an Outside Scoping Box - ACTION TabAtkins fantasai Add an example to section 2.2.2<trackbot> Created ACTION-625]]
 
   ; Scroll Snap
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0053.html|Resolved: Accept the changes proposed here: https://drafts.csswg.org/css-scroll-snap/diff-notes#change-resnap. Make sure that if the UA evaluates and thinks it shouldn't re-snap it's not required to do so, potentially by merging the first and last sentences in the paragraph.]]
   : Waiting for MaRakow to finish merging...
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0158.html|Resolved: Publish CSS Scroll Snap]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0020.html|Resolved: No ability to specify the strictness of snapping separately per axis.]]
@@ -482,13 +491,11 @@ It was last updated on 3 August 2016 and tracks backwards through about August 2
 
   ; Variables
   : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0009.html|Action: gsnedders to check if Variables test coverage is from many browsers]]
-  
+ 
+
   ; Writing Modes
-  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: margin/border/padding logical properties use the element's own writing-mode, not their parent's writing-mode]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Jun/0019.html|Resolved: margin/border/padding logical properties use the element's own writing-mode, not their parent's writing mode]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION fantasai: Look over Writing modes test failures]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION hober: Look into unprefixing writing modes features in WebKit]]
   : [[https://lists.w3.org/Archives/Public/www-style/2014Dec/0301.html|<fantasai> ACTION fantasai: Put IE's nearest-scrollable-box behavior into orthogonal flows spec<trackbot> Created ACTION-661]]
- 
-  
- 
