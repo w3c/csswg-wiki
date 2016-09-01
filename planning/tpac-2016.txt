@@ -47,6 +47,8 @@ Regrets: Dael Jackson
   * Joint meeting with APA (Tuesday 9am)
   * url() as image or SVG reference <a href="https://github.com/w3c/csswg-drafts/issues/383">Issue 383</a>
   * Some brief overview about the status of testing, and possibly trying to get WG resolutions on anything that blocks progress, but hopefully that's nothing (/gsnedders)
+  * Proposal: Create a new spec for timing functions (including frames(), spring(), multi-segment bezier?)
+  * Approval to implement and ship transitionstart/transitionrun/transitioncancel/animationcancel?
 ==== Agenda ====
 
 === Monday ===
