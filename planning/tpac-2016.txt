@@ -30,7 +30,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Myles C. Maxfield | 17 Sept | 25 Sept | Sofitel Lisbon |  |
 | Rossen Atanassov | 17 Sept | 24 Sept | | |
 | Simon Sapin | 18 Sept | 25 Sept | AirBnB | |
-| Tantek Çelik | ... | ... | ... | ... |
+| Tantek Çelik | 2016-09-18 | 2016-09-23 | Hotel Vila Galé Ópera | UA58+UA8896 / MON1725 |
 
 Regrets: Dael Jackson
 
@@ -49,6 +49,8 @@ Regrets: Dael Jackson
   * Some brief overview about the status of testing, and possibly trying to get WG resolutions on anything that blocks progress, but hopefully that's nothing (/gsnedders)
   * Proposal: Create a new spec for timing functions (including frames(), spring(), multi-segment bezier?)
   * Approval to implement and ship transitionstart/transitionrun/transitioncancel/animationcancel?
+  * CR plan for 2016 - which specs are 'close' to CR? what is left to get them there by December pub moratorium? (Tantek)
+  * ...
 ==== Agenda ====
 
 === Monday ===
