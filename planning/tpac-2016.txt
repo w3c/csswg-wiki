@@ -52,6 +52,7 @@ Regrets: Dael Jackson
   * Approval to implement and ship transitionstart/transitionrun/transitioncancel/animationcancel?
   * CR plan for 2016 - which specs are 'close' to CR? what is left to get them there by December pub moratorium? (Tantek)
   * New OpenType features - (ChrisL, Behdad, et al.)
+  * Motion path issues
   * ...
 ==== Agenda ====
 
