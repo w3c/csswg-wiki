@@ -53,6 +53,7 @@ Regrets: Dael Jackson
   * CR plan for 2016 - which specs are 'close' to CR? what is left to get them there by December pub moratorium? (Tantek)
   * New OpenType features - (ChrisL, Behdad, et al.)
   * Motion path issues
+  * Viewport API: https://github.com/WICG/ViewportAPI
   * ...
 ==== Agenda ====
 
