@@ -45,7 +45,8 @@ Regrets: Dael Jackson
   * CSS Scroll Snap - Review DoC, remaining open issues, transition to CR?
   * CSS Pseudo Elements https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+label%3Acss-pseudo-4
   * Scroll-linked animations
-  * CSS Tables Level 3, issue by issue compatibility workshop
+  * CSS Tables Level 3
+        * Fixup rewrite (https://github.com/w3c/csswg-drafts/issues/466)
   * Joint meeting with digipub (Monday after lunch)
   * Joint meeting with APA (Tuesday 9am)
   * url() as image or SVG reference <a href="https://github.com/w3c/csswg-drafts/issues/383">Issue 383</a>
