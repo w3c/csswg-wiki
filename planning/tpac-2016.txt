@@ -55,6 +55,7 @@ Regrets: Dael Jackson
         * percentage resolution (https://github.com/w3c/csswg-drafts/issues/474)
         * border-radius in collapsed mode (https://github.com/w3c/csswg-drafts/issues/475)
         * height on a table-row-group (https://github.com/w3c/csswg-drafts/issues/476)
+        * min-height on a table-row (https://github.com/w3c/csswg-drafts/issues/477)
   * Joint meeting with digipub (Monday after lunch)
   * Joint meeting with APA (Tuesday 9am)
   * url() as image or SVG reference <a href="https://github.com/w3c/csswg-drafts/issues/383">Issue 383</a>
