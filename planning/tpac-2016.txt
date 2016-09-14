@@ -67,7 +67,7 @@ Regrets: Dael Jackson
   * Proposal: Create a new spec for timing functions (including frames(), spring(), multi-segment bezier?)
   * Approval to implement and ship transitionstart/transitionrun/transitioncancel/animationcancel?
   * CR plan for 2016 - which specs are 'close' to CR? what is left to get them there by December pub moratorium? (Tantek)
-  * New OpenType features - (ChrisL, Behdad, et al.)
+  * Variation fonts in OpenType - (ChrisL, Behdad, et al.)
   * Motion path issues
   * Viewport API: https://github.com/WICG/ViewportAPI
   * CSS Writing Modes Level 3 [[http://kojiishi.github.io/generate-w3c-implementation-report/css-writing-modes-3/status-2016-09.html|test status]] and PR plan (koji, Tue preferred)
