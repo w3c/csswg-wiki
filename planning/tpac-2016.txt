@@ -57,6 +57,7 @@ Regrets: Dael Jackson
         * border-radius in collapsed mode (https://github.com/w3c/csswg-drafts/issues/475)
         * height on a table-row-group (https://github.com/w3c/csswg-drafts/issues/476)
         * min-height on a table-row (https://github.com/w3c/csswg-drafts/issues/477)
+        * table-layout:fixed width distribution (https://github.com/w3c/csswg-drafts/issues/484)
         * visibility: collapse (https://github.com/w3c/csswg-drafts/issues/478)
   * Joint meeting with digipub (Monday after lunch)
   * Joint meeting with APA (Tuesday 9am)
