@@ -46,7 +46,7 @@ Regrets: Dael Jackson
   * Baseline alignment issues (to be listed here)
   * Hoisting things to table wrappers: https://github.com/w3c/csswg-drafts/issues/324#issuecomment-235652352
   * CSS Scroll Snap - Review DoC, remaining open issues, transition to CR?
-        * [[https://github.com/w3c/csswg-drafts/issues/395|scroll-padding]] Florian
+        * [[https://github.com/w3c/csswg-drafts/issues/395|scroll-padding]] (Florian)
   * CSS Pseudo Elements https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+label%3Acss-pseudo-4
   * Scroll-linked animations (https://birtles.github.io/scroll-animations/)
   * CSS Tables Level 3
@@ -76,11 +76,11 @@ Regrets: Dael Jackson
         * [[https://github.com/w3c/csswg-drafts/issues/336|computed values vs separate properties]] (koji, Tue preferred)
         * [[https://github.com/w3c/csswg-drafts/issues/319|effect on selections when clicking in a user-select:none ]] (Florian)
   * CSS-UI-3
-        * [[https://github.com/w3c/csswg-drafts/issues/441|Add `outline-offset` to `outline` shorthand?]] Florian
-        * [[https://github.com/w3c/csswg-drafts/issues/423|Remove outline-color: invert?]] Florian
+        * [[https://github.com/w3c/csswg-drafts/issues/441|Add `outline-offset` to `outline` shorthand?]] (Florian)
+        * [[https://github.com/w3c/csswg-drafts/issues/423|Remove outline-color: invert?]] (Florian)
   * Proposal for a new Regions specification — Jen Simmons (early in the schedule / Monday highly preferred)
   * Hanging Punctuation
-  * CSS Containment [[https://github.com/w3c/csswg-drafts/issues/396|Terminology question]] Florian
+  * CSS Containment [[https://github.com/w3c/csswg-drafts/issues/396|Terminology question]] (Florian)
 ==== Agenda ====
 
 === Monday ===
