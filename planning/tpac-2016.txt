@@ -132,5 +132,5 @@ Regrets: Dael Jackson
   * Some brief overview about the status of testing, and possibly trying to get WG resolutions on anything that blocks progress, but hopefully that's nothing (/gsnedders)
   * [[https://github.com/w3c/csswg-drafts/issues/495|clip-path excluding fixed-position descendants]]
   * MQ4 / CR blocking
-    * [[https://drafts.csswg.org/mediaqueries/#issue-d9e3b586|should we have an MQ for a gamut narrower than srgb] (Florian)
+    * [[https://drafts.csswg.org/mediaqueries/#issue-d9e3b586|should we have an MQ for a gamut narrower than srgb]] (Florian)
     * [[https://drafts.csswg.org/mediaqueries/#issue-51d591c9|Should there be an explicit minimum threshold to meet before a UA is allowed to claim initial-only?]] (Florian)
