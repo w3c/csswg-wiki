@@ -105,6 +105,8 @@ Regrets: Dael Jackson
         * [[https://github.com/w3c/csswg-drafts/issues/92|stable /always-on / overlay scrollbars ]] (Florian)
         * [[https://github.com/w3c/csswg-drafts/issues/419|disabling scrollbars]] (Florian)
   * CSS Writing Modes Level 3 [[http://kojiishi.github.io/generate-w3c-implementation-report/css-writing-modes-3/status-2016-09.html|test status]] and PR plan (koji, Tue preferred)
+  * Proposal: Create a new spec for timing functions (including frames(), spring(), multi-segment bezier?)
+        * [[https://github.com/drufball/generalized-animations|Google proposal]]
   * Viewport API: https://github.com/WICG/ViewportAPI
   * Media Feature: "increase contrast" and/or "reduce transparency" user settings
     * https://github.com/w3c/csswg-drafts/issues/443
@@ -129,5 +131,3 @@ Regrets: Dael Jackson
   * Hoisting things to table wrappers: https://github.com/w3c/csswg-drafts/issues/324#issuecomment-235652352
   * Some brief overview about the status of testing, and possibly trying to get WG resolutions on anything that blocks progress, but hopefully that's nothing (/gsnedders)
   * [[https://github.com/w3c/csswg-drafts/issues/495|clip-path excluding fixed-position descendants]]
-  * Proposal: Create a new spec for timing functions (including frames(), spring(), multi-segment bezier?)
-        * [[https://github.com/drufball/generalized-animations|Google proposal]]
