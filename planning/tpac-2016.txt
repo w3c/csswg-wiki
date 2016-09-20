@@ -94,7 +94,6 @@ Regrets: Dael Jackson
 
   * CSS Scroll Snap - Review DoC, remaining open issues, transition to CR?
         * [[https://github.com/w3c/csswg-drafts/issues/395|scroll-padding]] (Florian)
-        * [[https://github.com/w3c/csswg-drafts/issues/488| applicability to pseudo elements]] (Florian)
         * [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0031.html| "the corridor"]] (Florian)
   * Scroll-linked animations (https://birtles.github.io/scroll-animations/)
     * Avoid Mon 15:00-17:00 and Tues 8:30-10:30 if possible (rbyers)  
