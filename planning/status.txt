@@ -2,7 +2,7 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 7 September 2016 and tracks backwards through about August 2013 or so.
+It was last updated on 5 October 2016 and tracks backwards through about August 2013 or so.
 
 
   ; Animation Scrolling
@@ -180,6 +180,7 @@ It was last updated on 7 September 2016 and tracks backwards through about Augus
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: The normal value of align-self and justify-self preserves aspect of image but stretch causes it to stretch to fit containing block. Default value continues to be normal.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Sep/0028.html|Resolved: Keep the name grid-gap (issue #19).]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Sep/0028.html|Resolved: Have percentages in grid-gap behave as percentages in tracks (issue #20).]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Sep/0028.html|Resolved: Keep auto-flow in the grid shorthand (issue #24).]]
@@ -230,6 +231,7 @@ It was last updated on 7 September 2016 and tracks backwards through about Augus
   : [[https://lists.w3.org/Archives/Public/www-style/2014Jun/0059.html|Resolved: We handle the list-style custom-ident in the fashion of Animation.]]
 
   ; Overflow 3
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: We will work on a solution to accommodate issue 92 (https://github.com/w3c/csswg-drafts/issues/92)]]
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|clip-path and masking do not affect scrollable bounds]]
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Spec the current behavior for nested transforms and add a note that this could be improved]]
 
@@ -417,6 +419,13 @@ It was last updated on 7 September 2016 and tracks backwards through about Augus
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|RESOLVED: Add word-break: break-word to spec if Edge/Firefox find it critical enough to Web compat to implement it.]]
 
   ; Text 3
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: Accept the proposal for issue 96 (for linebreak transformation rules ambiguous characters are narrow unless it's Chinese or Japanese or Yi in which case they are wide)]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: Make tab size animatable]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: Make tab size <<number>>]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: Have tab-size account for letter spacing and word spacing]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: No change to the spec for issue 110]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: Capitalize only title cases lower case things, not upper case letters]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0068.html|Resolved: text-align-last: justify will compute to center for CJK]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016May/0231.html|RESOLVED: Add overflow-wrap: break-spaces to level 3]]
   : [[https://www.w3.org/blog/CSS/2016/03/13/minutes-sydney-f2f-2016-02-01-part-ii-writing-modes-line-grid-overflow/|Hanging punctuation causes ink overflow. [Note: This discussion has since been reopened. See this email]]
   : [[https://lists.w3.org/Archives/Public/www-style/2015Sep/0165.html|Resolved: Add the form feed character (U+000C) and make sure all CSS specs align on the definition of white space.]]
