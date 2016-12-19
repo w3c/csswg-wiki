@@ -1,7 +1,8 @@
 ===== Seattle F2F Jan 11-13 2017 =====
 
    * Host: Microsoft
-   * Address: [[https://www.google.com/maps/place/Microsoft+Westlake-Terry+Office/@47.6212285,-122.3406721,15.28z/data=!4m5!3m4!1s0x54901537bdaf44a5:0xfb1639b18d73918a!8m2!3d47.6213969!4d-122.3380915?hl=en | 320 Westlake Avenue North, Seattle, WA 98109, US]]
+   * Location: South Lake Union Discovery Center
+   * Address: [[https://www.google.com/maps/place/South+Lake+Union+Discovery+Center/@47.6189366,-122.3410077,17z/data=!3m1!4b1!4m5!3m4!1s0x54901549dc6fcfd1:0xe262adf9ad1e02f2!8m2!3d47.618933!4d-122.338819?hl=en | 110 Westlake Avenue North, Seattle, WA 98109, US]]
    * Dates: Wednesday–Friday, Jan 11-13 2017
    * Times: 08:30 doors open, 09:00 meeting start, 18:00 meeting end (each day)
    * Location: 
