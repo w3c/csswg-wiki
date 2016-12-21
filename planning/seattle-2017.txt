@@ -56,6 +56,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
   * [[https://github.com/w3c/csswg-drafts/issues/757|relative URL resolution in var() references]] (fremy)
   * Font Color Palettes (myles)
   * initial-letter inflow or outflow (preferred)? [[https://github.com/w3c/csswg-drafts/issues/743]] (jet)
+  * [[https://github.com/w3c/csswg-drafts/issues/92|reserving space for scrollbars]] (florian)
 
 === FXTF Topics ===
   * Geometry Interfaces (smfr)
