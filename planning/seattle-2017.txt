@@ -63,6 +63,8 @@ Please, put your name in this table if you plan to participate (alphabetical ord
   * Meeting scheduling
       * are we using the April dates we were holding (April 19-21 in Tokyo, with Houdini on April 18)?
       * [[https://lists.w3.org/Archives/Public/www-style/2016Dec/0061.html|summer meeting]] location/dates?
+  * [[https://github.com/w3c/csswg-drafts/issues/92|overflow: Consider reserving space for scrollbars with some property ]](added on 21 Dec Telecon)
+  * [[https://github.com/w3c/csswg-drafts/issues/769|New feature - scroll-boundary-behavior (an extension of -ms-scroll-chaining)]](added on 21 Dec Telecon)
 
 === FXTF Topics ===
   * Geometry Interfaces (smfr)
