@@ -58,7 +58,8 @@ Please, put your name in this table if you plan to participate (alphabetical ord
   * Fonts
     * Font Color Palettes (myles)
     * moving [[https://tabatkins.github.io/specs/css-font-display/|css-font-display]] into the WG (dbaron)
-  * [[https://github.com/w3c/csswg-drafts/issues/743|initial-letter in-flow or out-of-flow (preferred)?]] (jet)
+  * CSS Inline open issues (dauwhe)
+      * [[https://github.com/w3c/csswg-drafts/issues/743|initial-letter in-flow or out-of-flow (preferred)?]] (jet)
   * CSS Generated and Replaced Content
       * [[https://github.com/w3c/csswg-drafts/issues/308|content: <image> insufficiently defined]] (dbaron)
       * [[https://github.com/w3c/csswg-drafts/issues/821|content: <url> insufficiently defined]] (dbaron)
