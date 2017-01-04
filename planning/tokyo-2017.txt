@@ -9,7 +9,9 @@
 === How to get there / Japan Info ===
   * https://www.keio.ac.jp/en/maps/mita.html
   * Cash/Credit Card
-    * Compared to Western countries, credit cards cannot be accepted in some shops/vending machines/etc. Please prepare some amount of cashes. 
+    * Compared to Western countries, credit cards cannot be accepted in some shops/vending machines/etc. Please ensure you have some cash. Japanese Post Office has Western-Visa-compatible machines, but is only open business hours Mon-Fri.
+  * Electricity
+    * Outlets in Japan are like the ones in the US in shape, and similar in voltage.
 
 ==== Adjacent meetings ====
   * 2017-04-17 JP Industry Meetup 2nd - Now planning. 
