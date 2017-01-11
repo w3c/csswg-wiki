@@ -101,7 +101,7 @@ GitHub issues from [[https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F|
 == Morning Track FX ==
   * More Transforms issues?
 
-== Morning Track Text
+== Morning Track Text ==
   * More text decoration issues?
   * CSS Step Sizing (koji/fantasai)
     * FPWD?
