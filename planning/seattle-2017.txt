@@ -66,12 +66,12 @@ GitHub issues from [[https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F|
   * Geometry Interfaces (smfr)
 
 == Morning Track Text ==
+  * [[https://github.com/w3c/csswg-drafts/issues/869|[css-text] Should 'hyphens: auto' work if lang="" is not declared?]]
   * [[https://drafts.csswg.org/css-text-decor-3/issues-cr-2013|CSS Text Decoration L3: All Open Issues]]
     * Level 4?
       * [[https://github.com/w3c/csswg-drafts/issues/843|[css-text-decor] selective toggling in the text-decoration-skip property]]
       * [[https://github.com/w3c/csswg-drafts/issues/459|[css-text-decor] Text underlines' positions cannot be fine-tuned]]
       * [[https://github.com/w3c/csswg-drafts/issues/239|[css-text-decor] No way to set the underline width/thickness]]
-  * [[https://github.com/w3c/csswg-drafts/issues/869|[css-text] Should 'hyphens: auto' work if lang="" is not declared?]]
   * CSS Inline open issues (dauwhe)
       * [[https://github.com/w3c/csswg-drafts/issues/743|initial-letter in-flow or out-of-flow (preferred)?]] (jet)
       * [[https://github.com/w3c/csswg-drafts/issues/719|how to make block with initial letter taller]] (dauwhe)
