@@ -55,7 +55,7 @@ Regrets: glazou, Jihye Hong
 ==== Topics ====
 GitHub issues from [[https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F|Agenda ftf Label]] should be incorporated below
 
-=== Monday ===
+=== Wednesday ===
 
 == Morning Track FX ==
   * [[http://drafts.csswg.org/css-transforms-1/issues-wd-2013|Transforms Level 1: All Open Issues]]
@@ -85,9 +85,9 @@ GitHub issues from [[https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F|
       * [[https://github.com/w3c/csswg-drafts/issues/360| relationship of initial-letter and float ]] (dauwhe)
       * [[https://github.com/w3c/csswg-drafts/issues/689| initial-letter line shortened when floats present ]] (dauwhe)
 
-=== Tuesday ===
+=== Thursday ===
 
-=== Wednesday ===
+=== Friday ===
 
 === Unslotted ===
   * Sizing
