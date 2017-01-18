@@ -15,6 +15,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * 2017-11-06..10 TPAC, Burlingame, CA (next to SF airport)
   * 2018
     * late January of 2018 (or February?) - Sydney, Australia (Google)
+    * April - Berlin? (to coincide with TYPO Labs)
   * [[planning:hosting]]
 
 ===== Past Meetings =====
