@@ -98,6 +98,30 @@ div::before[2] {border: thick solid lime;}
 </code>  
 
 <code css>
+div::before {border: thick solid green; content="text1";}
+div::before::before {border: thick solid lime; content="text2";}
+div::after {border: thick solid green; content="text3";}
+div::after::after {border: thick solid lime; content="text4";}
+</code>
+<code html>
+<div>
+  <!-- ::before pseudo-element -->
+    <!-- nesting ::before pseudo-element -->
+      text2
+    <!-- end -->
+    text1
+  <!-- end -->
+  markup content
+  <!-- ::after pseudo-element -->
+    text3
+    <!-- nesting ::after pseudo-element -->
+      text4
+    <!-- end -->
+  <!-- end -->
+</div>
+</code>  
+
+<code css>
 div::outside[1] {border: thick solid green;}
 div::outside[2] {border: thick solid lime;}
 </code>
