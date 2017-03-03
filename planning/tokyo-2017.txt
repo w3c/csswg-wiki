@@ -40,6 +40,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Rossen Atanassov | TBD | TBD | TBD | |
 | Simon Sapin | TBD | TBD | TBD | |
 | Jet Villegas | TBD | TBD | TBD | |
+| Vladimir Levantovsky | 2017-04-17 | 2017-04-22 | TBD | NH880 into Haneda from Sydney, UA882 out of Narita |
 ==== Regrets ====
   * Dave Cramer
 ==== Topics ====
