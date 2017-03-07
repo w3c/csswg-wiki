@@ -29,7 +29,7 @@ TBD
 Please, put your name in this table if you plan to participate (alphabetical order):
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
-| Alan Stearns | TBD | TBD | TBD | |
+| Alan Stearns | 16 Apr | 27 Apr | AirBnB | Delta 167/166 |
 | Brian Birtles | N/A | N/A | HOME | N/A |
 | Chris Lilley | TBD | TBD | TBD | |
 | fantasai | 14 Apr | 22 Apr | TBD | |
