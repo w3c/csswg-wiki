@@ -4,6 +4,20 @@
    * Dates: Monday-Wednesday, February 01-3, 2016 (with SVG on Wednesday)
    * Times: Doors will open from 8:30am. Meeting can run from 9:00am - 6:30pm as required.
 
+==== Meeting Minutes ====
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0205.html|Wednesday, 1 Feb Part I: Web Compat Challenges]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0206.html|Wednesday, 1 Feb Part II: Tables, Colors, Transforms]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|Wednesday, 1 Feb Part III: Writing Modes, Line Grid]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0208.html|Wednesday, 1 Feb Part IV: Overflow]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0350.html|Thursday, 2 Feb Part I: A report on research into automatic layout, CSS Text]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0351.html|Thursday, 2 Feb Part II: Round Display]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0352.html|Thursday, 2 Feb Part III: Behavior of contains:paint and overflow:clip, text-overflow and resize properties; CSS Text; Exclusions and bidi]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0353.html|Thursday, 2 Feb Part IV: Snap Points, bookmark-level: auto, Sizing]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0357.html|Friday, 3 Feb Part I: 2017 F2F Meetings, Scroll-linked Animations]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0358.html|Friday, 3 Feb Part II: Fill & Stroke on CSS Text]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0359.html|Friday, 3 Feb Part III: SVG Text Issues]]
+  * [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|Friday, 3 Feb Part IV: CSS Masking, Filters, Gradients & Dithering, Investigation about JS API for Realizing Level of Details, Transitions and Animations, Matrices]]
+
 ==== Adjacent meetings ====
   * 2016-01-30..31 [[https://github.com/w3c/css-houdini-drafts/wiki/Sydney-F2F-January-2016|Houdini Meeting]] in Sydney
   * 2016-02-03 Joint meeting between CSS and SVG in Sydney
