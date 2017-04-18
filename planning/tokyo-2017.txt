@@ -88,6 +88,10 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 
 === Wednesday === 
 == Morning ==
+  * Resolve on dates for the first meeting of 2018 in Sydney
+    * January 22 - January 25
+    * January 29 - February 1
+    * February 5 - February 9
   * Fonts 
     * OM issues, tests for Fonts 3, FPWD for Fonts 4
     * [[https://lists.w3.org/Archives/Public/www-style/2017Feb/0028.html|[css-fonts] font-language-override property and descriptor]]
