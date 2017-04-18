@@ -93,6 +93,9 @@ Please, put your name in this table if you plan to participate (alphabetical ord
     * [[https://github.com/w3c/csswg-drafts/issues/1212|Criteria to blockify the writing mode roots]]
   * [[https://github.com/w3c/csswg-drafts/issues/1217|Consider USVString instead of DOMString in CSSOM, replacing surrogates with U+FFFD]]
   * Images 3 issues - leaverou (Friday)
+  * Page floats (Florian):
+    * https://github.com/w3c/csswg-drafts/issues/1233
+    * https://github.com/w3c/csswg-drafts/issues/1234
 
 === Wednesday === 
 == Morning ==
