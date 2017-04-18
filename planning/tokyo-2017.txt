@@ -84,7 +84,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
     * January 29 - February 1
     * February 5 - February 9
   * Fonts 
-    * OM issues, tests for Fonts 3, FPWD for Fonts 4
+    * OM issues, [[https://www.w3.org/People/chris/fwf/ |tests for Fonts 3]], FPWD for Fonts 4
     * [[https://lists.w3.org/Archives/Public/www-style/2017Feb/0028.html|[css-fonts] font-language-override property and descriptor]]
   * Conditional Rules - resolve discrepancies with CSSOM 
   * UA-defined variables - smfr/dino
