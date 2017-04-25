@@ -2,7 +2,7 @@
 
    * Host: Mozilla
    * Dinner:
-   * Dates: Wednesday-Thursday, August 2-4, 2017
+   * Dates: Wednesday-Friday, August 2-4, 2017
      * Tuesday the 1st will be a Houdini meeting
 
 ==== Location ====
