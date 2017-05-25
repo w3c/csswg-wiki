@@ -14,7 +14,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 ==== Participants ====
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
-| | | | | |
+| Florian Rivoal| | | AirBnB | Train |
 
 (alphabetical by given name)
 
