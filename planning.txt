@@ -15,6 +15,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * (winter meeting cancelled)
     * Early April in Berlin (to coincide with TYPO Labs)
     * Summer (July?) TBD
+    * 2018-10-26..30 TPAC, Lyon, France
   * [[planning:hosting]]
 
 ===== Past Meetings =====
