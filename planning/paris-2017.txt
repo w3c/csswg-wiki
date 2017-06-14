@@ -18,6 +18,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Brian Birtles | 30 July | 2 Aug | Hôtel Saint-Marc | JL415/416 |
 | Dave Cramer| 1 Aug | 5 Aug| |  |
 | Florian Rivoal| | | AirBnB | Train |
+| Jen Simmons | 31 July | 5 Aug | AirBnb |BA304 (from London) / BA 8003 |
 | Peter Linss| | | AirBnB | Eurostar |
 | Rachel Andrew| 30 July | 5 Aug | | BA315/BA314 |
 | Rossen Atanassov| 1 Aug | 5 Aug | hotel | uber |
