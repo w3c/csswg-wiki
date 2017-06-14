@@ -17,6 +17,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Alan Stearns | 28 July | 5 Aug | AirBnB | |
 | Brian Birtles | 30 July | 2 Aug | Hôtel Saint-Marc | JL415/416 |
 | Dave Cramer| 1 Aug | 5 Aug| |  |
+| Emil A Eklund| 1 Aug | 5 Aug | W Opera | TBD |
 | Florian Rivoal| | | AirBnB | Train |
 | Geoffrey Sneddon | 31 Jul | 5 Aug | Mercure Paris Opera Louvre | (Probably some Eurostar) |
 | Jen Simmons | 31 July | 5 Aug | AirBnb |BA304 (from London) / BA 8003 |
