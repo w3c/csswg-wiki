@@ -36,6 +36,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 
    * Chris Lilley (no travel funding)
    * Dael Jackson
+   * Hiroshi Sakakibara (my first baby will born) 
    * Simon Pieters
 
 ==== Proposed Agenda Topics ====
