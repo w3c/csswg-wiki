@@ -46,3 +46,5 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
    * Hiroshi Sakakibara (my first baby will born) 
    * Simon Pieters
 ==== Proposed Agenda Topics ====
+
+  * maintenance of multicol
