@@ -2,7 +2,7 @@
 
 This is scratch space for tracking the state of the CSS specs and what needs to be done for each. **It is not an exhaustive to-do list.** It's mainly used to track CSSWG-assigned items, though editors might also add their own items occasionally. (Other to-do items are stored on www-style, various issue-trackers, dispositions of comments, and editors' heads.)
 
-It was last updated on 21 June 2017 and tracks backwards through about August 2013 or so.
+It was last updated on 28 June 2017 and tracks backwards through about August 2013 or so.
 
 
   ; Animation Scrolling
@@ -41,6 +41,11 @@ It was last updated on 21 June 2017 and tracks backwards through about August 20
   : [[https://lists.w3.org/Archives/Public/www-style/2016Oct/0130.html|Resolved: 0px width float that is next to a line box does count as shortening a line box]]
 
   ; Box Alignment
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Resolved: leave behavior as-is and not accept ‘legacy’ values for ‘place-items’]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Resolved: accept the proposal that margin and position properties will return the specified values.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Resolved: the baseline alignment in block direction of tables is not defined. Also add a note prompting implementors to bring back ideas if they have any.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Resolved: leave the ‘left’ and ‘right’ values to fallback to start.]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Resolved: remove left and right from align-self and align-content in align L3.]]
   : Under LC Review
 
   ; Compositing
@@ -88,7 +93,10 @@ It was last updated on 21 June 2017 and tracks backwards through about August 20
   : [[https://www.w3.org/Style/CSS/Tracker/actions/728|Propose color profile feature for css]]
 
   ; Contain
-  : : [[https://lists.w3.org/Archives/Public/www-style/2016May/0210.html|RESOLVED: Publish FPWD of css-contain-1 after edits on overflow dependency]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2016May/0210.html|RESOLVED: Publish FPWD of css-contain-1 after edits on overflow dependency]]
+
+  ; Counter Styles
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Resolved: make “disc” not overridable.]]
 
   ; CSS2.1
   : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0009.html|Resolved: Add gsnedders as editor to CSS2.2]]
@@ -116,7 +124,8 @@ It was last updated on 21 June 2017 and tracks backwards through about August 20
   : [[https://www.w3.org/Style/CSS/Tracker/actions/673|Make page of all form controls]]
 
   ; CSS Logical Properties
-  :
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Resolved: adopt inset as the new positioning property name that’s used for shorthand]]
+  : [[https://lists.w3.org/Archives/Public/www-style/2017Jun/0039.html|Action: fremy to create a poll to get more data on the inset name]]
 
   ; CSS OM
   : [[https://lists.w3.org/Archives/Public/www-style/2016Dec/0076.html|Resolved: Make color properties return used value as resolved value]]
