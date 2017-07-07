@@ -16,6 +16,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
 | Alan Stearns | 28 July | 5 Aug | AirBnB | |
 | Benjamin De Cock | 1 Aug | 5 Aug | Millennium Opera Hotel | Thalys |
+| Bert | 31 Jul | 4 Aug | TBD | TBD |
 | Brian Birtles | 30 July | 2 Aug | Hôtel Saint-Marc | JL415/416 |
 | Dave Cramer| 1 Aug | 5 Aug| |  |
 | Dean Jackson| 1 Aug | 4 Aug| | Walking, Swimming, Crawling |
