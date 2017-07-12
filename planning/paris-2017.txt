@@ -25,6 +25,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Florian Rivoal| | | AirBnB | Train |
 | Francois Remy | 31 July | 4 Aug | |
 | Geoffrey Sneddon | 31 Jul | 5 Aug | Mercure Paris Opera Louvre | (Probably some Eurostar) |
+| Jack Moffitt |
 | Jen Simmons | 31 July | 5 Aug | AirBnb |BA304 (from London) / BA 8003 |
 | Jet Villegas | 28 July | 5 Aug | AirBnb | TBD |
 | Koji Ishii| 31 July | 5 Aug | TBD | TBD |
@@ -36,6 +37,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Rob Flack| 31 July | 8 Aug | Hôtel Flor Rivoli | AC880/AC881 |
 | Rossen Atanassov| 1 Aug | 5 Aug | hotel | uber |
 | Simon Sapin | | | home |
+| Till Schneidereit |
 | Greg Whitworth | | | |
 | Surma | 31 Jul | 5 Aug | Millennium Opera Hotel | BA336/BA335 |
 | Tab Atkins | | | | |
