@@ -61,3 +61,4 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
     * Potential reworking of flow-root syntax ([[https://github.com/w3c/csswg-drafts/issues/1496]])
     * Any other open issues blocking CR
   * [[https://github.com/w3c/csswg-drafts/issues/1594|Additive CSS]] (On Wednesday please!) - Brian
+  * Flexbox Open Issues: https://drafts.csswg.org/css-flexbox/issues-cr-20160526
