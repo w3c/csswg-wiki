@@ -45,7 +45,13 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Tab Atkins | | | | |
 | Till Schneidereit |
 
-(alphabetical by given name)
+**(alphabetical by given name)**
+
+** Regrets **
+  * Chris Lilley (no travel funding)
+  * Dael Jackson
+  * Hiroshi Sakakibara (my first baby will born) 
+  * Simon Pieters
 
 ==== Observers ====
 
