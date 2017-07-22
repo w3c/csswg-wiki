@@ -43,6 +43,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
 | Simon Sapin | | | home |
 | Surma | 31 Jul | 5 Aug | Millennium Opera Hotel | BA336/BA335 |
 | Tab Atkins | | | | |
+| Tantek Çelik | 2017-08-01 | 2017-08-10 | AirBnB | UA990/UA984 |
 | Till Schneidereit |
 
 **(alphabetical by given name)**
