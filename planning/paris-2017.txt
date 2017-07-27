@@ -91,8 +91,11 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
   * selectors4 publication and review of dbaron's recent edit to API hooks (see [[https://lists.w3.org/Archives/Public/www-style/2017Jul/0022.html|email]])
   * TAG review of OpenType variable fonts https://github.com/w3ctag/design-reviews/issues/183
   * Media Queries 4: CR? https://drafts.csswg.org/mediaqueries-4/issues-wd-2016-01-26.html
-  * letter-spacing - koji
+  * [css-text-3] letter-spacing - Koji
     * [[https://github.com/w3c/csswg-drafts/issues/1518|End edge behavior]]
     * [[https://github.com/w3c/csswg-drafts/issues/1517|Bidi-mixed directions]]
     * [[https://github.com/w3c/csswg-drafts/issues/1509|Applying after line breaking]]
   * [css-fonts] CSSFontFaceRule does not seem Web compatible https://github.com/w3c/csswg-drafts/issues/825 Myles
+  * [css-rhythm][css-line-grid] - Florian/Koji
+    * Discuss implementer's opinions on font-dependent layout and vertical rhythm combination ([[https://github.com/w3c/csswg-drafts/issues/938#issuecomment-315091165|github comment]])
+    * [[https://github.com/w3c/csswg-drafts/issues/938#issuecomment-314690847|Florian's further testing and investigations]]
