@@ -76,6 +76,11 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
   * Counter Styles Open Issues, if not already covered. https://drafts.csswg.org/css-counter-styles-3/issues-cr-20150611
   * Media Queries 4: CR? https://drafts.csswg.org/mediaqueries-4/issues-wd-2016-01-26.html
   * [[https://github.com/w3c/csswg-drafts/issues/1594|Additive CSS]] (On Wednesday please!) - Brian
+  * Align issues
+    * [[https://github.com/w3c/csswg-drafts/issues/1002|Allowing fallback alignments without breaking shorthands]]
+    * [[https://github.com/w3c/csswg-drafts/issues/1039|Baseline self-alignment may affect the intrinsic size contribution of the alignment subject.]]
+    * [[https://github.com/w3c/csswg-drafts/issues/1365|How items with synthesized baseline affect the size of intrinsic tracks]]
+    * [[https://github.com/w3c/csswg-drafts/issues/1572|Baseline of a multi-col box?]]
 
 == Afternoon ==
 
@@ -118,6 +123,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
     * [[https://github.com/w3c/csswg-drafts/issues/1486|Should all the `inline-foo` and `inline foo` forms be distinct?]]
     * [[https://github.com/w3c/csswg-drafts/issues/1457|Becoming a formatting context]]
     * Any other open issues blocking CR
+  * [CSS-UI-4] 'auto' as the initial value for the 'appearance' property may not be web-compatible https://github.com/w3c/csswg-drafts/issues/1250
 
 === Friday === 
 == Morning ==
@@ -132,6 +138,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
     * [[https://github.com/w3c/csswg-drafts/issues/1509|Applying after line breaking]]
   * [css-text-4] [[https://github.com/w3c/csswg-drafts/issues/1668 | text-spacing fullwidth punctuation collapsing]] (Florian)
   * Renaming the dynamic and static profiles of selectors http://www.w3.org/mid/462521501352285@web16j.yandex.ru (Florian)
+  * [[https://github.com/w3c/csswg-drafts/issues/1391|[css-writing-modes] Orthogonal Flow Constraint: viewport vs scroller]]
 
 == Afternoon ==
 
@@ -150,10 +157,3 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
     * [[https://github.com/w3c/csswg-drafts/issues/794|794]]
     * [[https://github.com/w3c/csswg-drafts/issues/951|951]]
     * [[https://github.com/w3c/csswg-drafts/issues/1609|1609]]
-  * [CSS-UI-4] 'auto' as the initial value for the 'appearance' property may not be web-compatible https://github.com/w3c/csswg-drafts/issues/1250
-  * Align issues
-    * [[https://github.com/w3c/csswg-drafts/issues/1002|Allowing fallback alignments without breaking shorthands]]
-    * [[https://github.com/w3c/csswg-drafts/issues/1039|Baseline self-alignment may affect the intrinsic size contribution of the alignment subject.]]
-    * [[https://github.com/w3c/csswg-drafts/issues/1365|How items with synthesized baseline affect the size of intrinsic tracks]]
-    * [[https://github.com/w3c/csswg-drafts/issues/1572|Baseline of a multi-col box?]]
-  * [[https://github.com/w3c/csswg-drafts/issues/1391|[css-writing-modes] Orthogonal Flow Constraint: viewport vs scroller]]
