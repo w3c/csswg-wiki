@@ -107,7 +107,7 @@ See [[https://wiki.mozilla.org/Paris|Mozilla Paris wiki]] for important directio
   * Automating Test Coverage - Greg
   * Revisiting policy around requiring tests for normative changes (see [[http://www.w3.org/mid/E68C12B1-A354-44CD-8F9A-334728997955@adobe.com|email]]) - Geoffrey/Chris (who isn't here)
   * [CSS-UI-3] (Florian)
-    * Getting ready for PR
+    * Getting ready for PR https://test.csswg.org/harness/results/css-ui-3_dev/grouped/filter/17/
     * Keep most cursor changes in the UA stylesheet? https://github.com/w3c/csswg-drafts/issues/1598
     * Meaning of "must not affect dispatching of pointer events" https://github.com/w3c/csswg-drafts/issues/1637
     * Note pointing to HTML's definition of cursor applying to image maps? https://github.com/w3c/csswg-drafts/issues/1618
