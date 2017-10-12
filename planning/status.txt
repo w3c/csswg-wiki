@@ -208,8 +208,7 @@ It was last updated on 20 September 2017 and tracks backwards through about Augu
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0360.html|zcorpan requested review of the edits he made in the WHATWG geometry spec https://github.com/whatwg/compat/issues/19 ]]
 
   ; Grid
-  : [[https://lists.w3.org/Archives/Public/www-style/2017Sep/0045.html|Resolved: fit-content does not grow past its argument due to alignment stretch.]]
-  : [[https://lists.w3.org/Archives/Public/www-style/2017Sep/0045.html|Resolved: Keep fit-content behavior as-is, to not grow past max-content in presence of stretch.]]
+  : 
 
   ; Images 3
   : [[https://lists.w3.org/Archives/Public/www-style/2017Jul/0015.html|Resolved: Accept the change in https://github.com/w3c/csswg-drafts/issues/1578]]
