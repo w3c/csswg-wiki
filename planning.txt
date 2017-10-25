@@ -13,7 +13,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
   * 2018
     * (winter meeting cancelled)
     * 2018-04-09..12 [[planning:berlin-2018]] (to coincide with TYPO Labs April 12-14)
-    * Summer (Sydney? Toronto? Honolulu? Other?) TBD
+    * 2018-07-02..05 [[https://wiki.csswg.org/planning/sydney-2018|Sydney, Australia]]
     * [[https://www.w3.org/wiki/TPAC/2018|2018-10-26..30 TPAC]], Lyon, France
   * 2019
     * (winter meeting?)
