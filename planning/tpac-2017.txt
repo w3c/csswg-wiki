@@ -51,3 +51,4 @@ Regrets:
   * intrinsic size of 'overflow: auto/scroll' and its impact on auto-sized grid/flex item ancestors
   * General animation of offset-path and d path strings (https://github.com/w3c/fxtf-drafts/issues/225)
   * Cleaning up owners files for testing (gregwhitworth)
+  * [[https://github.com/w3c/csswg-drafts/issues/1898|logical/physical property cascade and the .style API]] (tabatkins)
