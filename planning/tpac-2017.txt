@@ -37,6 +37,9 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Greg Whitworth | 5 Nov | 11 Nov | | |
 Regrets:
 
+Partial conflicts:
+  * David Baron will miss roughly 9:00-11:00 Monday (TAG), and possibly 15:00-18:00 Tuesday (AC)
+
 (See also the current [[https://www.w3.org/2002/09/wbs/35125/TPAC2017/registrants#CSS|TPAC registrations]] [member-only])
 ==== Schedule ====
 
