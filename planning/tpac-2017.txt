@@ -57,3 +57,4 @@ Regrets:
   * Interaction of scroll-snap and JS scrolling APIs (tab & fantasai) ([[https://github.com/w3c/csswg-drafts/issues/1707|#1707]], [[https://github.com/w3c/csswg-drafts/issues/1708|#1708]])
   * [[https://github.com/w3c/csswg-drafts/issues/374|::selection cascade]]
   * line-clamp (tab & eae?) (https://twitter.com/bfgeek/status/925486371937980416)
+  * * [[https://tabatkins.github.io/specs/construct-stylesheets/|Constructable Stylesheets]] (tab & eric)
