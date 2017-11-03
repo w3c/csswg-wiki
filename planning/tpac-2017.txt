@@ -64,7 +64,7 @@ Regrets:
   * [[https://github.com/w3c/csswg-drafts/issues/509|%s and intrinsic sizes in Grid]] (tab & fantasai) (put on monday)
   * Interaction of scroll-snap and JS scrolling APIs (tab & fantasai) ([[https://github.com/w3c/csswg-drafts/issues/1707|#1707]], [[https://github.com/w3c/csswg-drafts/issues/1708|#1708]])
   * [[https://github.com/w3c/csswg-drafts/issues/374|::selection cascade]]
-  * line-clamp (tab & eae?) (https://twitter.com/bfgeek/status/925486371937980416)
+  * line-clamp (tab & eae?) (https://twitter.com/bfgeek/status/925486371937980416) (put on monday)
   * * [[https://tabatkins.github.io/specs/construct-stylesheets/|Constructable Stylesheets]] (tab & eric)
   * Navigation related (Tuesday please)
     * [[https://github.com/lgeweb/spatial-navigation/blob/master/explainer.md|APIs for the spatial focus navigation proposal]] (jihye)
