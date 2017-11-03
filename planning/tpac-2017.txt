@@ -72,3 +72,4 @@ Regrets:
   * Prepare snapshot 2018 (Florian)
     * borken indices in the 2017 snapshot https://github.com/w3c/csswg-drafts/issues/1007
     * Copy document conventions (and conformance?) from 2.1 to the snapshot? https://github.com/w3c/csswg-drafts/issues/1867
+  * Clarify widows and orphans https://github.com/w3c/csswg-drafts/issues/1823 
