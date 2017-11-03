@@ -81,3 +81,4 @@ Regrets:
   * [css-ui-4] user-select  (Florian)
     * user-select on form controls https://github.com/w3c/csswg-drafts/issues/285
     * user-select on generated content and list markers https://github.com/w3c/csswg-drafts/issues/284 (Florian, probably needs to get some WebPlat folks in the room)
+  * [css-ui-4] Scrollbar styling https://github.com/w3c/csswg-drafts/issues/107 (Florian)
