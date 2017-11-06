@@ -116,7 +116,6 @@ See also the current [[https://www.w3.org/2002/09/wbs/35125/TPAC2017/registrants
   * Prepare snapshot 2018 (Florian)
     * borken indices in the 2017 snapshot https://github.com/w3c/csswg-drafts/issues/1007
     * Copy document conventions (and conformance?) from 2.1 to the snapshot? https://github.com/w3c/csswg-drafts/issues/1867
-  * Clarify widows and orphans https://github.com/w3c/csswg-drafts/issues/1823 (Florian)
   * CSS Contain (Florian)
     * To which box does paint containment clip? https://github.com/w3c/csswg-drafts/issues/1809
     * Clarify style containment effect 1 https://github.com/w3c/csswg-drafts/issues/1872
