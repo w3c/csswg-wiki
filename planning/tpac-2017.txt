@@ -128,3 +128,4 @@ See also the current [[https://www.w3.org/2002/09/wbs/35125/TPAC2017/registrants
     * how does absolute positioning work in a containing block that was split by a column-span? https://github.com/w3c/csswg-drafts/issues/1894
   * [[https://lists.w3.org/Archives/Member/w3c-css-wg/2017OctDec/0091.html|Move Web Animations to CSSWG]]
   * [css-backgrounds] Background-clip and text underline https://github.com/w3c/csswg-drafts/issues/900
+  * [css-values] Computed value of a negative calc unit that doesn't allow negative lengths. https://github.com/w3c/csswg-drafts/issues/434
