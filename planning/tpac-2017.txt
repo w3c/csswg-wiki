@@ -89,6 +89,7 @@ Regrets:
     * user-select on form controls https://github.com/w3c/csswg-drafts/issues/285
     * user-select on generated content and list markers https://github.com/w3c/csswg-drafts/issues/284 (Florian, probably needs to get some WebPlat folks in the room)
   * [css-ui-4] Scrollbar styling https://github.com/w3c/csswg-drafts/issues/107 (Florian)
+    * Request: Tuesday morning, perhaps in a breakout? In particular focused on [[https://​bugzilla.mozilla.org/​show_bug.cgi?​id=77790|scrollbar colors for compat]] (Tantek)
   * [css-multicol] Small legacy issues (Rachel)
     * z-order of column-rule and column scrolling https://github.com/w3c/csswg-drafts/issues/1739
     * Text describing column boxes as block container boxes https://github.com/w3c/csswg-drafts/issues/1738
