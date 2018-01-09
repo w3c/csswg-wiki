@@ -9,6 +9,14 @@
        * Thursday-Saturday April 12-14: TYPO Labs (with workshops Friday & Saturday)
    * Hotel room block at nearby [[https://www.nh-hotels.de/hotel/nh-berlin-alexanderplatz|NH Hotel Berlin Alexanderplatz]], room rate will be 109,00 € including breakfast.
 
+==== TYPO Labs 2018 registration info ====
+
+   * [[https://www.typotalks.com/labs/2018/tickets/|Ticket store]] is now open
+       * In the right bottom corner, click to enter a promotional code and enter "CSSWG-LABS"
+       * Select a complimentary Guest ticket and proceed with registration details.
+       * Tickets are non-transferable
+   * A single 45-min speaker slot on Friday, April 13 is reserved for CSS WG participants who wish to prepare a talk (it could be subdivided into two or three slots if we wish).
+
 ==== Participants ====
 
 Please add 'block' to the hotel column if you would be interested in taking advantage of the organizers' hotel rates.
