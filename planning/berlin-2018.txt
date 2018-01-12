@@ -17,7 +17,10 @@
 
 ==== Participants ====
 
-Please add 'block' to the hotel column if you would be interested in taking advantage of the organizers' hotel rates.
+<del>Please add 'block' to the hotel column if you would be interested in taking advantage of the organizers' hotel rates.</del>
+
+**UPDATE: There will be no block rate. You can book at the hotel if you want, or elsewhere, but you need to do it yourself, at the standard rate.**
+
 And please add 'yes' to the TYPO Labs column if you'd be interested in attending the TYPO event.
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ TYPO Labs ^
@@ -27,7 +30,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Dirk Schulze | | | | train | Yes |
 | Eric Willigers | | | block | | |
 | fantasai | | | block | |
-| Florian Rivoal | | | block | | Yes |
+| Florian Rivoal | | | Airbnb? | | Yes |
 | Geoffrey Sneddon | | | probably staying with family | | Probably not |
 | Jen Simmons | | | block | | Yes |
 | L. David Baron | | | block? | | probably Friday only (will confirm when booking travel) |
