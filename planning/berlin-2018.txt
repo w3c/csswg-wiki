@@ -27,6 +27,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Alan Stearns | | | | | Yes |
 | Chris| | | block | | Yes |
 | Dave Cramer | | | block | | |
+| Dael Jackson | | | AirBnB? | | No |
 | Dirk Schulze | | | | train | Yes |
 | Eric Willigers | | | block | | |
 | fantasai | | | block | |
