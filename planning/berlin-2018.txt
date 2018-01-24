@@ -40,6 +40,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Manuel Rego | | | block | | Friday only |
 | Naina Raisinghani | | | arranging my own | | No|
 | Rachel Andrew | | | | | |
+| Peter Linss | | | AirBnB? | | |
 | Rossen Atanassov | | | | train | Yes |
 | Shane Stephens | | | block | | |
 | Tab Atkins | | | block | | |
