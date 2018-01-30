@@ -40,6 +40,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | L. David Baron | | | block? | | probably Friday only (will confirm when booking travel) |
 | Lea Verou | | | block? | | probably |
 | Manuel Rego | | | block | | Friday only |
+| Myles C. Maxfield | | | Brandenburg Gate | Zeppelin | Definitely |
 | Naina Raisinghani | | | arranging my own | | No|
 | Rachel Andrew | | | | | |
 | Peter Linss | | | AirBnB? | | |
@@ -54,7 +55,6 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 Christian Biesinger, 
 Oriol Brufau, 
 Richard Rutter
-
 ==== Agenda Items ====
   * meta-issue: when we don't act on some ambig we spec due to compat. latest example, having flex/grid % margins be based on oldest (block flow) model, rather than anything in the past 20 years (positioning, flex, grid).
   * ... 
