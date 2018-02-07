@@ -136,6 +136,9 @@ so we cannot do that.
 In effect, if we ever add a selector that can depend on properties,
 then we can never add another selector that would depend on other properties ever.
 Which one goes first?
+Something that we can only do once, ever,
+and that will affect our ability to evolve CSS in the future,
+is probably a bad idea for the language.
 
 Yet another way you could try to remediate all this
 would be to do a run-time detection
