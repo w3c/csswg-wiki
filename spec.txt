@@ -7,6 +7,7 @@ The [[planning/status|Status page]] tracks outstanding resolutions. Please clear
 ====== Specification Editing ======
 
   * [[tools:hg|W3C Mercurial For Dummies]] --- reading/writing to the spec repositories
+  * [[https://w3c.github.io/workflow.html|GitHub Workflow]] for editors and other contributors
   * [[tools:bikeshed]] --- generating ''Overview.html'' from ''Overview.bs'' (auto-generating section numbers, indices, cross-links, and other mundane things).  (Or here's a guide for the [[tools:spec-processor|older processor]].)
   * [[http://dev.w3.org/csswg/css-module-bikeshed/Overview.bs|CSS Module Template]] --- for starting new specs (and formatting old ones)
   * [[spec:format-update]] --- for updating existing specs to our latest "specs should include"
