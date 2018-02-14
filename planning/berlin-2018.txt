@@ -52,9 +52,11 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Vladimir Levantovsky | | | block | | Yes |
 
 === Observers ===
-Christian Biesinger, 
-Oriol Brufau, 
-Richard Rutter
+^ Name ^ Organization ^
+| Christian Biesinger | |
+| Oriol Brufau | |
+| Richard Rutter | |
+| Emilio Cobos Álvarez | Mozilla |
 ==== Agenda Items ====
   * meta-issue: when we don't act on some ambig we spec due to compat. latest example, having flex/grid % margins be based on oldest (block flow) model, rather than anything in the past 20 years (positioning, flex, grid).
   * ::part & ::theme
