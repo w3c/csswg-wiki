@@ -49,7 +49,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Shane Stephens | | | block | | |
 | Surma | | |  | | |
 | Tab Atkins | | | block | | |
-| Tantek Çelik | | | AirBnB? | | Maybe |
+| Tantek Çelik | 2018-04-09 | 2018-04-15 | Victor's Residenz-Hotel | United SFO-*-TXL | Maybe |
 | Vladimir Levantovsky | | | block | | Yes |
 
 === Observers ===
