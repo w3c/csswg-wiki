@@ -11,6 +11,7 @@
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes
 | Chris Lilley | | | |
 | Eric Willigers | | | Home |
+| Emil A Eklund | TBD | TBD | TBD |
 | Naina Raisinghani |17 Aug 2015 :P |:shrug | Home |
 | Shane Stephens | | | Home |
 | Tantek Çelik | | | |
