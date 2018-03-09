@@ -24,35 +24,35 @@
 
 And please add 'yes' to the TYPO Labs column if you'd be interested in attending the TYPO event.
 
-^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ TYPO Labs ^
-| Alan Stearns | 6 Apr | 15 Apr | | | Yes |
-| Chris Lilley | | | block | | Yes |
-| Dave Cramer | | | block | | |
-| Dael Jackson | | | AirBnB? | | No |
-| Dirk Schulze | | | | train | Yes |
-| Emil A Eklund | | | Westin Grand probably| powered, fixed-wing aircraft | Probably not | 
-| Eric Willigers | | | block | | |
-| fantasai | | | block | |
-| Florian Rivoal | | | Airbnb? | | Yes |
-| Geoffrey Sneddon | 6 Apr | 15 Apr | probably staying with family | FR151 / BA983+BA279 | Probably not |
-| Ian Kilpatrick | | | block | swim | Maybe first day |
-| Jen Simmons | | | block | | Yes |
-| Jihye Hong | | | TBD | TBD | TBD |
+^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ TYPO Labs ^ CSS WG dinner ^
+| Alan Stearns | 6 Apr | 15 Apr | | | Yes | |
+| Chris Lilley | | | block | | Yes | |
+| Dave Cramer | | | block | | | |
+| Dael Jackson | | | AirBnB? | | No | |
+| Dirk Schulze | | | | train | Yes | |
+| Emil A Eklund | | | Westin Grand probably| powered, fixed-wing aircraft | Probably not | | 
+| Eric Willigers | | | block | | | |
+| fantasai | | | block | | |
+| Florian Rivoal | | | Airbnb? | | Yes | |
+| Geoffrey Sneddon | 6 Apr | 15 Apr | probably staying with family | FR151 / BA983+BA279 | Probably not | |
+| Ian Kilpatrick | | | block | swim | Maybe first day | |
+| Jen Simmons | | | block | | Yes | |
+| Jihye Hong | | | TBD | TBD | TBD | |
 | L. David Baron | 8 April, 17:35 | 14 April, 10:15 |  Victor's Residenz-Hotel Berlin | [[https://flightaware.com/live/flight/FIN74|AY74]]/[[https://flightaware.com/live/flight/FIN1437|AY1437]], [[https://flightaware.com/live/flight/DLH39|LH39]]/[[https://flightaware.com/live/flight/UAL59|UA59]] | Friday only |
-| Lea Verou | | | block? | | probably |
-| Manuel Rego | | | block | | Friday only |
-| Myles C. Maxfield | | | Brandenburg Gate | Zeppelin | Definitely |
-| Naina Raisinghani | | | arranging my own | | No|
-| Rachel Andrew | | | | | |
-| Peter Linss | | | AirBnB? | | |
-| Rob Flack | 7 Apr | 13 Apr | | | No |
-| Rossen Atanassov | | | | train | Yes |
-| Shane Stephens | | | block | | |
-| Surma | | |  | | |
-| Tab Atkins | | | block | | |
-| Tantek Çelik | 2018-04-09 18:55 | 2018-04-15 11:45| Victor's Residenz-Hotel | United SFO-*-TXL | Maybe |
-| Vladimir Levantovsky | | | block | | Yes |
-| Rune Lillesveen | | | | | No |
+| Lea Verou | | | block? | | probably | |
+| Manuel Rego | | | block | | Friday only | |
+| Myles C. Maxfield | | | Brandenburg Gate | Zeppelin | Definitely | |
+| Naina Raisinghani | | | arranging my own | | No| |
+| Rachel Andrew | | | | | | |
+| Peter Linss | | | AirBnB? | | | |
+| Rob Flack | 7 Apr | 13 Apr | | | No | |
+| Rossen Atanassov | | | | train | Yes | |
+| Shane Stephens | | | block | | | |
+| Surma | | |  | | | |
+| Tab Atkins | | | block | | | |
+| Tantek Çelik | 2018-04-09 18:55 | 2018-04-15 11:45| Victor's Residenz-Hotel | United SFO-*-TXL | Maybe | |
+| Vladimir Levantovsky | | | block | | Yes | Yes, omnivore |
+| Rune Lillesveen | | | | | No | |
 
 === Observers ===
 ^ Name ^ Organization ^
