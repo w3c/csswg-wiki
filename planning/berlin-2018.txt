@@ -7,6 +7,8 @@
        * Monday April 9: [[https://github.com/w3c/css-houdini-drafts/wiki/Berlin-F2F-April-2018|Houdini Meeting]]
        * Tuesday-Thursday April 10-12: CSS WG Meeting 
        * Tuesday, April 10: CSS WG dinner at the [[http://www.solarberlin.com/|Solar Lounge]]. Group 4-course dinner menu includes a vegetarian option (need a preliminary count for those who would prefer a vegetarian option).
+       * Thursday: Lunch at 1:30-2:30 pm, at Umweltforum nearby (TYPO Labs location)
+       * Thursday: TYPO Labs get-together dinner party - BBQ and drinks.
        * Thursday-Saturday April 12-14: TYPO Labs (with workshops Friday & Saturday)
    * Hotel nearby: [[https://www.nh-hotels.de/hotel/nh-berlin-alexanderplatz|NH Hotel Berlin Alexanderplatz]].
 
