@@ -28,7 +28,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ TYPO Labs ^ CSS WG dinner ^
 | Alan Stearns | 6 Apr | 15 Apr | | | Yes | Yes, omnivore |
-| Chris Lilley | | | block | | Yes | |
+| Chris Lilley | | | block | | Yes | Yes, omnivore |
 | Dave Cramer | | | block | | | |
 | Dael Jackson | 6 Apr | 13 Apr | AirBnB | | No | Yes, vegetarian |
 | Dirk Schulze | | | | train | Yes | |
@@ -40,7 +40,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Ian Kilpatrick | | | block | swim | Maybe first day | |
 | Jihye Hong | | | TBD | TBD | TBD | |
 | L. David Baron | 8 April, 17:05 | 14 April, 10:15 |  Victor's Residenz-Hotel Berlin | [[https://flightaware.com/live/flight/FIN74|AY74]]/[[https://flightaware.com/live/flight/FIN1437|AY1437]], [[https://flightaware.com/live/flight/DLH39|LH39]]/[[https://flightaware.com/live/flight/UAL59|UA59]] | Friday only |
-| Lea Verou | | | block? | | probably | |
+| Lea Verou | | | block? | | probably | Yes, omnivore |
 | Manuel Rego | | | block | | Friday only | Yes, no restrictions |
 | Myles C. Maxfield | | | Brandenburg Gate | Zeppelin | Definitely | Yes, no restrictions |
 | Naina Raisinghani | | | arranging my own | | No| |
