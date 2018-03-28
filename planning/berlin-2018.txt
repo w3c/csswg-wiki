@@ -29,7 +29,6 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ TYPO Labs ^ CSS WG dinner ^
 | Alan Stearns | 6 Apr | 15 Apr | | | Yes | Yes, omnivore |
 | Chris Lilley | | | block | | Yes | Yes, omnivore |
-| Dave Cramer | | | block | | | |
 | Dael Jackson | 6 Apr | 13 Apr | AirBnB | | No | Yes, vegetarian |
 | Dirk Schulze | | | | train | Yes | |
 | Emil A Eklund | | | Westin Grand probably| powered, fixed-wing aircraft | Probably not | | 
