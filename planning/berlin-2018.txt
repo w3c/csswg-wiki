@@ -98,7 +98,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
   * css-overflow
     * https://github.com/w3c/csswg-drafts/issues/1971 (Florian)
     * https://github.com/w3c/csswg-drafts/issues/129 (Fantasai)
-    * https://github.com/w3c/csswg-drafts/issues/2484 Florian / Loirooriol)
+    * https://github.com/w3c/csswg-drafts/issues/2484 ( Loirooriol & Florian)
   * max-lines / block-ellipsis / [-webkit-]?line-camp (Florian & Fantasai)
     * https://github.com/w3c/csswg-drafts/issues/390#issuecomment-371076389
     * https://github.com/w3c/csswg-drafts/issues/2408
