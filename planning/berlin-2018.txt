@@ -87,7 +87,6 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
     * missing box terminology https://github.com/w3c/csswg-drafts/issues/2324
     * Interaction media feature [[https://github.com/WICG/spatial-navigation/issues/41| navigation: none | sequential | spatial ]]
     * [[https://github.com/WICG/spatial-navigation/issues/29#issuecomment-378153116|hitability testing]]
-    * Making things focusable in CSS https://github.com/WICG/spatial-navigation/issues/25
   * Remaining css-timing issue + transition spec to CR
   * [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+author%3Apalemieux+label%3ATTML|Outstanding requests from TTML]]
   * CSS-Contain (Florian) (Schedule before css-display)
@@ -114,3 +113,4 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
   * 2018 Snapshot
     * [[https://github.com/w3c/csswg-drafts/issues/2388|List features cleared for shipping]]
     * Publish? [[https://github.com/w3c/csswg-drafts/labels/snapshot-2018|Remaining open issues]]
+  * [[https://github.com/WICG/spatial-navigation/issues/25|Making things focusable in CSS]] (if Brad Kemper attends)
