@@ -90,12 +90,12 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
   * Remaining css-timing issue + transition spec to CR
   * [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+author%3Apalemieux+label%3ATTML|Outstanding requests from TTML]]
   * CSS-Contain (Florian) (Schedule before css-display)
-    * https://github.com/w3c/csswg-drafts/issues/2483
-    * https://github.com/w3c/csswg-drafts/issues/2223
-    * https://github.com/w3c/csswg-drafts/issues/2349
-    * https://github.com/w3c/csswg-drafts/issues/1457#issuecomment-379156461
-    * https://github.com/w3c/csswg-drafts/issues/2510
-    * https://github.com/w3c/csswg-drafts/issues/2512
+    * [[https://github.com/w3c/csswg-drafts/issues/2483|Scoping of the content property unclear]]
+    * [[https://github.com/w3c/csswg-drafts/issues/2349|Clarify style containment property scoping]]
+    * [[https://github.com/w3c/csswg-drafts/issues/2223|contain:paint should use padding box instead of content box]]
+    * [[https://github.com/w3c/csswg-drafts/issues/1457#issuecomment-379156461| containment and formatting contexts]]
+    * [[https://github.com/w3c/csswg-drafts/issues/2510|size containment and non atomic inlines]]
+    * [[https://github.com/w3c/csswg-drafts/issues/2512|containment and internal ruby elements ]]
     * Publish updated CR ([[https://drafts.csswg.org/css-contain/issues-2017-cr.html|DoC]])?
   * css-overflow
     * https://github.com/w3c/csswg-drafts/issues/1971 (Florian)
