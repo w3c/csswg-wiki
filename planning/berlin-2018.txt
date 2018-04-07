@@ -83,7 +83,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
     * Proposing Flexbox Level 2
   * WPT - Extra CSS testsuite requirements: [[https://github.com/w3c/web-platform-tests/issues/10053|wpt#10053]] (gsnedders, rego, florian)
   * Spatial navigation (Jihye & Florian)
-    * Status Update on [[https://wicg.github.io/spatial-navigation/|work in WICG]] & Demo
+    * Status Update on [[https://wicg.github.io/spatial-navigation/|work in WICG]] & [[https://wicg.github.io/spatial-navigation/demo/blog/|Demo]]
     * Missing scroll-related anchoring terminology:
       * https://github.com/w3c/csswg-drafts/issues/2322
       * https://github.com/w3c/csswg-drafts/issues/2323
