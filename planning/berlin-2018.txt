@@ -29,7 +29,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ TYPO Labs ^ CSS WG dinner ^
 | Alan Stearns | 6 Apr | 15 Apr | | | Yes | Yes, omnivore |
 | Brian Birtles | 7 Apr | 17 Apr | Hampton | AF1534/JL6898 | Maybe first day | Yes |
-| Chris Lilley |8 Apr | 15 Apr | block | AA6596/EZY5533 | Yes | Yes, omnivore |
+| Chris Lilley |8 Apr | 15 Apr | block | AA6596/EZY5533 | Yes | Yes, keto |
 | Dael Jackson | 6 Apr | 13 Apr | AirBnB | | No | Yes, vegetarian |
 | Dirk Schulze | | | | train | No | Yes |
 | Emil A Eklund | 10 Apr | 14 Apr | Westin Grand | AF1534 / BA983 | Probably not | | 
@@ -40,7 +40,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Ian Kilpatrick | | | block | swim | Maybe first day | |
 | Jihye Hong | 9 Apr | 14 Apr | AirBnB | | | Yes |
 | L. David Baron | 8 April, 17:05 | 14 April, 10:15 |  Victor's Residenz-Hotel Berlin | [[https://flightaware.com/live/flight/FIN74|AY74]]/[[https://flightaware.com/live/flight/FIN1437|AY1437]], [[https://flightaware.com/live/flight/DLH39|LH39]]/[[https://flightaware.com/live/flight/UAL59|UA59]] | Friday only | Yes, no beef |
-| Lea Verou | | | block? | | probably | Yes, omnivore |
+| Lea Verou | | | block? | | probably | Yes, keto |
 | Manuel Rego | 9 Apr | 14 Apr | NH Hotel Berlin Alexanderplatz | | Friday only | Yes, no restrictions |
 | Myles C. Maxfield | | | Brandenburg Gate | Zeppelin | Definitely | Yes, no restrictions |
 | Naina Raisinghani | | | Westin Grand | | No| Yes, no red meat|
