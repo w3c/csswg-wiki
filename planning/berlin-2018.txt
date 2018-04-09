@@ -108,6 +108,7 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
     * [[https://github.com/w3c/csswg-drafts/issues/1971#issuecomment-377078084|overflow:clip]] (Florian) (preferably before talking about max-lines & co)
     * [[https://github.com/w3c/csswg-drafts/issues/129|padding-bottom in overflow content]] (Fantasai)
     * [[https://github.com/w3c/csswg-drafts/issues/2484|Let 'overflow' accept two values]] ( Loirooriol)
+    * [[https://github.com/w3c/csswg-drafts/issues/2473|Add overscroll-behavior-[block/inline] in accordance with css-logical]]
   * max-lines / block-ellipsis / [-webkit-]?line-camp ( Fantasai & Florian)
     * [[https://github.com/w3c/csswg-drafts/issues/390#issuecomment-371076389| Introducing max-lines / block-ellipsis / line-camp]]
     * [[https://github.com/w3c/csswg-drafts/issues/2408|Which kind of boxes accept max-lines]]
