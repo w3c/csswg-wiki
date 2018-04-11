@@ -65,6 +65,8 @@ And please add 'yes' to the TYPO Labs column if you'd be interested in attending
 | Oriol Brufau | |
 | Richard Rutter | |
 | Jason Pamental | |
+| Majid Valipour | Google |
+
 
 ==== Agenda Items ====
 
