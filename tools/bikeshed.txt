@@ -57,4 +57,4 @@ Error running preprocessor, returned code: 1.
 [1;31mFATAL ERROR:[0m The document requires at least one metadata block.
 </code>
 
-See https://github.com/tabatkins/bikeshed/blob/master/docs/metadata.md for how to create a metadata block for your spec. 
+See https://web.archive.org/web/20160402124506/https://github.com/tabatkins/bikeshed/blob/master/docs/metadata.md for how to create a metadata block for your spec. 
