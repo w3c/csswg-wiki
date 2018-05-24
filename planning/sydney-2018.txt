@@ -10,16 +10,17 @@
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
 | Chris Lilley | | | |
+| Dean Jackson | | | Some hotel | Coming from Yass via horse |
 | Eric Willigers | | | Home |
 | Emil A Eklund | TBD | TBD | TBD |
 | fantasai | | | |
 | Florian Rivoal | July 2 | July 5 | TBD |
 | Jihye Hong | TBD | TBD | TBD |
+| Myles C. Maxfield | | | Sydney Opera House | 🛸 |
 | Rachel Andrew | | |  |
 | Shane Stephens | | | Home |
 | Tantek Çelik | | | |
 | Xidorn Quan | | | Home |
-| Dean Jackson | | | Some hotel | Coming from Yass via horse |
 ==== Regrets ====
   * Dave Cramer
   * ...
