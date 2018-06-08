@@ -9,6 +9,7 @@
 ==== Participants ====
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
+| Alan Stearns | June 30 | July 9 | Glebe apt. |  |
 | Brian Birtles | June 30 | July 6 | TBD | JL771 / JL772 |
 | Cameron McCormack | TBD | TBD | TBD | |
 | Chris Lilley | | | |
