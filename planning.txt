@@ -29,6 +29,9 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
 
 ==== 2017 ====
     * 2017-11-06..10 [[planning:tpac-2017|TPAC]], Burlingame, CA (next to SF airport)
+        * Minutes
+            * Monday, November 6: [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0004.html|Part 1]], [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0005.html|Part 2]], [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0006.html|Part 3]], [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0007.html|Part 4]]
+            *Tuesday, November 7: [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0038.html|Part 1]], [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0039.html|Part 2]], [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0040.html|Part 3]], [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0041.html|Part 4]]
     * 2017-08-01..04 [[planning:paris-2017]] - Paris, France (Mozilla)
         * Minutes:
             * Wednesday, Aug 2 [[https://lists.w3.org/Archives/Public/www-style/2017Aug/0034.html|Part I]], [[https://lists.w3.org/Archives/Public/www-style/2017Aug/0035.html|Part II]], [[https://lists.w3.org/Archives/Public/www-style/2017Aug/0036.html|Part III]], [[https://lists.w3.org/Archives/Public/www-style/2017Aug/0037.html|Part IV]]
