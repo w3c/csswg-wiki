@@ -40,4 +40,4 @@
   * Greg Whitworth
   * ...
 ==== Agenda ====
-* ResizeObserver (Microsoft)
+  * ResizeObserver - two items (Microsoft)
