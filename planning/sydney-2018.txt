@@ -42,3 +42,8 @@
 ==== Agenda ====
   * ResizeObserver - two items (Microsoft)
   * [[https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F|Agenda+ F2F issues]]
+  * Publishing Stuff That's Almost Ready To Publish
+      * CSS Values and Units
+      * CSS Cascade 3 & 4
+      * CSS Display 3
+  * CSS Box Alignment - Remaining issues, CR transition or 2nd LC?
