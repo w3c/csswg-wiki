@@ -57,3 +57,7 @@
   * Investigate simplifying logical properties? (frremy)
   * [[https://lists.w3.org/Archives/Public/www-style/2018Jun/0020.html|initial-letter]]
   * Fonts Level 4 issues
+  * Media Queries (dino)
+      * prefers-high-contrast
+      * prefers-dark-interface
+  * env() values for full-screen, rounded corners, and phone notches (dino)
