@@ -18,7 +18,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
       * meeting the week of May 27 or June 3
     * spring meeting
     * summer meeting in Toronto?
-    * TPAC at Fukuoka 16-20 Sept
+    * TPAC at [[https://www.w3.org/wiki/TPAC/2019 Fukuoka]] 16-20 Sept
   * [[planning:hosting]]
 
 ===== Past Meetings =====
