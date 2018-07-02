@@ -55,6 +55,7 @@
 
 == Morning ==
 
+  * 2019 meetings
   * Publishing Stuff That's Almost Ready To Publish
       * CSS Values and Units 3 CR / 4 FPWD
       * CSS Cascade 3 & 4 CR
@@ -63,7 +64,6 @@
       * CSS Overflow 3 WD
   * Need spec for margin/padding and box-styling terminolgy: https://github.com/w3c/csswg-drafts/issues/2851
   * link to .bs source: https://github.com/w3c/csswg-drafts/issues/2472
-  * 2019 meetings
   * 11am? [[https://lists.w3.org/Archives/Public/www-style/2018Jun/0020.html|initial-letter (~19 issues?)]]
 
 == Afternoon ==
