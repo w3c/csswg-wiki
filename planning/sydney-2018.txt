@@ -82,7 +82,7 @@
       * [[https://github.com/w3c/csswg-drafts/issues/2577|'match-parent' computed value ]]
       * [[https://github.com/w3c/csswg-drafts/issues/2818|Consider adding a third value (skip?) for text-decoration-skip-ink.]]
 
-== Afternoon Breakout ==
+== Afternoon Breakout at 2pm ==
 
   * Transforms, Animations, Transitions - all open issues
       * [[https://github.com/w3c/csswg-drafts/issues/2736|Clarify properties that are not allowed in @keyframes rule]]
