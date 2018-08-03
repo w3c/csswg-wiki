@@ -1,28 +1,13 @@
 ===== TPAC 2017 =====
 
-==== Meeting Minutes ====
-
-  *Monday, November 6
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0004.html|Part 1]]: Sizing
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0005.html|Part 2]]: Backgrounds, Grid
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0006.html|Part 3]]: Flexbox, Image Decoding, Line Clamping, Cleaning up OWNERS files, Feedback on testing policy
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0007.html|Part 4]]: Values and Units, Contains, Line Grid, Line Heights
-  *Tuesday, November 7 
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0038.html|Part 1]]: .style append/replace, list marker layout, scroll-snap & scrolling APIs
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0039.html|Part 2]]: Spatial Navigation, nav-*/tabindex, a11y Joint Meeting
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0040.html|Part 3]]: 3D Transforms, Scrollbars, Selectors, Color Spaces
-    * [[https://lists.w3.org/Archives/Public/www-style/2017Dec/0041.html|Part 4]]: Constructible Style Sheets, ::selection cascade, Multicol
-
-
 
 ==== Place, Logistics, etc. ====
 
-  * [[https://www.w3.org/2017/11/TPAC/]]
-  * full TPAC week is 06-10 November 2017
-  * CSS WG meeting days are Mon-Tue 06-07 from 9am to 6pm
-  * Houdini meeting is Thu 09 November from 09:00-12:00
-    * https://github.com/w3c/css-houdini-drafts/wiki/TPAC-F2F-November-2017
-  * Burlingame, CA, USA at the Hyatt Regency SFO
+  * [[https://www.w3.org/2018/10/TPAC/]
+  * full TPAC week is 22-26 October 2018
+  * CSS WG meeting days are Mon-Tue 22-23 from 9am to 6pm
+  * Houdini meeting is Thu 25 November from 09:00-???
+  * Lyon, France at the Lyon Convention Center
 
 
 ==== Participants =====
