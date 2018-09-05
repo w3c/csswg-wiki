@@ -12,16 +12,16 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * [[https://www.w3.org/wiki/TPAC/2018|2018-10-22..26 TPAC]], Lyon, France
   * 2019
     * [[https://lists.w3.org/Archives/Public/www-style/2018Jul/0018.html|minutes from July 2018 discussion of 2019 schedule]]
-    * February-ish meeting
-      * Even spacing between TPAC 2018 and TPAC 2019 suggests week of February 11
-        * If we meet in Honolulu, we should avoid the 7th and 8th for https://www.jsconfhi.com/
+    * February meeting
+      * When:High likelihood of meeting the week of February 25 
+      * Where: Honolulu, HI.
       * no current confirmed hosting offer, but some are under investigation
         * Likely the last week of Feb, possibly second week (in Waikiki)
       * Chinese New Year is Tuesday February 5
       * possible conflict with TAG meeting around the same dates
-    * May/June-ish meeting
-      * Even spacing between TPAC 2018 and TPAC 2019 suggests the week of May 27 or June 3
-      * Mozilla offered to host in Toronto (could not go *later* than week of June 3 due to Mozilla All-Hands, but could go earlier than May 27, still need to confirm room availability for final dates)
+    * June meeting
+      * When: June 4-6 CSSWG and June 7 for Houdini
+      * Where: Mozilla offered to host in Toronto (could not go *later* than week of June 3 due to Mozilla All-Hands, but could go earlier than May 27, still need to confirm room availability for final dates)
       * Monday May 27 is a US holiday (Memorial Day)
       * possible conflict with TAG meeting around the same dates
       * conflict with conference in Amsterdam, June 13-14 (Tab)
