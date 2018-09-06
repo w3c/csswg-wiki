@@ -1,7 +1,7 @@
 ====== Toronto F2F June 2019 ======
 
    * Host: Mozilla
-   * Location: [[https://goo.gl/maps/qCPZZAyfY1F2|Google, Sydney (Fairfax Media building)]]
+   * Location: [[https://goo.gl/maps/YHp2qjiQSHv|Mozilla Toronto]], 366 Adelaide Street West, Suite 500 (5th floor), Toronto, ON M5V 1R9, Canada
    * Dates:
        * Tuesday-Thursday June 4-6: CSS WG Meeting
        * Friday June 7: Houdini Meeting - https://github.com/w3c/css-houdini-drafts/wiki/Toronto-F2F-June-2019
