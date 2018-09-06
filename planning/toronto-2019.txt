@@ -11,6 +11,7 @@
 
 **Immigration**:
     * Travelers from countries with visa-free entry to Canada who are not citizens of Canada or the USA will need to [[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html|apply for an eTA]].  For more information on visas and eTAs, see the [[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html|government's website]].
+    * If you're departing Canada to the US through Pearson Airport (but not Billy Bishop Airport), you will go through US immigration and customs in Toronto.  Make sure to leave enough time for this!
 
 **Airports**:
     * Most travelers will want to fly to Toronto Pearson International Airport (**YYZ**), which is the largest and busiest airport in Canada.  Pearson airport is connected by the [[https://www.upexpress.com/|Union Pearson Express]] train to Union Station downtown, which is about a 20 minute walk from Mozilla's office; the train costs C$12.35 cash or C$9.25 on a [[https://www.prestocard.ca/en/|Presto card]] (which you can buy for C$6 from the people standing on the train platform, and then walk *back* to the ticket machines to put money on, and which is also usable for other Toronto transit).  A taxi/uber to/from the airport to the Mozilla office will probably be about 25 minutes to 1 hour depending on traffic.
