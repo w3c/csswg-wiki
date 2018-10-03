@@ -53,11 +53,15 @@ See also the current https://www.w3.org/2002/09/wbs/35125/TPAC2018/registrants [
 
 == Morning ==
 
-3pm - Joint meeting with the Math on Web Pages CG
-
 == Afternoon ==
 
+3pm - Joint meeting with the Math on Web Pages CG
+
 === Tuesday ===
+
+== Morning ==
+
+11am - Joint meeting with [[https://www.w3.org/International/wiki/2018TPACAgenda|i18n]]
 
 == Afternoon ==
 
