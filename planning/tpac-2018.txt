@@ -42,7 +42,13 @@ See also the current https://www.w3.org/2002/09/wbs/35125/TPAC2018/registrants [
 
   * Environment Variables spec
   * Initial Letter Layout Model and other CSS Inline Layout Issues
-  * [[https://wicg.github.io/construct-stylesheets/index.html|Constructable Stylesheets]]
+  * [[https://wicg.github.io/construct-stylesheets/index.html|Constructable Stylesheets]] (Tuesday)
+    * [[https://github.com/WICG/construct-stylesheets/issues/23|Can the same constructed stylesheet be used in two different Documents?]]
+    * [[https://github.com/WICG/construct-stylesheets/issues/15|Need to define what fetch groups various loads from the sheet go in]]
+    * [[https://github.com/WICG/construct-stylesheets/issues/34|Can we use CSSStyleSheets from <style>/<link> in adoptedStyleSheets?]]
+    * [[https://github.com/WICG/construct-stylesheets/issues/36|Should we use FrozenArray instead of StyleSheetList for adoptedStyleSheets]]
+    * Should this spec move from WICG to CSS WG?
+    * Blink is interested in shipping. 
   * Scrollbar Styling - FPWD, experimental implementation(s), and maybe even demo(s)?
   * [[https://github.com/w3c/csswg-drafts/issues/3118|text-underline-offset]]
   * [[https://drafts.csswg.org/css-text-4/#text-spacing-property|text-spacing]]
