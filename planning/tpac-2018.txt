@@ -25,6 +25,7 @@ Please, put your name in this table if you plan to participate (alphabetical ord
 | Jen Simmons | Sunday | Thursday | Marriott |  |
 | Lea Verou | Sunday | Sunday | | |
 | Myles C. Maxfield |  |  |  |  |
+| Rakina Amni |  |  |  |  |
 | Rune Lillesveen | Sunday | Friday-ish |  |  |
 | Simon Fraser | ? | ? |  |  |
 | Tab Atkins | ? | ? | ? | |
