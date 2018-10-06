@@ -61,17 +61,29 @@ See also the current https://www.w3.org/2002/09/wbs/35125/TPAC2018/registrants [
 
 == Morning ==
 
+10am - Break
+
+12:30pm - Lunch
+
 == Afternoon ==
 
 3pm - Joint meeting with the Math on Web Pages CG
+
+3:30pm - break
 
 === Tuesday ===
 
 == Morning ==
 
+10am - Break
+
 11am - Joint meeting with [[https://www.w3.org/International/wiki/2018TPACAgenda|i18n]]
 
+12:30pm - Lunch
+
 == Afternoon ==
+
+3:30pm - break
 
 === Thursday ===
 
