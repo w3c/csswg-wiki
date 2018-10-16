@@ -89,6 +89,8 @@ See also the current https://www.w3.org/2002/09/wbs/35125/TPAC2018/registrants [
 
 3:30pm - break
 
+4pm - Joint meeting with [[https://github.com/web-platform-tests/wpt/wiki/TPAC-2018|WPT]]
+
 === Tuesday ===
 
 == Morning ==
