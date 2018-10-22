@@ -95,7 +95,7 @@ See also the current https://www.w3.org/2002/09/wbs/35125/TPAC2018/registrants [
     * Improve column-fill and make it backward-compatible: https://github.com/w3c/csswg-drafts/issues/3224
 
   * Css-text-3:
-    * Revisit text-align shorthanding text-align-last: https://github.com/w3c/csswg-draft/issues/3117
+    * Revisit text-align shorthanding text-align-last: https://github.com/w3c/csswg-drafts/issues/3117
     * word-wrap/overflow-wrap: break-word should affect min-content https://github.com/w3c/csswg-drafts/issues/2682
   * Text-4
     * Allow letter-spacing to have unitless values like line-height: https://github.com/w3c/csswg-drafts/issues/2165
