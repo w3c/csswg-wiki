@@ -150,6 +150,7 @@ See also the current https://www.w3.org/2002/09/wbs/35125/TPAC2018/registrants [
 
   * Environment Variables spec - path to fpwd?
   * [css-overscroll-behavior] Moving [[https://drafts.csswg.org/css-overscroll-behavior/|spec]] to FPWD. This was recently migrated from WICG.
+  * aspect-ratio draft proposal: https://drafts.csswg.org/css-sizing-4/#ratios
   * [[https://wicg.github.io/construct-stylesheets/index.html|Constructable Stylesheets]] (Tuesday) -- Rakina & Eric & Tab
     * [[https://github.com/WICG/construct-stylesheets/issues/23|Can the same constructed stylesheet be used in two different Documents?]]
     * [[https://github.com/WICG/construct-stylesheets/issues/15|Need to define what fetch groups various loads from the sheet go in]]
