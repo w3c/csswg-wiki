@@ -11,7 +11,7 @@
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
 | Florian Rivoal | Feb 22 | Feb 28 | TBD. Airbnb? |  |
-|  |  |  |  |  |
+| fantasai | local | n/a | n/a |  |
 
 
 ==== Regrets ====
