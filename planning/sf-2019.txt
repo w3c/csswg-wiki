@@ -19,6 +19,7 @@
 | Rachel Andrew | TBD | TBD | TBD | |
 | Rossen Atanassov | Feb 25 | Feb 28 | TBD |  |
 | Tess | local | n/a | n/a |  |
+| Benjamin De Cock | local | n/a | n/a |  |
 
 
 ==== Regrets ====
