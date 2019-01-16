@@ -11,6 +11,7 @@
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
 | Alan Stearns |  |  |  |  |
+| Chris Lilley |  |  |  | (assuming visa granted in time) |
 | Emil A Eklund | local | n/a | n/a |  |
 | fantasai | local | n/a | n/a |  |
 | Florian Rivoal | Feb 22 | Feb 28 | TBD. Airbnb? |  |
