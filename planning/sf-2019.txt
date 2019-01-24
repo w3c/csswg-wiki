@@ -28,6 +28,9 @@
 | Tess | local | n/a | n/a |  |
 | Benjamin De Cock | local | n/a | n/a |  |
 
+==== Observers ====
+
+  * Christian Biesinger
 
 ==== Regrets ====
 
