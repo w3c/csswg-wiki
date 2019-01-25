@@ -31,7 +31,7 @@
 ==== Observers ====
 
   * Christian Biesinger
-
+  * Morten Stenshorne 
 ==== Regrets ====
 
   * Dael Jackson
