@@ -30,6 +30,7 @@
 | Tantek Çelik | 2019-02-25 | local | home | TBD arriving late 24th or early 25th |
 | Tess | local | n/a | n/a |  |
 | Benjamin De Cock | local | n/a | n/a |  |
+| Cameron McCormack | Feb 23 | Mar 1 | TBD | |
 ==== Observers ====
 
   * Christian Biesinger
