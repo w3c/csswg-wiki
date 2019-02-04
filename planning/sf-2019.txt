@@ -55,8 +55,7 @@
   * ResizeObserver (GregW)
   * Add min/max constraints to CSS values grammar ([[https://github.com/w3c/csswg-drafts/issues/355#issuecomment-458324757 | Proposal as comment on issue #355]]), Amelia BR
   * http://wptest.center/ demo from Tab
-
-
+  * [[https://github.com/w3c/css-houdini-drafts/issues/854|Houdini ❤️ Text]]
 ==== Schedule ====
 
 === Constraints ===
