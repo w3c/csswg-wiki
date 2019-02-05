@@ -33,6 +33,7 @@
 | Simon Fraser | local | n/a | n/a |  |
 | Tantek Çelik | 2019-02-25 | local | home | TBD arriving late 24th or early 25th |
 | Tess | local | n/a | n/a |  |
+| Daniel Bates | local | n/a | n/a |  |
 ==== Observers ====
 
   * Christian Biesinger
