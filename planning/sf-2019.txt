@@ -15,11 +15,11 @@
 | Benjamin De Cock | local | n/a | n/a |  |
 | Cameron McCormack | Feb 23 | Mar 1 | TBD | |
 | Chris Lilley |  |  |  | (assuming visa granted in time) |
-| Dave Cramer |  |  |  |  |
+| Dave Cramer |  |  | Airbnb |  |
 | Emil A Eklund | local | n/a | n/a | Can't make Monday AM. |
 | Emilio Cobos Álvarez | ? | ? | ? | ? |
 | fantasai | local | n/a | n/a |  |
-| Florian Rivoal | Feb 22 | Feb 28 | Airbnb? |  |
+| Florian Rivoal | Feb 22 | Feb 28 | Airbnb |  |
 | Hiroshi Sakakibara | Feb 24 | Mar 1 | Airbnb |  |
 | Hyojin Song | Feb 24 | Feb 27 | TBD | OZ212/OZ211 |
 | Jen Simmons | Feb 24 | Mar 2 |  |  |
@@ -27,7 +27,7 @@
 | Koji Ishii | Feb 24 | Feb 28 | TBD |  |
 | Lea Verou |  |  |  | (assuming Chris' visa granted in time) |
 | L. David Baron | n/a | n/a | home | [[http://www.caltrain.com/schedules/weekdaytimetable.html|Caltrain #319 or #217]] |
-| Manuel Rego | Feb 24 | Feb 27 | TBD. Airbnb? |  |
+| Manuel Rego | Feb 24 | Feb 27 | Airbnb |  |
 | Myles C. Maxfield | I live here | I live here | My home | Pogo stick |
 | Rachel Andrew | Feb 24 | Feb 28 | Marriott Fisherman's Wharf | AA285/AA6041 |
 | Rossen Atanassov | Feb 25 | Feb 28 | TBD |  |
