@@ -41,9 +41,10 @@
 | Daniel Bates | local | n/a | n/a |  |
 ==== Observers ====
 
-  * Christian Biesinger
+  * Christian Biesinger (Google)
   * Chirag Desai
-  * Morten Stenshorne 
+  * Mason Freed (Google)
+  * Morten Stenshorne (Google)
   * Sean Voisen (Mozilla)
   * Lukasz Zbylut
   * Daniel Holbert (Mozilla)
