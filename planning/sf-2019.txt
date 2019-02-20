@@ -80,4 +80,4 @@
   * dholbert is missing Monday, so bias layout topics to Tues/Wed
   * High Contrast on Tues
   * Eric is in Sydney, so schedule Error Recovery for an afternoon.
-
+  * rego is leaving early (after lunch) on Wednesday.
