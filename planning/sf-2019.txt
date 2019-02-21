@@ -22,6 +22,7 @@
 | fantasai | local | n/a | n/a |  |
 | Florian Rivoal | Feb 22 | Feb 28 | Airbnb |  |
 | François Remy | Feb 23 | Feb 28 | Airbnb |  |
+| Fuqiao Xue | Feb 24 | Feb 28 | TBD | |
 | Greg Whitworth | Feb 24 | Feb 28 | Hotel|  |
 | Hiroshi Sakakibara | Feb 24 | Mar 1 | Airbnb |  |
 | Hyojin Song | Feb 24 | Feb 27 | TBD | OZ212/OZ211 |
