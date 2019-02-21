@@ -5,6 +5,7 @@
    * Dates:
        * Tuesday-Thursday June 4-6: CSS WG Meeting
        * Friday June 7: Houdini Meeting - https://github.com/w3c/css-houdini-drafts/wiki/Toronto-F2F-June-2019
+       * all meetings are 9:00-18:00; room should be open by 8:30
    * Group Dinner: ?
 
 ==== Travel ====
