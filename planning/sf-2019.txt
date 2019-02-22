@@ -51,6 +51,7 @@
   * Sean Voisen (Mozilla)
   * Lukasz Zbylut
   * Daniel Holbert (Mozilla)
+  * David Grogan (Google)
 
 ==== Regrets ====
 
