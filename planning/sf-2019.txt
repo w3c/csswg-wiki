@@ -1,0 +1,86 @@
+====== San Francisco F2F February 2019 ======
+
+   * Host: Google
+   * Location: [[https://goo.gl/maps/yiwYTjSULbw|Google, 345 Spear Street, San Francisco, California, USA]]
+   * Dates: February 25-27, 2019. 9am-6pm each day.
+   * Group Dinner: TBD, but likely on Tuesday evening.
+
+==== Participants ====
+
+(Alphabetic order by first name)
+
+^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
+| Alan Stearns |  |  |  |  |
+| Amelia BR | Feb 23 | Feb 28 | AirBnB w/ Florian & co | |
+| Benjamin De Cock | local | n/a | n/a |  |
+| Cameron McCormack | Feb 23 | Mar 1 | Hotel Abri | |
+| Chris Harrelson | local | n/a | n/a | |
+| Dave Cramer |  |  | Airbnb |  |
+| Emil A Eklund | local | n/a | n/a | Can't make Monday AM. |
+| Emilio Cobos Álvarez | ? | ? | ? | ? |
+| fantasai | local | n/a | n/a |  |
+| Florian Rivoal | Feb 22 | Feb 28 | Airbnb |  |
+| François Remy | Feb 23 | Feb 28 | Airbnb |  |
+| Fuqiao Xue | Feb 24 | Feb 28 | TBD | |
+| Greg Whitworth | Feb 24 | Feb 28 | Hotel|  |
+| Hiroshi Sakakibara | Feb 24 | Mar 1 | Airbnb |  |
+| Hyojin Song | Feb 24 | Feb 27 | TBD | OZ212/OZ211 |
+| Jen Simmons | Feb 24 | Mar 2 |  |  |
+| Jihye Hong | Feb 24 | Feb 28 | Airbnb |  |
+| Koji Ishii | Feb 24 | Feb 28 | TBD |  |
+| L. David Baron | n/a | n/a | home | [[http://www.caltrain.com/schedules/weekdaytimetable.html|Caltrain #319 or #217]] |
+| Manuel Rego | Feb 24 | Feb 27 | Airbnb |  |
+| Melanie Richards | Feb 26 | Feb 26 | N/A | AS324 / UA351 |
+| Myles C. Maxfield | I live here | I live here | My home | Pogo stick |
+| Rachel Andrew | Feb 24 | Feb 28 | Marriott Fisherman's Wharf | AA285/AA6041 |
+| Rossen Atanassov | Feb 25 | Feb 28 | TBD |  |
+| Rune Lillesveen | Feb 24 | Mar 1 | Orchard Hotel |  |
+| Simon Fraser | local | n/a | n/a |  |
+| Tab Atkins | local | | | |
+| Tantek Çelik | 2019-02-25 | local | home | TBD arriving late 24th or early 25th |
+| Tess | local | n/a | n/a |  |
+| Daniel Bates | local | n/a | n/a |  |
+==== Observers ====
+
+  * Christian Biesinger (Google)
+  * Chirag Desai
+  * Mason Freed (Google)
+  * Morten Stenshorne (Google)
+  * Sean Voisen (Mozilla)
+  * Lukasz Zbylut
+  * Daniel Holbert (Mozilla)
+  * David Grogan (Google)
+
+==== Regrets ====
+
+  * Dael Jackson
+  * Dirk Schulze
+  * Brad Kemper ☹️
+  * Chris Lilley & Lea Verou (visa issues ☹️)
+
+==== Agenda ====
+
+  * List topic here (link to issue), Your name
+  * [[https://github.com/w3c/csswg-drafts/issues/3264|Error recovery in :is() :not()]], Eric Willigers (remote)
+  * [[https://github.com/w3c/csswg-drafts/issues/3299|Dark mode styling]], Rune Lillesveen (Mon/Tues)
+  * High Contrast, Rossen + Melanie (Tues)
+  * ResizeObserver (GregW) (Mon/Tues)
+  * Add min/max constraints to CSS values grammar ([[https://github.com/w3c/csswg-drafts/issues/355#issuecomment-458324757 | Proposal as comment on issue #355]]), Amelia BR
+  * http://wptest.center/ demo from Tab
+  * [[https://github.com/w3c/css-houdini-drafts/issues/854|Houdini ❤️ Text]]
+  * [[https://github.com/w3c/fxtf-drafts/issues/53#issuecomment-451599995|Backdrop filters]], Chris Harrelson (Mon/Tues)
+  * URL modifiers for image loading ([[https://github.com/w3c/csswg-drafts/issues/1603|crossorigin]], [[https://github.com/w3c/csswg-drafts/issues/2994| preload]], [[https://github.com/w3c/csswg-drafts/issues/2095| async]]), Amelia BR
+  * 3-D transform interoperability (css-transforms-2), dbaron/mattwoodrow, mattwoodrow would like to call in (from New Zealand, so 11am PST or later, Mon/Tues)
+      * transform-style changes: [[https://bugzilla.mozilla.org/show_bug.cgi?id=1518368#c2|Bugzilla summary]], [[https://github.com/w3c/csswg-drafts/issues/3138#issuecomment-424064320|#3138 (comment)]], [[https://github.com/w3c/csswg-drafts/issues/1944|#1944]], [[https://github.com/w3c/csswg-drafts/issues/1950|#1950]], [[https://github.com/w3c/csswg-drafts/issues/1951|#1951]], [[https://github.com/w3c/csswg-drafts/issues/1952|#1952]]
+      * backface-visibility:hidden - [[https://bugzilla.mozilla.org/show_bug.cgi?id=1508490#c6|Bugzilla summary]], [[https://github.com/w3c/csswg-drafts/issues/918|#918]]
+  * [[https://mathml-refresh.github.io/|MathML Refresh Community Group]] (heads up about the status of MathML), rego (please avoid Wednesday's afternoon as I won't be around)
+  * [[https://github.com/w3c/csswg-drafts/issues/3401 | Drop navbeforescroll]], Jihye (Tues/Wed)
+==== Schedule ====
+
+=== Constraints ===
+
+  * dholbert is missing Monday, so bias layout topics to Tues/Wed
+  * High Contrast on Tues
+  * Eric is in Sydney, so schedule Error Recovery for an afternoon.
+  * rego is leaving early (after lunch) on Wednesday.
+  * smfr would prefer to avoid Wednesday
