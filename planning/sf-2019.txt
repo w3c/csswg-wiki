@@ -131,6 +131,9 @@ Wet weather is [https://www.wunderground.com/forecast/us/ca/san-francisco?cm_ven
   * [[https://github.com/w3c/csswg-drafts/issues/3280|[css-contain] contain: style does not seem useful.]]
   * [[https://github.com/w3c/csswg-drafts/issues/1914|[css-scoping-1] Dynamic changes of state and attributes referenced by :host-context rules are pretty hard to handle efficiently.]]
 
+== Values ==
+[[https://github.com/w3c/csswg-drafts/issues/2331|[css-values] Trigonometric functions]
+
 === Tuesday afternoon ===
 
 == UI ==
