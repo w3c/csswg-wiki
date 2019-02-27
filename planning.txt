@@ -16,12 +16,6 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * [[planning:toronto-2019]]
       * When: June 4-6 CSSWG and June 7 for Houdini
       * Where: Mozilla Toronto (room reserved for those dates)
-      * constraints:
-        * Mozilla hosting offer could not go any *later* than week of June 3 due to Mozilla All-Hands, but could go earlier
-        * Monday May 27 is a US holiday (Memorial Day)
-        * possible conflict with TAG meeting around the same dates
-        * conflict with conference in Amsterdam, June 13-14 (Tab)
-        * Do we need to avoid conflict with Google I/O?  When is it?
     * TPAC at [[https://www.w3.org/wiki/TPAC/2019|Fukuoka]] 16-20 Sept
   * [[planning:hosting]]
 
