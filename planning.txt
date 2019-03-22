@@ -21,6 +21,7 @@ This is the CSS Working Group's planning space. See also [[planning:hosting]].
     * Spring: Apple (Myles) has offered to host (possibly at spaceship)
     * Summer: Possibly Japan/Kyoto, or France if mid summer
       * Constraint: [[https://wiki.mozilla.org/All_Hands|Mozilla All Hands]] is June 15-20 in Toronto
+      * Constraint: Tokyo Olympics is July 24 - Aug 9, may affect flight and hotel costs and availability
     * TPAC in North America (likely), later in the year (likely)
   * [[planning:hosting]]
 
