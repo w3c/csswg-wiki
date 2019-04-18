@@ -34,7 +34,7 @@
 | Florian Rivoal | June 3 | June 9 | AirBnB | DL0120+DL5462 / KL0692 |
 | François Remy | June 3 | June 9 | AirBnB | |
 | Jen Simmons | | | AirBnB | |
-| Jihye | | | AirBnB |
+| Jihye Hong | | | AirBnB |
 | Oriol Brufau | | | | |
 | Rachel Andrew | | | | |
 | Tab Atkins | | | AirBnB | |
