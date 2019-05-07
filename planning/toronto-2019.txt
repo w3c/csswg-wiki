@@ -23,6 +23,7 @@
 ==== Participants ====
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
+| Alan Stearns | ? | ? | ? | ? |
 | Amelia Bellamy-Royds | | | AirBnB | |
 | Brian Birtles | June 3, 16:45 | June 8, 10:00 | Bisha Hotel | AA3586 / JL5807 |
 | Cameron McCormack | June 2, 22:35 | June 8, 10:00 | ? | AC120 / AC107 |
