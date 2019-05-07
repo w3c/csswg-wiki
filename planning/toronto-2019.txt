@@ -34,15 +34,15 @@
 | François Remy | June 3 | June 9 | AirBnB | | ? |
 | Ian Kilpatrick | | | | | ? |
 | Jen Simmons | June 3 | June 7 | AirBnB | [redacted] | ? |
-| Jihye Hong | June 3 | June 8 | AirBnB | ? |
+| Jihye Hong | June 3 | June 8 | AirBnB | | ? |
 | L. David Baron | Sunday, June 2, 18:30 | Saturday, June 8, 12:55 | Airbnb | UA608 / AC757 | yes |
 | Majid Valipour | June 5 | June 7 | ? | N/A | ? |
 | Markus Stange | | | Local | | ? |
 | Myles Maxfield | | | | | ? |
 | Oriol Brufau | | | | | ? |
 | Rachel Andrew | | | | | ? |
-| Rob Flack | June 4 | June 7 | | ? |
-| Stephen McGruer | June 5 | June 7 | | ? |
+| Rob Flack | June 4 | June 7 | | | ? |
+| Stephen McGruer | June 5 | June 7 | | | ? |
 | Tab Atkins | | | AirBnB | | ? |
 | Tantek Çelik | 2019-06-02 18:30 | 2019-06-07 19:21 | ? | UA608 / UA459 | ? |
 | Theresa O'Connor | 2019-06-03 18:30 | 2019-06-08 19:21 | L’Hôtel Le Germain Toronto Mercer | UA608 / UA459 | ? |
