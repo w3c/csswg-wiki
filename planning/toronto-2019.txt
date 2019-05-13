@@ -48,6 +48,7 @@
 | Tab Atkins | | | AirBnB | | yes |
 | Tantek Çelik | 2019-06-02 18:30 | 2019-06-07 19:21 | ? | UA608 / UA459 | ? |
 | Theresa O'Connor | 2019-06-03 18:30 | 2019-06-08 19:21 | L’Hôtel Le Germain Toronto Mercer | UA608 / UA459 | yes |
+| Una Kravets | | | | Only 4th and 5th | |
 ==== Regrets ====
   * Dael Jackson
   * Hiroshi Sakakibara
