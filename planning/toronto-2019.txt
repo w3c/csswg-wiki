@@ -44,6 +44,7 @@
 | Rachel Andrew |June 1 | June 6 | Residence Inn Toronto Downtown | BA99/BA98 | No |
 | Rick Byers | June 6 | June 7 | ? | N/A | only |
 | Rob Flack | June 4 | June 7 | | | ? |
+| Rossen Atanassov | June 3 | June 8 |  | | yes |
 | Stephen McGruer | June 5 | June 7 | | | yes |
 | Tab Atkins | | | AirBnB | | yes |
 | Tantek Çelik | 2019-06-02 18:30 | 2019-06-07 19:21 | ? | UA608 / UA459 | ? |
