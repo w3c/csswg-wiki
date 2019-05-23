@@ -65,6 +65,7 @@
   * (selectors-4) "effective media volume is mutable" pseudo-class for media elements - https://github.com/w3c/csswg-drafts/issues/3933
   * There's no issue for this, but it is a [[https://gist.github.com/bkardell/dbf5812c5a29fbb2f7ddf7575013cc14|topic about the has/withins described in this gist]] that I would like to discuss at the f2f if possible 
   * (css-tables-3) Asking for republication. Only covers editorial changes made as a follow-up of questions by chromium engineers working on tables, as of May 21.
+  * Publish Early, Publish Often - automatic approval for pushing editorial changes and WG-reviewed edits to /TR
 ==== Schedule ====
 
 === Constraints ===
