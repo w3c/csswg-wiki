@@ -59,8 +59,7 @@
   * Dael Jackson
   * Hiroshi Sakakibara
 ==== Remote ====
-  * Chris Lilley
-  * Lea Verou
+  * 
 ==== Agenda ====
 
   * (selectors-4) additional resource state pseudo-classes for media elements - https://github.com/w3c/csswg-drafts/issues/3821
