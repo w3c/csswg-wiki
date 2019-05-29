@@ -58,9 +58,8 @@
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ Houdini (yes/no/only) ^
 | David Bokan (Google) | June 4 | June 5 | | | No |
-| Giorgio Natili (Amazon) | June 4 | June 6 | | | No |
-| Eric Muller (Amazon) | June 4 | June 6 | | | No |
-| Stanton Marcum (Amazon) | June 4 | June 6 | | | No |
+| Giorgio Natili (Amazon) | ? | ? | | | only |
+| Stanton Marcum (Amazon) | ? | ? | | | yes |
 
 ==== Regrets ====
   * Dael Jackson
