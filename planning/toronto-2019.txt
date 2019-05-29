@@ -26,6 +26,7 @@
 | Alan Stearns | June 1 | June 8 | AirBnB | ? | yes |
 | Amelia Bellamy-Royds | May 30 | June 11 | AirBnB | | yes |
 | Brian Birtles | June 3, 16:45 | June 8, 10:00 | Bisha Hotel | AA3586 / JL5807 | yes |
+| Brian Kardell | | | | Maybe | Maybe |
 | Cameron McCormack | June 2, 22:35 | June 8, 10:00 | ? | AC120 / AC107 | ? |
 | Chris Lilley | Monday, June 3, 17:44 | Thursday, June 6, 17:55 | ? | PD944 / PD949 | no |
 | Dave Cramer | June 3 | June 7 | AirBnB | drive | no |
@@ -52,7 +53,6 @@
 | Tantek Çelik | 2019-06-02 18:30 | 2019-06-07 19:21 | DoubleTree Downtown | UA608 / UA459 | mostly |
 | Theresa O'Connor | 2019-06-03 18:30 | 2019-06-08 19:21 | L’Hôtel Le Germain Toronto Mercer | UA608 / UA459 | yes |
 | Una Kravets | | | | Only 4th and 5th | |
-| Brian Kardell | | | | Maybe | Maybe |
 
 ==== Observers ====
 
