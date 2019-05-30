@@ -73,6 +73,12 @@
   * There's no issue for this, but it is a [[https://gist.github.com/bkardell/dbf5812c5a29fbb2f7ddf7575013cc14|topic about the has/withins described in this gist]] that I would like to discuss at the f2f if possible 
   * (css-tables-3) Asking for republication. Only covers editorial changes made as a follow-up of questions by chromium engineers working on tables, as of May 21.
   * Publish Early, Publish Often - automatic approval for pushing editorial changes and WG-reviewed edits to /TR
+  * (css-fonts) consider not making font-min-size and font-max-size affect font-size computed value https://github.com/w3c/csswg-drafts/issues/3739
+  * (css-fonts) Clarify how the computed font-size is determined for size keyword #3906 https://github.com/w3c/csswg-drafts/issues/3906
+  * (css-fonts) Add new CSS properties math-script-level and math-style  https://github.com/w3c/csswg-drafts/issues/3746
+  * [css-text] text-transform's design, intent and reality resolution https://github.com/w3c/csswg-drafts/issues/3775 (I think we mostly agree that there is currently no one answer to this that can apply absolutely, I'd just like to confirm that much so we can talk about 3745 without blocking?)
+  * (css-text) Add new CSS text-transform values for math https://github.com/w3c/csswg-drafts/issues/3745
+
 ==== Schedule ====
 
 === Constraints ===
