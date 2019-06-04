@@ -99,11 +99,12 @@ See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agend
   * There's no issue for this, but it is a [[https://gist.github.com/bkardell/dbf5812c5a29fbb2f7ddf7575013cc14|topic about the has/withins described in this gist]] that I would like to discuss at the f2f if possible (brian)
   * [selectors-4] Password reveal pseudo-element and pseudo-class - [[https://github.com/w3c/csswg-drafts/issues/3934|3934]] (fantasai)
 
-  * Publish Early, Publish Often - automatic approval for pushing editorial changes and WG-reviewed edits to /TR
   * Upcoming meeting discussion
 
 
 == Afternoon ==
+
+  * Publish Early, Publish Often - automatic approval for pushing editorial changes and WG-reviewed edits to /TR
 
 ** Fonts **
 
