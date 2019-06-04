@@ -70,16 +70,6 @@
 
 See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agenda%2B+F2F%22
 
-** Misc **
-
-
-  * [css-sizing-3] Why was min-content, etc. redefined to do nothing in the block axis? - [[https://github.com/w3c/csswg-drafts/issues/3973|3973]] (fantasai)
-  * [mediaqueries-5] UA guidance on light vs no-preference - [[https://github.com/w3c/csswg-drafts/issues/3857|3857]] (fantasai)
-  * [css-display][css-ui] Should outline apply to elements with 'display: contents'? - [[https://github.com/w3c/csswg-drafts/issues/3323|3323]] (fantasai)
-  * [css-writing-modes] Does vertical writing mode of an HTML body element cause an orthogonal flow? - [[https://github.com/w3c/csswg-drafts/issues/3066|3066]] (fantasai)
-  * [css-lists] counter scopes should be based on box tree, not element tree - [[https://github.com/w3c/csswg-drafts/issues/674|674]](fantasai)
-  * [filter-effects-2] backdrop-filter disagreement (dbaron, others)
-
 ==== Schedule ====
 
 === Tuesday ===
@@ -111,9 +101,14 @@ See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agend
   * [css-multicol] Should we refer to definition of `column-gap` in Box Alignment? - [[https://github.com/w3c/csswg-drafts/issues/3641|3641]] (rachel)
   * [css-multicol] column-gap <length-percentage> remove at-risk marker - [[https://github.com/w3c/csswg-drafts/issues/3988|3988]] (rachel)
 
-** Spatial Nav **
+** Misc **
 
-  * [css-nav-1] Predefined algorithm for spatial navigation - [[https://github.com/w3c/csswg-drafts/issues/3964|3964]] (jihye)
+  * [css-sizing-3] Why was min-content, etc. redefined to do nothing in the block axis? - [[https://github.com/w3c/csswg-drafts/issues/3973|3973]] (fantasai)
+  * [mediaqueries-5] UA guidance on light vs no-preference - [[https://github.com/w3c/csswg-drafts/issues/3857|3857]] (fantasai)
+  * [css-display][css-ui] Should outline apply to elements with 'display: contents'? - [[https://github.com/w3c/csswg-drafts/issues/3323|3323]] (fantasai)
+  * [css-writing-modes] Does vertical writing mode of an HTML body element cause an orthogonal flow? - [[https://github.com/w3c/csswg-drafts/issues/3066|3066]] (fantasai)
+  * [css-lists] counter scopes should be based on box tree, not element tree - [[https://github.com/w3c/csswg-drafts/issues/674|674]](fantasai)
+  * [filter-effects-2] backdrop-filter disagreement (dbaron, others)
 
 === Wednesday ===
 
@@ -140,6 +135,10 @@ See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agend
 === Thursday ===
 
 == Morning ==
+
+** Spatial Nav **
+
+  * [css-nav-1] Predefined algorithm for spatial navigation - [[https://github.com/w3c/csswg-drafts/issues/3964|3964]] (jihye)
 
 == Afternoon ==
 
