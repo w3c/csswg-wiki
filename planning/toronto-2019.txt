@@ -107,7 +107,7 @@ See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agend
 
 === Tuesday ===
 
-** Morning **
+== Morning ==
 
 ** Selectors**
   * (selectors-4) additional resource state pseudo-classes for media elements - [[https://github.com/w3c/csswg-drafts/issues/3821|3821]]
@@ -115,11 +115,11 @@ See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agend
   * There's no issue for this, but it is a [[https://gist.github.com/bkardell/dbf5812c5a29fbb2f7ddf7575013cc14|topic about the has/withins described in this gist]] that I would like to discuss at the f2f if possible (brian)
   * [selectors-4] Password reveal pseudo-element and pseudo-class - [[https://github.com/w3c/csswg-drafts/issues/3934|3934]] (fantasai)
 
-** Afternoon **
+== Afternoon ==
 
 === Wednesday ===
 
-** Morning **
+== Morning ==
 
 ** Text **
 
@@ -130,12 +130,12 @@ See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agend
   * [css-inline] A question for the procedure to compute the resolved value of "line-height" - [[https://github.com/w3c/csswg-drafts/issues/3749|3749]] (fantasai)
   * [[https://specs.rivoal.net/css-space-expansion/|space expansion]] (i18n/a11y) (florian)
 
-** Afternoon **
+== Afternoon ==
 
 === Thursday ===
 
-** Morning **
+== Morning ==
 
-** Afternoon **
+== Afternoon ==
 
 === Constraints ===
