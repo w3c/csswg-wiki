@@ -70,14 +70,8 @@
 
 See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agenda%2B+F2F%22
 
-** Spatial Nav **
-
-  * [css-nav-1] Predefined algorithm for spatial navigation - [[https://github.com/w3c/csswg-drafts/issues/3964|3964]] (jihye)
-
 ** Misc **
 
-  * [css-multicol] Should we refer to definition of `column-gap` in Box Alignment? - [[https://github.com/w3c/csswg-drafts/issues/3641|3641]] (rachel)
-  * [css-multicol] column-gap <length-percentage> remove at-risk marker - [[https://github.com/w3c/csswg-drafts/issues/3988|3988]] (rachel)
 
   * [css-sizing-3] Why was min-content, etc. redefined to do nothing in the block axis? - [[https://github.com/w3c/csswg-drafts/issues/3973|3973]] (fantasai)
   * [mediaqueries-5] UA guidance on light vs no-preference - [[https://github.com/w3c/csswg-drafts/issues/3857|3857]] (fantasai)
@@ -111,6 +105,15 @@ See also https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+label%3A%22Agend
   * (css-fonts) consider not making font-min-size and font-max-size affect font-size computed value [[https://github.com/w3c/csswg-drafts/issues/3739|3739]]
   * (css-fonts) Clarify how the computed font-size is determined for size keyword #3906 [[https://github.com/w3c/csswg-drafts/issues/3906|3906]]
   * (css-fonts) Add new CSS properties math-script-level and math-style  [[https://github.com/w3c/csswg-drafts/issues/3746|3746]]
+
+** Multicol **
+
+  * [css-multicol] Should we refer to definition of `column-gap` in Box Alignment? - [[https://github.com/w3c/csswg-drafts/issues/3641|3641]] (rachel)
+  * [css-multicol] column-gap <length-percentage> remove at-risk marker - [[https://github.com/w3c/csswg-drafts/issues/3988|3988]] (rachel)
+
+** Spatial Nav **
+
+  * [css-nav-1] Predefined algorithm for spatial navigation - [[https://github.com/w3c/csswg-drafts/issues/3964|3964]] (jihye)
 
 === Wednesday ===
 
