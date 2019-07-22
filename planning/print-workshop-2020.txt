@@ -1,4 +1,4 @@
-====== Proposed Workshop on CSS Print ======
+====== Proposed W3C Workshop on CSS Print ======
 
 **Date:** February 13th, 2020
 
