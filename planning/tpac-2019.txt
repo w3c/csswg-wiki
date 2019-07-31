@@ -1,3 +1,11 @@
-(stub)
+==== Participants =====
 
-Would be useful to have a page here like last year's https://wiki.csswg.org/planning/tpac-2018
+Please, put your name in this table if you plan to participate (alphabetical order by given name):
+
+^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ Conflicts ^
+| Rossen Atanassov | Sunday | Friday | Hilton Fukuoka Sea Hawk | |
+
+Regrets:
+
+- ...
+
