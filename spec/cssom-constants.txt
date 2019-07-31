@@ -1,43 +1,7 @@
 ====== CSSOM Constants ======
 
-This page lists all standardized CSSOM constants in CSS to avoid the creation of conflicting specs. Vendor-specific features and experimental implementations must use numbers greater than 1000: the 0-1000 range is reserved by the CSS Working Group.
+This page previously listed the CSSRule constants, used to identify which rule a given ''CSSRule.type'' integer was associated with. It was intended to help with coordinating new integer additions across specifications.
 
-====== CSSRule.type enumeration ======
+As the ''.type'' attribute is now deprecated and no new values will be minted for it (and all existing values have been inlined into the CSSOM spec), this page has been tombstoned.
 
-| 0 | - | reserved; formerly UNKNOWN_RULE in DOM-Level-2-Style |
-| 1 | STYLE_RULE | CSSOM |
-| 2 | CHARSET_RULE | CSSOM |
-| 3 | IMPORT_RULE | CSSOM |
-| 4 | MEDIA_RULE | CSSOM |
-| 5 | FONT_FACE_RULE | CSSOM |
-| 6 | PAGE_RULE | CSSOM |
-| 7 | KEYFRAMES_RULE | css3-animations |
-| 8 | KEYFRAME_RULE | css3-animations |
-| 9 | MARGIN_RULE | CSSOM |
-| 10 | NAMESPACE_RULE | CSSOM |
-| 11 | COUNTER_STYLE_RULE | css3-lists |
-| 12 | SUPPORTS_RULE | css3-conditional |
-| 13 | DOCUMENT_RULE | css3-conditional |
-| 14 | FONT_FEATURE_VALUES_RULE | css3-fonts |
-| 15 | VIEWPORT_RULE | css-device-adapt |
-| 16 | REGION_STYLE_RULE | proposed for css3-regions|
-| 17 | CUSTOM_MEDIA_RULE | mediaqueries |
-| 18 | PROPERTY_RULE | css-properties-values-api |
-| ... 999 | - | reserved for future standardization |
-
-
-====== CSSOM Experimental Constants ======
-
-Constants for proposals that have yet to be accepted by the working group are listed below.
-
-|1000| TEXT_TRANSFORM_RULE | proposed for css3-text|
-|1001| HOST_RULE | proposed for Shadow DOM|
-
-====== CSSOM Vendor Constants ======
-
-Vendors can list their proprietary constants below to avoid cross-vendor overlap.
-
-===== Opera =====
-
-Opera uses numbers in the 0x09E8A001 - 0x09E8AFFF range.
-|0x09E8A001| NAVIGATION_RULE | for @navigation, proposed in css3-gcpm |
+(If you're trying to identify which rule a given CSSRule-subclass object is, check ''rule.constructor.name'', which returns the class name as a string.)
