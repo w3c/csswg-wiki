@@ -1,3 +1,5 @@
+==== TPAC 2019 ====
+
 ==== Timing ====
   * [[https://www.w3.org/2019/09/TPAC/]]
   * TPAC is schedule for 16–20 September 2019
@@ -17,6 +19,7 @@ Transportation from the airport is [[https://www.w3.org/2019/09/TPAC/travel.html
 Please, put your name in this table if you plan to participate (alphabetical order by given name):
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^ Conflicts ^
+| Alan Stearns | 9/14 | 9/22 | AirBnB | Delta 7883 | Tuesday afternoon AC meeting |
 | Amelia BR | Thu 2019-09-12 | Sat 2019-09-21 |  Hotel New Gaea Domemae (Sun-Sat) | | May be splitting time with ARIA WG Mon-Tues; CGs on Fri AM |
 | fantasai | Sunday | Saturday | Hotel New Gaea Domemae | train |
 | Myles C. Maxfield | | | | surfboard |
@@ -30,3 +33,11 @@ Regrets:
 
   * [[https://github.com/w3c/csswg-drafts/issues/4116|Images with layout information]]
   * [[https://github.com/w3c/csswg-drafts/issues/4044|[css-fonts] Vertical text doesn't play nicely with font-style and font-stretch]]
+
+==== Schedule ====
+
+===== Monday =====
+
+===== Tuesday =====
+
+TTWG joint meeting (1hr, morning)
