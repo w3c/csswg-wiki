@@ -73,7 +73,7 @@ Regrets:
 
 ===== Monday =====
 
-
+Lunch 12-1
 
 ===== Tuesday =====
 
@@ -81,3 +81,5 @@ Regrets:
   * [[https://github.com/w3c/ttwg/issues/52|Issues to discuss]]
 
 11am Accessibility joint meeting
+
+Lunch 12-1
