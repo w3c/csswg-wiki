@@ -77,6 +77,7 @@ Regrets:
   * [[https://github.com/w3c/csswg-drafts/issues/94]|[css-tables] Calc for table layout]]
   * [[https://github.com/w3c/csswg-drafts/issues/3554|device-pixel-border-box + ResizeObserver]]
   * Open css-text-3 issues with i18n?
+  * [[https://github.com/WICG/scroll-animations/issues/51 | Scroll Timeline - element-based start/end offsets]] 
 ==== Schedule ====
 
 ===== Monday =====
