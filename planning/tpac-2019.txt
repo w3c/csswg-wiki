@@ -107,6 +107,8 @@ Lunch 12-1
 
 ===== Tuesday =====
 
+9am joint meeting with WPT
+
 9:30am TTWG joint meeting (1hr, morning)
   * [[https://github.com/w3c/ttwg/issues/52|Issues to discuss]]
 
