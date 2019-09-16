@@ -33,6 +33,9 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
     * TPAC in Vancouver, BC, Canada: **26-30 October 2020**
   * **2021**
     *  **February 15-17** in Noida, India (Adobe)
+  * Standing offers:
+    * Florian should be able to Host in Kyoto, Japan any time other than July-August.
+
   * [[planning:hosting]]
 ===== Past Meetings =====
 
