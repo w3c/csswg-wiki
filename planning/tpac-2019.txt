@@ -68,11 +68,7 @@ Regrets:
   * Eric Willigers
 
 ==== Agenda =====
-  * CSS-TEXT
-    * [[https://github.com/w3c/csswg-drafts/issues/3440#issuecomment-530702998|[css-text][css-sizing] When to/not to include preserved trailing spaces]]
-    * [[https://github.com/w3c/csswg-drafts/issues/4297|Hanging spaces can't be scrollable overflow]] (fantasai)
-    * [[https://github.com/w3c/csswg-drafts/issues/4286|word-break:keep-all and overflow]] (fantasai)
-    * [[https://github.com/w3c/csswg-drafts/issues/4180|How to handle leading ideographic space sequences ?]] (florian)
+
   * [[https://github.com/w3c/csswg-drafts/issues/4116|Images with layout information]]
   * 3D transforms (breakout?) (smfr)
   * [[https://github.com/w3c/csswg-drafts/issues/1952 | [css-transforms-2] Should a no-op <div> flatten?]]
@@ -102,6 +98,12 @@ Regrets:
 Lunch 12-1
 
   * [[https://w3c.github.io/tpac-breakouts/sessions.html#jlreq | Wed breakout on JLREQ]]
+
+  * CSS-TEXT
+    * [[https://github.com/w3c/csswg-drafts/issues/3440#issuecomment-530702998|[css-text][css-sizing] When to/not to include preserved trailing spaces]]
+    * [[https://github.com/w3c/csswg-drafts/issues/4297|Hanging spaces can't be scrollable overflow]] (fantasai)
+    * [[https://github.com/w3c/csswg-drafts/issues/4286|word-break:keep-all and overflow]] (fantasai)
+    * [[https://github.com/w3c/csswg-drafts/issues/4180|How to handle leading ideographic space sequences ?]] (florian)
 
 ===== Tuesday =====
 
