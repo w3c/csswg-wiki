@@ -21,12 +21,12 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
       * Constraint: [[https://wiki.mozilla.org/All_Hands|Mozilla All Hands]] is January 27-31 in Berlin, Germany
       * Where: Igalia, A Coruña, Galicia, Spain
     * Spring: Apple (Tess) will host in Cork, Ireland
-      * When: Monday-Wednesday, April 27-April 29, but dates are not final
+      * When: Monday-Wednesday, **April 27-April 29**, but dates are not final
       * probably will have Houdini meeting on Thursday April 30
       * Constraint: Easter is April 12 (Western) or April 19 (Eastern)
       * Constraint: AC Meeting May 18-19 in Seoul (likely AB meeting rest of week, maybe even TAG too)
       * Constraint: April 13-15 is An Event Apart DC, May 11-13 is AEA Seattle (conflicts for Jen Simmons & Rachel Andrew)
-    * Summer: Possibly Japan/Kyoto (but not in July or August), or France if mid summer, or New York (Google)
+    * Summer: Waterloo, ON, Canada or New York, NY (Google)
       * Evenly spacing meetings would suggest dates around the weeks of July 20-24 or July 27-31
       * Constraint: [[https://wiki.mozilla.org/All_Hands|Mozilla All Hands]] is June 15-20 in Toronto
       * Constraint: Tokyo Olympics is July 24 - Aug 9, may affect flight and hotel costs and availability
