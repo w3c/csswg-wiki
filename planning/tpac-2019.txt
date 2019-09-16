@@ -113,7 +113,7 @@ Lunch 12-1
 9:30am TTWG joint meeting (1hr, morning)
   * [[https://github.com/w3c/ttwg/issues/52|Issues to discuss]]
 
-10:30am Internationalization joint meeting
+11am Accessibility and Internationalization joint meeting
   * SELECTORS
     * [[https://github.com/w3c/csswg-drafts/issues/4154|canonicalization of :lang() selectors]] (to be scheduled in i18n joint session)
   * CSS-TEXT Joint Topics
@@ -127,8 +127,6 @@ Lunch 12-1
       * [[https://github.com/w3c/csswg-drafts/issues/3481|Remove collapsible line breaks adjacent to word separators]]
       * [[https://github.com/w3c/csswg-drafts/issues/337|Segment Break Transformation Rules for East Asian Width property of A]]
     * [[https://github.com/w3c/csswg-drafts/issues/3775|text-transform's design, intent and reality resolution]] [i18n][ally]
-
-11am Accessibility and Internationalization joint meeting
 
 Lunch 12-1
 
