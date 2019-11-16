@@ -14,7 +14,7 @@
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
 | Alan Stearns |  |  |  |  |
-| Christian Biesinger | Tuesday 21:00 | ? | Hotel Avenida | AC 832+SN 3721+IB 522. Gluten free food please |
+| Christian Biesinger | Tuesday 21:00 | ? | Hotel Avenida | [[https://flightaware.com/live/flight/ACA832|AC 832]]+[[https://flightaware.com/live/flight/BEL3721|SN 3721]]+[[https://flightaware.com/live/flight/IBE522|IB 522]]. Gluten free food please |
 | L. David Baron | Monday 21:45 | Sunday 09:15 | [[https://www.hotelbluecoruna.com/|Sercotel Blue Coruña]] | [[https://flightaware.com/live/flight/IBE2622|IBE2622]]+[[https://flightaware.com/live/flight/VLG1290|VLG1290]] / [[https://flightaware.com/live/flight/VLG1295|VLG1295]]+[[https://flightaware.com/live/flight/VLG1882|VLG1882]] |
 | fantasai |  |  |  |  |
 | jfernandez (lajava) |  |  |  |  |
