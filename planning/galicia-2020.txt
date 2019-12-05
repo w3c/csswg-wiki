@@ -26,15 +26,15 @@
 | Christian Biesinger | Tuesday 21:00 | ? | Hotel Avenida | [[https://flightaware.com/live/flight/ACA832|AC 832]]+[[https://flightaware.com/live/flight/BEL3721|SN 3721]]+[[https://flightaware.com/live/flight/IBE522|IB 522]]. Gluten free food please |
 | Chris Lilley |  |  |  |  |
 | L. David Baron | Monday 21:45 | Sunday 09:15 | [[https://www.hotelbluecoruna.com/|Sercotel Blue Coruña]] | [[https://flightaware.com/live/flight/IBE2622|IBE2622]]+[[https://flightaware.com/live/flight/VLG1290|VLG1290]] / [[https://flightaware.com/live/flight/VLG1295|VLG1295]]+[[https://flightaware.com/live/flight/VLG1882|VLG1882]] |
-| fantasai |  |  |  |  |
-| Florian Rivoal | Tuesday | Saturday  |  | AF0293+AF1000+AF4833, KL3356+KL1700+KL0867 |
+| fantasai |  |  | Airbnb |  |
+| Florian Rivoal | Tuesday | Saturday  | Airbnb | AF0293+AF1000+AF4833, KL3356+KL1700+KL0867 |
 | jfernandez (lajava) |  |  |  |  |
 | Lea Verou |  |  |  |  |
 | Oriol Brufau |  |  |  |  |
 | Rachel Andrew |  |  |  |  |
 | rego | Tuesday's night | Saturday's morning | Hotel Avenida | |
 | Rossen Atanassov |  |  |  |  |
-| Tab Atkins | | | | |
+| Tab Atkins | | | Airbnb | |
 | Tantek Çelik | remote| remote| N/A| remote participating from Berlin, screensharing/video would be nice |
 
 
