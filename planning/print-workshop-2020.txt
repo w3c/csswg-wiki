@@ -27,6 +27,8 @@
 
 17:00 Discussion
 
+18:30 End of workshop
+
 ===== Participants =====
 
 **From CSS WG:**
