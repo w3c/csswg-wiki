@@ -9,10 +9,9 @@
      * Date & time: 20:30 on Wednesday 22nd Janaury
      * Location: Artabria Restaurant (Rúa Fernando Macías, 28, 15004 A Coruña)
      * Optional guided city tour on Wednesday evening, leaving from Igalia office at 19:00 and finishing close to the restaurant for the dinner.
-   * Developers Meetup:
+   * [[https://www.meetup.com/GPUL-Labs/events/267002801/|Developers Meetup]]:
      * Date & time: 19:30-21:00 on Thursday 23rd January
-     * Location: TBD
-
+     * Location: Centro Cívico Cidade Vella (Rúa de Veeduría, 2, A Coruña)
 
 
 ==== Participants ====
