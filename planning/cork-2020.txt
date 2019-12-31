@@ -15,6 +15,7 @@
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Flight info and notes ^
 | Alan Stearns |  |  |  |  |
 | Christian Biesinger |  |  |  |  |
+| Rachel Andrew |  |  |  |  |
 
 ==== Regrets ====
 
