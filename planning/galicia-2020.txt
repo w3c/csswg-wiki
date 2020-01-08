@@ -1,6 +1,6 @@
 ====== A Coruña F2F January 2020 ======
 
-==== Logistics / Registration ====
+===== Logistics / Registration =====
 
    * Host: Igalia
    * Location: [[https://goo.gl/maps/34b8ARCndsT2|Igalia, A Coruña, Galicia, Spain]]
@@ -10,12 +10,12 @@
    * [[planning:logistics:galicia-2020|Participants / Registration]]
    * See also [[https://www.meetup.com/GPUL-Labs/events/267002801/|Developers Meetup]]
 
-==== Agenda ====
+====- Agenda =====
 
   * Display Level 4: Display Noneness of Various Kinds
   * Inline 3: leading-trim etc.
   * [[https://github.com/w3c/csswg-drafts/issues/4497|[css-fonts] limit local fonts to those selected by users in browser settings (or other browser chrome)]]
 
-==== Schedule ====
+===== Schedule =====
 
-=== Constraints ===
+==== Constraints ====
