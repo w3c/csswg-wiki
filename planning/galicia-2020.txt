@@ -15,6 +15,8 @@
   * Display Level 4: Display Noneness of Various Kinds
   * Inline 3: leading-trim etc.
   * [[https://github.com/w3c/csswg-drafts/issues/4497|[css-fonts] limit local fonts to those selected by users in browser settings (or other browser chrome)]]
+  * Align 3: All remaining issues, go to CR?
+    * https://github.com/w3c/csswg-drafts/issues/4033 - side prep discussion with fremy, fantasai, florian, Tab, then WG discussion
 
 ===== Schedule =====
 
