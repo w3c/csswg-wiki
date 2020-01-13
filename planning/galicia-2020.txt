@@ -22,6 +22,8 @@
     * [[https://github.com/w3c/csswg-drafts/issues/2513|round()/floor()/ceil()/mod()]] (tab)
     * [[https://github.com/w3c/csswg-drafts/issues/4551|require double precision for calculation trees]] (tab)
     * [[https://github.com/w3c/csswg-drafts/issues/4329|vhc unit, or other ways to address the shortcomings of viewport units in mobile cases]] (tab, fantasai)
+  * Motion
+    * [[https://github.com/w3c/csswg-drafts/issues/3468|Decide on final approach for merging all uses of shapes]] (amelia, tab, krit?)
 ===== Schedule =====
 
 ==== Constraints ====
