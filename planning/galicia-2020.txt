@@ -27,6 +27,7 @@
   * Motion
     * [[https://github.com/w3c/csswg-drafts/issues/3468|Decide on final approach for merging all uses of shapes]] (amelia, tab, krit?)
   * [[https://github.com/WICG/construct-stylesheets/issues/|Constructable Style Sheets open issues]]
+  * [[https://github.com/w3c/csswg-drafts/issues/4108|Finishing `font-display: optional`]] (tabatkins, chrishtr)
 ===== Schedule =====
 
 ==== Constraints ====
