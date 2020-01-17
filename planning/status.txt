@@ -528,10 +528,7 @@ It was last updated on 25 October 2017 and tracks backwards through about August
   : [[https://lists.w3.org/Archives/Public/www-style/2017Sep/0045.html|Resolved: Add dino as an editor of variables L2 with TabAtkins.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2017Sep/0045.html|Resolved: The initial set is safe area top, bottom, left and right.]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Aug/0009.html|Action: gsnedders to check if Variables test coverage is from many browsers]]
- 
+
 
   ; Writing Modes
-  : [[https://lists.w3.org/Archives/Public/www-style/2017May/0032.html|Resolved: Request PR for Writing Modes.]]
-  : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION gregwhitworth: Look into unprefixing text-combine-upright]]
   : [[https://lists.w3.org/Archives/Public/www-style/2016Mar/0207.html|ACTION hober: Look into unprefixing writing modes features in WebKit]]
-  : [[https://lists.w3.org/Archives/Public/www-style/2014Dec/0301.html|<fantasai> ACTION fantasai: Put IE's nearest-scrollable-box behavior into orthogonal flows spec<trackbot> Created ACTION-661]]
