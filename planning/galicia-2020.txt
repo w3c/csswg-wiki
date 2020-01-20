@@ -70,3 +70,5 @@
 ===== Schedule =====
 
 ==== Constraints ====
+
+* Please schedule motion topics in AM (Eric will dial in).
