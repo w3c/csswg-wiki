@@ -15,6 +15,7 @@
 
 ==== Agenda ====
 
+  * Snapshot 2020
 ==== Schedule ====
 
 === Constraints ===
