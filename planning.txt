@@ -29,6 +29,7 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
       * Constraint: [[https://wiki.mozilla.org/All_Hands|Mozilla All Hands]] is June 15-20 in Toronto
       * Constraint: Tokyo Olympics is July 24 - Aug 9, may affect flight and hotel costs and availability
       * Constraint: [[https://ietf.org/how/meetings/108/|IETF 108]] is  July 25-31 in Madrid, Spain
+      * Constraint: [[https://www.thesfmarathon.com/|SF Marathon 2020]] is July 26th (avoid meeting on July 27 if possible)
     * TPAC in Vancouver, BC, Canada: **26-30 October 2020**
   * **2021**
     *  **February 15-17** in Noida, India (Adobe)
