@@ -64,7 +64,7 @@
      * FPWD!!!!! resize-observer, mediaqueries-5, css-transforms-2, css-conditional-4, css-highlight-api-1, css-color-5, anything else?
   * [[https://github.com/w3c/csswg-drafts/issues/4531|[css-sizing] intrinsic-size lost the thread]]
   * [[https://github.com/w3c/csswg-drafts/issues/4650|[css-grid-2] Masonry layout]]
-  * [[https://github.com/w3c/csswg-drafts/issues/3973|[css-sizing-3] Why was min-content, etc. redefined to do nothing in the block axis?]
+  * [[https://github.com/w3c/csswg-drafts/issues/3973|[css-sizing-3] Why was min-content, etc. redefined to do nothing in the block axis?]]
 
 **Thursday Afternoon**
   * [[https://github.com/w3c/csswg-drafts/issues/4645|[dialog element] <dialog> positioning should be describable in CSS]] (smfr would like to call in)
