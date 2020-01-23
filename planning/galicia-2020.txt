@@ -65,7 +65,6 @@
 
   * TRIAGE ALL THE SPECS - What needs publishing? What's blocked? What has outstanding edits needed? Let's get things up-to-date.
      * FPWD!!!!! resize-observer, mediaqueries-5, css-transforms-2, css-conditional-4, css-highlight-api-1, css-color-5, anything else?
-  * [[https://github.com/w3c/csswg-drafts/issues/4531|[css-sizing] intrinsic-size lost the thread]]
 
   * [[https://github.com/w3c/csswg-drafts/issues/938#issuecomment-575499518|Rhythm, line-grid and tests]]
   * [[https://github.com/w3c/csswg-drafts/issues/4662|[css-transforms-1] 'view-box' definition doesn't make sense]]
@@ -78,6 +77,8 @@
     * [[https://github.com/WICG/construct-stylesheets/issues/95|Defined location/href of Constructed Stylesheets]]
     * [[https://github.com/WICG/construct-stylesheets/issues/93|Should adoptedStyleSheets be ordered before other style sheets in the tree, instead of after?]]
     * [[https://github.com/WICG/construct-stylesheets/issues/45|Instead of assignable FrozenArray, use add / remove]]
+  * [[https://github.com/w3c/csswg-drafts/issues/4531|[css-sizing] intrinsic-size lost the thread]]
+
   * Motion
     * [[https://github.com/w3c/csswg-drafts/issues/3468|Decide on final approach for merging all uses of shapes]] (amelia, tab, krit?)
     * [[https://github.com/w3c/fxtf-drafts/issues/369|[motion-1] The definition of "containing box" for ray() function]]
