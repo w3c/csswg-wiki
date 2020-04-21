@@ -25,7 +25,7 @@ TBD
 
 | **Name** | **Affiliation** | **Time Slot A** | **Time Slot B** |
 | Rossen Atanassov | Microsoft | yes | yes |
-| Tantek Çelik | Mozilla | yes? | yes? |
+| Tantek Çelik | Mozilla | yes | most: 0-3hrs |
 
 
 ===== Proposed Agenda =====
