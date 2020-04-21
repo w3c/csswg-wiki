@@ -1,5 +1,7 @@
-Virtual meeting
+====== CSSWG 1st Virtual F2F ======
+As the title suggests and in order to keep the world a safe place for living, this is going to be entirely virtual face-to-face meeting.
 
+===== Schedule =====
 April 29 (a.k.a. Time Slot A)
     3pm -  7pm Paris
     2pm -  6pm London
@@ -16,17 +18,21 @@ April 30 (a.k.a. Time Slot B)
     4am -  8am Tokyo
     6am - 10am Melbourne
 
-Venue tech: TBD
+===== Venue tech =====
+TBD
 
-Participants
+===== Participants =====
 
-| Name | Affiliation | Time Slot A | Time Slot B|
+| **Name** | **Affiliation** | **Time Slot A** | **Time Slot B** |
 | Rossen Atanassov | Microsoft | yes | yes |
 | Tantek Çelik | Mozilla | yes? | yes? |
 
 
-Agenda
+===== Proposed Agenda =====
 
-  * Snapshot 2020
-  * container queries (dbaron, probably bkardell, others)
+| **Agenda Item** | **Preferred Time Slot** |
+| Snapshot 2020 | No preference |
+| container queries (dbaron, probably bkardell, others) | ?? |
+
+TODO: Add the full list of issues on GitHub explicitly here.
   * https://github.com/w3c/csswg-drafts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Agenda%2B+F2F%22
