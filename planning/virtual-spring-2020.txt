@@ -29,7 +29,7 @@ TBD
 | Rachel Andrew | Fronteers | yes | no | | |
 | Rossen Atanassov | Microsoft | yes | yes | | |
 | Tantek Çelik | Mozilla | yes | most: 0-2,3-4hrs | | |
-| L. David Baron | Mozilla | yes | yes | | |
+| L. David Baron | Mozilla | yes | yes | | would attend or not depending on topic |
 | Daniel Holbert | Mozilla | yes | yes | | ok |
 | fantasai | Invited Expert | yes | yes | | ok |
 | Florian | Invited Expert | yes | yes | | |
