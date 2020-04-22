@@ -16,8 +16,7 @@
 
 ==== Agenda ====
 
-  * Snapshot 2020
-  * container queries (dbaron, probably bkardell, others)
+Don't add things here; add to [[planning:virtual-spring-2020]] instead
 ==== Schedule ====
 
 === Constraints ===
