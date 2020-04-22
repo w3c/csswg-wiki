@@ -34,6 +34,7 @@ TBD
 | fantasai | Invited Expert | yes | yes | | ok |
 | Florian | Invited Expert | yes | yes | | |
 | Mike Bremford | BFO | yes | yes | | |
+| Miriam Suzanne | Invited Expert | yes | yes | | |
 | Christian Biesinger | Google | yes | yes | | |
 | Oriol Brufau | Igalia | yes | yes | | |
 | Dave Cramer | Hachette | yes | yes | | |
