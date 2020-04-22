@@ -44,6 +44,7 @@ Suggested order for [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aissue+is
   * [[https://github.com/w3c/csswg-drafts/issues/4932|ruby offset]] (4932)
   * [[https://github.com/w3c/csswg-drafts/issues/4935|content height of ruby bases and annotations]] (4935)
   * [[https://github.com/w3c/csswg-drafts/issues/4936|content height of ruby containers]] (4936)
+  * [[https://github.com/w3c/csswg-drafts/issues/4987|vertical-align on ruby bases]] (4987)
   * [[https://github.com/w3c/csswg-drafts/issues/4979|line-height property on ruby]] (4979)
   * [[https://github.com/w3c/csswg-drafts/issues/4986|line-height property on nested ruby]] (4986)
   * [[https://github.com/w3c/csswg-drafts/issues/4974|width and height properties on ruby]] (4974)
