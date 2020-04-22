@@ -26,6 +26,7 @@ TBD
 ===== Participants =====
 
 | **Name** | **Affiliation** | **Time Slot A** | **Time Slot B** |
+| Rachel Andrew | Fronteers | yes | no |
 | Rossen Atanassov | Microsoft | yes | yes |
 | Tantek Çelik | Mozilla | yes | most: 0-2,3-4hrs |
 | L. David Baron | Mozilla | yes | yes |
