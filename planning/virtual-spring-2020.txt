@@ -54,7 +54,9 @@ Also, if you're on the West Coast, let us know if you'd be willing to dial in at
 | container queries (dbaron, probably bkardell, others) | A? |
 
 TODO: Add the full list of issues on GitHub explicitly here.
-  * https://github.com/w3c/csswg-drafts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Agenda%2B+F2F%22
+  * https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F
+  * https://github.com/w3c/fxtf-drafts/labels/Agenda%2B%20F2F
+  * https://github.com/w3c/css-houdini-drafts/labels/Agenda%2B%20F2F
 
 
 Suggested order for [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aissue+is%3Aopen+label%3Acss-ruby-1+label%3A%22Agenda%2B+F2F%22|the css-ruby issues]]:
