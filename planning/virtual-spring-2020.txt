@@ -1,0 +1,79 @@
+====== CSSWG 1st Virtual F2F ======
+As the title suggests and in order to keep the world a safe place for living, this is going to be entirely virtual face-to-face meeting.
+
+===== Schedule =====
+https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200429T14
+April 29 (a.k.a. Time Slot A)
+    4pm -  8pm Paris
+    3pm -  7pm London
+   10am -  2pm New York
+    7am - 11am San Francisco
+   11pm -  3am Tokyo
+   12am -  4am Melbourne
+
+https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200430T20
+April 30 (a.k.a. Time Slot B)
+   10pm -  2am Paris
+    9pm -  1am London
+    4pm -  8pm New York
+    1pm -  5pm San Francisco
+    5am -  9am Tokyo
+    6am - 10am Melbourne
+
+===== Venue tech =====
+TBD
+
+===== Participants =====
+
+| **Name** | **Affiliation** | **Time Slot A** | **Time Slot B** | ** Topics Requested ** | ** 6am start?** |
+| Rachel Andrew | Fronteers | yes | no | | |
+| Rossen Atanassov | Microsoft | yes | yes | | |
+| Tantek Çelik | Mozilla | yes | most: 0-2,3-4hrs | | |
+| L. David Baron | Mozilla | yes | yes | | would attend or not depending on topic |
+| Daniel Holbert | Mozilla | yes | yes | | ok |
+| Cameron McCormack | Mozilla | no | yes | | |
+| fantasai | Invited Expert | yes | yes | | ok |
+| Florian | Invited Expert | yes | yes | | |
+| Mike Bremford | BFO | yes | yes | | |
+| Miriam Suzanne | Invited Expert | yes | yes | | |
+| Christian Biesinger | Google | yes | yes | | ok |
+| Oriol Brufau | Igalia | yes | yes | | |
+| Dave Cramer | Hachette | yes | yes | | |
+| Dael Jackson | Invited Expert | no | mostly; hours 1.5-4 | | |
+| François REMY | Invited Expert | yes | at least first two hours | Houdini, Container queries, Ruby | ok |
+| Simon Fraser | Apple | yes | yes | | unlikely |
+| Alan Stearns | Adobe | yes | yes | | OK |
+| Chris Lilley | W3C | yes | yes | |probably |
+| Lea Verou | Invited Expert | no | yes | |N/A |
+| Jen Simmons | Mozilla | yes | yes | | |
+| Adam Argyle | Google | yes | yes | | sure |
+| Stanton Marcum | Amazon | yes | yes | | yes |
+
+If you can't make one of the slots, note any topics you want us to bias towards the slot you can make.
+
+Also, if you're on the West Coast, let us know if you'd be willing to dial in at 6am if it would help others join Time Slot A.
+
+===== Proposed Agenda =====
+
+| **Agenda Item** | **Preferred Time Slot** |
+| Snapshot 2020 | No preference |
+| container queries (dbaron, probably bkardell, others) | A? |
+| Generic font families (+I18n) | No preference |
+
+TODO: Add the full list of issues on GitHub explicitly here.
+  * https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F
+  * https://github.com/w3c/fxtf-drafts/labels/Agenda%2B%20F2F
+  * https://github.com/w3c/css-houdini-drafts/labels/Agenda%2B%20F2F
+
+
+Suggested order for [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aissue+is%3Aopen+label%3Acss-ruby-1+label%3A%22Agenda%2B+F2F%22|the css-ruby issues]]:
+  * [[https://github.com/w3c/csswg-drafts/issues/4932|ruby offset]] (4932)
+  * [[https://github.com/w3c/csswg-drafts/issues/4935|content height of ruby bases and annotations]] (4935)
+  * [[https://github.com/w3c/csswg-drafts/issues/4936|content height of ruby containers]] (4936)
+  * [[https://github.com/w3c/csswg-drafts/issues/4987|vertical-align on ruby bases]] (4987)
+  * [[https://github.com/w3c/csswg-drafts/issues/4979|line-height property on ruby]] (4979)
+  * [[https://github.com/w3c/csswg-drafts/issues/4986|line-height property on nested ruby]] (4986)
+  * [[https://github.com/w3c/csswg-drafts/issues/4974|width and height properties on ruby]] (4974)
+  * [[https://github.com/w3c/csswg-drafts/issues/4976|margin/border/padding on ruby containers]] (4976)
+  * [[https://github.com/w3c/csswg-drafts/issues/4980|Box model / layout model for nested ruby (block axis)]] (4980)
+  * [[https://github.com/w3c/csswg-drafts/issues/4958|siblings/children vs in-flow siblings/children in box fixup ]] (4958)
