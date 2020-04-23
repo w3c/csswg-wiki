@@ -44,6 +44,7 @@ TBD
 | Simon Fraser | Apple | yes | yes | | unlikely |
 | Alan Stearns | Adobe | yes | yes | | OK |
 | Chris Lilley | W3C | yes | yes | |probably |
+| Lea Verou | Invited Expert | no | yes | |N/A |
 
 If you can't make one of the slots, note any topics you want us to bias towards the slot you can make.
 
