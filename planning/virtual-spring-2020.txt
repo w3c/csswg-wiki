@@ -47,6 +47,7 @@ TBD
 | Lea Verou | Invited Expert | no | yes | |N/A |
 | Jen Simmons | Mozilla | yes | yes | | |
 | Adam Argyle | Google | yes | yes | | sure |
+| Stanton Marcum | Amazon | yes | yes | | yes |
 
 If you can't make one of the slots, note any topics you want us to bias towards the slot you can make.
 
