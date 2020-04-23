@@ -31,6 +31,7 @@ TBD
 | Tantek Çelik | Mozilla | yes | most: 0-2,3-4hrs | | |
 | L. David Baron | Mozilla | yes | yes | | would attend or not depending on topic |
 | Daniel Holbert | Mozilla | yes | yes | | ok |
+| Cameron McCormack | Mozilla | no | yes | | |
 | fantasai | Invited Expert | yes | yes | | ok |
 | Florian | Invited Expert | yes | yes | | |
 | Mike Bremford | BFO | yes | yes | | |
