@@ -46,6 +46,7 @@ TBD
 | Chris Lilley | W3C | yes | yes | |probably |
 | Lea Verou | Invited Expert | no | yes | |N/A |
 | Jen Simmons | Mozilla | yes | yes | | |
+| Adam Argyle | Google | yes | yes | | sure |
 
 If you can't make one of the slots, note any topics you want us to bias towards the slot you can make.
 
