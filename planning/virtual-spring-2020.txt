@@ -46,7 +46,7 @@ We will use #css on IRC for all meeting coordination. People can use the chat in
 | François REMY | Invited Expert | yes | at least first two hours | Houdini, Container queries, Ruby | ok |
 | Simon Fraser | Apple | yes | yes | | unlikely |
 | Alan Stearns | Adobe | yes | yes | | OK |
-| Chris Lilley | W3C | yes | yes | |probably |
+| Chris Lilley | W3C | yes | yes |Generic font families |probably |
 | Lea Verou | Invited Expert | no | yes | |N/A |
 | Jen Simmons | Mozilla | yes | yes | | |
 | Adam Argyle | Google | yes | yes | | sure |
