@@ -86,7 +86,7 @@ Logs: https://logs.csswg.org/irc.w3.org/css/2020-04-29
 | 25 mins | Masonry layout | Experimentation update by Mozilla |
 | 10 mins | Break                | 8-) |
 | 50 mins | Other Topics   | [[https://github.com/w3c/csswg-drafts/issues/4740|#4740]] [[https://github.com/w3c/csswg-drafts/issues/4653|#4653]] [[https://github.com/w3c/csswg-drafts/issues/4949|#4949]] [[https://github.com/w3c/csswg-drafts/issues/4968|#4968]] [[https://github.com/w3c/csswg-drafts/issues/4496|#4496]] [[https://github.com/w3c/csswg-drafts/issues/4755|#4755]] [[https://github.com/w3c/csswg-drafts/issues/1751|#1751]]  [[https://github.com/WICG/custom-state-pseudo-class/issues/6|Custom Pseudo-classes #6]] |
-
+Logs: https://logs.csswg.org/irc.w3.org/css/2020-04-30
 ===== Proposed Agenda =====
   * Snapshot 2020
   * Container queries (dbaron, probably bkardell, others)
