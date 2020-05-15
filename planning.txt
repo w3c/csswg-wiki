@@ -27,7 +27,7 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
       * Constraint: Tokyo Olympics is July 24 - Aug 9, may affect flight and hotel costs and availability
       * Constraint: [[https://ietf.org/how/meetings/108/|IETF 108]] is  July 25-31 in Madrid, Spain
       * Constraint: [[https://www.thesfmarathon.com/|SF Marathon 2020]] is July 26th (avoid meeting on July 27 if possible)
-    * TPAC in Vancouver, BC, Canada: **26-30 October 2020**
+    * **TPAC Virtual Meeting** (was in Vancouver, BC, Canada): **26-30 October 2020**
   * **2021**
     *  **February 15-17** in Noida, India (Adobe)
       * //That February, Delhi seemed like a paradise. The plants which seemed to have died during the winter’s cold — the snapdragon, the hibiscus and the frangipani — miraculously sprang back to life and into bloom.//
