@@ -58,7 +58,7 @@ We will use #css on IRC for all meeting coordination. People can use the chat in
 
 | **Name** | **Affiliation** | Monday | Tuesday | Thursday | Friday |
 | Alan Stearns | Adobe | yes | yes | yes | yes |
-| David Baron | Mozilla | probably (with decreasing probability over time).\\ Also missing roughly first half of Friday||||
+| David Baron | Mozilla | probably (with decreasing probability over time);\\ Also missing roughly first half of Friday||||
 
 If you can't make one of the days, mark any topics you want us to be present for with a milestone for a day you can attend.
 
