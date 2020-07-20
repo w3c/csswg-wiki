@@ -1,0 +1,81 @@
+====== CSSWG 2nd Virtual F2F ======
+As the title suggests and in order to keep the world a safe place for living, this is again going to be entirely virtual face-to-face meeting.
+
+===== Schedule =====
+
+
+https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200727T20
+
+July 27 (28)
+
+   10pm -  2am Paris
+    9pm -  1am London
+    4pm -  8pm New York
+    1pm -  5pm San Francisco
+    5am -  9am Tokyo
+    6am - 10am Melbourne
+
+https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200728T20
+
+July 28 (29)
+
+   10pm -  2am Paris
+    9pm -  1am London
+    4pm -  8pm New York
+    1pm -  5pm San Francisco
+    5am -  9am Tokyo
+    6am - 10am Melbourne
+
+https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200730T14
+
+July 30 (31)
+
+    4pm -  8pm Paris
+    3pm -  7pm London
+   10am -  2pm New York
+    7am - 11am San Francisco
+   11pm -  3am Tokyo
+   12am -  4am Melbourne
+ 
+https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200731T14
+
+July 31 (Aug 1)
+
+    4pm -  8pm Paris
+    3pm -  7pm London
+   10am -  2pm New York
+    7am - 11am San Francisco
+   11pm -  3am Tokyo
+   12am -  4am Melbourne
+ 
+
+===== Venue tech =====
+
+Meet. Details on the member-only list: TBD
+
+We will use #css on IRC for all meeting coordination. People can use the chat in Meet for backchannel conversations, but please do not expect the meeting chairs or scribe to notice or follow that extra channel.
+===== Participants =====
+
+| **Name** | **Affiliation** | Monday | Tuesday | Thursday | Friday |
+| Alan Stearns | Adobe | yes | yes | yes | yes |
+
+If you can't make one of the days, mark any topics you want us to be present for with a milestone for a day you can attend.
+
+
+===== Agenda Schedule =====
+==== Monday ====
+
+==== Tuesday ====
+
+==== Thurdsay ====
+
+==== Friday ====
+
+===== Proposed Agenda =====
+
+Please mark issues with the Agenda+ FTF tag
+
+TODO: Add the full list of issues on GitHub explicitly here.
+  * https://github.com/w3c/csswg-drafts/labels/Agenda%2B%20F2F
+  * https://github.com/w3c/fxtf-drafts/labels/Agenda%2B%20F2F
+  * https://github.com/w3c/css-houdini-drafts/labels/Agenda%2B%20F2F
