@@ -13,12 +13,6 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 [[https://www.w3.org/2006/tools/wiki/WebExFAQ|WebEx FAQ]] and [[https://www.w3.org/2006/tools/wiki/WebExBestPractices|Best Practices]]
 ===== Upcoming Meetings =====
   * **2020**
-    * Spring: [[planning:virtual-spring-2020|Virtual meeting]] instead of face-to-face
-      * When: Wednesday-Thursday, **April 29-30**
-      * probably will not have a Houdini meeting
-      * Constraint: Easter is April 12 (Western) or April 19 (Eastern)
-      * Constraint: AC Meeting May 18-19 in Seoul (likely AB meeting rest of week, maybe even TAG too)
-      * Constraint: April 13-15 is An Event Apart DC, May 11-13 is AEA Seattle (conflicts for Jen Simmons & Rachel Andrew)
     * Summer: [[planning:virtual-summer-2020|Virtual meeting 2]] instead of face-to-face
       * **When**  July 27-31: CSS Monday, Tuesday, Thursday. Houdini Friday
     * **TPAC Virtual Meeting** (was in Vancouver, BC, Canada): **26-30 October 2020**
@@ -32,6 +26,8 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 ===== Past Meetings =====
 
 ==== 2020 ====
+    * Spring: [[planning:virtual-spring-2020|Virtual meeting]] instead of face-to-face
+      * When: Wednesday-Thursday, **April 29-30** and **May 6-7**
     * January: [[planning:galicia-2020]]
       * When: **January 22-24**
       * no Houdini meeting
