@@ -14,13 +14,13 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 ===== Upcoming Meetings =====
   * **2020**
     * **TPAC Virtual Meeting** (was in Vancouver, BC, Canada): **26-30 October 2020**
-    * 12-16 October for joint meetings with other groups
+    * 12-16 October for [[https://www.w3.org/wiki/TPAC/2020/GroupMeetings|joint meetings with other groups]]
     * Possible dates for our own virtual meeting:
       * 5-9 October
       * 19-23 October
       * Split between the two weeks above
   * **2021**
-    *  **February 15-17** in Noida, India (Adobe)
+    *  **February 15-17** in Noida, India (Adobe)[[https://www.w3.org/wiki/TPAC/2020/GroupMeetings|]]
       * //That February, Delhi seemed like a paradise. The plants which seemed to have died during the winter’s cold — the snapdragon, the hibiscus and the frangipani — miraculously sprang back to life and into bloom.//
   * Standing offers:
     * Florian should be able to Host in Kyoto, Japan any time other than July-August.
