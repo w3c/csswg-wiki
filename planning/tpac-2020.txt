@@ -58,6 +58,7 @@ We will use #css on IRC for all meeting coordination. People can use the chat in
 ===== Participants =====
 
 | **Name** | **Affiliation** | Monday | Tuesday | Thursday | Friday |
+| Cameron McCormack | Mozilla | yes | yes | no | no |
 
 If you can't make one of the days, mark any topics you want to be present for with a milestone for a day you can attend.
 
