@@ -1,5 +1,12 @@
 ====== CSSWG 3nd Virtual F2F, at TPAC 2020 ======
 
+
+[[https://www.w3.org/2020/10/TPAC/|TPAC Virtual Meeting]] is scheduled for **October 2020**
+
+  * 12-16 October for [[https://www.w3.org/wiki/TPAC/2020/GroupMeetings|joint meetings with other groups]] (TBD groups include I18N, TTWG, APA, MathML?, SVGWG?)
+  * 19-23 October for our own meetings; see [[https://www.w3.org/wiki/TPAC/2020/GroupMeetings|W3C-wide group meeting calendar]]
+  * 26-30 October is [[https://www.w3.org/2020/10/TPAC/breakout-schedule.html|breakout week]]
+
 ===== Dial-in Logistics =====
 
 Links to Meet: TBD
