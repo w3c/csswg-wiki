@@ -15,14 +15,18 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
 ==== 2021 ====
 
-  * Winter: [[planning:virtual-winter-2021|Virtual meeting 3]] instead of face-to-face
-    * When: **Feb 9 (EUR) & 11 (APAC)**
+  * April: [[planning:virtual-april-2021|Virtual meeting 4]]
+    * When: **April 6 (EUR) & 8 (APAC)**
   * Standing offers:
     * Florian should be able to Host in Kyoto, Japan any time other than July-August.
     * Adobe can likely host in Feb in Noida, once we get back to in-person meetings.
 
   * [[planning:hosting]]
 ===== Past Meetings =====
+
+==== 2020 ====
+  * Winter: [[planning:virtual-winter-2021|Virtual meeting 3]] instead of face-to-face
+    * When: **Feb 9 (EUR) & 11 (APAC)**
 
 ==== 2020 ====
     * [[https://wiki.csswg.org/planning/tpac-2020|TPAC]]
