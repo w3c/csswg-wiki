@@ -46,3 +46,4 @@ https://github.com/w3c/csswg-drafts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Age
 | Cameron McCormack | Apple | no | yes |
 | Myles C. Maxfield | Apple | yes | yes |
 | Emilio | Mozilla | yes | maybe |
+| Rachel Andrew | Invited Expert | yes | no |
