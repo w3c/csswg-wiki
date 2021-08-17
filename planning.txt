@@ -17,6 +17,7 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
   * July: [[planning:virtual-july-2021|Virtual meeting 5]]
     * When: **July 27 (EUR) & 29 (APAC)**
+  * October [[https://www.w3.org/wiki/TPAC/2021/GroupMeetings|TPAC joint meetings 25-29 Oct]]
   * Standing offers:
     * Florian should be able to Host in Kyoto, Japan any time other than July-August.
     * Adobe can likely host in Feb in Noida, once we get back to in-person meetings.
