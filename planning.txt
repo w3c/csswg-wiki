@@ -15,9 +15,14 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
 ==== 2021 ====
 
-  * July: [[planning:virtual-july-2021|Virtual meeting 5]]
-    * When: **July 27 (EUR) & 29 (APAC)**
-  * October [[https://www.w3.org/wiki/TPAC/2021/GroupMeetings|TPAC joint meetings 25-29 Oct]]
+  * September: [[planning:virtual-september-2021|pre-TPAC meeting]]
+    * When: **September 29 (EUR)**
+  * October: [[https://wiki.csswg.org/planning/tpac-2021|TPAC]]
+    * When: **October 18-29**
+    * Joint APA meeting **Oct 20**
+    * Joint Internationalization meeting **Oct 27**
+  * November: [[planning:virtual-november-2021|post-TPAC meeting]]
+    * When: **November 3 (APAC)**
   * Standing offers:
     * Florian should be able to Host in Kyoto, Japan any time other than July-August.
     * Adobe can likely host in Feb in Noida, once we get back to in-person meetings.
@@ -26,6 +31,8 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 ===== Past Meetings =====
 
 ==== 2021 ====
+  * July: [[planning:virtual-july-2021|Virtual meeting 5]]
+    * When: **July 27 (EUR) & 29 (APAC)**
   * April: [[planning:virtual-april-2021|Virtual meeting 4]]
     * When: **April 6 (EUR) & 8 (APAC)**
   * Winter: [[planning:virtual-winter-2021|Virtual meeting 3]] instead of face-to-face
