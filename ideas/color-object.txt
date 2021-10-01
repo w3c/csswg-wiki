@@ -1,3 +1,7 @@
+<note>
+This has been superseded by work on a common color API for the Web Platform and by work on Typed OM for manipulating CSS syntax specifically.
+</note>
+
 <code idl>
   [Constructor(double r, double g, double b, optional double a=1),
    Constructor(RGBAColorInit color)]
