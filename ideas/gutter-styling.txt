@@ -1,7 +1,7 @@
 
 ====== Row and Column Rule Styling ======
 
-See discussion in: https://github.com/w3c/csswg-drafts/issues/2748
+See discussion in: https://github.com/w3c/csswg-drafts/issues/2748 and https://github.com/w3c/csswg-drafts/issues/5080
 
 Existing properties:
 
