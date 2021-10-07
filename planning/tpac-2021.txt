@@ -17,3 +17,4 @@
 | Alan Stearns | Adobe | yes | yes | yes | yes |
 | Rossen Atanassov | Microsoft | yes | yes | yes | yes |
 | fantasai | Invited Expert | yes | yes | yes | yes |
+| Chris Lilley| W3C| yes | yes | yes | ??|
