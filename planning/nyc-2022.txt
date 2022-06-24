@@ -30,6 +30,7 @@ Please list your availability in NYC time (morning/afternoon/all or specific tim
 ^ Name ^ Timezone ^ EDT Availability ^ Other Notes ^
 | François Remy | CEDT | Morning and afternoon | Unlikely to be available on the last day |
 | Daniel Holbert | PDT | Afternoon | |
+| David Baron | America/New_York | about 8:45 until 17:30 | in-person unlikely but possible |
 ==== Regrets ====
 
   * Let us know if you can't make it...
