@@ -3,12 +3,14 @@
 ===== Budget Estimate Overview ======
 
   * Venue: $12K
-  * Chairs and tables: $400
+  * Chairs and tables: ~$700
   * Food: 
     * Breakfast: ~$300/day
+    * Snacks: ~$300/day
+    * Lunch: ~$300/day
+    * Dinner: ~$600/day
   * Drinks: 
   * Equipment:
-
 
 ===== Misc Equipment =====
 
