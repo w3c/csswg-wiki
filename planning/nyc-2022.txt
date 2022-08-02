@@ -7,7 +7,7 @@
        * [[https://lists.w3.org/Archives/Member/w3c-css-wg/2022JulSep/0060.html|Monday]]
        * [[https://lists.w3.org/Archives/Member/w3c-css-wg/2022JulSep/0065.html|Tuesday]]
        * Wednesday
-   * [[https://github.com/w3c/csswg-drafts/projects/30|Agenda]]
+   * [[https://github.com/orgs/w3c/projects/10|Agenda]]
 ===== Attendees =====
 
 ==== In-Person Participants ====
