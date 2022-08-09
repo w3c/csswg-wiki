@@ -8,13 +8,13 @@ The CSSWG's channels aren't particularly busy except during meetings or events, 
 The main CSSWG channel is used by the CSS Working Group members during meetings and for quick coordination during off-hours. Topic is anything we work on. (Help with using CSS is off-topic.)
 
   ; Server : irc.w3.org
-  ; Port : 6665 (or 80 if 6665 is blocked on your end)
+  ; Port : 6679 (or 80 if 6665 is blocked on your end)
   ; Channel : #css
 
 We also have a channel dedicated to CSS conformance testing. Here's the information you'll need:
 
   ; Server : irc.w3.org
-  ; Port : 6665 (or 80 if 6665 is blocked on your end)
+  ; Port : 6679 (or 80 if 6665 is blocked on your end)
   ; Channel : #css-test
 
 ===== IRC Clients =====
