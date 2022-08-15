@@ -10,3 +10,4 @@
 
 | **Name** | **Affiliation** | In-Person/Remote |
 | David Baron | Google | Remote |
+| Daniel Holbert | Mozilla | Remote |
