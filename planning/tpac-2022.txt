@@ -17,6 +17,8 @@
 | Dominik Röttsches | |
 | François Remy | |
 | Miriam Suzanne | |
+| fantasai | |
+
 ==== Remote ====
 
 | **Name** | **Affiliation** | **Timezone** | **PDT Availability** | **Other Notes** |
