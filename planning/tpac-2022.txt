@@ -37,3 +37,7 @@
 | Eric Meyer | Igalia | America/New_York | 5am - 2:30pm | |
 | Alison Maher | Microsoft | PDT | 9am - 5pm | |
 | Myles C. Maxfield | Apple | PDT | very complicated | |
+
+==== Regrets ====
+
+Lea Verou
