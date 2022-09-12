@@ -16,7 +16,7 @@
 | Rachel Andrew | |
 | Cameron McCormack | |
 | Dominik Röttsches | |
-| François Remy | Sept 12-17 @ AirBnb (host and myself will wear a mask if/when interacting)
+| François Remy | Sept 12–17 @ AirBnb (host and myself will wear a mask if/when interacting) |
 | Miriam Suzanne | Sept 11–17 @ Sheraton |
 | fantasai | |
 | Chris Harrelson | Sep 12-16 (might not attend some sessions due to conflicts) @ Sheraton |
@@ -37,3 +37,7 @@
 | Eric Meyer | Igalia | America/New_York | 5am - 2:30pm | |
 | Alison Maher | Microsoft | PDT | 9am - 5pm | |
 | Myles C. Maxfield | Apple | PDT | very complicated | |
+
+==== Regrets ====
+
+Lea Verou
