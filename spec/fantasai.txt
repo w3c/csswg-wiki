@@ -2,6 +2,7 @@
 
   ; CSS Display L3
   : Awaiting [[https://github.com/w3c/csswg-drafts/issues/6516#issuecomment-1341575031|CRS Resolution]]
+  : Needs updated DoC
   : Needs WPT
 
   ; CSS Display L4
