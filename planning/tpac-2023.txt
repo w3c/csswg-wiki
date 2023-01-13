@@ -1,0 +1,19 @@
+====== CSSWG meeting at TPAC 2023 ======
+
+[[https://lists.w3.org/Archives/Member/chairs/2023JanMar/0018.html|TPAC 2022]] is scheduled for **11-15 September 2022** in Sevilla, Spain, with options for both in-person and remote participation. 
+
+  * CSSWG primary meeting time: TBD
+
+===== Participants =====
+
+==== In-Person ====
+
+| **Name** | **Affiliation** | **Dates** | **Other** |
+
+==== Remote ====
+
+| **Name** | **Affiliation** | **Timezone** | **PDT Availability** | **Other Notes** |
+
+==== Regrets ====
+
+| **Name** | **Affiliation** |
