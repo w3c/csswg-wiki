@@ -17,6 +17,5 @@
 Please list your availability in California time (morning/afternoon/all or specific time ranges). See [[https://www.worldtimebuddy.com/?pl=1&lid=5391959,2988507,293397,2158177&h=5391959&date=7/18/2023%7C3&hf=1|Time Converter]]
 
 ^ Name ^ Timezone ^ PDT Availability ^ Other Notes ^
-| ... | ... | ... | ... |
-| David Baron | Google | [[https://www.openstreetmap.org/relation/6496417|America/New_York]] | 5:45-15:00,17:00-18:00 | still considering in-person attendance, but listing myself here to say I'll be attending one way or the other |
+| David Baron | [[https://www.openstreetmap.org/relation/6496417|America/New_York]] | 5:45-15:00,17:00-18:00 | still considering in-person attendance, but listing myself here to say I'll be attending one way or the other |
 
