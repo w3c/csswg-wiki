@@ -18,3 +18,5 @@ Please list your availability in California time (morning/afternoon/all or speci
 
 ^ Name ^ Timezone ^ PDT Availability ^ Other Notes ^
 | ... | ... | ... | ... |
+| David Baron | Google | [[https://www.openstreetmap.org/relation/6496417|America/New_York]] | 5:45-15:00,17:00-18:00 | still considering in-person attendance, but listing myself here to say I'll be attending one way or the other |
+
