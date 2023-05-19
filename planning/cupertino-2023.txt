@@ -9,6 +9,8 @@
 
 ==== In-Person Participants ====
 
+When in a U-shape configuration, the room has capacity for 30 people. But the maximum capacity of the room is 160, so we can probably squeeze a few more than 30 in pretty comfortably.
+
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Dietary Restrictions ^ Flights or Other Notes ^
 | Tess | local | local | local | | |
 | Alan | Jul 17 | Jul 21 | | | |
