@@ -2,6 +2,8 @@
 
 We're considering three different types of venues for the CSSWG F2F, which would be one of the **last two weeks in July** (likely 17th, to accommodate fremy, if no one else has stronger constraints).
 
+**UPDATE**: The F2F will finally happen in Cupertino: https://wiki.csswg.org/planning/cupertino-2023
+
 ===== Option 1: West Coast Corporate =====
 
   * Likely venue: a conference room in the Apple offices in Cupertino or San Diego.
