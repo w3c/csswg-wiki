@@ -15,7 +15,7 @@ When in a U-shape configuration, the room has capacity for 30 people. But the ma
 | Tess | local | local | local | | |
 | Alan | Jul 17 | Jul 21 | | | |
 | Rachel Andrew | Jul 17 | Jul 23 | | [[https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9|I made a list.]] | |
-| Oriol Brufau | Jul 15 | Jul 22 | | Strong dislike of cheese and shellfish | |
+| Oriol Brufau | Jul 15 | Jul 22 | The Cupertino Hotel | Strong dislike of cheese and shellfish | |
 | fantasai | ? | ? | ? | gluten-free appreciated | |
 | Bramus | Jul 16 | Jul 26 | Wild Palms Hotel | None | SAS 594+935 - SAS 936+597 |
 | Miriam | ? | ? | ? | vegetarian | |
