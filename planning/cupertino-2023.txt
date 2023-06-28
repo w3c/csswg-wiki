@@ -25,7 +25,7 @@ When in a U-shape configuration, the room has capacity for 30 people. But the ma
 | Bramus | Jul 16 | Jul 26 | Wild Palms Hotel | None | SAS 594+935 - SAS 936+597 |
 | Miriam | Jul 17 | Jul 22 | AirBnB | vegetarian | |
 | Rossen | Jul 18 | Jul 22 | AirBnB | pescatarian | |
-| changseok | local | local | local | | |
+| ChangSeok Oh | local | local | local | | |
 | Peter Linss | ? | ? | ? | | |
 | Tab Atkins-Bittner | local | local | local | | |
 | David Baron | Jul 17 | Jul 21 | Wild Palms Hotel | no red meat | [[https://flightaware.com/live/flight/UAL1742|UA 1742]] (Mon 15:25 SFO), [[https://flightaware.com/live/flight/UAL2046|UA 2046]] (Fri 21:35 SFO) |
