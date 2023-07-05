@@ -44,13 +44,14 @@ When in a U-shape configuration, the room has capacity for 30 people. But the ma
 | Florian Rivoal | July 17 | July 22 | AirBnB | omnivore | KL2084+KL5192 / AF2840+AF0009|
 | Ian Kilpatrick | local | local | local | no shellfish |  |
 | Cassondra Roberts | Jul 17 | Jul 21 | Element Santa Clara | mostly vegan but flexible w/honey, fish, etc. | Delta into SJC |
+| Daniel Holbert | local | local | local | None | Planning to attend in-person for at least one day (not sure yet which day(s). |
+
 
 ==== Virtual Participants ====
 
 Please list your availability in California time (morning/afternoon/all or specific time ranges). See [[https://www.worldtimebuddy.com/?pl=1&lid=5391959,2988507,293397,2158177&h=5391959&date=7/18/2023%7C3&hf=1|Time Converter]]
 
 ^ Name ^ Timezone ^ PDT Availability ^ Other Notes ^
-| Daniel Holbert | PDT | 09:00-17:00 | Planning to attend in-person for at least one day (not sure yet which day(s). |
 | François Remy | CEST (PDT+9) | 08:00-16:00 | Might not be able to attend all days entirely |
 | Yehonatan Daniv | IDT (PDT+10) | 08:00-15:00 | |
 | Chris Lilley | (PDT+10) | 08:00-12:00 | Might manage in-person, conflicts with team travel policy |
