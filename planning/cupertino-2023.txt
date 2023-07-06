@@ -31,7 +31,7 @@ When in a U-shape configuration, the room has capacity for 30 people. But the ma
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Dietary Restrictions ^ Flights or Other Notes ^
 | Alan | Jul 17 | Jul 21 | | | |
-| Rachel Andrew | Jul 17 | Jul 23 | Homewood Suites Silicon Valley| [[https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9|I made a list.]] | |
+| Rachel Andrew | Jul 17 | Jul 23 | Homewood Suites Silicon Valley| [[https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9|I made a list.]] |BA283 + AA4863 - AS2401 + BA282 |
 | Oriol Brufau | Jul 15 | Jul 22 | AirBnB | Strong dislike of cheese and shellfish | |
 | Bramus | Jul 16 | Jul 26 | Wild Palms Hotel | None | SAS 594+935 - SAS 936+597 |
 | Miriam | Jul 17 | Jul 22 | AirBnB | vegetarian | |
