@@ -34,6 +34,8 @@ IN-PERSON SIGN-UPS ARE NOW CLOSED!!!
 
 When in a U-shape configuration, the room has capacity for 30 people. But the maximum capacity of the room is 160, so we can probably squeeze a few more than 30 in pretty comfortably.
 
+IN-PERSON SIGN-UPS ARE NOW CLOSED!!!
+
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Dietary Restrictions ^ Flights or Other Notes ^
 | Alan | Jul 17 | Jul 21 | | | |
 | Rachel Andrew | Jul 17 | Jul 23 | Homewood Suites Silicon Valley| [[https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9|I made a list.]] |BA283 + AA4863 - AS2401 + BA282 |
@@ -53,6 +55,8 @@ When in a U-shape configuration, the room has capacity for 30 people. But the ma
 | Nicole Sullivan | local | local | local | | |
 | Tantek Çelik | local | local | local | vegan | solid maybe, and tbd which days and for how long |
 | Emilio Cobos | July 17 | July 22 | AirBnB | omnivore | |
+
+IN-PERSON SIGN-UPS ARE NOW CLOSED!!!
 ==== Virtual Participants ====
 
 Please list your availability in California time (morning/afternoon/all or specific time ranges). See [[https://www.worldtimebuddy.com/?pl=1&lid=5391959,2988507,293397,2158177&h=5391959&date=7/18/2023%7C3&hf=1|Time Converter]]
