@@ -6,7 +6,7 @@
        * If you're driving there, the visitor parking is in an underground garage whose entrance is [[https://goo.gl/maps/371ED4eugJoaGooy5|at this point]], adjacent to the Apple Park Visitor Center, 10600 North Tantau Avenue, Cupertino, CA 95014.  This is just across North Tantau Avenue from the visitor entrance.
    * Weather: [[http://forecast.weather.gov/MapClick.php?smap=1&lat=37.335&lon=-122.009&unit=1&mp=1|⁰C]], [[http://forecast.weather.gov/MapClick.php?smap=1&lat=37.335&lon=-122.009&unit=0&mp=1|⁰F]]
    * Dates: Tuesday 18 July - Friday 21 July 2023
-   * Times: 8am-4pm
+   * Times: 8am-4pm (early start to accommodate Europe dial-ins)
        * 7:30am - reception open for visitors, breakfast available
        * 8am - meeting start
        * 9:30am-10am morning break
