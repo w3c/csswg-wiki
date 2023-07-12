@@ -14,8 +14,9 @@
        * 2:00pm-2:30pm afternoon break
        * 4pm - meeting end
    * Scheduled Extras:
-       * Lightning Pitches - 1min-5min informal pitches to ask for engagement on particular issues, concerns, or feature requests that aren't ready for formal discussion
+       * [[https://lists.w3.org/Archives/Member/w3c-css-wg/2023JulSep/0031.html|Lightning Pitches]] - 1min-5min informal pitches to ask for engagement on particular issues, concerns, or feature requests that aren't ready for formal discussion
        * Thursday evening - DIY backyard barbecue, fantasai &co hosting, details TBD, extra guests welcome, please come even if you're local...
+       * Wednesday evening - hosted restaurant dinner
    * Airports:
        * SJC - San Jose Airport (16km drive, **closest**, be careful to use correct airport code)
        * SFO - San Francisco Airport (54km drive, **major hub**)
