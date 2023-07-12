@@ -50,7 +50,7 @@ In addition to [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aiss
 
 ==== Lightning Pitches ====
 
-Stuff you want the CSSWG to pay attention to / help out with that's not ready for formal discussion. See [[https://lists.w3.org/Archives/Member/w3c-css-wg/2023JulSep/0031.html|Lightning Pitches Description]]. Register your name and/or topics below if you want the wiki to help you remember.
+1min-5min informal pitches to ask for CSSWG’s attention / help on particular issues, concerns, or feature requests that aren't ready for formal discussion, see [[https://lists.w3.org/Archives/Member/w3c-css-wg/2023JulSep/0031.html|Lightning Pitches Description]]. Register your name and/or topics below if you want the wiki to help you remember.
 ===== Attendees =====
 
 ==== Hosts ===
