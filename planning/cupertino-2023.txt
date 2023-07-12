@@ -23,7 +23,8 @@
 
 ===== Agenda =====
 
-Goals:
+==== Goals ====
+
   * Reduce Agenda+ backlog:
     * [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+label%3A%22Agenda%2B+F2F%22|Agenda+ F2F]]
     * [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+label%3AAgenda%2B|Agenda+]]
@@ -33,11 +34,15 @@ Goals:
   * Allow time and space for fuzzier open-ended discussions and breakouts
   * Post-pandemic repair of group communication and collaboration (particularly across company boundaries)
 
-Possible breakout topics:
+==== Possible breakout topics ====
+
   * Line-breaking and related features in [[https://www.w3.org/TR/css-text-4/|CSS Text Level 4]]
   * ??? Add Suggestions Here ???
 
-Regular-track topics (in addition to Agenda+ F2F):
+==== Regular-track topics ====
+
+In addition to [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+label%3A%22Agenda%2B+F2F%22|Agenda+ F2F Issues]]...
+
   * Anchor Positioning
   * Masonry?
   * ??? Add topics you want to discuss / present here so the chairs can schedule them ???
