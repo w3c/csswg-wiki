@@ -9,7 +9,10 @@
        * SJC - San Jose Airport (20km drive, **closest**, be careful to use correct airport code)
        * SFO - San Francisco Airport (37km drive, **major hub**)
        * OAK - Oakland Airport (63km drive)
-
+   * Pandemic protocol: same as previous recent meetings
+       * Masks required in meeting room/common spaces; can be removed only while actively eating/drinking.
+       * COVID testing before arrival, and daily before meetings.
+       * Outdoor dining encouraged, weather permitting (Feb might be cold and rainy, or perfectly fine)
 ===== Agenda =====
 
 ===== Attendees =====
