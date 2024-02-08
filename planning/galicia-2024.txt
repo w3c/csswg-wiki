@@ -3,7 +3,7 @@
    * Host: Igalia
    * Location: A Coruña, Galicia, Spain
    * Dates: Week of June 10-14
-   * Times: 9am-6pm (tentative)
+   * Times: 9am-6pm (tentative); Note: previous A Coruña meeting was 10am-7pm, should we do that?
 
 ===== Agenda =====
 
