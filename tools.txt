@@ -13,7 +13,7 @@ Tools particularly useful during (f2f or telcon) meetings:
       * A [[https://bocoup.com/blog/how-to-scribe-at-tpac|blog post]] on some of the conventions we use on IRC, with a scribing focus
     * [[https://log.csswg.org/irc.w3.org/css/today|IRC Logs]] are available for our IRC channels
   * [[https://excalidraw.com/|Excalidraw]] and [[https://pad.w3.org/|W3C Etherpad]] in case you need a virtual whiteboard during a meeting.
-  * [[https://cal.csswg.org/public.php/csswg/calendar.ics|iCal Feed]] contains our meeting times.  (Ask Peter Linss if you need permissions to edit this calendar.) 
+  * [[https://cal.csswg.org/public.php/csswg/calendar.ics|iCal Feed]] contains our meeting times.  (Ask Peter Linss if you need permissions to edit this calendar.)  This is perhaps semi-obsolete since the chairs now have the ability to add events to [[https://www.w3.org/users/myprofile/calendar/|your W3C Calendar]], but it's still somewhat maintained.
   * [[https://data.microsoftedge.com|Interop Browser Data]] Provides crawler data from Chrome/Microsoft Edge about CSS properties, values and top sites utilized
 
   * [[https://drafts.csswg.org/|CSS Editor's Drafts]], [[https://drafts.fxtf.org/|FXTF Editor's Drafts]], and [[https://drafts.css-houdini.org/|Houdini Editor's Drafts]] are automatically generated and available with publishing history.
