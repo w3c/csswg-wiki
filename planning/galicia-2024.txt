@@ -5,6 +5,22 @@
    * Dates: June 11-13
    * Times: 10am-6pm
 
+Where:
+    A Coruña, Galicia, Spain
+    Igalia office
+    Rúa de José Luis Bugallal Marchesi, 22
+    https://maps.app.goo.gl/eCban5rx1iHKsZ1J8
+
+If you're in A Coruña on June 10 or 14 (the days before and after), you’re welcome to come to the Igalia office and work from there.
+
+If you're already planning to get flights and hotels, you should know that we have a discount for F2F attendees at the nearby Hotel Avenida (https://www.hotelavenida.com/en/). This is the hotel we use frequently and it is very convenient to the office. June 10 and 11 - only accommodation 52€ and with breakfast 58€. On the 12th and 13th - only accommodation 72€ and with breakfast 78€. We have requested them to hold 20-25 rooms for us and would need names if you would like us to get them held with reservations (payment due at the hotel).  Please contact us or note it in the wiki page as soon as possible if you believe that sounds good.
+
+We can also provide childcare if needed. Feel free to contact us or note that in the wiki page.
+
+Note that Igalia is also organizing the Web Engines Hackfest the week before, on June 3-5, also in A Coruña. You can find more info at https://webengineshackfest.org/. I know some of you are attending or speaking at CSS Day, which would make it harder to also attend the Web Engines Hackfest, but it would be great if you could make it.
+
+The Web Engines Hackfest website also has travel instructions to get to A Coruña, although that event takes place at a different venue.
+
 ===== Agenda =====
 
   * [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+label%3A%22Agenda%2B+F2F%22|Agenda+ F2F]]
