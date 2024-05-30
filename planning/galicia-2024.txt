@@ -63,6 +63,7 @@ As you might know Igalia has a podcast called Igalia chats.  We thought it might
 ===== Agenda =====
 
   * [[https://github.com/w3c/csswg-drafts/issues?q=is%3Aopen+is%3Aissue+label%3A%22Agenda%2B+F2F%22|Agenda+ F2F]]
+  * [[https://github.com/Igalia/explainers/tree/canvas-formatted-text/canvas-formatted-text|WICG Canvas Text]] proposal intro
   * Other topics?
 
 ===== Attendees =====
