@@ -15,7 +15,7 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
 ==== 2024 ====
 
-  * 2024-09-?? meeting for some days during [[https://www.w3.org/2024/09/TPAC/|TPAC 2024]] (2024-09-23..2024-09-27), Anaheim, California, United States
+  * 2024-09-23..27 [[planning:tpac-2024|TPAC 2024]], Anaheim, California, United States
 
 ==== 2025 ====
   * 2025-11-?? probably meeting for some days during TPAC 2025 (2025-11-10..2025-11-14), Kobe, Japan
