@@ -29,6 +29,7 @@
 
 | **Name** | **Affiliation** | **Dates** | **Accomodation** | **Other** |
 | Alan Stearns | Adobe | | | |
+| David Baron | Google | All | ? | arrive LAX Sun 15:18, depart LAX Fri 21:30 |
 | Emilio Cobos | Mozilla | | | |
 | Eric Meyer | Igalia | | | |
 | fantasai | Apple | All | Venue | |
