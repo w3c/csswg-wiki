@@ -15,11 +15,8 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
 ===== Upcoming Meetings =====
 
-==== 2024 ====
-
-  * 2024-09-23..27 [[planning:tpac-2024|TPAC 2024]], Anaheim, California, United States
-
 ==== 2025 ====
+  * 2025-01-29..31 [[planning:cupertino-2025|January F2F]], Cupertino, California
   * 2025-11-?? probably meeting for some days during TPAC 2025 (2025-11-10..2025-11-14), Kobe, Japan
 
 ==== Misc ====
@@ -34,6 +31,7 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
 ==== 2024 ====
 
+  * 2024-09-23..27 [[planning:tpac-2024|TPAC 2024]], Anaheim, California, United States
   * 2024-06-11 to 2024-06-13 [[planning:galicia-2024|June F2F]] A Coruña, Galicia, Spain (Igalia)
   * 2024-02-12 to 2024-02-14 [[planning:mountain-view-2024|February F2F]] Mountain View, California, United States (Google)
 
