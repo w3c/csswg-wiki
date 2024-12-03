@@ -24,6 +24,7 @@
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Dietary Restrictions ^ Flights or Other Notes ^
 | fantasai | ? | ? | ? | GF | host |
 | bramus | ? | ? | ? | - | - |
+| rachelandrew | ? | ? | ? | GF + pescatarian [[https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9|allergies]] | - |
 
 ==== Virtual Participants ====
 
