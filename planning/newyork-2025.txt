@@ -3,14 +3,17 @@
    * Host: Microsoft
    * Dial-in: 
    * Agenda:
-   * Location: 
+   * Location: 11 Times Sq, New York, NY 10036
    * Weather Forecast: 
-   * Dates: 
+   * Dates: Tuesday April 1 - Thursday April 3 2025
    * Times: 
      * Morning break: ~10am
      * Lunch break: noon
      * Afternoon break: ~2pm
    * Airports:
+     * LGA - LaGuardia Airport (~9.3 mile drive)
+     * JFK - John F. Kennedy International Airport (~16 mile drive)
+     * EWR - Newark Liberty International Airport (~16 mile drive)
 
 Hosted Dinner:
 
