@@ -40,8 +40,7 @@ Agenda planning: Link to come
 (alphabetical by first name)
 
 ^ Name ^ Arrival ^ Departure ^ Hotel ^ Dietary Restrictions ^ Flights or Other Notes ^
-|  |  |  |  |  |  |
-
+| fantasai | local | local | local | GF appreciated |  |
 
 ==== Virtual Participants ====
 
