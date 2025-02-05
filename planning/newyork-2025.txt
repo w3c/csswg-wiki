@@ -46,8 +46,8 @@ Agenda planning: Link to come
 
 Please list your availability in New York time (morning/afternoon/all or specific time ranges). See [[https://www.worldtimebuddy.com/?pl=1&lid=5128581,5391959,2988507,2643743,1850147,2158177,293397&h=5128581&date=4/1/2025%7C3&hf=1|Time Converter]]
 
-^ Name ^ Timezone ^ PST Availability ^ Other Notes ^
-|  |  |  |  |
+^ Name ^ Timezone ^ EST Availability ^ Other Notes ^
+| Bramus | CEST | AM (+ PM if need be) |  |
 
 ==== Regrets ====
 
