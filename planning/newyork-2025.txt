@@ -3,7 +3,7 @@
    * Host: Microsoft
    * Dial-in: We will be using Teams for the F2F call.
      * Join: https://teams.microsoft.com/meet/269675683080?p=dVc3U40Fonb3nszQEe 
-   * Agenda:
+   * Agenda: https://github.com/orgs/w3c/projects/197/views/1
    * Location: 11 Times Sq, New York, NY 10036
      * The main entrance for our Times Square office is in the heart of New York City on 8th avenue between 41st and 42nd Street. All visitors must enter here for access.
      * The lobby will direct attendees when they arrive. All guests arriving at the building will check in with photo ID to receive an individualized elevator pass that calls the elevator to the floor of the event.
