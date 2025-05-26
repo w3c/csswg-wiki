@@ -22,7 +22,7 @@ Once the meeting starts, each discussion needs to go in a topic. When about to d
 
   Topic: Topic name here
 
-Most topics will relate to a GitHub issue. When about to discuss a GitHub issue, use this command. You can copy the issue URL from the agenda.
+Most topics will relate to a GitHub issue. When we are about to discuss a GitHub issue, use this command. You can copy the issue URL from the agenda. This will also set the topic to the title of the issue.
 
   github-bot, take up https://github.com/w3c/csswg-drafts/issues/123456
 
@@ -46,7 +46,7 @@ When everyone agrees a resolution on a topic, use this command to record it. The
 
   RESOLVED: The resolution here
 
-<note tip>If the resolution sounds complicated, it's OK to ask someone else to write the it for you.</note>
+<note tip>If the resolution sounds complicated, it's OK to ask someone else to write the resolution for you.</note>
 
 Once you finish discussing the last topic and the meeting is ending, use this command:
 
