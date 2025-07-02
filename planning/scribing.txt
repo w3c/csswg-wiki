@@ -28,6 +28,10 @@ For topics on GitHub, you can ask github-bot to set the topic and post the minut
 
 You can end a topic by either starting a new topic, or telling github-bot to ''end topic''. This will tell github-bot to post the minutes to a comment in the issue.
 
+If you don't want github-bot to comment in the issue, use this command:
+
+  github: none
+
 You can also use "Subtopic" instead of "Topic" for subtopics, to create a hierarchy when there are related topics. It otherwise has the same effect as "Topic".
 
 Once you've set the topic, people can start discussing it. To record what people are saying, use their IRC nickname like so. You don't need to write every word; just a summary of what they are saying.
