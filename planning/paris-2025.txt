@@ -85,6 +85,7 @@ Alphabetize by first name.
 
 ^ Name ^ Timezone ^ CEST Availability ^ Other Notes ^
 | Bramus | CEST | 09:00—16:30 | |
+| Brandon Stewart | US-PST | | |
 | Cassondra Roberts | US-EST | Flexible | |
 | Celeste Pan | US-PST | 09:00-11:00 or 15:00-17:00 | For Masonry issues |
 | Divyansh Mangal | IST | 11:00-17:00 | For Issue #12376 related to CSS units on <svg> elements |
@@ -98,7 +99,6 @@ Alphabetize by first name.
 | Rune Lillesveen | CEST | All | |
 | Sam Davis Omekara Jr. | US-PST | 15:00-17:00 + somewhat flexible | For Gap Decorations issues |
 | Stephen Chenney | US-NYC | 14:00 - ... | |
-
 ==== Regrets ====
 
 ^ Name ^
