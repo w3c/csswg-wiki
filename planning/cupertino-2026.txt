@@ -10,9 +10,9 @@
      * Lunch break: noon
      * Afternoon break: ~2:30pm
    * Airports:
-       * SJC - San Jose Airport (16km drive, **closest**, be careful to use correct airport code)
-       * SFO - San Francisco Airport (54km drive, **major hub**)
-       * OAK - Oakland Airport (69km drive)
+       * SJC - San Jose Airport (20km drive, **closest**, be careful to use correct airport code)
+       * SFO - San Francisco Airport (49km drive, **major hub**)
+       * OAK - Oakland Airport (63km drive)
 
 ===== Covid Protocols =====
 
