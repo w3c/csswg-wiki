@@ -29,13 +29,15 @@ TBD
 | Andreu Botella | Igalia | 11/9-11/15 | remm plus Kobe Sannomiya | |
 | Brian Birtles | Invited Expert | 11/12-11/14 | Daiwa Roynet Hotel | |
 | Chris Lilley | W3C | 11/7-11/15 | Kobe Portopia Hotel | |
+| Daniil Sakhapov | Google | 10Nov - 15Nov | | |
 | Florian Rivoal | Invited Expert | 11/8–11/15 | Hotel Sunroute Sopra Kobe | |
 | Kevin Babbitt | Microsoft | 11/8-11/15 | Kobe Portopia Hotel | |
 | Lea Verou | Invited Expert | 11/7-11/15 | Kobe Portopia Hotel | |
+| Noam Rosenthal | Google | 11/11-11/15 (AM) | Kobe Portopia Hotel | |
+| Penelope McLachlan | Google | 11/9-11/15 | Kobe Portopia Hotel | |
 | Rachel Andrew | Google | 11/9-11/14 | Kobe Portopia Hotel | |
 | Yehonatan Daniv | Wix | 10/26-11/15 | Kobe Portopia Hotel | |
-| Penelope McLachlan | Google | 11/9-11/15 | Kobe Portopia Hotel | |
-| Noam Rosenthal | Google | 11/11-11/15 (AM) | Kobe Portopia Hotel | |
+
 ==== Remote ====
 
 | **Name** | **Affiliation** | **Timezone** | **JST (UTC+9) Availability** | **Other Notes** |
