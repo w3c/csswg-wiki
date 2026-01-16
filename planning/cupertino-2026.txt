@@ -73,6 +73,7 @@ Please list your availability in California time (morning/afternoon/all or speci
 | Andreu Botella | CET | Tue from 10am, Wed-Thu from 11am | |
 | Vladimir Levin | EST | All day | |
 | Hoch Hochkeppel | PST | All day (minus misc blocks) | |
+| Kurt Catti-Schmidt | PST | All day (minus misc blocks) | |
 ==== Regrets ====
 
 ^ Name ^
