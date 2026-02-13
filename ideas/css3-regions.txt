@@ -1,1 +1,0 @@
-Specification is now a Working Draft and the Wiki page has moved to: [[spec:css3-regions|CSS Regions]]
