@@ -43,6 +43,7 @@ Agenda planning TBD. Flag issues with Agenda+ F2F or note them here.
 | Kevin Babbitt | n/a | n/a | n/a | None | Local |
 | Oriol Brufau | 2026-03-29 | 2026-04-03 | Airbnb? | Strong dislike of cheese and shellfish | Flying to/from SEA |
 | Tab Atkins-Bittner | ? | ? | ? | none | ? |
+| Celeste Pan | n/a | n/a | n/a | None | Local, partial attendance |
 
 ### Virtual Participants
 
