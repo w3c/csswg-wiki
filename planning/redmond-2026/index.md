@@ -38,22 +38,24 @@ Agenda planning TBD. Flag issues with Agenda+ F2F or note them here.
 | Name | Arrival | Departure | Hotel | Dietary Restrictions | Flights or Other Notes |
 | --- | --- | --- | --- | --- | --- |
 | Alison Maher | n/a | n/a | n/a | GF + preferred dairy free | host |
+| Celeste Pan | n/a | n/a | n/a | None | Local, partial attendance |
 | Florian Rivoal | 03/29 (KE742+KE041) | 04/03 (KE042+KE721) | TBD | omnivore |  |
 | Hoch Hochkeppel | n/a | n/a | n/a | None | Local |
 | Kevin Babbitt | n/a | n/a | n/a | None | Local |
 | Oriol Brufau | 2026-03-29 | 2026-04-03 | Airbnb? | Strong dislike of cheese and shellfish | Flying to/from SEA |
+| Sam Davis Omekara Jr. | n/a | n/a | n/a | shellfish | Local |
 | Tab Atkins-Bittner | ? | ? | ? | none | ? |
-| Celeste Pan | n/a | n/a | n/a | None | Local, partial attendance |
+| Yanling Wang | n/a | n/a | n/a | None | Local, partial attendance |
 
 ### Virtual Participants
 
 Please list your availability in California time (morning/afternoon/all or specific time ranges). See [Time Converter](https://www.worldtimebuddy.com/?qm=1&lid=5808079,2158177,1850147,293397,2988507,2643743,5128581&h=58080799&date=2026-3-31&sln=8-16&hf=1)
 
-| Name | Timezone | PST Availability | Other Notes |
+| Name | Timezone | PDT Availability | Other Notes |
 | --- | --- | --- | --- |
 | Andreu Botella | CEST | preferably before 3 pm | won't be available for the first hour on tuesday |
 | Bramus | CEST | 8am-12pm | --- |
-| Daniel Holbert | PST | 9am-5pm | --- |
+| Daniel Holbert | PDT | 9am-5pm | --- |
 | Miriam Suzanne | MT | 8am-4pm(ish) | --- |
 
 ### Regrets
