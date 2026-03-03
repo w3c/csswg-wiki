@@ -46,6 +46,7 @@ Agenda planning TBD. Flag issues with Agenda+ F2F or note them here.
 | Sam Davis Omekara Jr. | n/a | n/a | n/a | shellfish | Local |
 | Tab Atkins-Bittner | ? | ? | ? | none | ? |
 | Yanling Wang | n/a | n/a | n/a | None | Local, partial attendance |
+| Kurt Catti-Schmidt | n/a | n/a | n/a | None | Local |
 
 ### Virtual Participants
 
