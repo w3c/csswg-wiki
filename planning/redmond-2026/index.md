@@ -38,6 +38,7 @@ Agenda planning TBD. Flag issues with Agenda+ F2F or note them here.
 | Name | Arrival | Departure | Hotel | Dietary Restrictions | Flights or Other Notes |
 | --- | --- | --- | --- | --- | --- |
 | Alison Maher | n/a | n/a | n/a | GF + preferred dairy free | host |
+| Celeste Pan | n/a | n/a | n/a | None | Local, partial attendance |
 | Florian Rivoal | 03/29 (KE742+KE041) | 04/03 (KE042+KE721) | TBD | omnivore |  |
 | Hoch Hochkeppel | n/a | n/a | n/a | None | Local |
 | Kevin Babbitt | n/a | n/a | n/a | None | Local |
