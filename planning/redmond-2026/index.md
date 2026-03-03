@@ -56,6 +56,7 @@ Please list your availability in California time (morning/afternoon/all or speci
 | Bramus | CEST | 8am-12pm | --- |
 | Daniel Holbert | PDT | 9am-5pm | --- |
 | Miriam Suzanne | MT | 8am-4pm(ish) | --- |
+| Stephen Chenney | EDT | 6am - 3pm | Some single hours not available |
 
 ### Regrets
 
