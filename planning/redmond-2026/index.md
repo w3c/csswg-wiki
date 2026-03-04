@@ -16,11 +16,6 @@ title: "Redmond F2F April 2026"
   - Hosted Dinner: Evening of Wednesday 01 April 2026, location TBD
 - Visitor registration:
    - Please register at the building 122 lobby when entering to pick up a visitor badge.
-- Parking:
-   - Parking is free on Microsoft campus.
-   - When parking on Microsoft campus, you will want to look for visitor parking. There will be signs on spots that are meant for visitors. There should be visitor parking in front of the building, and in the parking garage next to the building.
-   - Make sure your car license plate is registered when checking in at the Microsoft building 122 lobby.
-    <br> <img width="554" height="831" alt="image" src="https://github.com/user-attachments/assets/e1dcbd15-1a88-4ada-87f3-9b48b0a1b330" />
 
 
 - Airports:
@@ -42,6 +37,12 @@ title: "Redmond F2F April 2026"
 
      - The link light line 2 [opens from Seattle to Redmond March 27, 2026](https://www.soundtransit.org/system-expansion/east-link-extension) (right before the F2F). This connects to the SEA airport, and if up and running as expected, it will be an easy way to get to and from SEA.
      - Please note that the link light isn't free, but you can pay for a ticket at any station, or beforehand online.
+- Parking:
+   - Parking is free on Microsoft campus.
+   - When parking on Microsoft campus, you will want to look for visitor parking. There will be signs on spots that are meant for visitors.
+   - There should be visitor parking in front of the building, and in the parking garage next to the building.
+   - Make sure your car license plate is registered when checking in at the Microsoft building 122 lobby.
+    <br> <img width="554" height="831" alt="image" src="https://github.com/user-attachments/assets/e1dcbd15-1a88-4ada-87f3-9b48b0a1b330" />
 
 
 ## Covid Protocols
