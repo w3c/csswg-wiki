@@ -30,7 +30,7 @@ title: "Redmond F2F April 2026"
       - If you stay in downtown Redmond or downtown Bellevue, there are link light stops in those locations that connect to the Redmond Technology station on Microsoft campus:
       <img width="352" height="454" alt="image" src="https://github.com/user-attachments/assets/eaad99af-c54b-4ea0-9542-c32848950638" />
 
-      - The link light line 2 opens from Seattle to Redmond March 27, 2026 (right before the F2F) https://www.soundtransit.org/system-expansion/east-link-extension (however, there have been many delays so I wouldn't bet too much on this option)
+      - The link light line 2 opens from Seattle to Redmond March 27, 2026 (right before the F2F) https://www.soundtransit.org/system-expansion/east-link-extension (however, there have been many delays so I wouldn't bet too much on this option). This connects to the SEA airport, though, and if up and running, it will be an easy way to get to and from SEA.
 
 
 ## Covid Protocols
