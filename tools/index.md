@@ -9,16 +9,14 @@ The CSSWG uses some tools to make our jobs easier. Here they are!
 ## Meeting Tools
 
 Tools particularly useful during (f2f or telcon) meetings:
-- This DokuWiki (obviously)
-  - To create an account, [register on Shepherd](https://test.csswg.org/shepherd/register/).
-  - To get that account permission to edit group pages, email plinss and/or fantasai
+- This csswg-wiki GitHub (obviously). Editable by all CSS WG participants.
 - We use [the W3C's IRC server](https://www.w3.org/Project/IRC/) for backchannel communication and for minuting during meetings
   - We use multiple IRC bots: [Zakim](http://www.w3.org/2001/12/zakim-irc-bot), [RRSAgent](https://www.w3.org/2002/03/RRSAgent), [github-bot](https://github.com/dbaron/wgmeeting-github-ircbot/)
     - [Scribing conventions](/tools/Scribing conventions/)
     - A [blog post](https://bocoup.com/blog/how-to-scribe-at-tpac) on some of the conventions we use on IRC, with a scribing focus
   - [IRC Logs](https://log.csswg.org/irc.w3.org/css/today) are available for our IRC channels
 - [Excalidraw](https://excalidraw.com/) and [W3C Etherpad](https://pad.w3.org/) in case you need a virtual whiteboard during a meeting.
-- [iCal Feed](https://cal.csswg.org/public.php/csswg/calendar.ics) contains our meeting times.  (Ask Peter Linss if you need permissions to edit this calendar.)  This is perhaps semi-obsolete since the chairs now have the ability to add events to [your W3C Calendar](https://www.w3.org/users/myprofile/calendar/), but it's still somewhat maintained.
+- [your W3C Calendar](https://www.w3.org/users/myprofile/calendar/) which has all the CSS WG phone conference and f2f meetings.
 - [Interop Browser Data](https://data.microsoftedge.com) Provides crawler data from Chrome/Microsoft Edge about CSS properties, values and top sites utilized
 
 - [CSS Editor's Drafts](https://drafts.csswg.org/index.html), [FXTF Editor's Drafts](https://drafts.fxtf.org/), and [Houdini Editor's Drafts](https://drafts.css-houdini.org/) are automatically generated and available with publishing history.
