@@ -38,8 +38,11 @@ Tools particularly useful during (f2f or telcon) meetings:
 - Specs are written in [Bikeshed](https://speced.github.io/bikeshed) ([install instructions](https://speced.github.io/bikeshed/#install-normal), or use [curl or the web form](https://speced.github.io/bikeshed/#remote))
 - A fresh spec should be started from the [module template](https://drafts.csswg.org/css-module-bikeshed/Overview.bs).
 - Bibliographic data is sourced from [SpecRef](https://www.specref.org/), which is automatically loaded into Bikeshed.
+- Automatic publication to /TR is now available, on an opt-in basis:
+  - [Enabling](/tools/autopublishing/add/) a new auto-publishable spec
+  - [Debugging](/tools/autopublishing/debug) if publication fails 
 - Note: A few very old specs specs still use 
-  - [Bert's post-processor](https://www.w3.org/Style/Group/css3-src/bin/postprocess) 
+  - [Bert's post-processor](https://www.w3.org/Style/Group/css3-src/bin/postprocess) which is no longer maintained
   - the older [module template](http://dev.w3.org/csswg/css-module/Overview.src.html)
   - See [spec-processor](/tools/spec-processor/) for tips.
   - Ask Tab, fantasai, or ChrisL for help if you need to edit these.
