@@ -2,7 +2,9 @@
 title: "About This Wiki"
 ---
 
-# About This Wiki
+# Out of Date
+
+_This info is about the old, DocuWiki which is no longer in use_
 
 This wiki is a [DokuWiki](https://www.dokuwiki.org/DokuWiki).
 
