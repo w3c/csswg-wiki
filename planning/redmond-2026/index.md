@@ -32,11 +32,12 @@ title: "Redmond F2F April 2026"
 -  Transportation information:
    - The building is ~10min walk from the Redmond Technology [link light](https://www.soundtransit.org/ride-with-us/routes-schedules/2-line?direction=0&at=1772611200000&view=table&route_tab=schedule&stops_0=40_N23%2C40_E31&stops_1=40_E31%2C40_N23) station (Seattle's local subway system):
       <br><img width="278" height="92" alt="image" src="https://github.com/user-attachments/assets/bf727368-7dcc-4d1f-be2a-d5de1a37fd10" />
-    - If you stay in downtown Redmond or downtown Bellevue, there are link light stops in those locations that connect to the Redmond Technology station on Microsoft campus:
+    - If you stay in downtown Redmond or downtown Bellevue, there are Link Light Rail stops in those locations that connect to the Redmond Technology station on Microsoft campus:
       <br><img width="352" height="454" alt="image" src="https://github.com/user-attachments/assets/eaad99af-c54b-4ea0-9542-c32848950638" />
 
-     - The link light line 2 [opens from Seattle to Redmond March 27, 2026](https://www.soundtransit.org/system-expansion/east-link-extension) (right before the F2F). This connects to the SEA airport, and if up and running as expected, it will be an easy way to get to and from SEA.
-     - Please note that the link light isn't free, but you can pay for a ticket at any station, or beforehand online.
+     - The Link Light Rail 2 Line [opens from Seattle to Redmond March 28, 2026](https://www.soundtransit.org/system-expansion/east-link-extension) (right before the F2F). This connects to the SEA airport, and if up and running as expected, it will be an easy way to get to and from SEA.
+       From the airport, board the 1 Line train towards Lynnwood and transfer to the 2 Line towards Redmond at International District/Chinatown station.
+     - Please note that the Link isn't free, but you can pay for a ticket at any station, or beforehand online. Tap-to-pay cards and devices are also accepted.
 - Parking:
    - Parking is free on Microsoft campus.
    - When parking on Microsoft campus, you will want to look for visitor parking. There will be signs on spots that are meant for visitors.
