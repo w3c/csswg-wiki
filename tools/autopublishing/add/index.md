@@ -39,7 +39,7 @@ Once this is done:
 - Navigate to `.github` in your checked-out copy of the CSSWG repo
 - Open `generate-auto-publish-workflows.py` in your text editor
 - Near the start of that file is a line starting `SPECS = [`
-- Add your new spec to that list (ideally in alphabetical order, to ease maintennce) and save
+- Add your new spec to that list (ideally in alphabetical order, to ease maintenence) and save
 
 For example, add
 

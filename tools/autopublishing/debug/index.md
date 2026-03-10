@@ -6,7 +6,7 @@ title: "Debugging if publication fails"
 
 If all goes well,
 your newly commited spec pops up [on /TR]()
-a few mitutes after you push your changes.
+a few minutes after you push your changes.
 
 Sometimes, of course,
 things do not go well.
