@@ -41,7 +41,7 @@ General steps in rough order:
   - https://www.w3.org/wiki/CSS3-UI
 - Make spec edits for resolved issues, then move them to https://www.w3.org/wiki/CSS3-UI
   - edit /dvcs.w3.org/csswg/css-ui/Overview.bs
-  - use https://api.csswg.org/bikeshed/ per [instructions](https://wiki.csswg.org/tools/bikeshed#using-the-web-form) to generate spec view HTML
+  - use https://www.w3.org/publications/spec-generator/ per [instructions](https://wiki.csswg.org/tools/bikeshed#using-the-web-form) to generate spec view HTML
   - “Save Page as…” “Web page, HTML only” Overview.html
 
 - For Tantek: process/do all of https://wiki.mozilla.org/Tantek-Mozilla-Projects#CSS3_UI tasks (including moving them here as issues if possible)
