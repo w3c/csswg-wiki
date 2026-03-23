@@ -101,6 +101,7 @@ Please list your availability in California time (morning/afternoon/all or speci
 | Yehonatan Daniv | UTC+3 | preferably before 2 pm | Probably going to miss Wednesday (Passover eve) |
 | Roman Komarov | CEST | 9am-5pm | --- |
 | David Shin | EDT | 6am - 3pm | --- |
+| Vladimir Levin | EDT | 10am - 3pm | --- |
 
 ### Regrets
 
