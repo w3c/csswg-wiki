@@ -95,15 +95,15 @@ Please list your availability in California time (morning/afternoon/all or speci
 | --- | --- | --- | --- |
 | Andreu Botella | CEST | preferably before 3 pm | won't be available for the first hour on tuesday or thursday |
 | Bramus | CEST | 8am-12pm | --- |
-| Daniel Holbert | PDT | 9am-5pm | --- |
-| Miriam Suzanne | MT | 8am-4pm(ish) | --- |
-| Stephen Chenney | EDT | 6am - 3pm | Some single hours not available |
-| Yehonatan Daniv | UTC+3 | preferably before 2 pm | Probably going to miss Wednesday (Passover eve) |
-| Roman Komarov | CEST | 9am-5pm | --- |
-| David Shin | EDT | 6am - 3pm | --- |
-| Vladimir Levin | EDT | 10am - 3pm | --- |
-| Romain Menke | CEST | 8am-11am(ish) | --- |
 | Cassondra Roberts | EDT | 5am-2pm | --- |
+| Daniel Holbert | PDT | 9am-5pm | --- |
+| David Shin | EDT | 6am - 3pm | --- |
+| Miriam Suzanne | MT | 8am-4pm(ish) | --- |
+| Romain Menke | CEST | 8am-11am(ish) | --- |
+| Roman Komarov | CEST | 9am-5pm | --- |
+| Stephen Chenney | EDT | 6am - 3pm | Some single hours not available |
+| Vladimir Levin | EDT | 10am - 3pm | --- |
+| Yehonatan Daniv | UTC+3 | preferably before 2 pm | Probably going to miss Wednesday (Passover eve) |
 
 ### Regrets
 
