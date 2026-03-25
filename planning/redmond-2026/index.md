@@ -80,6 +80,7 @@ Agenda planning TBD. Flag issues with Agenda+ F2F or note them here.
 | Kevin Babbitt | n/a | n/a | n/a | None | Local |
 | Kurt Catti-Schmidt | n/a | n/a | n/a | None | Local |
 | Lea Verou | ? | ? | ? | none | ? |
+| Mike Jackson | n/a | n/a | n/a | None | Local |
 | Oriol Brufau | 2026-03-29 | 2026-04-03 | Airbnb? | Strong dislike of cheese and shellfish | Flying to/from SEA |
 | Sam Davis Omekara Jr. | n/a | n/a | n/a | shellfish | Local |
 | Sammy Gill | 03/30 | 04/03 | ? | None | |
