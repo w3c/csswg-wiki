@@ -68,6 +68,7 @@ Agenda planning TBD. Flag issues with Agenda+ F2F or note them here.
 | Alan Stearns | n/a | n/a | n/a | omnivore | |
 | Alex Kyereboah | n/a | n/a | n/a | Peanut | Local, partial attendance |
 | Alison Maher | n/a | n/a | n/a | GF | host |
+| Arron Eicholz | n/a | n/a | n/a | ?? | Observer |
 | Celeste Pan | n/a | n/a | n/a | None | Local, partial attendance |
 | Chris Lilley | 03/29 | 04/03 | AirBnB | low carb high protein (diabetic) | ? |
 | Chris Wilson | n/a | n/a | n/a | omnivore | |
