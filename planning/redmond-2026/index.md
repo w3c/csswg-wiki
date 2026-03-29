@@ -107,6 +107,7 @@ Please list your availability in California time (morning/afternoon/all or speci
 | Miriam Suzanne | MT | 8am-4pm(ish) | --- |
 | Romain Menke | CEST | 8am-11am(ish) | --- |
 | Roman Komarov | CEST | 9am-5pm | --- |
+| Sebastian Zartner | CEST | 8am-11am(ish) | Probably going to miss most of the meeting, please ping me when you need me for something specific |
 | Stephen Chenney | EDT | 6am - 3pm | Some single hours not available |
 | Vladimir Levin | EDT | 10am - 3pm | --- |
 | Yehonatan Daniv | UTC+3 | preferably before 2 pm | Probably going to miss Wednesday (Passover eve) |
