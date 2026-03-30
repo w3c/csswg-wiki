@@ -105,6 +105,7 @@ Please list your availability in California time (morning/afternoon/all or speci
 | David Baron | EDT | 7am - 2pm | --- |
 | David Shin | EDT | 6am - 3pm | --- |
 | Miriam Suzanne | MT | 8am-4pm(ish) | --- |
+| Rachel Andrew | BST | 8am-11am(ish) | Will drop for other meetings, ping me if I'm useful for something. |
 | Romain Menke | CEST | 8am-11am(ish) | --- |
 | Roman Komarov | CEST | 9am-5pm | --- |
 | Sebastian Zartner | CEST | 8am-11am(ish) | Probably going to miss most of the meeting, please ping me when you need me for something specific |
