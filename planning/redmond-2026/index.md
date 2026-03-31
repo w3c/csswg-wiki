@@ -112,6 +112,7 @@ Please list your availability in California time (morning/afternoon/all or speci
 | Stephen Chenney | EDT | 6am - 3pm | Some single hours not available |
 | Vladimir Levin | EDT | 10am - 3pm | --- |
 | Yehonatan Daniv | UTC+3 | preferably before 2 pm | Probably going to miss Wednesday (Passover eve) |
+| Rob Flack | EDT | 9am - 3pm | --- |
 
 ### Regrets
 
