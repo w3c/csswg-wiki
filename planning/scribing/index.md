@@ -108,9 +108,9 @@ The following people are signed up to the scribe rota. We are always looking for
 1. JoshT
 1. kbabbitt
 1. fantasai
-1. TabAtkins
 1. emilio
-   
+1. TabAtkins
+
 ### Ad-Hoc Scribes
 
 Some people would like to help with scribing, but are unable to commit to being on the scribe rota. Those people can sign up to be ad-hoc scribes.
