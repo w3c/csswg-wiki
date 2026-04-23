@@ -21,8 +21,6 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 ## Upcoming Meetings
 
 ### 2026
-
-- 2026-03-31..2026-04-02, [April F2F](/planning/redmond-2026/), Redmond, Washington, USA (Microsoft) (currently considering moving to Vancouver and one week later)
 - 2026-08-04..2026-08-06 [August F2F](/planning/berlin-2026/) Berlin, Germany (Mozilla)
 - 2026-10-?? probably meeting for some days during [TPAC 2026](https://www.w3.org/events/tpac/2026/tpac-2026/) (2026-10-26..2026-10-30), Dublin, Ireland
 
@@ -38,6 +36,7 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
 ### 2026
 
+- 2026-03-31..2026-04-02, [April F2F](/planning/redmond-2026/), Redmond, Washington, USA (Microsoft)
 - 2026-01-27..29 [January F2F](/planning/cupertino-2026/), Cupertino, California, USA (Apple)
 
 ### 2025
