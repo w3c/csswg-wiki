@@ -24,6 +24,9 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 - 2026-08-04..2026-08-06 [August F2F](/planning/berlin-2026/) Berlin, Germany (Mozilla)
 - 2026-10-?? probably meeting for some days during [TPAC 2026](https://www.w3.org/events/tpac/2026/tpac-2026/) (2026-10-26..2026-10-30), Dublin, Ireland
 
+### 2027
+- 2027-12-?? probably meeting for some days during [TPAC 2027](https://www.w3.org/events/tpac/2027/tpac-2027/) (2027-12-06..2027-12-10), Panamá, Panamá
+
 ### Misc
 
 - Standing offers:
