@@ -37,7 +37,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 
 | Name | Arrival | Departure | Hotel | Dietary Restrictions | Flights or Other Notes |
 | --- | --- | --- | --- | --- | --- |
-| Elika | TBD | TBD | TBD | low-gluten | TBD |
+| Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
 
 ### Virtual Participants
 
