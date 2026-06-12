@@ -30,7 +30,7 @@ The [Status page](/planning/status/) tracks outstanding resolutions. Editors, pl
 
 # Coordination between specifications
 
-- [Marking up your <dfn>s for proper cross-linking](/spec/dfn-patterns/)
+- [Marking up your `<dfn>`s for proper cross-linking](/spec/dfn-patterns/)
 - [CSSOM Constants](/spec/cssom-constants/)
 - [Patterns for writing "Computed Value" lines](/spec/computed-values/)
 - [Patterns for writing at-rules](/spec/at-rules-patterns/)
