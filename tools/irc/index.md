@@ -10,7 +10,7 @@ The CSSWG's channels aren't particularly busy except during meetings or events, 
 
 ## Server Info
 
-The main CSSWG channel is used by the CSS Working Group members during meetings and for quick coordination during off-hours. Topics include anything we work on. (Help with using CSS is off-topic.)
+The CSS Working Group members use the main CSSWG channel for meetings and for quick coordination during off-hours. Topics include anything we work on. (Help with using CSS is off-topic.)
 
 Server : irc.w3.org
 
@@ -28,7 +28,7 @@ Channel : #css-test
 
 ## IRC Clients
 
-You'll need an IRC client. The W3C provides a self-hosted web IRC client [webirc.w3.org](https://webirc.w3.org). See a [suggested list of IRC clients](https://www.w3.org/guide/meetings/irc.html#where-can-i-find-a-client)
+You'll need an IRC client. The W3C provides a self-hosted web IRC client [webirc.w3.org](https://webirc.w3.org). See the [suggested list of IRC clients](https://www.w3.org/guide/meetings/irc.html#where-can-i-find-a-client).
 
 ## IRC Commands
 
