@@ -37,6 +37,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 
 | Name | Arrival | Departure | Hotel | Dietary Restrictions | Flights or Other Notes |
 | --- | --- | --- | --- | --- | --- |
+| Alan Stearns | | | | omni | |
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
 | Florian Rivoal | 3 Aug | 7 Aug | Homaris East Side | omnivore | N/A |
