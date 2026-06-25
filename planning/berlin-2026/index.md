@@ -45,6 +45,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
 | Lea Verou | | | | omnivore | |
 | Sarah Inman | | | | | Google observer |
+| Andreu Botella | | | | none | |
 
 ### Virtual Participants
 
