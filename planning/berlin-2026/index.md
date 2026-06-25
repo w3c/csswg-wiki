@@ -47,6 +47,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
 | Lea Verou | | | | omnivore | |
 | Rachel Andrew |3 Aug | 6 Aug | Hilton Berlin| [pescatarian w. allergies](https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9) | |
+| Sammy Gill | 2 Aug | 7 Aug | Hotel Indigo | | |
 | Sarah Inman | | | | | Google observer |
 | Andreu Botella | | | | none | |
 | Yehonatan Daniv | 3 Aug | 7 Aug | TBD | none | |
