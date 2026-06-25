@@ -39,6 +39,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | --- | --- | --- | --- | --- | --- |
 | Alan Stearns | | | | omni | |
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
+| Andreu Botella | | | | none | |
 | Chris Lilley | | | | low-carb (diabetic) | |
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
 | Emilio | TBD | 7 Aug | TBD | None | TBD |
@@ -47,12 +48,11 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
 | Lea Verou | | | | omnivore | |
 | Rachel Andrew |3 Aug | 6 Aug | Hilton Berlin| [pescatarian w. allergies](https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9) | |
+| Roman Komarov | 3 Aug | 7 Aug | TBD | none | Dates approximate
 | Sammy Gill | 2 Aug | 7 Aug | Hotel Indigo | | |
 | Sarah Inman | | | | | Google observer |
-| Andreu Botella | | | | none | |
 | Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
 | Yehonatan Daniv | 3 Aug | 7 Aug | TBD | none | |
-| Roman Komarov | 3 Aug | 7 Aug | TBD | none | Dates approximate
 
 ### Virtual Participants
 
