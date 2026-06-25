@@ -41,6 +41,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
 | Chris Lilley | | | | low-carb (diabetic) | |
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
+| Emilio | TBD | 7 Aug | TBD | None | TBD |
 | Florian Rivoal | 3 Aug | 7 Aug | Homaris East Side | omnivore | N/A |
 | John Jansen | 3 Aug | 7 Aug | Hotel nHow | None | Flying out Friday morning |
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
