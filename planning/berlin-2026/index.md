@@ -44,6 +44,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Florian Rivoal | 3 Aug | 7 Aug | Homaris East Side | omnivore | N/A |
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
 | Lea Verou | | | | omnivore | |
+| Sarah Inman | | | | | Google observer |
 
 ### Virtual Participants
 
