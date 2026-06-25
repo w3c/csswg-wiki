@@ -52,6 +52,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Andreu Botella | | | | none | |
 | Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
 | Yehonatan Daniv | 3 Aug | 7 Aug | TBD | none | |
+| Roman Komarov | 3 Aug | 7 Aug | TBD | none | Dates approximate
 
 ### Virtual Participants
 
