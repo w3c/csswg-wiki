@@ -64,5 +64,6 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 
 ### Regrets
 
-| Name |
-| --- |
+| Name | Other Notes |
+| --- | --- |
+| Josh Tumath | Might be able to join calls for specific issues |
