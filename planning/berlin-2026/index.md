@@ -59,8 +59,8 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 Please list your availability in Berlin time (morning/afternoon/all or specific time ranges). See [Time Converter](https://www.worldtimebuddy.com/?qm=1&lid=5391959,2158177,1850147,293397,2988507,2643743,5128581&h=5391959&date=2025-1-29&sln=8-16&hf=1)
 
 | Name | Timezone | PST Availability | Other Notes |
-| Noam Rosenthal | BST | All | |
 | --- | --- | --- | --- |
+| Noam Rosenthal | BST | All | |
 
 ### Regrets
 
