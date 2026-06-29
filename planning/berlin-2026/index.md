@@ -52,6 +52,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Roman Komarov | 3 Aug | 7 Aug | TBD | none | Dates approximate
 | Sammy Gill | 2 Aug | 7 Aug | Hotel Indigo | | |
 | Sarah Inman | | | | | Google observer |
+| Sebastian Zartner | 3 Aug | 7 Aug | | | |
 | Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
 | Yehonatan Daniv | 3 Aug | 7 Aug | TBD | none | |
 
