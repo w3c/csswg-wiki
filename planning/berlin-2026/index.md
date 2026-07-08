@@ -37,7 +37,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 
 | Name | Arrival | Departure | Hotel | Dietary Restrictions | Flights or Other Notes |
 | --- | --- | --- | --- | --- | --- |
-| Alan Stearns | | | | omni | |
+| Alan Stearns | 3 Aug | 9 Aug| Locke| omni | Train |
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
 | Andreu Botella | | | | none | |
 | Bramus | 3 Aug | 7 Aug | TBD | none | Planes, yes |
