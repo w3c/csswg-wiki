@@ -6,7 +6,7 @@ title: "Berlin F2F August 2026"
 
 - Host: Mozilla
 - Dial-in: TBD
-- Location: Mozilla, Schlesische Strasse 27, Entrance C, 4 Floor, 10997 Berlin
+- Location: [Mozilla, Schlesische Strasse 27, Entrance C, 4 Floor, 10997 Berlin](https://maps.app.goo.gl/4KGQtpXxeKvZ8fk16)
 - Weather Forecast: TBD
 - Dates: Tuesday 4th August - Thursday 6th August 2026
 - Times: 10am - 6pm
