@@ -65,6 +65,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Name | Timezone | CEST Availability | Other Notes |
 | --- | --- | --- | --- |
 | Daniel Holbert | PDT | 8:00-10:00, 15:00-19:00 | |
+| David Shin | EDT | 14:00-19:00 | |
 | Noam Rosenthal | BST | All | |
 | Stephen Chenney | EDT | 14:00-19:00 | |
 | Tantek Çelik | PDT | 16:00-19:00 | https://tantek.com/ |
