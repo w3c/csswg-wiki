@@ -56,6 +56,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Sebastian Zartner | 3 Aug | 7 Aug | | | |
 | Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
 | Yehonatan Daniv | 3 Aug | 7 Aug | Hotel Indigo | none | |
+| Cassondra Roberts | 3 Aug | 7 Aug | TBD | vegan (fish/honey okay) | |
 
 ### Virtual Participants
 
