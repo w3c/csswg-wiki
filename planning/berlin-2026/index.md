@@ -39,7 +39,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | --- | --- | --- | --- | --- | --- |
 | Alan Stearns | 3 Aug | 9 Aug| Locke| omni | Train |
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
-| Andreu Botella | | | | none | |
+| Andreu Botella | 31 July | 9 Aug | Hotel nhow | none | |
 | Bramus | 3 Aug | 7 Aug | TBD | none | Planes, yes |
 | Chris Lilley | | | | low-carb (diabetic) | |
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
