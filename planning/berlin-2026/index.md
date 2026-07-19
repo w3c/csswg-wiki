@@ -41,14 +41,14 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
 | Andreu Botella | 31 July | 9 Aug | Hotel nhow | none | |
 | Bramus | 3 Aug | 7 Aug | TBD | none | Planes, yes |
-| Chris Lilley | | | | low-carb (diabetic) | |
+| Chris Lilley | 2 Aug | 7 Aug | Hotel Indigo | low-carb (diabetic) | |
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
 | Emilio | 2 Aug | 7 Aug | Hotel Indigo | None | N/A |
 | Florian Rivoal | 3 Aug | 7 Aug | Homaris East Side | omnivore | N/A |
 | John Jansen | 3 Aug | 7 Aug | Hotel nHow | None | Flying out Friday morning |
 | Keith Cirkel | 3 Aug | 7 Aug | Hotel Indigo | None |  |
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
-| Lea Verou | | | | omnivore | |
+| Lea Verou | 2 Aug | 7 Aug | Hotel Indigo | omnivore | |
 | Oriol Brufau | 3 Aug | 7 Aug | | Strong dislike of cheese and shellfish | |
 | Rachel Andrew |3 Aug | 6 Aug | Hilton Berlin | [pescatarian w. allergies](https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9) | |
 | Roman Komarov | 3 Aug | 7 Aug | Hotel Indigo | none |
