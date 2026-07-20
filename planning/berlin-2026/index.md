@@ -74,6 +74,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Tantek Çelik | PDT | 16:00-19:00 | https://tantek.com/ |
 | Miriam Suzanne | MT | 16:00-end | maybe earlier if necessary |
 | Javier Contreras | PDT | 15:30-end | interested in attending the css-gaps issues discussion |
+| Hoch Hochkeppel | PDT | 16:00-end | |
 
 ### Regrets
 
