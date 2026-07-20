@@ -76,6 +76,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Javier Contreras | PDT | 15:30-end | interested in attending the css-gaps issues discussion |
 | Hoch Hochkeppel | PDT | 16:00-end | |
 | Celeste Pan | PDT | 16:00-end | maybe earlier if necessary |
+| Yanling Wang | PDT | 16:00-end | |
 
 ### Regrets
 
