@@ -45,6 +45,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
 | Emilio | 2 Aug | 7 Aug | Hotel Indigo | None | N/A |
 | Florian Rivoal | 3 Aug | 7 Aug | Homaris East Side | omnivore | N/A |
+| Joanne Pan | 3 Aug | 7 Aug | Hotel Indigo | tomato, brocoli, and lactose intolerance | |
 | John Jansen | 3 Aug | 7 Aug | Hotel nHow | None | Flying out Friday morning |
 | Keith Cirkel | 3 Aug | 7 Aug | Hotel Indigo | None |  |
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
