@@ -49,6 +49,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | John Jansen | 3 Aug | 7 Aug | Hotel nHow | None | Flying out Friday morning |
 | Keith Cirkel | 3 Aug | 7 Aug | Hotel Indigo | None |  |
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
+| Kiet Ho | 3 Aug | 7 Aug | Hotel Indigo | None | |
 | Lea Verou | 2 Aug | 7 Aug | Hotel Indigo | omnivore | |
 | Oriol Brufau | 3 Aug | 7 Aug | | Strong dislike of cheese and shellfish | |
 | Rachel Andrew |3 Aug | 6 Aug | Hilton Berlin | [pescatarian w. allergies](https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9) | |
