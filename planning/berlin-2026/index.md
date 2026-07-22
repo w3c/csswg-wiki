@@ -78,6 +78,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Hoch Hochkeppel | PDT | 16:00-end | |
 | Celeste Pan | PDT | 16:00-end | maybe earlier if necessary |
 | Yanling Wang | PDT | 16:00-end | |
+| Romain Menke | CEST | All | |
 
 ### Regrets
 
