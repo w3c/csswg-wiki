@@ -81,6 +81,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Celeste Pan | PDT | 16:00-end | maybe earlier if necessary |
 | Yanling Wang | PDT | 16:00-end | |
 | Leo Lee | PDT | 16:00-end | interested in attending CSS Mixins discussion|
+| Stephanie Zhang | PDT | 16:00-end | interested in attending the CSS Mixins discussion |
 
 ### Regrets
 
