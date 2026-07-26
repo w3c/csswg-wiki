@@ -74,7 +74,7 @@ Please list your availability in California time (morning/afternoon/all or speci
 
 | Name | Timezone | PST Availability | Other Notes |  |
 | --- | --- | --- | --- | --- |
-| David Baron | [[https://www.openstreetmap.org/relation/6496417 | America/New_York]] | 8:00-14:00 |  |
+| David Baron | [America/New_York](https://www.openstreetmap.org/relation/6496417) | 8:00-14:00 |  |
 | Oriol Brufau | GMT+1 | Tue: yes. Wed: no. Thu from 11am. Preferably not after 3pm. |  |  |
 | Rachel Andrew | GMT | AM (minus misc blocks) |  |  |
 | Roman Komarov | GMT+1 | All day |  |  |
