@@ -83,6 +83,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Romain Menke | CEST | All | |
 | Leo Lee | PDT | 16:00-end | interested in attending CSS Mixins discussion|
 | Stephanie Zhang | PDT | 16:00-end | interested in attending the CSS Mixins discussion |
+| Jen Simmons |  |  | |
 
 ### Regrets
 
