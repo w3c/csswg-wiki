@@ -80,7 +80,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Javier Contreras | PDT | 15:30-end | interested in attending the css-gaps issues discussion |
 | Rob Flack | EDT | 14:00-19:00 | |
 | Hoch Hochkeppel | PDT | 16:00-end | |
-| Celeste Pan | PDT | 16:00-end | would like to present [#13987]([url](https://github.com/w3c/csswg-drafts/issues/13987)), [#13590]([url](https://github.com/w3c/csswg-drafts/issues/13950)) |
+| Celeste Pan | PDT | 16:00-end | would like to present [#13987](https://github.com/w3c/csswg-drafts/issues/13987), [#13590](https://github.com/w3c/csswg-drafts/issues/13950), [#14237](https://github.com/w3c/csswg-drafts/issues/14237), [#12971](https://github.com/w3c/csswg-drafts/issues/12971) |
 | Yanling Wang | PDT | 16:00-end | |
 | Romain Menke | CEST | All | |
 | Leo Lee | PDT | 16:00-end | interested in attending CSS Mixins discussion|
