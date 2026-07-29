@@ -56,6 +56,7 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Roman Komarov | 3 Aug | 7 Aug | Hotel Indigo | none |
 | Sammy Gill | 2 Aug | 7 Aug | Hotel Indigo | | |
 | Sebastian Zartner | 3 Aug | 7 Aug | Apartmenthouse Berlin - Am Görlitzer Park | | train |
+| Tab Atkins-Bittner | 2 Aug | 7 Aug | Mercure Hotel Berlin Templehof | | |
 | Tiaan Louw | 4 Aug | 6 Aug | Local | | |
 | Tim Nguyen | 31 July | 7 Aug | Hotel Indigo | | |
 | Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
