@@ -10,9 +10,9 @@ title: "Berlin F2F August 2026"
 - Weather Forecast: TBD
 - Dates: Tuesday 4th August - Thursday 6th August 2026
 - Times: 10am - 6pm
-  - Breakfast: TBD
+  - Breakfast: There'll be pastries + coffee + snacks from 9am
   - Morning break: TBD
-  - Lunch break: TBD
+  - Lunch break: 13:00
   - Afternoon break: TBD
   - Host dinner: TBD
 - Airports:
