@@ -57,7 +57,6 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Sammy Gill | 2 Aug | 7 Aug | Hotel Indigo | | |
 | Sebastian Zartner | 3 Aug | 7 Aug | Apartmenthouse Berlin - Am Görlitzer Park | | train |
 | Tab Atkins-Bittner | 2 Aug | 7 Aug | Mercure Hotel Berlin Templehof | | |
-| Tiaan Louw | 4 Aug | 6 Aug | Local | | |
 | Tim Nguyen | 31 July | 7 Aug | Hotel Indigo | | |
 | Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
 | Yehonatan Daniv | 3 Aug | 7 Aug | Hotel Indigo | none | |
@@ -76,6 +75,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Noam Rosenthal | BST | All | |
 | Stephen Chenney | EDT | 14:00-19:00 | |
 | Tantek Çelik | PDT | 16:00-19:00 | https://tantek.com/ |
+| Tiaan Louw | CEST | All | |
 | Miriam Suzanne | MT | 16:00-end | maybe earlier if necessary |
 | Javier Contreras | PDT | 15:30-end | interested in attending the css-gaps issues discussion |
 | Rob Flack | EDT | 14:00-19:00 | |
