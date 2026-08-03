@@ -40,11 +40,13 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Alan Stearns | 3 Aug | 9 Aug| Locke| omni | Train |
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
 | Andreu Botella | 31 July | 9 Aug | Hotel nhow | none | |
-| Bramus | 3 Aug | 7 Aug | TBD | none | Planes, yes |
+| Bramus | 3 Aug | 7 Aug | Hampton Berlin City East Side | none | Planes, yes |
+| Cassondra Roberts | 3 Aug | 7 Aug | TBD | vegan (fish/honey okay) | |
 | Chris Lilley | 2 Aug | 7 Aug | Hotel Indigo | low-carb (diabetic) | |
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
 | Emilio | 2 Aug | 7 Aug | Hotel Indigo | None | N/A |
 | Florian Rivoal | 3 Aug | 7 Aug | Homaris East Side | omnivore | N/A |
+| Jake Archibald | 3 Aug | 7 Aug | TBD | none | TBD |
 | Joanne Pan | 3 Aug | 7 Aug | Hotel Indigo | tomato, brocoli, and lactose intolerance | |
 | John Jansen | 3 Aug | 7 Aug | Hotel nHow | None | Flying out Friday morning |
 | Keith Cirkel | 3 Aug | 7 Aug | Hotel Indigo | None |  |
@@ -60,8 +62,6 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | Tim Nguyen | 31 July | 7 Aug | Hotel Indigo | | |
 | Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
 | Yehonatan Daniv | 3 Aug | 7 Aug | Hotel Indigo | none | |
-| Cassondra Roberts | 3 Aug | 7 Aug | TBD | vegan (fish/honey okay) | |
-| Jake Archibald | 3 Aug | 7 Aug | TBD | none | TBD |
 
 ### Virtual Participants
 
