@@ -7,7 +7,7 @@ title: "Berlin F2F August 2026"
 - Host: Mozilla
 - Dial-in: TBD
 - Location: [Mozilla, Schlesische Strasse 27, Entrance C, 4 Floor, 10997 Berlin](https://maps.app.goo.gl/4KGQtpXxeKvZ8fk16)
-- Weather Forecast: TBD
+- Weather Forecast: [Pretty hot, some rain possible](https://www.accuweather.com/en/de/berlin/10178/weather-forecast/178087)
 - Dates: Tuesday 4th August - Thursday 6th August 2026
 - Times: 10am - 6pm
   - Breakfast: There'll be pastries + coffee + snacks from 9am
@@ -17,6 +17,14 @@ title: "Berlin F2F August 2026"
   - Host dinner: TBD
 - Airports:
     - BER - Berlin Brandenburg Airport
+
+## Getting to the office
+
+See the [Mozilla Wiki](https://wiki.mozilla.org/Berlin_Office) for extra info about how to access the office.
+
+Use driveway Schlesische Str. 27 ([see photo](https://wiki.mozilla.org/images/thumb/b/b4/Moz_berlin_entrance.jpg/800px-Moz_berlin_entrance.jpg)). Walk along the cobblestone path all the way to the end. Go to the white building, entrance is on the left side right before the path ends ([see photo](https://wiki.mozilla.org/images/thumb/a/ae/Moz_berlin_entrance1.jpg/450px-Moz_berlin_entrance1.jpg)). Enter through the door marked "Treppenhaus C" ([see photo](https://wiki.mozilla.org/images/thumb/e/e5/Moz_berlin_door.jpg/450px-Moz_berlin_door.jpg)), and go up to the main reception on the 4th floor. Note that the legal name is MZ Denmark on building signs.
+
+The meeting space is in the 3rd floor, but make sure to **enter via the 4th floor** and register all three days.
 
 ## Covid Protocols
 
