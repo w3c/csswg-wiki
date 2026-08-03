@@ -78,7 +78,7 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Name | Timezone | CEST Availability | Other Notes |
 | --- | --- | --- | --- |
 | Daniel Holbert | PDT | 8:00-10:00, 15:00-19:00 | |
-| David Baron | [America/New York](https://www.openstreetmap.org/relation/6496417) | 15:00-18:00 | maybe available some earlier times |
+| David Baron | [America/New York](https://www.openstreetmap.org/relation/6496417) | Tue 15:30-18:00, Wed 16:00-18:00, Thu 15:00-18:00 | maybe available some earlier times |
 | David Shin | EDT | 14:00-19:00 | |
 | Noam Rosenthal | BST | All | |
 | Stephen Chenney | EDT | 14:00-19:00 | |
