@@ -97,6 +97,8 @@ Please list your availability in Berlin time (morning/afternoon/all or specific 
 | Stephanie Zhang | PDT | 16:00-end | interested in attending the CSS Mixins discussion |
 | Jen Simmons |  |  | |
 | Limin Zhu | PDT | 16:30-end | would like to be present for Haptics; could start 16:00 if necessary |
+| Jonathan Kew | BST |  | plan to join for selected issues |
+
 
 ### Regrets
 
