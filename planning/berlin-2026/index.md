@@ -37,7 +37,7 @@ The meeting space is in the 3rd floor, but make sure to **enter via the 4th floo
 
 Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Agenda%2B%20F2F%22) or [email the list with requests](https://lists.w3.org/Archives/Member/w3c-css-wg/).
 
-https://github.com/orgs/w3c/projects/242
+<https://github.com/orgs/w3c/projects/242>
 
 ## Attendees
 
