@@ -13,7 +13,7 @@ title: "Berlin F2F August 2026"
   - Breakfast: There'll be pastries + coffee + snacks from 9am
   - Morning break: 11:30-ish
   - Lunch break: 13:00
-  - Afternoon break: 13:45-ish
+  - Afternoon break: 15:45-ish
   - Host dinner: probably Wednesday
 - Airports:
     - BER - Berlin Brandenburg Airport
