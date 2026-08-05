@@ -14,7 +14,7 @@ title: "Berlin F2F August 2026"
   - Morning break: 11:30-ish
   - Lunch break: 13:00
   - Afternoon break: 15:45-ish
-  - Host dinner: 19:00 in [Alte Turnhalle Berlin](https://www.alte-turnhalle-berlin.de/en/sommergarten) (Holteistraße 6-9)
+  - Host dinner: Wednesday 19:00 in [Alte Turnhalle Berlin](https://www.alte-turnhalle-berlin.de/en/sommergarten) (Holteistraße 6-9)
 - Airports:
     - BER - Berlin Brandenburg Airport
 
