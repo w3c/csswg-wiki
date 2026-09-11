@@ -21,7 +21,9 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 ## Upcoming Meetings
 
 ### 2026
-- 2026-10-?? probably meeting for some days during [TPAC 2026](https://www.w3.org/events/tpac/2026/tpac-2026/) (2026-10-26..2026-10-30), Dublin, Ireland
+- 2026-10-29 to 30  meeting for two days during [TPAC 2026](https://www.w3.org/events/tpac/2026/tpac-2026/) (2026-10-26..2026-10-30), Dublin, Ireland
+  - The [TPAC 2026 schedule](https://www.w3.org/news-events/tpac/2026/schedule/)  and [further information](https://www.w3.org/news-events/tpac/2026/).
+  - [**Register soon!**](https://www.w3.org/news-events/tpac/2026/registration/#registration)
 
 ### 2027
 - 2027-12-?? probably meeting for some days during [TPAC 2027](https://www.w3.org/events/tpac/2027/tpac-2027/) (2027-12-06..2027-12-10), Panamá, Panamá
