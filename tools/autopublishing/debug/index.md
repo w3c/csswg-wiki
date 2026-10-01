@@ -13,7 +13,11 @@ things do not go well.
 
 ## Build locally with bikeshed
 
-The first thing to do is to run Bikeshed locally and look for errors or warnings (yes, warnings will stop publications). Fix them and try again. Note that if there are errors or warnings you won't even get an error in the archive (see below); the spec is never even sent for publication.
+The first thing to do is to run Bikeshed locally and look for errors or warnings (yes, warnings will stop publications). Fix them and try again. Note that if there are errors or warnings you won't even get an error in the archive (see below); the spec is never even sent for publication. This can include autolink warnings, or missing WPT tests.
+
+## Look at the GitHub actions
+
+For auto-published specs, if bikeshed gives no warnings, there will be two actions listed [in csswg-drafts actions](https://github.com/w3c/csswg-drafts/actions), one to update the ED and one to update /TR. You may see errors listed there.
 
 ## Check the archives
 
