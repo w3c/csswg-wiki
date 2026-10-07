@@ -28,12 +28,15 @@ title: "CSSWG meeting at TPAC 2026"
 
 | **Name** | **Affiliation** | **Dates** | **Accomodation** | **Other** |
 | --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 
 ### Remote
 
-| **Name** | **Affiliation** | **Timezone** | **GMT (UTC) Availability** | **Other Notes** |  |
-| --- | --- | --- | --- | --- | --- |
-| David Baron | Google | [America/New_York](https://www.openstreetmap.org/relation/6496417) | Definitely anything after 13:00 Dublin (09:00 Boston), maybe earlier if needed |  |
+Note: TPAC is the week when Europe is no longer observing summer time but the US and Canada are still on summer time.
+
+| **Name** | **Affiliation** | **Timezone** | **GMT (UTC) Availability** | **Other Notes** |
+| --- | --- | --- | --- | --- |
+| David Baron | Google | [America/New_York](https://www.openstreetmap.org/relation/6496417) | Definitely anything after 13:00 Dublin (09:00 Boston), maybe earlier if needed |
 
 ### Regrets
 
