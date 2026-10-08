@@ -32,7 +32,6 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 
 - Standing offers:
   - Florian should be able to Host in Kyoto, Japan any time other than July-August.
-  - Adobe can likely host in Feb in Noida, once we get back to in-person meetings.
 
 - [hosting](/planning/hosting/)
 
