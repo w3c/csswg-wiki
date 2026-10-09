@@ -8,6 +8,7 @@ title: "CSSWG meeting at TPAC 2026"
 
 - CSSWG-APA joint meeting: Tuesday 27 October, 10:30–12:00
 - Immersive Web CG/WG joint meeting on [Spatial CSS](https://webkit.github.io/explainers/css-spatial/explainer.html): Tuesday 27 October, afternoon
+- Internationalization WG joint meeting: Tuesday 27 October, afternoon
 - CSSWG F2F: **Thursday-Friday, 29-30 October**
 - [high level TPAC schedule](https://www.w3.org/news-events/tpac/2026/schedule/)
 - [full TPAC schedule](https://www.w3.org/calendar/tpac2026/)
