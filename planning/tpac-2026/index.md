@@ -22,7 +22,8 @@ title: "CSSWG meeting at TPAC 2026"
 
 ## Agenda
 
-?
+| **Date** | **Time** | **Team** | **Subject** |
+| 29-Oct | 15:30 - 16:30 | WHATWG / META | Module Stylesheet <link> |
 
 ## Participants
 
