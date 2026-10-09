@@ -34,6 +34,7 @@ title: "CSSWG meeting at TPAC 2026"
 | **Name** | **Affiliation** | **Dates** | **Accomodation** | **Other** |
 | --- | --- | --- | --- | --- |
 | Alan Stearns | Adobe | Oct 23-31 | Clayton |  |
+| Andreu Botella | Igalia | Oct 25 - Nov 1 | Devlin | |
 | Chris Harrelson | Google | Oct 24-29 | Murphy |  |
 
 ### Remote
