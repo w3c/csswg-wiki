@@ -37,6 +37,7 @@ title: "CSSWG meeting at TPAC 2026"
 | Andreu Botella | Igalia | Oct 25 - Nov 1 | Devlin | |
 | Chris Harrelson | Google | Oct 24-29 | Murphy |  |
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
+| John Jansen | Google | Oct 25-31 | Clayton | |
 
 ### Remote
 
