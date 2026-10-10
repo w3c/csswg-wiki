@@ -41,6 +41,7 @@ title: "CSSWG meeting at TPAC 2026"
 | Chris Harrelson | Google | Oct 24-29 | Murphy |  |
 | Florian Rivoal  | Invited Expert | Oct 23-21 | The Georgian Collection |  |
 | John Jansen | Microsoft | Oct 25-31 | Clayton | |
+| Karl Dubost | Apple | Oct 25-31 | Clayton | |
 | Kevin Babbitt | Microsoft | Oct 25-31 | Clayton | |
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
 | Noam Rosenthal | Google | Oct 26-31 | Clayton |  |
