@@ -42,6 +42,7 @@ title: "CSSWG meeting at TPAC 2026"
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
 | John Jansen | Microsoft | Oct 25-31 | Clayton | |
 | Kevin Babbitt | Microsoft | Oct 25-31 | Clayton | |
+| Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
 
 ### Remote
 
