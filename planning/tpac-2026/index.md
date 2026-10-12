@@ -48,6 +48,8 @@ title: "CSSWG meeting at TPAC 2026"
 | Noam Rosenthal | Google | Oct 26-31 | Clayton |  |
 | Romain Menke | Invited Expert | Oct 25-31 | Clayton |  |
 | Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
+| Jason Williams | Bloomberg | Oct 26-30 | Clayton | |
+| David Marland | Bloomberg | Oct 26-30 | Clayton | |
 
 ### Remote
 
