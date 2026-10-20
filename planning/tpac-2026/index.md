@@ -57,6 +57,7 @@ https://github.com/orgs/w3c/projects/252/views/1
 | Oriol Brufau | Igalia | Oct 25-31 | Morehampton Townhouse |  |
 | Rachel Andrew | Google | Oct 25-31 | Hilton |  |
 | Romain Menke | Invited Expert | Oct 25-31 | Clayton |  |
+| Sammy Gill | Apple | Oct 25 - 31 | | |
 | Simon Sapin | Igalia | Oct 27-31 | NYX Portobello | |
 | Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
 
