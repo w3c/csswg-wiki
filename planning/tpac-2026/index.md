@@ -28,7 +28,8 @@ https://github.com/orgs/w3c/projects/252/views/1
 | 27-Oct | All Day | Internationalization joint meeting | [agenda](https://github.com/w3c/i18n-activity/issues/2172) | 
 | 27-Oct | 10:30–12:00 | CSSWG-APA joint meeting |  | 
 | 27-Oct | Late Afternoon | Immersive Web CG/WG joint meeting | [Spatial CSS](https://webkit.github.io/explainers/css-spatial/explainer.html) | 
-| 29-Oct | 15:30 - 16:30 | WHATWG / META | Module Stylesheet <link> | 
+| 29-Oct | 11:00 - 12:30 | WHATWG | [Responsive Images](https://github.com/whatwg/meta/issues/398) | 
+| 29-Oct | 15:30 - 16:30 | WHATWG | [Module Stylesheet](https://github.com/whatwg/meta/issues/398) | 
 
 ## Participants
 
