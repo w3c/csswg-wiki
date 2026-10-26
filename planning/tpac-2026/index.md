@@ -22,6 +22,7 @@ title: "CSSWG meeting at TPAC 2026"
 https://github.com/orgs/w3c/projects/252/views/1
 
 ### Breakout/Joint sessions
+
 | **Date** | **Time** | **Team** | **Subject** | 
 | --- | --- | --- | --- | 
 | 26-Oct | 11:00-11:30 | CSS Accessibility API Mappings | ARIA [agenda](https://github.com/w3c/aria/wiki/TPAC-2026#monday-oct-26-2026) | 
