@@ -70,6 +70,7 @@ Note: TPAC is the week when Europe is no longer observing summer time but the US
 | **Name** | **Affiliation** | **Timezone** | **GMT (UTC) Availability** | **Other Notes** |
 | --- | --- | --- | --- | --- |
 | David Baron | Google | [America/New_York](https://www.openstreetmap.org/relation/6496417) | Definitely anything after 13:00 Dublin (09:00 Boston), maybe earlier if needed |
+| Rob Flack | Google | EDT |  |
 | Daniel Holbert | Mozilla | PDT |  |
 | Kurt Catti-Schmidt | Microsoft | PDT |  |
 | Roman Komarov | Datadog | GMT+2 | Available anytime |
