@@ -74,6 +74,7 @@ Note: TPAC is the week when Europe is no longer observing summer time but the US
 | Daniel Holbert | Mozilla | PDT |  |
 | Kurt Catti-Schmidt | Microsoft | PDT |  |
 | Roman Komarov | Datadog | GMT+2 | Available anytime |
+| Seokho Song | Igalia | KST |  |
 
 
 ### Regrets
