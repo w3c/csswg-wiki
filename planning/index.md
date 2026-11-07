@@ -24,7 +24,7 @@ All meetings use IRC for live minuting and as a backchannel: the #css channel on
 - 2026-10-29..30 [TPAC 2026](/planning/tpac-2026/) (overall TPAC is 2026-10-26..2026-10-30), Dublin, Ireland
 
 ### 2027
-- Jan/Feb/Mar 2027 (date not yet chosen), Redmond, Washington, USA *or* Vancouver, British Columbia, Canada (Microsoft)
+- Week of February 10th, [Redmond, Washington, USA *or* Vancouver, British Columbia, Canada (Microsoft)](https://lists.w3.org/Archives/Member/w3c-css-wg/2026OctDec/0019.html)
 - ???
 - 2027-12-?? probably meeting for some days during [TPAC 2027](https://www.w3.org/events/tpac/2027/tpac-2027/) (2027-12-06..2027-12-10), Panamá, Panamá
 
