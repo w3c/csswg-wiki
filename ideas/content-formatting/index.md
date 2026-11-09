@@ -4,28 +4,29 @@ title: "Content Data Functions"
 
 # Content Data Functions
 
-This page lists and describes data functions that are needed for use in the 'content' property.
+This page lists and describes data functions that are needed for use in the [`content` property](https://drafts.csswg.org/css-content/#content-property).
 
 ## Date
 
-A function that returns the current date/time is needed for print headers.
+A function that returns the _current_ date/time is needed for print headers, e.g. [`env(now)`](https://drafts.csswg.org/css-env/). 
+This is separate from a function that would be able to format date and times to locale requirements or authors settings.
 
 ## Document URL
 
-A function that returns the document's URL or other identifier is also  needed for print headers.
+A function that returns the document's URL or other identifier is also needed for print headers, e.g. [`env(location)`](https://drafts.csswg.org/css-env/). 
+Again, this is separate from a function that could select particular parts of a URL.
 
 ## Numbers
 
-Proposal (draft)
+### Proposal (draft)
 
-Add a CSS module for numbers
-
-Use XSLT's format-number syntax as a starting ground
+- Add a CSS module for numbers
+- Use XSLT's [`format-number`](https://www.w3.org/TR/xslt20/#function-format-number) syntax as a starting ground
 
 ### Rationale
 
 - i18n - numbers are displayed in many different ways across the world
-- Enhanced usability, without sacrificing accessibility or scriptability. Grouping numbers in thousands or in pairs will make the easier to read for most users. We do want to suppress line breaks, though.
+- Enhanced usability, without sacrificing accessibility or scriptability. Grouping numbers in thousands or in pairs will make them easier to read for most users. We do want to suppress line breaks, though.
 - Enhanced accessibility, without sacrificing usability or scriptability. When numbers are grouped it will be very hard to make some heuristics for screen readers to separate instances where it is useful to insert words like "million" and "thousand" and when such words would actually be a nuisance. 
 
 This is a question about visual presentation. As such it should be handled with CSS.
@@ -35,43 +36,48 @@ The ability to format numbers without changing their actual value is a common pr
 
 #### Example HTML
 
+~~~~ html
   <span class="phone">123456</span>
+~~~~
+Should be displayed and spoken as `12 34 56`.
 
-Should be displayed and spoken as "12 34 56"
-
+~~~~ html
   <td class="price">987654321</td>
-
-Should be displayed as [987,654,321.00 USD] and spoken as 
+~~~~
+Should be displayed as `987,654,321.00 USD` and spoken as 
 "nine hundred and eighty seven million six hundred and fifty four thousand three hundred and twenty
 one point zero zero US dollars"
 
+~~~~ html
   <td class="sweprice">987654321</td>
-
-Should be displayed as [987 654 321,00 SEK] and spoken as 
+~~~~
+Should be displayed as `987 654 321,00 SEK` and spoken as 
 "nine hundred and eighty seven million six hundred and fifty four thousand three hundred and twenty
 one **comma** zero zero Swedish crowns"
 
+~~~~ html
   <span class="creditcard">1234567890123456</span>
-
+~~~~
 Should be displayed as `1234 5678 9012 3456` and spoken as `12 34 56 78 90 12 34 56`
 
 ### New CSS rules
 
-#### @decimal-format
+#### `@decimal-format`
 
-This rule draws its ideas from xsl:decimal-format.
+This rule draws its ideas from [`xsl:decimal-format`](https://www.w3.org/TR/xslt20/#defining-decimal-format).
 
 It is used to specify the same things as its XSL counterpart, e.g. grouping and decimal separators.
 
 #### number-format
 
-This rule draws its ideas from xsl:number-format. It shall be used to format actual output.
+This rule draws its ideas from [`xsl:number-format`](). It shall be used to format actual output.
 
 It consists of two parts for its value. A string that is identical to the second argument in XSL number format, and an
 optional reference to a decimal format, specified with an "at-rule" (see above).
 
 ### Example CSS
 
+~~~~ css
   @decimal-format phone {
     grouping-separator: " ";
   }
@@ -133,6 +139,7 @@ optional reference to a decimal format, specified with an "at-rule" (see above).
         number-format: "## ## ## ##", "creditcard";
     }
   }
+~~~~
 
 ### Parsing
 
@@ -142,24 +149,26 @@ If such a conversion is not possible, the CSS rule should be ignored. This rules
 
 ### Remarks
 
-If possible, it would be convenient to add number-format to cols and colgroups!
+If possible, it would be convenient to add `number-format` to cols and colgroups!
 
 Additional inspiration:
-- mso-number-format
+- `mso-number-format` from Microsoft Office 2000
 - ICU
 
-Note to HTML WG:
+Note to HTML WG / WHATWG:
 - Add browser parsing rules
 - Purpose: Provide formatted HTML ouput as a fallback to older browsers
 
-1. Remove all non numeric characters from the nodevalue, except the decimal separator.
-1. Add that value to a DOM-property: E.numericValue
+1. Remove all non-numeric characters from the `nodevalue`, except the decimal separator.
+1. Add that value to a DOM-property: `E.numericValue`
 
-Example <td>$ 200,000</td> should be interpreted as 200000 so a script
+Example `<td>$ 200,000</td>` should be interpreted as 200000 so a script
 could access the value.
 
 In the abscence of CSS-rules that DOM-property could be used by assistive
 technologies as well.
 
 Perhaps the value could also be set as an attribute:
-<td numericValue="43218765">43,218,765</td>
+~~~~ html
+  <td numericValue="43218765">43,218,765</td>
+~~~~
