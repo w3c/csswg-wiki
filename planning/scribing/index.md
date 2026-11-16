@@ -106,10 +106,10 @@ The following people are signed up to the scribe rota. We are always looking for
 
 1. kbabbitt
 1. TabAtkins
-1. emilio
 1. ydaniv
 1. fantasai
 1. JoshT
+1. emilio
      
 ### Ad-Hoc Scribes
 
