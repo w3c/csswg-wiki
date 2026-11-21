@@ -28,4 +28,4 @@ We haven't had a chance to really put it to the test because we created it just 
 ### Feedback
 We would also love to hear feedback on this process. We do not want to accidentally quiet the concern of someone simply for the sake of clearing out our backlog of issues. But we also recognize that some of the issues are likely no longer relevant, not as important as others, or already resolved but mis-marked.
 
-[Email the working group](mailto:www-style@w3.org) with feedback. 
+[Email the working group](mailto:w3c-css-wg@w3.org) with feedback. 
